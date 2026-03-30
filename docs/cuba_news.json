@@ -1,5 +1,19 @@
 [
     {
+        "title": "Innovators turn challenges into opportunities",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260329/los-innovadores-convierten-desafios-en-oportunidades/",
+        "published_date": "2026-03-29 17:30:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Bruno Rodr\u00edguez: The US \u201clies\u201d when denying the energy blockade against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bruno-rodriguez-ee-uu-miente-al-negar-bloqueo-energetico-contra-cuba/",
+        "published_date": "2026-03-29 16:42:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Foreign ministers of Russia and Iran hold a telephone conversation: what did they talk about?",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cancilleres-de-rusia-e-iran-mantienen-conversacion-telefonica-de-que-hablaron/",
@@ -49,6 +63,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "A mother blames the unit's 'politician' for the death of her son in military service",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/madre-responsabiliza-politico-unidad-muerte_1_1125188.html",
+        "published_date": "2026-03-29 15:12:37",
+        "category": "Military"
+    },
+    {
         "title": "Russian court bans 'Mr.Nobody against Putin', Oscar for best documentary",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cultura-y-ciencia/tribunal-ruso-prohibe-mr-nobody_1_1125076.html",
@@ -77,11 +98,32 @@
         "category": "Military"
     },
     {
-        "title": "King Trump's Twelve Squires",
+        "title": "They deny false census for private fuel transporters in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/desmienten-falso-censo-para-transportistas-privados-por-combustible-en-la-habana/",
+        "published_date": "2026-03-29 19:46:53",
+        "category": "Energy"
+    },
+    {
+        "title": "The 'Anatoly Kolodkin' plans to arrive in Cuba this Monday with 730,000 barrels of Russian crude oil",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/doce-escuderos-rey-trump_1_1124897.html",
-        "published_date": "2026-03-21 13:02:55",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/anatoly-kolodkin-previsto-llegar-lunes_1_1125200.html",
+        "published_date": "2026-03-29 18:46:46",
+        "category": "Energy"
+    },
+    {
+        "title": "Uni\u00f3n El\u00e9ctrica predicts the impact of 1,770 MW during peak night hours",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/union-electrica-pronostica-afectacion-de-1-770-mw-en-horario-pico-nocturno/",
+        "published_date": "2026-03-29 15:18:54",
+        "category": "Energy"
+    },
+    {
+        "title": "In line at the bank, customers live in fear that the power will go out or the cash will run out.",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cola-banco-clientes-viven-temor_1_1125181.html",
+        "published_date": "2026-03-29 13:43:10",
+        "category": "Energy"
     },
     {
         "title": "Blow to the illegal fuel market in Havana: 16 people arrested in police operations",
@@ -126,6 +168,20 @@
         "category": "Energy"
     },
     {
+        "title": "State MSMEs: Possible option (Separata Econom\u00eda)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260329/mipymes-estatales-opcion-posible-separata-economia/",
+        "published_date": "2026-03-29 23:59:14",
+        "category": "Economy"
+    },
+    {
+        "title": "Frigel is not cold",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260329/frigel-no-esta-frio/",
+        "published_date": "2026-03-29 22:15:58",
+        "category": "Economy"
+    },
+    {
         "title": "Banco Metropolitano reorganizes its branches and expands digital channels for clients",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/banco-metropolitano-reorganiza-sus-sucursales-y-amplia-canales-digitales-para-clientes/",
@@ -147,143 +203,143 @@
         "category": "Economy"
     },
     {
-        "title": "The dollar moves again in Cuba: this is how it dawns today against the euro and the official market",
+        "title": "US prepares for new stimulus payments in April 2026",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/el-dolar-vuelve-a-moverse-en-cuba-asi-amanece-hoy-frente-al-euro-y-el-mercado-oficial/",
-        "published_date": "2026-03-29 10:44:43",
+        "url": "https://www.directoriocubano.info/cuba/estados-unidos-se-prepara-para-nuevos-pagos-de-estimulo-en-abril-de-2026/",
+        "published_date": "2026-03-29 23:16:56",
         "category": "Local Events"
     },
     {
-        "title": "Spain changes the time: this is the current difference with Cuba after several weeks of imbalance",
+        "title": "Attention: Information from MINCIN on distribution of the basic basket and donations in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/espana-cambia-la-hora-esta-es-la-diferencia-actual-con-cuba-tras-varias-semanas-de-desajuste/",
-        "published_date": "2026-03-29 09:45:25",
+        "url": "https://www.directoriocubano.info/cuba/atencion-informacion-del-mincin-sobre-distribucion-de-la-canasta-basica-y-donaciones-en-cuba/",
+        "published_date": "2026-03-29 22:16:01",
         "category": "Local Events"
     },
     {
-        "title": "There is no ceasefire in Gaza",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/en-gaza-no-hay-alto-el-fuego/",
-        "published_date": "2026-03-29 05:00:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gangster capitalism, new-old world order!",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/capitalismo-de-gansteres-nuevo-viejo-orden-mundial/",
-        "published_date": "2026-03-29 04:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "We Have Everything, Havana, Cuba \u2013 Photo of the Day",
+        "title": "Renee Rosnes \u2013 Song of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/we-have-everything-havana-cuba-photo-of-the-day/",
-        "published_date": "2026-03-29 03:22:06",
+        "url": "https://havanatimes.org/todays-song/renee-rosnes-song-of-the-day/",
+        "published_date": "2026-03-29 21:56:54",
         "category": "Local Events"
     },
     {
-        "title": "The two sailboats of the Nuestra Am\u00e9rica convoy arrive in the bay of Havana",
+        "title": "Etecsa launches another international recharge for March: six-fold balance and adds unlimited data in the early morning",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/etecsa-lanza-otra-recarga-internacional-de-marzo-sextuplica-saldo-y-suma-datos-ilimitados-en-la-madrugada/",
+        "published_date": "2026-03-29 21:17:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Transferm\u00f3vil clarifies how many cards you can link to your wallet in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/transfermovil-aclara-cuantas-tarjetas-puedes-vincular-a-tu-monedero-en-cuba/",
+        "published_date": "2026-03-29 20:15:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "To \u201ctaste\u201d the Pi\u00f1a Colada",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260328/arriban-los-dos-veleros-del-convoy-nuestra-america-a-la-bahia-de-la-habana/",
-        "published_date": "2026-03-29 00:55:34",
+        "url": "https://www.trabajadores.cu/20260329/a-degustar-el-pina-colada/",
+        "published_date": "2026-03-29 19:41:08",
         "category": "Local Events"
     },
     {
-        "title": "What you can still take to Cuba for free in your luggage (March 2026)",
+        "title": "They humiliate and eliminate the Matanzas Crocodiles in Mexico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/humillan-eliminan-mexico-cocodrilos-matanzas_1_1125199.html",
+        "published_date": "2026-03-29 19:35:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico pays more than 12 million dollars to a Cuban pharmacist accused of delivering expired medications",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/mexico-paga-12-millones-dolares_1_1125197.html",
+        "published_date": "2026-03-29 19:33:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "MCV Comercial puts vehicles for sale for business in Cuba: this is the offer and how to hire",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/lo-que-todavia-puedes-llevar-gratis-a-cuba-en-tu-equipaje-marzo-2026/",
-        "published_date": "2026-03-28 23:05:04",
+        "url": "https://www.directoriocubano.info/panorama/mcv-comercial-pone-en-venta-vehiculos-para-negocios-en-cuba-asi-es-la-oferta-y-como-contratar/",
+        "published_date": "2026-03-29 19:11:30",
         "category": "Local Events"
     },
     {
-        "title": "Inside the Nicolas Maduro \u2013 Cilia Flores Hearing in NYC",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/inside-the-nicolas-maduro-cilia-flores-hearing-in-nyc/",
-        "published_date": "2026-03-28 22:30:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much does a landline cost in Cuba?ETECSA's current offer",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cuanto-cuesta-un-telefono-fijo-en-cuba-la-oferta-actual-de-etecsa/",
-        "published_date": "2026-03-28 22:11:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Triple Burden of Nicaraguan Miskitu Women in Costa Rica",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/the-triple-burden-of-nicaraguan-miskitu-women-in-costa-rica/",
-        "published_date": "2026-03-28 21:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provisional prison for the accused of the murder of a minor in Eastern Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/prision-provisional-para-el-acusado-del-asesinato-de-un-menor-en-la-habana-del-este/",
-        "published_date": "2026-03-28 21:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They confirm payment this Monday, March 30: this is what the Trump government said",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/confirman-pago-este-lunes-30-de-marzo-esto-dijo-el-gobierno-de-trump/",
-        "published_date": "2026-03-28 21:06:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "These options can save you hours at US airports",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/estas-opciones-pueden-ahorrarte-horas-en-los-aeropuertos-de-estados-unidos/",
-        "published_date": "2026-03-28 20:06:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bastion 2026: Sharpen your aim!",
+        "title": "National Fine Arts Prize winner Ever Fonseca dies",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260328/bastion-2026-afinada-la-punteria/",
-        "published_date": "2026-03-28 20:03:58",
+        "url": "https://www.trabajadores.cu/20260329/fallece-el-premio-nacional-de-artes-plasticas-ever-fonseca/",
+        "published_date": "2026-03-29 19:08:23",
         "category": "Local Events"
     },
     {
-        "title": "The State censors a tribute to Nelda Castillo on International Theater Day",
+        "title": "Cuban artist Ever Fonseca, National Plastic Arts Award winner, dies at 87",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/censura-homenaje-nelda-castillo-dia_1_1125166.html",
-        "published_date": "2026-03-28 19:17:21",
+        "url": "https://www.14ymedio.com/cuba/fallece-87-anos-artista-cubano_1_1125203.html",
+        "published_date": "2026-03-29 19:04:12",
         "category": "Local Events"
     },
     {
-        "title": "Costa Rica opens the door to receive migrants deported from the United States",
+        "title": "They launch the first network to buy gasoline between companies in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/costa-rica-abre-la-puerta-a-recibir-migrantes-deportados-desde-estados-unidos/",
-        "published_date": "2026-03-28 19:10:08",
+        "url": "https://www.directoriocubano.info/actualidad/lanzan-primera-red-para-comprar-gasolina-entre-empresas-en-cuba/",
+        "published_date": "2026-03-29 18:09:26",
         "category": "Local Events"
     },
     {
-        "title": "Cuban Erick Hern\u00e1ndez breaks another of his records for controlling the ball with his head",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/cubano-erick-hernandez-rompe-records_1_1125162.html",
-        "published_date": "2026-03-28 18:39:47",
+        "title": "President of Russia congratulates Congolese counterpart for re-election",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/felicita-presidente-de-rusia-a-homologo-del-congo-por-reeleccion/",
+        "published_date": "2026-03-29 17:45:38",
         "category": "Local Events"
     },
     {
-        "title": "Guant\u00e1namo: Cuban families and the daily challenge of school snacks",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-guantanamo-familias-cubanas-reto-diario_7_1125164.html",
-        "published_date": "2026-03-28 18:31:53",
+        "title": "\u201cCuba is an Example of Dignity and Human Conscience\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260329/cuba-is-an-example-of-dignity-and-human-conscience/",
+        "published_date": "2026-03-29 17:45:27",
         "category": "Local Events"
     },
     {
-        "title": "Online procedures in Cuba: what you can now do with the Soberan\u00eda platform",
+        "title": "Demonstration against wars flooded the streets of Rome",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/manifestacion-contra-las-guerras-inundo-las-calles-de-roma/",
+        "published_date": "2026-03-29 17:35:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rejection of the presence of US warships continues in Panama",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/continua-rechazo-en-panama-a-presencia-de-buques-de-guerra-eeuu/",
+        "published_date": "2026-03-29 17:29:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump Says Cuba Is Next, But What That Means Is Unclear",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/trump-says-cuba-is-next-but-what-that-means-is-unclear/",
+        "published_date": "2026-03-29 17:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cEnchanted Air: Two Cultures, Two Wings\u201d by Margarita Engle",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/book-reviews-interviews/enchanted-air-two-cultures-two-wings-by-margarita-engle/",
+        "published_date": "2026-03-29 17:18:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo XIV opens Holy Week with a call for peace",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/papa-leon-xiv-abre-la-semana-santa-con-llamado-a-la-paz/",
+        "published_date": "2026-03-29 17:17:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The sailboats of the Nuestra Am\u00e9rica convoy arrive in Havana after days without communication",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/tramites-online-en-cuba-lo-que-ya-puedes-hacer-con-la-plataforma-soberania/",
-        "published_date": "2026-03-28 18:05:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "It is not enough, Silvio, passion",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/no-basta-silvio-pasion_1_1125160.html",
-        "published_date": "2026-03-28 17:11:07",
+        "url": "https://www.directoriocubano.info/acontecer/llegan-a-la-habana-los-veleros-del-convoy-nuestra-america-tras-dias-sin-comunicacion/",
+        "published_date": "2026-03-29 17:13:11",
         "category": "Local Events"
     }
 ]
