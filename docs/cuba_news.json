@@ -1,5 +1,19 @@
 [
     {
+        "title": "They call for an International Week of Solidarity with Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260331/convocan-a-semana-internacional-de-solidaridad-con-cuba/",
+        "published_date": "2026-03-31 18:39:50",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba's world-renowned human rights activism",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reconocido-mundialmente-activismo-de-cuba-en-derechos-humanos/",
+        "published_date": "2026-03-31 16:58:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Russian oil tanker with 100,000 tons of crude oil arrived at the port of Matanzas (+Photos and video)",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/petrolero-ruso-con-100-000-toneladas-de-crudo-arribo-al-puerto-de-matanzas-fotos-y-video/",
@@ -105,6 +119,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Cienfuegos commemorates the 65th anniversary of the Central Army (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cienfuegos-conmemora-aniversario-65-del-ejercito-central/",
+        "published_date": "2026-03-31 23:29:28",
+        "category": "Military"
+    },
+    {
         "title": "Israel legalizes the death penalty by hanging for those convicted of terrorist murder",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/israel-legaliza-pena-muerte-horca_1_1125228.html",
@@ -180,6 +201,20 @@
         "url": "http://en.granma.cu/mundo/2026-03-24/the-war-of-the-future-is-already-here",
         "published_date": "2026-03-24 13:03:46",
         "category": "Military"
+    },
+    {
+        "title": "CUPET details the destination of the fuel from the Russian ship that arrived in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cupet-detalla-el-destino-del-combustible-del-buque-ruso-llegado-a-cuba/",
+        "published_date": "2026-03-31 20:36:48",
+        "category": "Energy"
+    },
+    {
+        "title": "Russian oil tanker arrived at the port of Matanzas (+Video)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260331/arribo-al-puerto-de-matanzas-petrolero-ruso-video/",
+        "published_date": "2026-03-31 15:49:31",
+        "category": "Energy"
     },
     {
         "title": "With firewood and hands: the formula so that there is no shortage of bread",
@@ -308,18 +343,32 @@
         "category": "Energy"
     },
     {
-        "title": "Corruption grows in the distribution of the little gasoline available in Cuba",
+        "title": "The Central Bank of Cuba creates 2,000 and 5,000 peso bills to facilitate transactions \"in the current moments of inflation\"",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/crece-corrupcion-reparto-gasolina-disponible_1_1125101.html",
-        "published_date": "2026-03-26 22:16:06",
-        "category": "Energy"
+        "url": "https://www.14ymedio.com/cuba/banco-central-cuba-nuevos-billetes-inflacion_1_1125255.html",
+        "published_date": "2026-03-31 17:47:35",
+        "category": "Economy"
     },
     {
-        "title": "The blackout forces the musicians of the Gran Teatro de La Habana to give a concert in the dark",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/apagon-obliga-musicos-gran-teatro_1_1124977.html",
-        "published_date": "2026-03-23 17:01:27",
-        "category": "Energy"
+        "title": "Central Bank of Cuba introduces new 2,000 and 5,000 peso banknotes",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/banco-central-de-cuba-introduce-nuevos-billetes-de-2-000-y-5-000-pesos/",
+        "published_date": "2026-03-31 15:26:21",
+        "category": "Economy"
+    },
+    {
+        "title": "New high denomination banknotes will be put into circulation",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260331/se-pondran-en-circulacion-nuevos-billetes-de-alta-denominacion/",
+        "published_date": "2026-03-31 15:01:31",
+        "category": "Economy"
+    },
+    {
+        "title": "New high denomination banknotes will circulate in Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32569-nuevos-billetes-de-alta-denominacion-circularan-en-cuba",
+        "published_date": "2026-03-31 13:13:26",
+        "category": "Economy"
     },
     {
         "title": "Price of the dollar in Cuba today: this is the official vs informal market",
@@ -371,143 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "Breaking news: Cuba puts 2,000 and 5,000 peso bills into circulation starting April 1",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/ultima-hora-cuba-pone-en-circulacion-billetes-de-2000-y-5000-pesos-desde-este-1ro-de-abril/",
-        "published_date": "2026-03-31 14:45:57",
+        "title": "Cuban Artist Luis Manuel Otero Begins a New Hunger Strike",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/cuban-artist-luis-manuel-otero-begins-a-new-hunger-strike/",
+        "published_date": "2026-03-31 22:15:16",
         "category": "Local Events"
     },
     {
-        "title": "New employment opportunity offered by Cimex S.A corporation",
+        "title": "It costs \u20ac10,000 in China, but it is sold in Cuba for a fortune: the price of the new electric SUV that few can afford",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/cuesta-10-000e-en-china-pero-se-vende-en-cuba-por-una-fortuna-el-precio-del-nuevo-suv-electrico-que-pocos-pueden-pagar/",
+        "published_date": "2026-03-31 22:00:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new ETECSA recharge puts the focus back on the dollar\u2026 and what Cubans really pay",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/la-nueva-recarga-de-etecsa-vuelve-a-poner-el-foco-en-el-dolar-y-en-lo-que-realmente-pagan-los-cubanos/",
+        "published_date": "2026-03-31 21:05:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "As the Crisis Worsens in Cuba, Fewer Subsidies for the Population",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/cuba/as-the-crisis-worsens-in-cuba-fewer-subsidies-for-the-population/",
+        "published_date": "2026-03-31 20:49:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"At the rate things are going, I don't know if I'm alive to see an improvement\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/paso-cosas-no-si-vivo_1_1125264.html",
+        "published_date": "2026-03-31 20:26:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "United States Embassy reopens: key opportunity for Cubans in this country",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/reabre-embajada-de-estados-unidos-oportunidad-clave-para-cubanos-en-venezuela/",
+        "published_date": "2026-03-31 20:06:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US threatens migrants with a deportation order with million-dollar fines",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/ee-uu-amenaza-migrantes-orden_1_1125262.html",
+        "published_date": "2026-03-31 20:02:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban player Esteban Terry leaves the Matanzas Crocodiles and stays in Mexico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/pelotero-cubano-esteban-terry-abandona_1_1125260.html",
+        "published_date": "2026-03-31 19:57:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sale of potatoes in Cuba: new possibilities open",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/mas-venta-de-papas-en-cuba-abren-nuevas-posibilidades-desde-el-oficialismo/",
+        "published_date": "2026-03-31 19:05:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "France: it is \"important\" that Cuba \"make gestures\" of economic openness and human rights",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/francia-importante-cuba-haga-gestos_1_1125258.html",
+        "published_date": "2026-03-31 19:03:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "April has arrived: Cuba eliminates the general subsidy on the basic basket. What will happen to the supply book?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/llego-abril-cuba-elimina-el-subsidio-general-en-la-canasta-basica-que-pasara-con-la-libreta-de-abastecimiento/",
+        "published_date": "2026-03-31 19:01:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gas sales announced in Havana: who will be the first beneficiaries?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/anuncian-venta-de-gas-en-la-habana-quienes-seran-los-primeros-beneficiados/",
+        "published_date": "2026-03-31 18:30:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "An all-round journalist",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260331/nueva-oportunidad-de-empleo-ofrece-corporacion-cimex-s-a/",
-        "published_date": "2026-03-31 14:30:31",
+        "url": "https://www.trabajadores.cu/20260331/un-periodista-todo-terreno/",
+        "published_date": "2026-03-31 18:17:13",
         "category": "Local Events"
     },
     {
-        "title": "France denies use of its airspace for war against Iran",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/francia-niega-uso-de-su-espacio-aereo-para-guerra-contra-iran/",
-        "published_date": "2026-03-31 14:11:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miami: Cuban pleads guilty to killing his son and receives 12 years in prison",
+        "title": "Will Cubans abroad be able to sell and inherit homes?New clarifications from the ruling party",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/miami-cubano-se-declara-culpable-de-matar-a-su-hijo-y-recibe-12-anos-de-prision/",
-        "published_date": "2026-03-31 14:09:05",
+        "url": "https://www.directoriocubano.info/actualidad/cubanos-en-el-exterior-podran-vender-y-heredar-viviendas-nuevas-aclaraciones-desde-el-oficialismo/",
+        "published_date": "2026-03-31 18:03:37",
         "category": "Local Events"
     },
     {
-        "title": "Support from Italian personalities grows for the solidarity march with Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/crece-apoyo-de-personalidades-italianas-a-marcha-solidaria-con-cuba/",
-        "published_date": "2026-03-31 13:42:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Kremlin rejects Zelensky's Easter truce proposal",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/kremlin-rechaza-propuesta-tregua-pascual_1_1125248.html",
-        "published_date": "2026-03-31 13:37:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Tell this reality,\" D\u00edaz-Canel asked representatives of international ecumenical organizations",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuenten-esta-realidad-pidio-diaz-canel-a-representantes-de-organizaciones-ecumenicas-internacionales/",
-        "published_date": "2026-03-31 13:32:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rehabilitate the buildings, the first task of Venezuelan diplomats in Washington",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rehabilitar-edificios-primera-tarea-diplomaticos_1_1125246.html",
-        "published_date": "2026-03-31 13:06:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cUnlimited\u201d Internet for 24 hours: the new ETECSA offer for April",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/internet-sin-limites-por-24-horas-la-nueva-oferta-de-etecsa-para-abril/",
-        "published_date": "2026-03-31 13:03:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, March 31, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-31-marzo_132_1125245.html",
-        "published_date": "2026-03-31 12:56:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, March 31, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-31-marzo_7_1125243.html",
-        "published_date": "2026-03-31 12:38:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel Castro's grandson criticizes D\u00edaz-Canel: \"He is not doing a good job\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nieto-fidel-castro-critica-diaz_1_1125240.html",
-        "published_date": "2026-03-31 12:19:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mar\u00eda Elvira Salazar cools expectations about Cuba with a phrase that few expected to hear now",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/maria-elvira-salazar-enfria-expectativas-sobre-cuba-con-una-frase-que-pocos-esperaban-escuchar-ahora/",
-        "published_date": "2026-03-31 12:01:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "IN 500 CHARACTERS To measure the quality of coal",
+        "title": "Criticism as a necessary accompaniment to art",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260331/en-500-caracteres-para-medir-la-calidad-del-carbon/",
-        "published_date": "2026-03-31 11:25:48",
+        "url": "https://www.trabajadores.cu/20260331/la-critica-como-acompanamiento-necesario-al-arte/",
+        "published_date": "2026-03-31 18:03:33",
         "category": "Local Events"
     },
     {
-        "title": "Florida renames airport in honor of Trump and sparks controversy",
+        "title": "New larger bills in Cuba: how to identify them?",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/florida-renombra-aeropuerto-en-honor-a-trump-y-desata-polemica/",
-        "published_date": "2026-03-31 11:03:19",
+        "url": "https://www.directoriocubano.info/cuba/la-inflacion-en-cuba-obliga-a-imprimir-nuevos-billetes-mas-grandes-como-identificarlos/",
+        "published_date": "2026-03-31 17:30:23",
         "category": "Local Events"
     },
     {
-        "title": "They increase the 'street gas' service in Havana to mitigate blackouts",
+        "title": "Cuba: Too Many Victims, No Scandal Big Enough",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/cuba-too-many-victims-no-scandal-big-enough/",
+        "published_date": "2026-03-31 17:17:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister confirms that Cuba opened the door to the private sector to sell electricity",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/ministro-confirma-que-cuba-abrio-la-puerta-al-sector-privado-para-vender-electricidad/",
+        "published_date": "2026-03-31 17:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "After death threats in prison, Luis Manuel Otero begins a new hunger strike",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/aumentan-servicio-gas-calle-habana_1_1125238.html",
-        "published_date": "2026-03-31 10:58:18",
+        "url": "https://www.14ymedio.com/cuba/amenazas-muerte-prision-luis-manuel_1_1125253.html",
+        "published_date": "2026-03-31 16:59:37",
         "category": "Local Events"
     },
     {
-        "title": "Stimulus payments of about $1,000 in the United States: You must apply online",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/pagos-de-estimulo-de-unos-1000-dolares-en-estados-unidos-debes-solicitar-online/",
-        "published_date": "2026-03-31 09:51:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Book Day",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/59-literatura/32566-dia-del-libro-cubano",
-        "published_date": "2026-03-31 09:17:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sandro Castro says that in Cuba they already want capitalism, that his last name does not guarantee him privileges, and criticizes D\u00edaz Canel",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/sandro-castro-dice-que-ya-en-cuba-quieren-capitalismo-y-que-su-apellido-no-le-asegura-privilegios/",
-        "published_date": "2026-03-31 09:01:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Millionaire fine for Cuban in the United States: almost 2 million for not leaving the country",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/multa-millonaria-a-cubano-en-estados-unidos-casi-2-millones-por-no-salir-del-pais/",
-        "published_date": "2026-03-31 07:33:57",
+        "title": "Arturo Silot: A star on the way?",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260331/arturo-silot-una-estrella-en-camino/",
+        "published_date": "2026-03-31 16:45:42",
         "category": "Local Events"
     }
 ]
