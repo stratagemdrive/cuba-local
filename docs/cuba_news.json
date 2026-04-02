@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuba attended an event on hereditary angioedema",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260401/asistio-cuba-evento-sobre-angiodema-hereditario/",
+        "published_date": "2026-04-01 18:03:15",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Combative workers congress in Diez de Octubre",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260401/combativo-congreso-obrero-en-diez-de-octubre/",
@@ -126,6 +133,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Human Rights Council approves resolution presented by Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aprueba-consejo-de-derechos-humanos-resolucion-presentada-por-cuba/",
+        "published_date": "2026-04-01 19:45:34",
+        "category": "Military"
+    },
+    {
         "title": "They celebrate the 65th anniversary of the Central Army",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/celebran-65-aniversario-del-ejercito-central/",
@@ -208,6 +222,20 @@
         "url": "https://www.14ymedio.com/cuba/conglomerado-militar-gaesa-borde-quiebra_1_1125048.html",
         "published_date": "2026-03-25 15:28:50",
         "category": "Military"
+    },
+    {
+        "title": "Russian oil in Cuba: why its impact will take weeks to be noticed",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/el-petroleo-ruso-en-cuba-por-que-su-impacto-tardara-semanas-en-notarse/",
+        "published_date": "2026-04-01 19:15:49",
+        "category": "Energy"
+    },
+    {
+        "title": "Energy and data: international project promotes university resilience in Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32577-energia-y-datos-proyecto-internacional-impulsa-la-resiliencia-universitaria-en-cuba",
+        "published_date": "2026-04-01 14:17:16",
+        "category": "Energy"
     },
     {
         "title": "CUPET details the destination of the fuel from the Russian ship that arrived in Cuba",
@@ -336,18 +364,11 @@
         "category": "Energy"
     },
     {
-        "title": "The Guant\u00e1namo naval base, a point of light on an island in darkness and crisis",
+        "title": "No bank yet offers the new 5,000 peso bill announced for this Wednesday",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/base-naval-guantanamo-punto-luz_1_1125153.html",
-        "published_date": "2026-03-28 14:53:53",
-        "category": "Energy"
-    },
-    {
-        "title": "There will be discounts on the electricity bills of Cubans who invest dollars in the UNE",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/habra-descuentos-facturas-electricas-cubanos_1_1125114.html",
-        "published_date": "2026-03-27 12:04:32",
-        "category": "Energy"
+        "url": "https://www.14ymedio.com/cuba/banco-ofrece-nueve-billete-5_1_1125294.html",
+        "published_date": "2026-04-01 20:38:02",
+        "category": "Economy"
     },
     {
         "title": "They update the Government's Economic and Social Program 2026",
@@ -441,150 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "The Central Bank of Cuba allows the Spanish company Bagalso to deliver remittances in foreign currency",
+        "title": "A judge stops the revocation of the immigration status of those who entered the United States with CBP One, among them thousands of Cubans",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/banco-central-cuba-permite-empresa_1_1125018.html",
-        "published_date": "2026-03-24 19:40:29",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/migracion/jueza-frena-revocacion-estatus-migratorio_1_1125298.html",
+        "published_date": "2026-04-01 22:53:25",
+        "category": "Local Events"
     },
     {
-        "title": "Health, a strategic economic asset for Africa",
+        "title": "The United States removes Delcy Rodr\u00edguez from its sanctions list",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/estados-unidos-retira-delcy-rodriguez_1_1125301.html",
+        "published_date": "2026-04-01 22:14:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia intensifies deportations of Cuban migrants amid stricter controls",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/rusia-intensifica-las-deportaciones-de-migrantes-cubanos-en-medio-de-controles-mas-estrictos/",
+        "published_date": "2026-04-01 20:22:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governor of Leningrad receives Cuban delegation",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-salud-un-activo-economico-estrategico-para-africa/",
-        "published_date": "2026-04-01 14:51:32",
+        "url": "https://www.5septiembre.cu/recibe-gobernador-de-leningrado-a-delegacion-cubana/",
+        "published_date": "2026-04-01 19:49:59",
         "category": "Local Events"
     },
     {
-        "title": "Pedro Pascal, Bardem, Ruffalo and Madonna demand the closure of a detention center for migrant minors in Texas",
+        "title": "Return to the classrooms",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260401/regresar-a-los-salones/",
+        "published_date": "2026-04-01 18:58:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Etecsa Camag\u00fcey prioritizes energy assurance",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260401/prioriza-etecsa-camaguey-aseguramiento-energetico/",
+        "published_date": "2026-04-01 18:45:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "An FBI team is already in Havana to investigate the Florida boat shooting",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/equipo-fbi-habana-investigar-tiroteo_1_1125292.html",
+        "published_date": "2026-04-01 18:40:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Murillo Orders Extreme Spying on Nicaraguans Deported from USA",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/murillo-orders-extreme-spying-on-nicaraguans-deported-from-usa/",
+        "published_date": "2026-04-01 18:40:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Congressman demands to unlock citizenship for Cubans in the US after months of detained processes",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/congresista-exige-desbloquear-ciudadania-para-cubanos-en-eeuu-tras-meses-de-procesos-detenidos/",
+        "published_date": "2026-04-01 18:02:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seventy anti-government graffiti appeared on walls, fences and streets throughout the Island",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/setenta-grafitis-antigubernamentales-amanecieron-muros_1_1125286.html",
+        "published_date": "2026-04-01 17:51:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The IACHR grants precautionary measures in favor of the Cuban political prisoner Jorge Bello and his family",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cidh-otorga-medidas-cautelares-favor_1_1125289.html",
+        "published_date": "2026-04-01 17:14:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russian oil tanker arrives in Cuba, but relief will not be felt until the second half of April",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/petrolero-ruso-llega-a-cuba-pero-el-alivio-no-se-sentira-hasta-la-segunda-quincena-de-abril/",
+        "published_date": "2026-04-01 17:07:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Intentions of Wealthy Cuban-Americans for Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/the-intentions-of-wealthy-cuban-americans-for-cuba/",
+        "published_date": "2026-04-01 16:05:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba prepares a new Housing Law with changes in ownership, procedures and social access",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-prepara-una-nueva-ley-de-vivienda-con-cambios-en-propiedad-tramites-y-acceso-social/",
+        "published_date": "2026-04-01 16:05:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "When journalism insists",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/lecturas/45-cronicas-sueltas/32580-cuando-el-periodismo-insiste-camaguey",
+        "published_date": "2026-04-01 15:48:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "They look and tell (us)",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/lecturas/45-cronicas-sueltas/32579-ellos-miran-y-nos-dicen",
+        "published_date": "2026-04-01 15:41:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "International News Briefs for Wednesday, April 1, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-april-1-2026/",
+        "published_date": "2026-04-01 15:30:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "They censor in \u201cCon filo\u201d a fragment about Sandro Castro that Michel Torres disseminated on networks",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/censuran-en-con-filo-un-fragmento-sobre-sandro-castro-que-michel-torres-difundio-en-redes/",
+        "published_date": "2026-04-01 15:27:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Has it become impossible for Cubans to live in Miami?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/se-volvio-imposible-vivir-en-miami-para-los-cubanos/",
+        "published_date": "2026-04-01 15:06:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran rules out negotiations with the US and maintains the closure of Hormuz",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pedro-pascal-bardem-ruffalo-y-madonna-exigen-el-cierre-de-un-centro-de-detencion-de-menores-migrantes-en-texas/",
-        "published_date": "2026-04-01 14:43:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 2026 Economic and Social Government Program updated and available",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260401/actualizado-y-disponible-el-programa-economico-y-social-de-gobierno-2026/",
-        "published_date": "2026-04-01 14:31:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia massively detains and deports illegal Cuban migrants through Istanbul",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/rusia-detiene-deporta-masivamente-migrantes_1_1125285.html",
-        "published_date": "2026-04-01 14:26:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Changes in the supply book in Cuba: how many people can register?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cambios-en-la-libreta-de-abastecimiento-en-cubacuantas-personas-pueden-inscribirse/",
-        "published_date": "2026-04-01 14:01:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cLocal Development for Women Entrepreneurs ICC\u201d Course",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260401/curso-desarrollo-local-para-mujeres-emprendedoras-icc/",
-        "published_date": "2026-04-01 14:00:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia considers its obligation to help Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/rusia-considera-su-obligacion-ayudar-a-cuba/",
-        "published_date": "2026-04-01 13:41:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Duaba, sap and intransigence",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/duaba-savia-e-intransigencia/",
-        "published_date": "2026-04-01 13:29:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santiago de Cuba with red numbers in the personal income affidavit campaign",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260401/santiago-de-cuba-con-numeros-rojos-en-campana-de-declaracion-jurada-sobre-ingresos-personales/",
-        "published_date": "2026-04-01 13:12:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flights to the United States and Guyana are maintained in April from Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/se-mantienen-vuelos-a-estados-unidos-y-guyana-en-abril-desde-cuba/",
-        "published_date": "2026-04-01 13:07:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba focuses on blackouts, food and prices in its Government Program for 2026",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-pone-el-foco-en-apagones-alimentos-y-precios-en-su-programa-de-gobierno-para-2026/",
-        "published_date": "2026-04-01 12:54:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Europe allocates 2 million more euros of humanitarian aid to Cuba due to the energy crisis",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/europa-destina-2-millones-euros_1_1125283.html",
-        "published_date": "2026-04-01 12:43:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "About Luis Orta",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260401/a-proposito-de-luis-orta/",
-        "published_date": "2026-04-01 12:30:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blackouts in Cuba today: the SEN foresees an impact of up to 1,755 MW during peak hours",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/apagones-en-cuba-hoy-el-sen-preve-una-afectacion-de-hasta-1755-mw-en-el-horario-pico/",
-        "published_date": "2026-04-01 12:16:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "A group of rich Cuban Americans are willing to invest when there is democracy on the Island",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/grupo-ricos-cubanoamericanos-dispuestos-invertir_1_1125281.html",
-        "published_date": "2026-04-01 12:12:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Havana loses more than half of its ATMs and the cash crisis grows",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/la-habana-pierde-mas-de-la-mitad-de-sus-cajeros-y-crece-la-crisis-de-efectivo/",
-        "published_date": "2026-04-01 12:06:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain and wind in Cuba this April 1: this is what the weather will be like by region",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/lluvias-y-viento-en-cuba-este-1-de-abril-asi-estara-el-tiempo-por-regiones/",
-        "published_date": "2026-04-01 11:54:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia trained 1,000 'influencers' in Latin America to spread misinformation, Cubans among them",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rusia-formo-1-000-influencers_1_1125280.html",
-        "published_date": "2026-04-01 11:30:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "If you entered the United States with CBP One, they will restore these permits",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/si-entraste-con-cbp-one-a-estados-unidos-te-restableceran-estos-permisos/",
-        "published_date": "2026-04-01 11:03:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, April 1, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-1-abril_132_1125277.html",
-        "published_date": "2026-04-01 10:42:16",
+        "url": "https://www.5septiembre.cu/iran-descarta-negociaciones-con-eeuu-y-mantiene-cierre-de-ormuz/",
+        "published_date": "2026-04-01 14:58:48",
         "category": "Local Events"
     }
 ]
