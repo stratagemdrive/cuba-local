@@ -1,5 +1,26 @@
 [
     {
+        "title": "Villa Clara workers challenge the blockade",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/trabajadores-villaclarenos-desafian-el-bloqueo/",
+        "published_date": "2026-04-03 19:10:28",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Around 50 US congressmen condemned the blockade of Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/alrededor-de-50-congresistas-de-ee-uu-condenaron-el-bloqueo-a-cuba/",
+        "published_date": "2026-04-03 17:59:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "50 United States congressmen ask for an end to the blockade against Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32584-piden-50-congresistas-de-estados-unidos-fin-del-bloqueo-contra-cuba",
+        "published_date": "2026-04-03 11:49:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "War impacts fertilizer flow, food supply",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/guerra-impacta-flujo-de-fertilizantes-y-suministro-de-alimentos/",
@@ -18,6 +39,13 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/moscu-pretende-romper-bloqueo-energetico_1_1125320.html",
         "published_date": "2026-04-02 18:10:23",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Florida: Manuel Piti Fajardo Hospital lights up with renewable energy",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32583-florida-hospital-manuel-piti-fajardo-se-ilumina-con-energia-renovable",
+        "published_date": "2026-04-02 09:02:25",
         "category": "Diplomacy"
     },
     {
@@ -112,32 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Foreign ministers of Russia and Iran hold a telephone conversation: what did they talk about?",
+        "title": "Birthday in olive green (+Photos)",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cancilleres-de-rusia-e-iran-mantienen-conversacion-telefonica-de-que-hablaron/",
-        "published_date": "2026-03-28 14:17:18",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/cumpleanos-en-verde-olivo-fotos/",
+        "published_date": "2026-04-03 14:16:27",
+        "category": "Military"
     },
     {
-        "title": "Nicaragua withdraws its ambassador in Cuba after just 50 days in office",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/nicaragua-retira-embajadora-cuba-apenas_1_1125147.html",
-        "published_date": "2026-03-28 13:29:33",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Under US blockade, 80% of the Cuban people for 67 years: D\u00edaz-Canel (+ Video)",
+        "title": "Ra\u00fal congratulated the Central Army for its 65 years of founding",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260327/bajo-bloqueo-de-ee-uu-80-del-pueblo-cubano-durante-67-anos-diaz-canel-video/",
-        "published_date": "2026-03-27 22:52:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "WHO denounces health effects in Cuba due to oil blockade",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260327/oms-denuncia-afectacion-de-la-salud-en-cuba-por-bloqueo-petrolero/",
-        "published_date": "2026-03-27 18:00:27",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260403/felicito-raul-al-ejercito-central-por-sus-65-anos-de-fundado/",
+        "published_date": "2026-04-03 13:24:34",
+        "category": "Military"
     },
     {
         "title": "Foro Penal registers 490 political prisoners in Venezuela in the midst of the amnesty process",
@@ -243,6 +257,20 @@
         "url": "https://www.14ymedio.com/cuba/madre-responsabiliza-politico-unidad-muerte_1_1125188.html",
         "published_date": "2026-03-29 15:12:37",
         "category": "Military"
+    },
+    {
+        "title": "Cupet: Biomethane plant in Matanzas enters final assembly phase",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cupet-planta-de-biometano-en-matanzas-entra-en-fase-final-de-montaje/",
+        "published_date": "2026-04-03 19:03:01",
+        "category": "Energy"
+    },
+    {
+        "title": "Biofuel plant in final assembly phase",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/en-fase-final-montaje-planta-de-biocombustibles/",
+        "published_date": "2026-04-03 17:23:33",
+        "category": "Energy"
     },
     {
         "title": "X\u00f3lido Santiago: for more in the use of the Sun's energy",
@@ -371,18 +399,11 @@
         "category": "Energy"
     },
     {
-        "title": "They deny false census for private fuel transporters in Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/desmienten-falso-censo-para-transportistas-privados-por-combustible-en-la-habana/",
-        "published_date": "2026-03-29 19:46:53",
-        "category": "Energy"
-    },
-    {
-        "title": "The 'Anatoly Kolodkin' plans to arrive in Cuba this Monday with 730,000 barrels of Russian crude oil",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/anatoly-kolodkin-previsto-llegar-lunes_1_1125200.html",
-        "published_date": "2026-03-29 18:46:46",
-        "category": "Energy"
+        "title": "The union movement's tribute to the new generations",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/el-homenaje-del-movimiento-sindical-a-las-nuevas-generaciones/",
+        "published_date": "2026-04-03 13:30:00",
+        "category": "Economy"
     },
     {
         "title": "Dollar continues to rise in Cuba: this is how the informal market dawned today",
@@ -511,143 +532,143 @@
         "category": "Economy"
     },
     {
-        "title": "Good Friday: why is it the most solemn day for millions of Christians?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/viernes-santo-por-que-es-el-dia-mas-solemne-para-millones-de-cristianos/",
-        "published_date": "2026-04-03 12:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Print edition April 3, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-3-abril-2026_132_1125352.html",
-        "published_date": "2026-04-03 11:13:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is there an immigration change coming in the United States that is favorable for Cubans and Venezuelans?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/viene-un-cambio-migratorio-en-estados-unidos-favorable-para-los-cubanos-y-venezolanos/",
-        "published_date": "2026-04-03 11:01:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, April 3, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-3-abril_132_1125348.html",
-        "published_date": "2026-04-03 10:42:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, April 3, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-3-abril_7_1125350.html",
-        "published_date": "2026-04-03 10:37:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from April 3, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-3-abril-2026_7_1125347.html",
-        "published_date": "2026-04-03 10:18:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five arrested for brutal triple murder in Santa Clara: what is known so far",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cinco-detenidos-por-brutal-triple-asesinato-en-santa-clara-lo-que-se-sabe-hasta-ahora/",
-        "published_date": "2026-04-03 10:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from April 3, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-3-abril-2026_132_1125345.html",
-        "published_date": "2026-04-03 09:58:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "NASA confirms the success of the Artemis II translunar injection despite minor incidents",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/nasa-confirma-exito-inyeccion-translunar_1_1125343.html",
-        "published_date": "2026-04-03 09:21:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The chief of the US General Staff is dismissed in the middle of the Iran war",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/destituyen-jefe-mayor-ee-uu_1_1125341.html",
-        "published_date": "2026-04-03 09:08:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Tostadero, the winery that ended up devoured by garbage",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tostadero-bodega-termino-devorada-basura_1_1125335.html",
-        "published_date": "2026-04-03 08:50:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico allocates funds to promote food self-sufficiency and job creation in rural areas of Cuba",
+        "title": "Pioneers for the Homeland",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/mexico-destina-fondos-para-fomentar-autosuficiencia-alimentaria-y-creacion-de-empleos-en-las-zonas-rurales-de-cuba/",
-        "published_date": "2026-04-03 08:36:16",
+        "url": "https://www.5septiembre.cu/pioneros-por-la-patria/",
+        "published_date": "2026-04-03 22:38:49",
         "category": "Local Events"
     },
     {
-        "title": "Russia's Deputy Foreign Minister describes the friendship between Moscow and Havana as \"everlasting value\"",
+        "title": "In the Good Friday procession in Guanabacoa each Cuban carried his own cross",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/viceministro-exteriores-rusia-califica-amistad_1_1125334.html",
-        "published_date": "2026-04-03 08:35:38",
+        "url": "https://www.14ymedio.com/cuba/procesion-viernes-santo-guanabacoa-cubano_1_1125363.html",
+        "published_date": "2026-04-03 21:35:14",
         "category": "Local Events"
     },
     {
-        "title": "Los Naranjos: a centenary of good Cuban son",
+        "title": "The communist youth in Cruces celebrate their gala and anniversary",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/los-naranjos-un-centenario-de-buen-son-cubano/",
-        "published_date": "2026-04-03 08:00:32",
+        "url": "https://www.5septiembre.cu/de-gala-y-aniversario-la-juventud-comunista-en-cruces/",
+        "published_date": "2026-04-03 21:32:01",
         "category": "Local Events"
     },
     {
-        "title": "World Health Day: Together for science",
+        "title": "Jusvinza: safe and highly effective for the treatment of Chikungunya convalescents",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/jusvinza-seguro-y-altamente-eficaz-para-el-tratamiento-a-convalecientes-de-chikungunya/",
+        "published_date": "2026-04-03 21:16:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Little noise, lots of hotel",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/dia-mundial-de-la-salud-juntos-por-la-ciencia/",
-        "published_date": "2026-04-03 05:58:08",
+        "url": "https://www.trabajadores.cu/20260403/poco-ruido-mucho-hotel/",
+        "published_date": "2026-04-03 20:20:20",
         "category": "Local Events"
     },
     {
-        "title": "Cuba Struggles Between Irreconcilable Extremes",
+        "title": "Meet Palestinian Leqaa Kordia Freed After a Year in ICE Jail",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/cuba-struggles-between-irreconcilable-extremes/",
-        "published_date": "2026-04-03 05:25:31",
+        "url": "https://havanatimes.org/interviews/meet-palestinian-leqaa-kordia-freed-after-a-year-in-ice-jail/",
+        "published_date": "2026-04-03 19:18:17",
         "category": "Local Events"
     },
     {
-        "title": "In Porto an earthquake inside there is a poet of maturity and insight",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/en-porto-un-sismo-adentro-hay-un-poeta-de-madurez-y-perspicacia/",
-        "published_date": "2026-04-03 04:00:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mija\u00edn L\u00f3pez: From Olympic legend to mentor in China",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/mijain-lopez-de-leyenda-olimpica-a-mentor-en-china/",
-        "published_date": "2026-04-03 04:00:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban government announces decision to pardon more than 2,000 sanctioned people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260402/gobierno-cubano-anuncia-decision-de-indultar-a-mas-de-2-mil-sancionados/",
-        "published_date": "2026-04-03 01:59:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban regime will pardon 2,010 prisoners, but does not specify if it will include political prisoners",
+        "title": "The first people released from mass pardon in Cuba are common prisoners, no political prisoners",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gobierno-cuba-anuncia-indulto-2_1_1125333.html",
-        "published_date": "2026-04-03 00:57:51",
+        "url": "https://www.14ymedio.com/cuba/primeros-excarcelados-indulto-masivo-cuba_1_1125361.html",
+        "published_date": "2026-04-03 18:57:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iranian president calls for global action after attack on medical center",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-irani-pide-accion-global-tras-ataque-a-centro-medico/",
+        "published_date": "2026-04-03 18:30:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first group of the 412 health workers from the Island returned by Guatemala arrives in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/llega-cuba-primer-grupo-412_1_1125359.html",
+        "published_date": "2026-04-03 18:25:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Air Navigation Company S.A offers job call",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/empresa-cubana-de-navegacion-aerea-s-a-oferta-convocatoria-laboral/",
+        "published_date": "2026-04-03 18:00:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holguin\u2019s House of the Chef Has Closed",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/lien-estrada/holguins-house-of-the-chef-has-closed/",
+        "published_date": "2026-04-03 17:56:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Revolution is made with any type of property",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/revolucion-se-hace-con-cualquier-tipo-de-propiedad/",
+        "published_date": "2026-04-03 17:22:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US rescues one of the two crew members of the first F-15E downed in Iran, according to CBS and Israeli sources",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-rescata-tripulantes-primer_1_1125356.html",
+        "published_date": "2026-04-03 17:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "International News Briefs for Friday, April 3, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-friday-april-3-2026/",
+        "published_date": "2026-04-03 16:52:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "CENEArt calls for Entrance Tests for the Acting profile",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/ceneart-convoca-pruebas-de-ingreso-para-el-perfil-de-actuacion/",
+        "published_date": "2026-04-03 16:07:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Villa Clara youth at the forefront",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/juventud-villaclarena-a-la-vanguardia/",
+        "published_date": "2026-04-03 14:54:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Decree Law to promote greater coordination between state and non-state companies",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/un-decreto-ley-para-propiciar-una-mayor-articulacion-entre-empresas-estatales-y-no-estatales/",
+        "published_date": "2026-04-03 14:22:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five arrested for the murder of three members of a family in Santa Clara",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cinco-detenidos-asesinato-tres-miembros_1_1125354.html",
+        "published_date": "2026-04-03 14:14:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Government Announces Another Prisoner Release",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/cuban-government-announces-another-prisoner-release/",
+        "published_date": "2026-04-03 14:00:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Infinite thirst: this book will be your water, your beginning and your end",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/153-novedades-literarias/32587-sed-infinita-este-libro-sera-tu-agua-tu-principio-y-tu-fin",
+        "published_date": "2026-04-03 12:31:17",
         "category": "Local Events"
     }
 ]
