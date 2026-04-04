@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "A second US military plane crashes in the Strait of Hormuz this Friday",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/segundo-avion-militar-ee-uu_1_1125368.html",
+        "published_date": "2026-04-04 11:33:39",
+        "category": "Military"
+    },
+    {
         "title": "Birthday in olive green (+Photos)",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cumpleanos-en-verde-olivo-fotos/",
@@ -532,6 +539,41 @@
         "category": "Economy"
     },
     {
+        "title": "Young doctor among scientists of the future",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/joven-medico-entre-cientificos-del-futuro/",
+        "published_date": "2026-04-04 10:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The silent cost of youth hyperconnectivity",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-costo-silencioso-de-la-hiperconectividad-juvenil/",
+        "published_date": "2026-04-04 08:00:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba: April 4, happy day",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-4-de-abril-dia-feliz/",
+        "published_date": "2026-04-04 04:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Vanguard, a merit of the Artemisa tobacco growers",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260403/vanguardia-nacional-un-merito-de-tabacaleros-de-artemisa/",
+        "published_date": "2026-04-04 01:19:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Time for Art, with Dogs",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/time-for-art-with-dogs/",
+        "published_date": "2026-04-04 00:25:23",
+        "category": "Local Events"
+    },
+    {
         "title": "Pioneers for the Homeland",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/pioneros-por-la-patria/",
@@ -634,41 +676,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260403/ceneart-convoca-pruebas-de-ingreso-para-el-perfil-de-actuacion/",
         "published_date": "2026-04-03 16:07:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Villa Clara youth at the forefront",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/juventud-villaclarena-a-la-vanguardia/",
-        "published_date": "2026-04-03 14:54:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Decree Law to promote greater coordination between state and non-state companies",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/un-decreto-ley-para-propiciar-una-mayor-articulacion-entre-empresas-estatales-y-no-estatales/",
-        "published_date": "2026-04-03 14:22:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five arrested for the murder of three members of a family in Santa Clara",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cinco-detenidos-asesinato-tres-miembros_1_1125354.html",
-        "published_date": "2026-04-03 14:14:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Government Announces Another Prisoner Release",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/cuban-government-announces-another-prisoner-release/",
-        "published_date": "2026-04-03 14:00:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Infinite thirst: this book will be your water, your beginning and your end",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/153-novedades-literarias/32587-sed-infinita-este-libro-sera-tu-agua-tu-principio-y-tu-fin",
-        "published_date": "2026-04-03 12:31:17",
         "category": "Local Events"
     }
 ]
