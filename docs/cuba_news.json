@@ -1,5 +1,12 @@
 [
     {
+        "title": "Permanent rejection of Cuban workers to the blockade",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/permanente-el-rechazo-de-los-trabajadores-cubanos-al-bloqueo/",
+        "published_date": "2026-04-04 21:58:35",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Villa Clara workers challenge the blockade",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260403/trabajadores-villaclarenos-desafian-el-bloqueo/",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Bruno Rodr\u00edguez: The US \u201clies\u201d when denying the energy blockade against Cuba",
+        "title": "Trump pushes military budget of 1.5 trillion with cuts in health, education and environment",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/bruno-rodriguez-ee-uu-miente-al-negar-bloqueo-energetico-contra-cuba/",
-        "published_date": "2026-03-29 16:42:29",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/trump-impulsa-presupuesto-militar-de-1-5-billones-con-recortes-en-salud-educacion-y-medio-ambiente/",
+        "published_date": "2026-04-04 13:45:09",
+        "category": "Military"
     },
     {
         "title": "A second US military plane crashes in the Strait of Hormuz this Friday",
@@ -264,6 +271,13 @@
         "url": "https://www.14ymedio.com/cuba/madre-responsabiliza-politico-unidad-muerte_1_1125188.html",
         "published_date": "2026-03-29 15:12:37",
         "category": "Military"
+    },
+    {
+        "title": "Oil in the arteries: Trump's 'Hormuz-gate'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/petroleo-arterias-ormuz-gate-trump_1_1125374.html",
+        "published_date": "2026-04-04 12:34:58",
+        "category": "Energy"
     },
     {
         "title": "Cupet: Biomethane plant in Matanzas enters final assembly phase",
@@ -399,11 +413,11 @@
         "category": "Energy"
     },
     {
-        "title": "Ship with Russian fuel arrived in Cuba but it will only relieve a few days",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/llegada-inminente-de-combustible-ruso-podria-aliviar-apagones-en-cuba/",
-        "published_date": "2026-03-30 10:11:59",
-        "category": "Energy"
+        "title": "Banco Metropolitano begins operations with new monetary issues",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/banco-metropolitano-inicia-operaciones-con-nuevas-emisiones-monetarias/",
+        "published_date": "2026-04-04 14:58:47",
+        "category": "Economy"
     },
     {
         "title": "The union movement's tribute to the new generations",
@@ -539,143 +553,143 @@
         "category": "Economy"
     },
     {
-        "title": "Young doctor among scientists of the future",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/joven-medico-entre-cientificos-del-futuro/",
-        "published_date": "2026-04-04 10:00:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The silent cost of youth hyperconnectivity",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-costo-silencioso-de-la-hiperconectividad-juvenil/",
-        "published_date": "2026-04-04 08:00:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba: April 4, happy day",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-4-de-abril-dia-feliz/",
-        "published_date": "2026-04-04 04:00:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Vanguard, a merit of the Artemisa tobacco growers",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/vanguardia-nacional-un-merito-de-tabacaleros-de-artemisa/",
-        "published_date": "2026-04-04 01:19:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Time for Art, with Dogs",
+        "title": "Easter Week Sweets, Yaracuy, Venezuela \u2013 Photo of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/features/time-for-art-with-dogs/",
-        "published_date": "2026-04-04 00:25:23",
+        "url": "https://havanatimes.org/photo-of-the-day/easter-week-sweets-yaracuy-venezuela-photo-of-the-day/",
+        "published_date": "2026-04-04 22:45:36",
         "category": "Local Events"
     },
     {
-        "title": "Pioneers for the Homeland",
+        "title": "Iran warns of nuclear risk after attacks on Busheher",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pioneros-por-la-patria/",
-        "published_date": "2026-04-03 22:38:49",
+        "url": "https://www.5septiembre.cu/iran-advierte-sobre-riesgo-nuclear-tras-ataques-a-busheher/",
+        "published_date": "2026-04-04 19:00:25",
         "category": "Local Events"
     },
     {
-        "title": "In the Good Friday procession in Guanabacoa each Cuban carried his own cross",
+        "title": "In Guanabacoa, the egg arrives escorted by police and is not enough for everyone",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/procesion-viernes-santo-guanabacoa-cubano_1_1125363.html",
-        "published_date": "2026-04-03 21:35:14",
+        "url": "https://www.14ymedio.com/cuba/guanabacoa-huevo-llega-escoltado-policias_1_1125381.html",
+        "published_date": "2026-04-04 18:49:53",
         "category": "Local Events"
     },
     {
-        "title": "The communist youth in Cruces celebrate their gala and anniversary",
+        "title": "Cuban baseball player Dorian Friol Ram\u00edrez, former Metropolitanos pitcher, dies in strange circumstances",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-extranas-circunstancias-pelotero-cubano_1_1125379.html",
+        "published_date": "2026-04-04 18:31:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "They call for a world feminist day of solidarity with Cuba on the anniversary of Vilma Esp\u00edn's birth",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/de-gala-y-aniversario-la-juventud-comunista-en-cruces/",
-        "published_date": "2026-04-03 21:32:01",
+        "url": "https://www.5septiembre.cu/convocan-a-jornada-mundial-feminista-de-solidaridad-con-cuba-en-aniversario-del-natalicio-de-vilma-espin/",
+        "published_date": "2026-04-04 18:21:55",
         "category": "Local Events"
     },
     {
-        "title": "Jusvinza: safe and highly effective for the treatment of Chikungunya convalescents",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/jusvinza-seguro-y-altamente-eficaz-para-el-tratamiento-a-convalecientes-de-chikungunya/",
-        "published_date": "2026-04-03 21:16:22",
+        "title": "A tour of the lost names of Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/recorrido-nombres-perdidos-habana_1_1125376.html",
+        "published_date": "2026-04-04 18:18:23",
         "category": "Local Events"
     },
     {
-        "title": "Little noise, lots of hotel",
+        "title": "FITCUBA 2026 will meet with a new format",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/poco-ruido-mucho-hotel/",
-        "published_date": "2026-04-03 20:20:20",
+        "url": "https://www.trabajadores.cu/20260404/fitcuba-2026-sesionara-con-novedoso-formato/",
+        "published_date": "2026-04-04 18:18:21",
         "category": "Local Events"
     },
     {
-        "title": "Meet Palestinian Leqaa Kordia Freed After a Year in ICE Jail",
+        "title": "UJC congratulates pioneers and young people on the anniversary of April 4",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/felicita-ujc-a-pioneros-y-jovenes-en-aniversario-del-4-de-abril/",
+        "published_date": "2026-04-04 18:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Teatreros guerrilla: art that saves",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/guerrilla-de-teatreros-arte-que-salva/",
+        "published_date": "2026-04-04 17:52:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two awards of excellence for Transtur Las Tunas",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/dos-premios-de-excelencia-para-transtur-las-tunas/",
+        "published_date": "2026-04-04 17:27:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba Is Ripe for Change",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/meet-palestinian-leqaa-kordia-freed-after-a-year-in-ice-jail/",
-        "published_date": "2026-04-03 19:18:17",
+        "url": "https://havanatimes.org/diaries/veronica-vegas-diary/cuba-is-ripe-for-change/",
+        "published_date": "2026-04-04 16:42:00",
         "category": "Local Events"
     },
     {
-        "title": "The first people released from mass pardon in Cuba are common prisoners, no political prisoners",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/primeros-excarcelados-indulto-masivo-cuba_1_1125361.html",
-        "published_date": "2026-04-03 18:57:31",
+        "title": "Joselin Rabeiro: \u201cEach patient represents a story, a family and a hope\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/joselin-rabeiro-cada-paciente-representa-una-historia-una-familia-y-una-esperanza/",
+        "published_date": "2026-04-04 16:31:55",
         "category": "Local Events"
     },
     {
-        "title": "Iranian president calls for global action after attack on medical center",
+        "title": "Villa Clara on May Day (+ Photos)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/villa-clara-en-primero-de-mayo-fotos/",
+        "published_date": "2026-04-04 16:07:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "April 4: between pioneers, young people and Artemise\u00f1o guides",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/4-de-abril-entre-pioneros-jovenes-y-guias-artemisenos/",
+        "published_date": "2026-04-04 16:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "From planning to concrete",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/de-la-planeacion-a-la-concreta/",
+        "published_date": "2026-04-04 15:44:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Faith Behind Bars in Nicaragua",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/faith-behind-bars-in-nicaragua/",
+        "published_date": "2026-04-04 15:06:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "In his dad's footsteps",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/tras-los-pasos-de-su-papa/",
+        "published_date": "2026-04-04 15:02:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Only for two?",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-irani-pide-accion-global-tras-ataque-a-centro-medico/",
-        "published_date": "2026-04-03 18:30:14",
+        "url": "https://www.5septiembre.cu/solo-para-dos/",
+        "published_date": "2026-04-04 13:59:17",
         "category": "Local Events"
     },
     {
-        "title": "The first group of the 412 health workers from the Island returned by Guatemala arrives in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/llega-cuba-primer-grupo-412_1_1125359.html",
-        "published_date": "2026-04-03 18:25:34",
+        "title": "Music, literature and dance celebrate Pioneers' Day in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/musica-literatura-y-danza-celebran-en-cuba-el-dia-de-los-pioneros/",
+        "published_date": "2026-04-04 13:48:32",
         "category": "Local Events"
     },
     {
-        "title": "Cuban Air Navigation Company S.A offers job call",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/empresa-cubana-de-navegacion-aerea-s-a-oferta-convocatoria-laboral/",
-        "published_date": "2026-04-03 18:00:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holguin\u2019s House of the Chef Has Closed",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/lien-estrada/holguins-house-of-the-chef-has-closed/",
-        "published_date": "2026-04-03 17:56:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Revolution is made with any type of property",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/revolucion-se-hace-con-cualquier-tipo-de-propiedad/",
-        "published_date": "2026-04-03 17:22:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US rescues one of the two crew members of the first F-15E downed in Iran, according to CBS and Israeli sources",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-rescata-tripulantes-primer_1_1125356.html",
-        "published_date": "2026-04-03 17:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "International News Briefs for Friday, April 3, 2026",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-friday-april-3-2026/",
-        "published_date": "2026-04-03 16:52:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "CENEArt calls for Entrance Tests for the Acting profile",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/ceneart-convoca-pruebas-de-ingreso-para-el-perfil-de-actuacion/",
-        "published_date": "2026-04-03 16:07:21",
+        "title": "Pope Leo XIV remembered the pain caused by wars on the Via Crucis",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/papa-leon-xiv-recordo-en-via-crucis-el-dolor-causado-por-las-guerras/",
+        "published_date": "2026-04-04 13:37:00",
         "category": "Local Events"
     }
 ]
