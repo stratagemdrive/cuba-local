@@ -1,5 +1,12 @@
 [
     {
+        "title": "Avilanian workers condemn genocidal blockade",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/condenan-trabajadores-avilenos-genocida-bloqueo/",
+        "published_date": "2026-04-05 11:55:31",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Permanent rejection of Cuban workers to the blockade",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260404/permanente-el-rechazo-de-los-trabajadores-cubanos-al-bloqueo/",
@@ -130,13 +137,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260330/activistas-de-solidaridad-con-cuba-se-unen-a-las-protestas-de-no-kings-en-todo-ee-uu/",
         "published_date": "2026-03-30 04:38:18",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Innovators turn challenges into opportunities",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260329/los-innovadores-convierten-desafios-en-oportunidades/",
-        "published_date": "2026-03-29 17:30:44",
         "category": "Diplomacy"
     },
     {
@@ -273,6 +273,13 @@
         "category": "Military"
     },
     {
+        "title": "Carmencita and the Sonoras \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/carmencita-y-las-sonoras-song-of-the-day/",
+        "published_date": "2026-04-05 03:39:59",
+        "category": "Energy"
+    },
+    {
         "title": "Oil in the arteries: Trump's 'Hormuz-gate'",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/opinion/petroleo-arterias-ormuz-gate-trump_1_1125374.html",
@@ -403,13 +410,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/mas-alla-del-autoconsumo-una-opcion-poco-conocida-abre-la-puerta-a-vender-energia-renovable-en-cuba-pdf/",
         "published_date": "2026-03-30 11:31:24",
-        "category": "Energy"
-    },
-    {
-        "title": "Trump is considering an operation to extract almost 500 kilos of uranium from Iran, according to the 'Wall Street Journal'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-plantea-operacion-extraer-500_1_1125215.html",
-        "published_date": "2026-03-30 11:22:10",
         "category": "Energy"
     },
     {
@@ -553,6 +553,27 @@
         "category": "Economy"
     },
     {
+        "title": "Study of constituencies in Cienfuegos: vital process for the quality of democratic processes",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/estudio-de-circunscripciones-en-cienfuegos-proceso-vital-para-la-calidad-de-los-procesos-democraticos/",
+        "published_date": "2026-04-05 09:00:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The danger of anti-intellectualism",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-peligrosidad-del-antiintelectualismo/",
+        "published_date": "2026-04-05 04:00:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba celebrates music!",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260404/cuba-celebra-la-musica/",
+        "published_date": "2026-04-05 00:40:34",
+        "category": "Local Events"
+    },
+    {
         "title": "Easter Week Sweets, Yaracuy, Venezuela \u2013 Photo of the Day",
         "source": "Havana Times",
         "url": "https://havanatimes.org/photo-of-the-day/easter-week-sweets-yaracuy-venezuela-photo-of-the-day/",
@@ -669,27 +690,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260404/tras-los-pasos-de-su-papa/",
         "published_date": "2026-04-04 15:02:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Only for two?",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/solo-para-dos/",
-        "published_date": "2026-04-04 13:59:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Music, literature and dance celebrate Pioneers' Day in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/musica-literatura-y-danza-celebran-en-cuba-el-dia-de-los-pioneros/",
-        "published_date": "2026-04-04 13:48:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo XIV remembered the pain caused by wars on the Via Crucis",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/papa-leon-xiv-recordo-en-via-crucis-el-dolor-causado-por-las-guerras/",
-        "published_date": "2026-04-04 13:37:00",
         "category": "Local Events"
     }
 ]
