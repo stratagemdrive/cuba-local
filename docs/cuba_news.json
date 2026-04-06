@@ -1,5 +1,26 @@
 [
     {
+        "title": "The other cancer",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/el-otro-cancer/",
+        "published_date": "2026-04-05 23:53:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Nothing will stop us",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/nada-nos-detendra/",
+        "published_date": "2026-04-05 23:51:40",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba solutions against the blockade",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/soluciones-cuba-contra-el-bloqueo/",
+        "published_date": "2026-04-05 23:09:10",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Avilanian workers condemn genocidal blockade",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260405/condenan-trabajadores-avilenos-genocida-bloqueo/",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Vandalism against Etecsa in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/vandalismo-contra-etecsa-en-cienfuegos/",
-        "published_date": "2026-03-31 04:00:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Twist on Trump's blockade of Cuba: it will allow any country to send oil to the island",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/giro-en-el-bloque-de-trump-hacia-cuba-permitira-que-cualquier-pais-mande-petroleo-a-la-isla/",
-        "published_date": "2026-03-30 09:49:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba Solidarity Activists Join \u201cNo Kings\u201d Protests Across US",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260330/activistas-de-solidaridad-con-cuba-se-unen-a-las-protestas-de-no-kings-en-todo-ee-uu/",
-        "published_date": "2026-03-30 04:38:18",
-        "category": "Diplomacy"
+        "title": "The US Army rescued the second crew member of the plane downed in Iran alive",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-dice-ejercito-ee-uu_1_1125387.html",
+        "published_date": "2026-04-05 13:49:49",
+        "category": "Military"
     },
     {
         "title": "Trump pushes military budget of 1.5 trillion with cuts in health, education and environment",
@@ -273,6 +280,27 @@
         "category": "Military"
     },
     {
+        "title": "The energy collapse in Cuba forces us to look for emergency exits outside the national grid",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/colapso-energetico-cuba-obliga-buscar_1_1125408.html",
+        "published_date": "2026-04-05 20:28:28",
+        "category": "Energy"
+    },
+    {
+        "title": "Starlink in Cuba: the prohibited antenna that challenges the Etecsa monopoly",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/starlink-cuba-antena-prohibida-desafia_1_1125404.html",
+        "published_date": "2026-04-05 19:29:43",
+        "category": "Energy"
+    },
+    {
+        "title": "Iran criticizes IAEA position after attack on nuclear power plant",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-critica-postura-del-oiea-tras-ataque-a-central-nuclear/",
+        "published_date": "2026-04-05 18:20:30",
+        "category": "Energy"
+    },
+    {
         "title": "Carmencita and the Sonoras \u2013 Song of the Day",
         "source": "Havana Times",
         "url": "https://havanatimes.org/todays-song/carmencita-y-las-sonoras-song-of-the-day/",
@@ -389,27 +417,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/la-casa-blanca-evaluara-uno-por-uno-los-futuros-envios-de-petroleo-a-cuba/",
         "published_date": "2026-03-30 19:45:28",
-        "category": "Energy"
-    },
-    {
-        "title": "Mexico reopens the door to shipping oil to Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/mexico-reabre-la-puerta-al-envio-de-petroleo-a-cuba/",
-        "published_date": "2026-03-30 17:32:17",
-        "category": "Energy"
-    },
-    {
-        "title": "Trump again after oil, now Iran's",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-de-nuevo-tras-el-petroleo-ahora-el-de-iran/",
-        "published_date": "2026-03-30 14:25:51",
-        "category": "Energy"
-    },
-    {
-        "title": "Beyond self-consumption: A little-known option opens the door to selling renewable energy in Cuba (+ PDF)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/mas-alla-del-autoconsumo-una-opcion-poco-conocida-abre-la-puerta-a-vender-energia-renovable-en-cuba-pdf/",
-        "published_date": "2026-03-30 11:31:24",
         "category": "Energy"
     },
     {
@@ -546,150 +553,143 @@
         "category": "Economy"
     },
     {
-        "title": "Information from Cuban bank on magnetic card thefts",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/informacion-de-banco-cubano-sobre-robos-de-tarjetas-magneticas/",
-        "published_date": "2026-03-28 13:08:54",
-        "category": "Economy"
-    },
-    {
-        "title": "Study of constituencies in Cienfuegos: vital process for the quality of democratic processes",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/estudio-de-circunscripciones-en-cienfuegos-proceso-vital-para-la-calidad-de-los-procesos-democraticos/",
-        "published_date": "2026-04-05 09:00:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The danger of anti-intellectualism",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-peligrosidad-del-antiintelectualismo/",
-        "published_date": "2026-04-05 04:00:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba celebrates music!",
+        "title": "A school is a pillar",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/cuba-celebra-la-musica/",
-        "published_date": "2026-04-05 00:40:34",
+        "url": "https://www.trabajadores.cu/20260405/una-escuela-es-un-pilar/",
+        "published_date": "2026-04-05 23:36:48",
         "category": "Local Events"
     },
     {
-        "title": "Easter Week Sweets, Yaracuy, Venezuela \u2013 Photo of the Day",
+        "title": "The pioneer of working-class poetry",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/el-pionero-de-la-poesia-obrera/",
+        "published_date": "2026-04-05 23:34:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Commemorative day for May Day began in Sancti Sp\u00edritus",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/arranco-jornada-conmemorativa-por-el-primero-de-mayo-en-sancti-spiritus/",
+        "published_date": "2026-04-05 22:17:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who Is the Cuban Government Releasing?",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/easter-week-sweets-yaracuy-venezuela-photo-of-the-day/",
-        "published_date": "2026-04-04 22:45:36",
+        "url": "https://havanatimes.org/cuba/who-is-the-cuban-government-releasing/",
+        "published_date": "2026-04-05 21:58:20",
         "category": "Local Events"
     },
     {
-        "title": "Iran warns of nuclear risk after attacks on Busheher",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-advierte-sobre-riesgo-nuclear-tras-ataques-a-busheher/",
-        "published_date": "2026-04-04 19:00:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Guanabacoa, the egg arrives escorted by police and is not enough for everyone",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/guanabacoa-huevo-llega-escoltado-policias_1_1125381.html",
-        "published_date": "2026-04-04 18:49:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban baseball player Dorian Friol Ram\u00edrez, former Metropolitanos pitcher, dies in strange circumstances",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/muere-extranas-circunstancias-pelotero-cubano_1_1125379.html",
-        "published_date": "2026-04-04 18:31:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "They call for a world feminist day of solidarity with Cuba on the anniversary of Vilma Esp\u00edn's birth",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/convocan-a-jornada-mundial-feminista-de-solidaridad-con-cuba-en-aniversario-del-natalicio-de-vilma-espin/",
-        "published_date": "2026-04-04 18:21:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "A tour of the lost names of Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/recorrido-nombres-perdidos-habana_1_1125376.html",
-        "published_date": "2026-04-04 18:18:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "FITCUBA 2026 will meet with a new format",
+        "title": "La Coloma reinvents itself",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/fitcuba-2026-sesionara-con-novedoso-formato/",
-        "published_date": "2026-04-04 18:18:21",
+        "url": "https://www.trabajadores.cu/20260405/la-coloma-se-reinventa/",
+        "published_date": "2026-04-05 21:57:51",
         "category": "Local Events"
     },
     {
-        "title": "UJC congratulates pioneers and young people on the anniversary of April 4",
+        "title": "The audacity of not believing in challenges",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/la-osadia-de-no-creer-en-retos/",
+        "published_date": "2026-04-05 21:49:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Mexican project Sembrando Vida donates another 33 million dollars to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/proyecto-mexicano-sembrando-vida-dona_1_1125398.html",
+        "published_date": "2026-04-05 20:40:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Dictionary",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/diccionario-de-cubania/",
+        "published_date": "2026-04-05 20:32:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pedro and the unforgettable hug",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/pedro-y-el-inolvidable-abrazo/",
+        "published_date": "2026-04-05 20:19:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two Cubans arrested in Miami for having a farm with more than 500 fighting cocks",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cubanos-detenidos-miami-criadero-500_1_1125402.html",
+        "published_date": "2026-04-05 19:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Border crossing between Syria and Lebanon closed after Israeli threat",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/felicita-ujc-a-pioneros-y-jovenes-en-aniversario-del-4-de-abril/",
-        "published_date": "2026-04-04 18:04:46",
+        "url": "https://www.5septiembre.cu/cierre-de-paso-fronterizo-entre-siria-y-libano-tras-amenaza-israeli/",
+        "published_date": "2026-04-05 19:10:29",
         "category": "Local Events"
     },
     {
-        "title": "Teatreros guerrilla: art that saves",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/guerrilla-de-teatreros-arte-que-salva/",
-        "published_date": "2026-04-04 17:52:43",
+        "title": "Andy Garc\u00eda turns 70 at full capacity",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/andy-garcia-cumple-70-anos_1_1125397.html",
+        "published_date": "2026-04-05 18:47:20",
         "category": "Local Events"
     },
     {
-        "title": "Two awards of excellence for Transtur Las Tunas",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/dos-premios-de-excelencia-para-transtur-las-tunas/",
-        "published_date": "2026-04-04 17:27:34",
+        "title": "The witch hunt against the movement supporting Palestine continues in Europe",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sigue-en-europa-la-caza-de-brujas-contra-movimiento-de-apoyo-a-palestina/",
+        "published_date": "2026-04-05 18:44:11",
         "category": "Local Events"
     },
     {
-        "title": "Cuba Is Ripe for Change",
+        "title": "Pope Leo XIV implored at Easter for a peace forged in dialogue",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/papa-leon-xiv-imploro-en-la-pascua-por-una-paz-forjada-en-el-dialogo/",
+        "published_date": "2026-04-05 18:30:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Amelia Calzadilla Speaks on the Reality Facing Cuban Women",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/veronica-vegas-diary/cuba-is-ripe-for-change/",
-        "published_date": "2026-04-04 16:42:00",
+        "url": "https://havanatimes.org/opinion/amelia-calzadilla-speaks-on-the-reality-facing-cuban-women/",
+        "published_date": "2026-04-05 18:02:43",
         "category": "Local Events"
     },
     {
-        "title": "Joselin Rabeiro: \u201cEach patient represents a story, a family and a hope\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/joselin-rabeiro-cada-paciente-representa-una-historia-una-familia-y-una-esperanza/",
-        "published_date": "2026-04-04 16:31:55",
+        "title": "Jorge Losada, popular figure of Cuban theater and television, dies at 92",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/fallece-92-anos-jorge-losada_1_1125395.html",
+        "published_date": "2026-04-05 17:36:16",
         "category": "Local Events"
     },
     {
-        "title": "Villa Clara on May Day (+ Photos)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/villa-clara-en-primero-de-mayo-fotos/",
-        "published_date": "2026-04-04 16:07:41",
+        "title": "Between farce and lack of control: Sandro Castro in the twilight of Castroism",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/farsa-descontrol-sandro-castro-ocaso_132_1125393.html",
+        "published_date": "2026-04-05 17:22:49",
         "category": "Local Events"
     },
     {
-        "title": "April 4: between pioneers, young people and Artemise\u00f1o guides",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/4-de-abril-entre-pioneros-jovenes-y-guias-artemisenos/",
-        "published_date": "2026-04-04 16:00:40",
+        "title": "Productive day in another challenging and victorious April",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/jornada-productiva-en-otro-abril-desafiante-y-de-victoria/",
+        "published_date": "2026-04-05 17:12:53",
         "category": "Local Events"
     },
     {
-        "title": "From planning to concrete",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/de-la-planeacion-a-la-concreta/",
-        "published_date": "2026-04-04 15:44:14",
+        "title": "Neither generational connection nor continuity should be uncritical (+ Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ni-la-conexion-generacional-ni-la-continuidad-deben-ser-acriticas-fotos/",
+        "published_date": "2026-04-05 16:17:53",
         "category": "Local Events"
     },
     {
-        "title": "Faith Behind Bars in Nicaragua",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/faith-behind-bars-in-nicaragua/",
-        "published_date": "2026-04-04 15:06:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "In his dad's footsteps",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/tras-los-pasos-de-su-papa/",
-        "published_date": "2026-04-04 15:02:41",
+        "title": "Intensive actions are implemented to interrupt the chain of hepatitis transmission in Matanzas",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/implementan-acciones-intensivas-para-interrumpir-cadena-de-transmision-de-hepatitis-en-matanzas/",
+        "published_date": "2026-04-05 15:10:25",
         "category": "Local Events"
     }
 ]
