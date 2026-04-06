@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hop",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260405/saltar/",
+        "published_date": "2026-04-06 00:06:24",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The other cancer",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260405/el-otro-cancer/",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "They maintain foreign trade activity in Vertientes",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32568-mantienen-en-vertientes-actividad-de-comercio-exterior",
-        "published_date": "2026-03-31 10:19:50",
-        "category": "Diplomacy"
+        "title": "Against Yankee arrogance: peace and self-determination",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/contra-la-prepotencia-yanki-paz-y-autodeterminacion/",
+        "published_date": "2026-04-06 04:00:10",
+        "category": "Military"
     },
     {
         "title": "The US Army rescued the second crew member of the plane downed in Iran alive",
@@ -273,11 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "A mother blames the unit's 'politician' for the death of her son in military service",
+        "title": "Induvilla does not have docks, but it does have ingenuity",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260406/induvilla-no-tiene-muelles-pero-si-ingenio/",
+        "published_date": "2026-04-06 14:01:13",
+        "category": "Energy"
+    },
+    {
+        "title": "With 10%, Cuba remains at the bottom of renewable energies in Latin America",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/madre-responsabiliza-politico-unidad-muerte_1_1125188.html",
-        "published_date": "2026-03-29 15:12:37",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/10-cuba-sigue-peloton-cola_1_1125410.html",
+        "published_date": "2026-04-06 10:35:16",
+        "category": "Energy"
     },
     {
         "title": "The energy collapse in Cuba forces us to look for emergency exits outside the national grid",
@@ -403,20 +417,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/la-cujae-reorganiza-el-curso-por-la-crisis-de-combustible-asi-afectara-a-estudiantes-y-graduados/",
         "published_date": "2026-03-31 00:30:15",
-        "category": "Energy"
-    },
-    {
-        "title": "Sheinbaum avoids commenting on the shipment of Mexican oil to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/sheinbaum-evita-pronunciarse-envio-petroleo_1_1125222.html",
-        "published_date": "2026-03-30 20:53:28",
-        "category": "Energy"
-    },
-    {
-        "title": "The White House will evaluate future oil shipments to Cuba one by one",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/la-casa-blanca-evaluara-uno-por-uno-los-futuros-envios-de-petroleo-a-cuba/",
-        "published_date": "2026-03-30 19:45:28",
         "category": "Energy"
     },
     {
@@ -546,11 +546,88 @@
         "category": "Economy"
     },
     {
-        "title": "Banco Metropolitano reorganizes its branches and expands digital channels for clients",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/banco-metropolitano-reorganiza-sus-sucursales-y-amplia-canales-digitales-para-clientes/",
-        "published_date": "2026-03-29 00:33:05",
-        "category": "Economy"
+        "title": "FITCuba 2026 between economic problems and resilience",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fitcuba-2026-entre-problemas-economicos-y-resiliencia/",
+        "published_date": "2026-04-06 14:17:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana will host the Art and Recycling for Sustainability forum",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-habana-acogera-foro-arte-y-reciclaje-para-la-sostenibilidad/",
+        "published_date": "2026-04-06 14:06:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNE forecasts impact of 1,845 MW in peak hours after departure from Guiteras",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/une-pronostica-afectacion-de-1-845-mw-en-el-horario-pico-tras-salida-de-guiteras/",
+        "published_date": "2026-04-06 13:56:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dictionary of Cuban Identity",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260406/dictionary-of-cuban-identity/",
+        "published_date": "2026-04-06 13:46:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain defends humanitarian aid to Cuba and asks to add international support",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/espana-defiende-ayuda-humanitaria-cuba_1_1125425.html",
+        "published_date": "2026-04-06 12:26:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seoul says \"credible\" information points to Kim Jong-un's daughter as successor",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/seul-afirma-informacion-fidedigna-apunta_1_1125424.html",
+        "published_date": "2026-04-06 11:54:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "NASA publishes the first photo of the far side of the Moon taken by the Artemis II mission",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/nasa-publica-primera-foto-cara_1_1125420.html",
+        "published_date": "2026-04-06 11:39:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Sancti Sp\u00edritus the authorities guarantee coffins for all municipalities",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sancti-spiritus-autoridades-garantizan-ataudes_1_1125421.html",
+        "published_date": "2026-04-06 11:34:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel claims to have attacked and disabled Iran's main petrochemical plant",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/guardia-revolucionaria-irani-confirma-muerte_1_1125418.html",
+        "published_date": "2026-04-06 11:25:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "'The protest poster: the Cuban art of the revolution in the digital age'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/cartel-protesta-arte-cubano-revolucion_1_1125411.html",
+        "published_date": "2026-04-06 10:54:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "LA GUAGUA Summary from March 30 to April 5",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260406/la-guagua-resumen-del-30-de-marzo-al-5-de-abril/",
+        "published_date": "2026-04-06 10:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brushstrokes of Montevideo: Monte Vide",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pinceladas-de-montevideo-monte-vide/",
+        "published_date": "2026-04-06 09:00:13",
+        "category": "Local Events"
     },
     {
         "title": "A school is a pillar",
@@ -606,90 +683,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260405/diccionario-de-cubania/",
         "published_date": "2026-04-05 20:32:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pedro and the unforgettable hug",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/pedro-y-el-inolvidable-abrazo/",
-        "published_date": "2026-04-05 20:19:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two Cubans arrested in Miami for having a farm with more than 500 fighting cocks",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/cubanos-detenidos-miami-criadero-500_1_1125402.html",
-        "published_date": "2026-04-05 19:48:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Border crossing between Syria and Lebanon closed after Israeli threat",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cierre-de-paso-fronterizo-entre-siria-y-libano-tras-amenaza-israeli/",
-        "published_date": "2026-04-05 19:10:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andy Garc\u00eda turns 70 at full capacity",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/andy-garcia-cumple-70-anos_1_1125397.html",
-        "published_date": "2026-04-05 18:47:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The witch hunt against the movement supporting Palestine continues in Europe",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/sigue-en-europa-la-caza-de-brujas-contra-movimiento-de-apoyo-a-palestina/",
-        "published_date": "2026-04-05 18:44:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo XIV implored at Easter for a peace forged in dialogue",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/papa-leon-xiv-imploro-en-la-pascua-por-una-paz-forjada-en-el-dialogo/",
-        "published_date": "2026-04-05 18:30:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amelia Calzadilla Speaks on the Reality Facing Cuban Women",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/amelia-calzadilla-speaks-on-the-reality-facing-cuban-women/",
-        "published_date": "2026-04-05 18:02:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jorge Losada, popular figure of Cuban theater and television, dies at 92",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/fallece-92-anos-jorge-losada_1_1125395.html",
-        "published_date": "2026-04-05 17:36:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between farce and lack of control: Sandro Castro in the twilight of Castroism",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/farsa-descontrol-sandro-castro-ocaso_132_1125393.html",
-        "published_date": "2026-04-05 17:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Productive day in another challenging and victorious April",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/jornada-productiva-en-otro-abril-desafiante-y-de-victoria/",
-        "published_date": "2026-04-05 17:12:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Neither generational connection nor continuity should be uncritical (+ Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ni-la-conexion-generacional-ni-la-continuidad-deben-ser-acriticas-fotos/",
-        "published_date": "2026-04-05 16:17:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Intensive actions are implemented to interrupt the chain of hepatitis transmission in Matanzas",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/implementan-acciones-intensivas-para-interrumpir-cadena-de-transmision-de-hepatitis-en-matanzas/",
-        "published_date": "2026-04-05 15:10:25",
         "category": "Local Events"
     }
 ]
