@@ -1,5 +1,33 @@
 [
     {
+        "title": "Under constant pressure",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bajo-presion-constante/",
+        "published_date": "2026-04-07 04:00:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "It is not a blockade, it is an economic war",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260406/no-es-bloqueo-es-guerra-economica/",
+        "published_date": "2026-04-06 22:26:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "D\u00edaz-Canel receives US congressmen and criticizes the impact of the economic blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-recibe-a-congresistas-de-eeuu-y-critica-el-impacto-del-bloqueo-economico/",
+        "published_date": "2026-04-06 17:18:40",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban president exposes US congressmen about damages of the blockade",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32589-presidente-cubano-expone-a-congresistas-de-ee-uu-danos-del-bloqueo",
+        "published_date": "2026-04-06 11:31:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Hop",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260405/saltar/",
@@ -112,32 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "They call for an International Week of Solidarity with Cuba",
+        "title": "GIR\u00d3N: To the fight in defense of socialism!(YO)",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260331/convocan-a-semana-internacional-de-solidaridad-con-cuba/",
-        "published_date": "2026-03-31 18:39:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba's world-renowned human rights activism",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reconocido-mundialmente-activismo-de-cuba-en-derechos-humanos/",
-        "published_date": "2026-03-31 16:58:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Russian oil tanker with 100,000 tons of crude oil arrived at the port of Matanzas (+Photos and video)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/petrolero-ruso-con-100-000-toneladas-de-crudo-arribo-al-puerto-de-matanzas-fotos-y-video/",
-        "published_date": "2026-03-31 14:28:03",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump plans to leave the unblocking of the Strait of Hormuz aside to focus on the offensive against Iran",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-preve-desbloqueo-estrecho-ormuz_1_1125244.html",
-        "published_date": "2026-03-31 12:59:55",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260406/giron-al-combate-en-defensa-del-socialismo-i/",
+        "published_date": "2026-04-06 20:35:41",
+        "category": "Military"
     },
     {
         "title": "Against Yankee arrogance: peace and self-determination",
@@ -273,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Rebel",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260329/rebelde/",
-        "published_date": "2026-03-30 00:44:25",
-        "category": "Military"
+        "title": "\"The main fuel is ingenuity,\" boasts the ruling party in response to the failures of thermoelectric plants",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/principal-combustible-ingenio-alardea-oficialismo_1_1125436.html",
+        "published_date": "2026-04-06 21:17:45",
+        "category": "Energy"
     },
     {
         "title": "Induvilla does not have docks, but it does have ingenuity",
@@ -413,13 +420,6 @@
         "category": "Energy"
     },
     {
-        "title": "The CUJAE reorganizes the course due to the fuel crisis: this is how it will affect students and graduates",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/la-cujae-reorganiza-el-curso-por-la-crisis-de-combustible-asi-afectara-a-estudiantes-y-graduados/",
-        "published_date": "2026-03-31 00:30:15",
-        "category": "Energy"
-    },
-    {
         "title": "Banco Metropolitano begins operations with new monetary issues",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260404/banco-metropolitano-inicia-operaciones-con-nuevas-emisiones-monetarias/",
@@ -532,157 +532,143 @@
         "category": "Economy"
     },
     {
-        "title": "State MSMEs: Possible option (Separata Econom\u00eda)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260329/mipymes-estatales-opcion-posible-separata-economia/",
-        "published_date": "2026-03-29 23:59:14",
-        "category": "Economy"
-    },
-    {
-        "title": "Frigel is not cold",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260329/frigel-no-esta-frio/",
-        "published_date": "2026-03-29 22:15:58",
-        "category": "Economy"
-    },
-    {
-        "title": "FITCuba 2026 between economic problems and resilience",
+        "title": "Camagua folklore company will celebrate its 15th anniversary in Camag\u00fcey",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fitcuba-2026-entre-problemas-economicos-y-resiliencia/",
-        "published_date": "2026-04-06 14:17:12",
+        "url": "https://www.5septiembre.cu/compania-folclorica-camagua-celebrara-su-aniversario-15-en-camaguey/",
+        "published_date": "2026-04-07 05:16:40",
         "category": "Local Events"
     },
     {
-        "title": "Havana will host the Art and Recycling for Sustainability forum",
+        "title": "Seminar in Havana will address cultural contributions of Fidel Castro",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-habana-acogera-foro-arte-y-reciclaje-para-la-sostenibilidad/",
-        "published_date": "2026-04-06 14:06:51",
+        "url": "https://www.5septiembre.cu/seminario-en-la-habana-abordara-aportes-culturales-de-fidel-castro/",
+        "published_date": "2026-04-07 04:52:16",
         "category": "Local Events"
     },
     {
-        "title": "UNE forecasts impact of 1,845 MW in peak hours after departure from Guiteras",
+        "title": "The wonders of Wonder",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/une-pronostica-afectacion-de-1-845-mw-en-el-horario-pico-tras-salida-de-guiteras/",
-        "published_date": "2026-04-06 13:56:17",
+        "url": "https://www.5septiembre.cu/las-maravillas-de-la-maravilla/",
+        "published_date": "2026-04-07 04:00:26",
         "category": "Local Events"
     },
     {
-        "title": "Dictionary of Cuban Identity",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260406/dictionary-of-cuban-identity/",
-        "published_date": "2026-04-06 13:46:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain defends humanitarian aid to Cuba and asks to add international support",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/espana-defiende-ayuda-humanitaria-cuba_1_1125425.html",
-        "published_date": "2026-04-06 12:26:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seoul says \"credible\" information points to Kim Jong-un's daughter as successor",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/seul-afirma-informacion-fidedigna-apunta_1_1125424.html",
-        "published_date": "2026-04-06 11:54:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "NASA publishes the first photo of the far side of the Moon taken by the Artemis II mission",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/nasa-publica-primera-foto-cara_1_1125420.html",
-        "published_date": "2026-04-06 11:39:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Sancti Sp\u00edritus the authorities guarantee coffins for all municipalities",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sancti-spiritus-autoridades-garantizan-ataudes_1_1125421.html",
-        "published_date": "2026-04-06 11:34:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israel claims to have attacked and disabled Iran's main petrochemical plant",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/guardia-revolucionaria-irani-confirma-muerte_1_1125418.html",
-        "published_date": "2026-04-06 11:25:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The protest poster: the Cuban art of the revolution in the digital age'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/cartel-protesta-arte-cubano-revolucion_1_1125411.html",
-        "published_date": "2026-04-06 10:54:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "LA GUAGUA Summary from March 30 to April 5",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260406/la-guagua-resumen-del-30-de-marzo-al-5-de-abril/",
-        "published_date": "2026-04-06 10:00:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brushstrokes of Montevideo: Monte Vide",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pinceladas-de-montevideo-monte-vide/",
-        "published_date": "2026-04-06 09:00:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "A school is a pillar",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/una-escuela-es-un-pilar/",
-        "published_date": "2026-04-05 23:36:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The pioneer of working-class poetry",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/el-pionero-de-la-poesia-obrera/",
-        "published_date": "2026-04-05 23:34:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commemorative day for May Day began in Sancti Sp\u00edritus",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/arranco-jornada-conmemorativa-por-el-primero-de-mayo-en-sancti-spiritus/",
-        "published_date": "2026-04-05 22:17:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who Is the Cuban Government Releasing?",
+        "title": "Young Buddhist Monks, Pakse, Laos \u2013 Photo of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/cuba/who-is-the-cuban-government-releasing/",
-        "published_date": "2026-04-05 21:58:20",
+        "url": "https://havanatimes.org/photo-of-the-day/young-buddhist-monks-pakse-laos-photo-of-the-day/",
+        "published_date": "2026-04-07 01:30:49",
         "category": "Local Events"
     },
     {
-        "title": "La Coloma reinvents itself",
+        "title": "All CTC properties in Matanzas intact",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/la-coloma-se-reinventa/",
-        "published_date": "2026-04-05 21:57:51",
+        "url": "https://www.trabajadores.cu/20260406/intactos-todos-los-inmuebles-de-la-ctc-en-matanzas/",
+        "published_date": "2026-04-07 00:11:05",
         "category": "Local Events"
     },
     {
-        "title": "The audacity of not believing in challenges",
+        "title": "The Mystery of Some Stable Prices During Cuba's Crisis",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/the-mystery-of-some-stable-prices-during-cubas-crisis/",
+        "published_date": "2026-04-06 23:53:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nicaragua\u2019s Dictators and Opposition Reflected in Venezuela",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/nicaraguas-dictators-and-opposition-reflected-in-venezuela/",
+        "published_date": "2026-04-06 22:14:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Granma turned to volunteer work in greeting to May Day",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/la-osadia-de-no-creer-en-retos/",
-        "published_date": "2026-04-05 21:49:19",
+        "url": "https://www.trabajadores.cu/20260406/granma-se-volco-al-trabajo-voluntario-en-saludo-al-primero-de-mayo/",
+        "published_date": "2026-04-06 22:09:29",
         "category": "Local Events"
     },
     {
-        "title": "The Mexican project Sembrando Vida donates another 33 million dollars to Cuba",
+        "title": "Ciego de \u00c1vila coach, Danny Miranda, dies from intestinal thrombosis",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/proyecto-mexicano-sembrando-vida-dona_1_1125398.html",
-        "published_date": "2026-04-05 20:40:31",
+        "url": "https://www.14ymedio.com/deportes/muere-entrenador-ciego-avila-danny_1_1125442.html",
+        "published_date": "2026-04-06 21:18:56",
         "category": "Local Events"
     },
     {
-        "title": "Cuban Dictionary",
+        "title": "Artemis II reaches lunar orbit after more than 50 years of human absence",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cienciaytecnologia/artemis-ii-alcanza-orbita-lunar_1_1125440.html",
+        "published_date": "2026-04-06 20:47:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Cuban leader of a criminal group is detained in Mexico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/detienen-mexico-cubano-lider-grupo_1_1125438.html",
+        "published_date": "2026-04-06 20:31:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "They promote a program for Cuban doctors in Guatemala outside of Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/impulsan-programa-medicos-cubanos-guatemala_1_1125434.html",
+        "published_date": "2026-04-06 20:18:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Agust\u00edn Bejarano: profound testimony of humanist and philosophical commitment",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/diccionario-de-cubania/",
-        "published_date": "2026-04-05 20:32:25",
+        "url": "https://www.trabajadores.cu/20260406/agustin-bejarano-profundo-testimonio-de-compromiso-humanista-y-filosofico/",
+        "published_date": "2026-04-06 19:58:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yorubas, Catholics and Protestants celebrate Easter Sunday in Matanzas",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/yorubas-catolicos-protestantes-celebran-domingo_1_1125429.html",
+        "published_date": "2026-04-06 18:21:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "More joys for Cienfuegos in badminton",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mas-alegrias-para-cienfuegos-en-el-badminton/",
+        "published_date": "2026-04-06 16:57:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli Peace Activist on Gaza, Iran & Lebanon Wars",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/interviews/israeli-peace-activist-on-gaza-iran-lebanon-wars/",
+        "published_date": "2026-04-06 16:40:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "More united for Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260406/mas-unidos-por-cuba/",
+        "published_date": "2026-04-06 16:36:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The lions of Camag\u00fcey, between hunger and official denial",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/leones-camagueey-hambre-negacion-oficial_1_1125427.html",
+        "published_date": "2026-04-06 16:10:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Empty Streets in Matanzas, Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-feature/empty-streets-in-matanzas-cuba/",
+        "published_date": "2026-04-06 15:28:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "International News Briefs for Monday, April 6, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-monday-april-6-2026/",
+        "published_date": "2026-04-06 15:04:50",
         "category": "Local Events"
     }
 ]
