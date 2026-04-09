@@ -1,9 +1,30 @@
 [
     {
+        "title": "Despite its record of protecting fugitives, the regime denies links to Medicare fraud",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/pese-antecedentes-proteccion-profugos-regimen_1_1125513.html",
+        "published_date": "2026-04-08 21:07:34",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Women from Holgu\u00edn denounced the Blockade",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260408/feminas-holguineras-denunciaron-el-bloqueo/",
+        "published_date": "2026-04-08 17:37:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The accusations about Medicare are one more slander against Cuba",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260408/las-acusaciones-sobre-el-medicare-son-una-calumnia-mas-contra-cuba/",
         "published_date": "2026-04-08 13:54:25",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "They report false accusations of Medicare fraud",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32604-denuncian-falsas-acusaciones-de-fraude-al-medicare",
+        "published_date": "2026-04-08 12:17:55",
         "category": "Diplomacy"
     },
     {
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Avilanian workers condemn genocidal blockade",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/condenan-trabajadores-avilenos-genocida-bloqueo/",
-        "published_date": "2026-04-05 11:55:31",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Permanent rejection of Cuban workers to the blockade",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/permanente-el-rechazo-de-los-trabajadores-cubanos-al-bloqueo/",
-        "published_date": "2026-04-04 21:58:35",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Villa Clara workers challenge the blockade",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/trabajadores-villaclarenos-desafian-el-bloqueo/",
-        "published_date": "2026-04-03 19:10:28",
-        "category": "Diplomacy"
+        "title": "The Spanish company Vima, with business in Cuba, doubles its income despite the crisis on the Island",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/espanola-vima-negocio-cuba-duplica_1_1125504.html",
+        "published_date": "2026-04-08 19:32:43",
+        "category": "Military"
     },
     {
         "title": "Israel intensifies airstrikes against Lebanon",
@@ -249,13 +256,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/celebran-65-aniversario-del-ejercito-central/",
         "published_date": "2026-04-01 14:21:41",
-        "category": "Military"
-    },
-    {
-        "title": "Cienfuegos commemorates the 65th anniversary of the Central Army (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-conmemora-aniversario-65-del-ejercito-central/",
-        "published_date": "2026-03-31 23:29:28",
         "category": "Military"
     },
     {
@@ -399,6 +399,20 @@
         "category": "Energy"
     },
     {
+        "title": "Workers of the Cuban fishing industry celebrate their day today",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260408/festejan-hoy-su-dia-trabajadores-de-la-industria-pesquera-cubana/",
+        "published_date": "2026-04-08 21:45:30",
+        "category": "Economy"
+    },
+    {
+        "title": "New decree for budgeted units (+ PDF)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260408/nuevo-decreto-para-unidades-presupuestadas-otorga-mayor-flexibilizacion-en-su-sistema-de-gestion-pdf/",
+        "published_date": "2026-04-08 20:04:05",
+        "category": "Economy"
+    },
+    {
         "title": "Camag\u00fcey company links environmental awareness and economic development",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32599-empresa-camagueeyana-vincula-conciencia-ambiental-y-desarrollo-economico",
@@ -476,11 +490,88 @@
         "category": "Economy"
     },
     {
-        "title": "The Central Bank of Cuba creates 2,000 and 5,000 peso bills to facilitate transactions \"in the current moments of inflation\"",
+        "title": "Havana Weather for April 9-15",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/weather/havana-weather-for-april-9-15-3/",
+        "published_date": "2026-04-08 22:42:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inspection Directorate in Cienfuegos fights against illegal prices in agricultural products",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/direccion-de-inspeccion-en-cienfuegos-lucha-contra-precios-ilegales-en-productos-agropecuarios/",
+        "published_date": "2026-04-08 21:40:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban boxer Frank Zald\u00edvar, detained in the United States for attempted murder",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/banco-central-cuba-nuevos-billetes-inflacion_1_1125255.html",
-        "published_date": "2026-03-31 17:47:35",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/deportes/boxeador-cubano-frank-zaldivar-detenido_1_1125510.html",
+        "published_date": "2026-04-08 20:33:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gemini 3 Flash API for Health and Wellness Content Teams: Speed, Cost, and Practical Value",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/consejos/gemini-3-flash-api-for_132_1125509.html",
+        "published_date": "2026-04-08 20:26:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Forbidden Photo in Havana, Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/the-forbidden-photo-in-havana-cuba/",
+        "published_date": "2026-04-08 20:15:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mike Hammer expresses Washington's support for the imprisoned members of El4tico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/mike-hammer-expresa-respaldo-washington_1_1125506.html",
+        "published_date": "2026-04-08 20:01:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's truce with Iran: a respite that does not cure",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/tregua-de-trump-con-iran-un-respiro-que-no-cura/",
+        "published_date": "2026-04-08 19:01:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The forbidden photo",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/generacion-y/foto-prohibida-cuba-basura-habana_132_1125501.html",
+        "published_date": "2026-04-08 18:45:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump says Lebanon is not included in ceasefire with Iran",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-dice-libano-no-incluido_1_1125499.html",
+        "published_date": "2026-04-08 18:22:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Patria Colloquium: a communication Gir\u00f3n",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260408/coloquio-patria-un-giron-comunicacional/",
+        "published_date": "2026-04-08 18:19:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Driving in the Dark Adds Greater Risks on Cuban Streets",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/driving-in-the-dark-adds-greater-risks-on-cuban-streets/",
+        "published_date": "2026-04-08 17:32:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "The accusations about Medicare are one more slander against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/las-acusaciones-sobre-el-medicare-son-una-calumnia-mas-contra-cuba/",
+        "published_date": "2026-04-08 17:08:34",
+        "category": "Local Events"
     },
     {
         "title": "International News Briefs for Wednesday, April 8, 2026",
@@ -536,90 +627,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/ultima-audiencia-cubanos-condenados-muerte_1_1125493.html",
         "published_date": "2026-04-08 14:12:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nobel Laureate and 600 Israeli academics break silence on Israeli settler violence in the West Bank",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-premio-nobel-y-600-academicos-israelies-rompen-silencio-sobre-violencia-de-colonos-israelies-en-cisjordania/",
-        "published_date": "2026-04-08 14:08:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump against the world, and the world against Trump",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260408/trump-contra-el-mundo-y-el-mundo-contra-trump/",
-        "published_date": "2026-04-08 14:00:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vilma Esp\u00edn in the heart of children's circles",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/vilma-espin-en-el-corazon-de-los-circulos-infantiles/",
-        "published_date": "2026-04-08 13:56:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel to Newsweek: \u201cCuba is a country of peace that promotes solidarity and cooperation, but is not afraid of war\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/diaz-canel-a-newsweek-cuba-es-un-pais-de-paz-que-promueve-la-solidaridad-y-la-cooperacion-pero-no-le-teme-a-la-guerra/",
-        "published_date": "2026-04-08 13:34:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "How Pakistan negotiated the 14-day truce between Iran and the US in an early morning on the brink",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/pakistan-negocio-tregua-14-dias_1_1125496.html",
-        "published_date": "2026-04-08 13:23:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "First Iberia flight arrives in Venezuela after more than four months of suspension",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/llega-venezuela-primer-vuelo-iberia_1_1125492.html",
-        "published_date": "2026-04-08 13:07:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delcy Rodr\u00edguez will announce \"changes\" in Venezuela after three months in office",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-anunciara-cambios-venezuela_1_1125491.html",
-        "published_date": "2026-04-08 13:02:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Remote work and teleworking in Cuban Labor Law",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-trabajo-a-distancia-y-el-teletrabajo-en-el-derecho-laboral-cubano/",
-        "published_date": "2026-04-08 13:01:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "GIR\u00d3N: Solidarity with Cuba traveled across the continents (III)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260408/giron-la-solidaridad-con-cuba-recorrio-los-continentes-iii/",
-        "published_date": "2026-04-08 13:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban taekwondo for another battle to win",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260408/taekwondo-cubano-por-otra-batalla-a-ganar/",
-        "published_date": "2026-04-08 12:00:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fearlessness at Varadero airport",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260408/intrepidez-en-el-aeropuerto-de-varadero/",
-        "published_date": "2026-04-08 12:00:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Can I Find My Deleted Tweets Somewhere?",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/can-i-find-my-deleted_132_1125489.html",
-        "published_date": "2026-04-08 11:24:35",
         "category": "Local Events"
     }
 ]
