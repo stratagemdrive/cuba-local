@@ -1,5 +1,12 @@
 [
     {
+        "title": "State Security increases harassment against Anna Bensi and her family after Mike Hammer's visit",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/seguridad-aumenta-acoso-anna-bensi_1_1125548.html",
+        "published_date": "2026-04-09 18:03:54",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Moldovan decision to leave CIS economically destructive",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/decision-moldava-de-abandonar-la-cei-es-economicamente-destructiva/",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The other cancer",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260405/el-otro-cancer/",
-        "published_date": "2026-04-05 23:53:33",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Israel Massacres Over 250 Civilians in Lebanon",
         "source": "Havana Times",
         "url": "https://havanatimes.org/features/israel-massacres-over-250-civilians-in-lebanon/",
@@ -249,13 +249,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/china-medios-militares-no-resolveran-conflicto-en-medio-oriente/",
         "published_date": "2026-04-02 14:27:48",
-        "category": "Military"
-    },
-    {
-        "title": "Human Rights Council approves resolution presented by Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aprueba-consejo-de-derechos-humanos-resolucion-presentada-por-cuba/",
-        "published_date": "2026-04-01 19:45:34",
         "category": "Military"
     },
     {
@@ -399,6 +392,13 @@
         "category": "Energy"
     },
     {
+        "title": "Cash transfer and other deceptive temptations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/transferencia-por-efectivo-y-otras-tentaciones-enganosas/",
+        "published_date": "2026-04-10 04:00:21",
+        "category": "Economy"
+    },
+    {
         "title": "Workers of the Cuban fishing industry celebrate their day today",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260408/festejan-hoy-su-dia-trabajadores-de-la-industria-pesquera-cubana/",
@@ -462,11 +462,102 @@
         "category": "Economy"
     },
     {
-        "title": "No bank yet offers the new 5,000 peso bill announced for this Wednesday",
+        "title": "Mis Amiguitos Children's Circle: oasis for childhood (+ Gallery and Video)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/circulo-infantil-mis-amiguitos-oasis-para-la-infancia-galeria-y-video/",
+        "published_date": "2026-04-10 05:00:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "April 10: two births that forged a nation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/10-de-abril-dos-nacimientos-que-forjaron-una-nacion/",
+        "published_date": "2026-04-10 04:00:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manzanita nursery school: educating with love and care",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/circulo-infantil-manzanita-educar-con-amor-y-esmero/",
+        "published_date": "2026-04-10 04:00:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Koffee & The Compozers \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/koffee-the-compozers-song-of-the-day/",
+        "published_date": "2026-04-10 00:17:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Doubts persist about the ability of the state-owned Fincimex to deliver remittances in dollars",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/banco-ofrece-nueve-billete-5_1_1125294.html",
-        "published_date": "2026-04-01 20:38:02",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cuba/persisten-dudas-capacidad-estatal-fincimex_1_1125558.html",
+        "published_date": "2026-04-09 22:53:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Woman Who Cannot Stop",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/kamil-kenders/a-woman-who-cannot-stop/",
+        "published_date": "2026-04-09 22:04:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Giants of Nature in Havana",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-feature/giants-of-nature-in-havana/",
+        "published_date": "2026-04-09 20:28:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico detains a Cuban who was wanted in the US for drug trafficking",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/mexico-detiene-cubano-buscado-ee_1_1125555.html",
+        "published_date": "2026-04-09 20:21:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sheinbaum says she is \u201cproud\u201d to support Cuba and denies opacity about the sending of aid",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/sheinbaum-dice-orgullosa-apoyar-cuba_1_1125553.html",
+        "published_date": "2026-04-09 20:10:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "After almost two months in prison without evidence, the regime releases an accused of posters against D\u00edaz-Canel",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/meses-preso-pruebas-regimen-libera_1_1125550.html",
+        "published_date": "2026-04-09 18:57:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gift of champions for May Day",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260409/regalo-de-campeones-por-el-primero-de-mayo/",
+        "published_date": "2026-04-09 18:39:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Acopio loses its monopoly, but the State retains partial control of the sale of agricultural products",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/acopio-pierde-monopolio-conserva-control_1_1125546.html",
+        "published_date": "2026-04-09 17:45:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cienfuegos will celebrate International Day of Monuments and Sites (+Gallery)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/celebrara-cienfuegos-dia-internacional-de-los-monumentos-y-sitios-galeria/",
+        "published_date": "2026-04-09 17:30:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Some notes on Note by Note",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260409/algunas-notas-sobre-nota-a-nota/",
+        "published_date": "2026-04-09 16:37:09",
+        "category": "Local Events"
     },
     {
         "title": "Moscow doctors save baby with large brain tumor",
@@ -508,104 +599,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-10-de-abril/",
         "published_date": "2026-04-09 15:15:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban scientists present advances in stroke treatments and dermatological diseases",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cientificos-cubanos-presentan-avances-en-tratamientos-del-ictus-y-enfermedades-dermatologicas/",
-        "published_date": "2026-04-09 15:13:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "May Day Airs",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260409/aires-del-primero-de-mayo/",
-        "published_date": "2026-04-09 15:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "International News Briefs for Thursday, April 9, 2026",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-april-9-2026/",
-        "published_date": "2026-04-09 15:01:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran conditions truce on cessation of Israeli attacks on Lebanon",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-condiciona-tregua-a-cese-de-ataques-israelies-contra-libano/",
-        "published_date": "2026-04-09 15:00:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "New decree for budgeted units grants greater flexibility in their management system (+PDF)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/nuevo-decreto-para-unidades-presupuestadas-otorga-mayor-flexibilizacion-en-su-sistema-de-gestion-pdf/",
-        "published_date": "2026-04-09 14:54:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fisheries workers celebrated from Holgu\u00edn",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260409/trabajadores-de-la-pesca-celebraron-desde-holguin/",
-        "published_date": "2026-04-09 14:48:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran shares recommendations for ships to avoid mines in Hormuz",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/iran-comparte-recomendaciones-buques-eviten_1_1125540.html",
-        "published_date": "2026-04-09 13:06:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "GIR\u00d3N: Fidel always at the head of his troops (IV)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260409/giron-fidel-siempre-al-frente-de-su-tropa-iv/",
-        "published_date": "2026-04-09 13:00:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lebanon, the thread on which the ceasefire in Iran hangs",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/libano-hilo-pende-alto-fuego_1_1125536.html",
-        "published_date": "2026-04-09 12:47:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazilian singer-songwriter Chico Buarque records with Silvio Rodr\u00edguez in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/cantautor-brasileno-chico-buarque-graba_1_1125537.html",
-        "published_date": "2026-04-09 12:40:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Rancor'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/rancor_1_1125529.html",
-        "published_date": "2026-04-09 11:19:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The condemnation of Global Air in Mexico for the accident in Havana encourages Cuban families",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/condena-global-air-mexico-accidente_1_1125533.html",
-        "published_date": "2026-04-09 11:00:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another shipment of the US donation arrives in Cuba for the victims of Hurricane Melissa",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/llega-cuba-cargamento-donacion-ee_1_1125527.html",
-        "published_date": "2026-04-09 10:51:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "'What women talk about in the bathroom'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/hablan-mujeres-bano_1_1125523.html",
-        "published_date": "2026-04-09 10:32:38",
         "category": "Local Events"
     }
 ]
