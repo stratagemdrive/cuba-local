@@ -1,5 +1,12 @@
 [
     {
+        "title": "Lebanon relies on international support to stop Israeli escalation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/libano-confia-en-apoyo-internacional-para-frenar-la-escalada-israeli/",
+        "published_date": "2026-04-10 16:23:51",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Vice Chancellor Riabkov denounces the \"obsession\" of the United States with expelling Russia from the \"Western Hemisphere\"",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/vicecanciller-riabkov-denuncia-obsesion-ee_1_1125565.html",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuban president exposes US congressmen about damages of the blockade",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32589-presidente-cubano-expone-a-congresistas-de-ee-uu-danos-del-bloqueo",
-        "published_date": "2026-04-06 11:31:59",
-        "category": "Diplomacy"
+        "title": "National Defense Day in Cumanayagua: cohesion in the face of threats from the empire",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/dia-nacional-de-la-defensa-en-cumanayagua-cohesion-ante-amenazas-del-imperio/",
+        "published_date": "2026-04-10 19:27:51",
+        "category": "Military"
     },
     {
         "title": "Israel Massacres Over 250 Civilians in Lebanon",
@@ -231,25 +238,46 @@
         "category": "Military"
     },
     {
-        "title": "Another European country prohibits the US from using its airspace in the conflict with Iran",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/otro-pais-europeo-prohibe-a-ee-uu-el-uso-de-su-espacio-aereo-en-el-conflicto-con-iran/",
-        "published_date": "2026-04-02 17:26:45",
-        "category": "Military"
+        "title": "A fire in a Havana substation leaves 20,000 customers without power",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/incendio-subestacion-habana-deja-20_1_1125598.html",
+        "published_date": "2026-04-10 21:02:31",
+        "category": "Energy"
     },
     {
-        "title": "Trump assures that the \u201cfundamental strategic objectives\u201d in Iran are \u201cclose to completion\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-asegura-que-los-objetivos-estrategicos-fundamentales-en-iran-estan-cerca-de-completarse/",
-        "published_date": "2026-04-02 15:03:40",
-        "category": "Military"
+        "title": "In Matanzas, the crisis also haunts Cubans after their deaths",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/matanzas-crisis-persigue-cubanos-despues_1_1125592.html",
+        "published_date": "2026-04-10 18:41:14",
+        "category": "Energy"
     },
     {
-        "title": "China: Military means will not resolve conflict in the Middle East",
+        "title": "New position in Petroempleo call",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260410/nueva-plaza-en-convocatoria-de-petroempleo/",
+        "published_date": "2026-04-10 16:09:19",
+        "category": "Energy"
+    },
+    {
+        "title": "March rumors fantasized about Russian oil and the fall of D\u00edaz-Canel",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/rumores-marzo-fantasearon-petroleo-ruso_1_1125585.html",
+        "published_date": "2026-04-10 15:04:39",
+        "category": "Energy"
+    },
+    {
+        "title": "Uni\u00f3n El\u00e9ctrica predicts an impact of 1,630 MW for the night peak schedule",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/china-medios-militares-no-resolveran-conflicto-en-medio-oriente/",
-        "published_date": "2026-04-02 14:27:48",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/union-electrica-pronostica-una-afectacion-de-1-630-mw-para-el-horario-pico-nocturno/",
+        "published_date": "2026-04-10 14:20:15",
+        "category": "Energy"
+    },
+    {
+        "title": "Thermoelectric Guiteras online",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32608-termoelectrica-guiteras-en-linea",
+        "published_date": "2026-04-10 12:51:29",
+        "category": "Energy"
     },
     {
         "title": "Grateful to Cuba, they donate a photovoltaic system to a Special Education school",
@@ -350,48 +378,6 @@
         "category": "Energy"
     },
     {
-        "title": "Oil in the arteries: Trump's 'Hormuz-gate'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/petroleo-arterias-ormuz-gate-trump_1_1125374.html",
-        "published_date": "2026-04-04 12:34:58",
-        "category": "Energy"
-    },
-    {
-        "title": "Cupet: Biomethane plant in Matanzas enters final assembly phase",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cupet-planta-de-biometano-en-matanzas-entra-en-fase-final-de-montaje/",
-        "published_date": "2026-04-03 19:03:01",
-        "category": "Energy"
-    },
-    {
-        "title": "Biofuel plant in final assembly phase",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/en-fase-final-montaje-planta-de-biocombustibles/",
-        "published_date": "2026-04-03 17:23:33",
-        "category": "Energy"
-    },
-    {
-        "title": "X\u00f3lido Santiago: for more in the use of the Sun's energy",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260402/xolido-santiago-por-mas-en-el-uso-de-la-energia-del-sol/",
-        "published_date": "2026-04-02 22:50:49",
-        "category": "Energy"
-    },
-    {
-        "title": "Ian's light (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-luz-de-ian-fotos/",
-        "published_date": "2026-04-02 15:51:50",
-        "category": "Energy"
-    },
-    {
-        "title": "Russia prepares to send a second tanker to Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/rusia-prepara-envio-de-un-segundo-petrolero-a-cuba/",
-        "published_date": "2026-04-02 14:39:48",
-        "category": "Energy"
-    },
-    {
         "title": "Cash transfer and other deceptive temptations",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/transferencia-por-efectivo-y-otras-tentaciones-enganosas/",
@@ -441,150 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Arms that donate the most valuable drop",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260402/brazos-que-donan-la-mas-valiosa-gota/",
-        "published_date": "2026-04-02 19:27:45",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuba is not subject to the designs of the United States, D\u00edaz-Canel assures NBC News (+ Video)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260410/cuba-no-esta-sujeta-a-designios-de-estados-unidos-asegura-diaz-canel-a-nbc-news-video/",
-        "published_date": "2026-04-10 11:48:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from April 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-10-abril-2026_7_1125575.html",
-        "published_date": "2026-04-10 11:24:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, April 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-10-abril_7_1125568.html",
-        "published_date": "2026-04-10 11:04:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, April 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-10-abril_132_1125564.html",
-        "published_date": "2026-04-10 10:57:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from April 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-10-abril-2026_132_1125563.html",
-        "published_date": "2026-04-10 10:12:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mis Amiguitos Children's Circle: oasis for childhood (+ Gallery and Video)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/circulo-infantil-mis-amiguitos-oasis-para-la-infancia-galeria-y-video/",
-        "published_date": "2026-04-10 05:00:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "April 10: two births that forged a nation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/10-de-abril-dos-nacimientos-que-forjaron-una-nacion/",
-        "published_date": "2026-04-10 04:00:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manzanita nursery school: educating with love and care",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/circulo-infantil-manzanita-educar-con-amor-y-esmero/",
-        "published_date": "2026-04-10 04:00:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Koffee & The Compozers \u2013 Song of the Day",
+        "title": "The Odyssey of Traveling on an Almost Stagnant Island",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/koffee-the-compozers-song-of-the-day/",
-        "published_date": "2026-04-10 00:17:08",
+        "url": "https://havanatimes.org/features/the-odyssey-of-traveling-on-an-almost-stagnant-island/",
+        "published_date": "2026-04-10 21:02:51",
         "category": "Local Events"
     },
     {
-        "title": "Doubts persist about the ability of the state-owned Fincimex to deliver remittances in dollars",
+        "title": "Seven Cubans deported by the United States find support in a shelter in Tapachula",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/persisten-dudas-capacidad-estatal-fincimex_1_1125558.html",
-        "published_date": "2026-04-09 22:53:23",
+        "url": "https://www.14ymedio.com/migracion/siete-cubanos-deportados-ee-uu_1_1125595.html",
+        "published_date": "2026-04-10 20:27:12",
         "category": "Local Events"
     },
     {
-        "title": "A Woman Who Cannot Stop",
+        "title": "In Matanzas, the Crisis Also Pursues Cubans After Death",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/kamil-kenders/a-woman-who-cannot-stop/",
-        "published_date": "2026-04-09 22:04:47",
+        "url": "https://havanatimes.org/features/in-matanzas-the-crisis-also-pursues-cubans-after-death/",
+        "published_date": "2026-04-10 19:41:57",
         "category": "Local Events"
     },
     {
-        "title": "Giants of Nature in Havana",
+        "title": "The prison sentence against the artist Nando OBDC and another beating of F\u00e9lix Navarro in the Ag\u00fcica prison are confirmed",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/confirma-pena-carcel-artista-nando_1_1125590.html",
+        "published_date": "2026-04-10 18:35:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel's eight basic problems",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/ocho-problemas-basicos-diaz-canel_132_1125588.html",
+        "published_date": "2026-04-10 17:51:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "They stimulate fishing workers",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260410/estimulan-a-trabajadores-pesqueros/",
+        "published_date": "2026-04-10 17:16:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arlen L\u00f3pez already knows his next rival",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260410/arlen-lopez-ya-conoce-a-su-proximo-rival/",
+        "published_date": "2026-04-10 16:45:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia, one hundred percent in solidarity with Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260410/rusia-cien-por-ciento-solidaria-con-cuba/",
+        "published_date": "2026-04-10 16:22:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "UN warns of serious consequences of Israeli attacks on Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/onu-alerta-sobre-graves-consecuencias-de-ataques-israelies-a-libano/",
+        "published_date": "2026-04-10 16:17:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peru Seeks a New President on Sunday, April 12th",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/giants-of-nature-in-havana/",
-        "published_date": "2026-04-09 20:28:23",
+        "url": "https://havanatimes.org/features/peru-seeks-a-new-president-on-sunday-april-12th/",
+        "published_date": "2026-04-10 16:12:34",
         "category": "Local Events"
     },
     {
-        "title": "Mexico detains a Cuban who was wanted in the US for drug trafficking",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/mexico-detiene-cubano-buscado-ee_1_1125555.html",
-        "published_date": "2026-04-09 20:21:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sheinbaum says she is \u201cproud\u201d to support Cuba and denies opacity about the sending of aid",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/sheinbaum-dice-orgullosa-apoyar-cuba_1_1125553.html",
-        "published_date": "2026-04-09 20:10:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "After almost two months in prison without evidence, the regime releases an accused of posters against D\u00edaz-Canel",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/meses-preso-pruebas-regimen-libera_1_1125550.html",
-        "published_date": "2026-04-09 18:57:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gift of champions for May Day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260409/regalo-de-campeones-por-el-primero-de-mayo/",
-        "published_date": "2026-04-09 18:39:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acopio loses its monopoly, but the State retains partial control of the sale of agricultural products",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/acopio-pierde-monopolio-conserva-control_1_1125546.html",
-        "published_date": "2026-04-09 17:45:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos will celebrate International Day of Monuments and Sites (+Gallery)",
+        "title": "Israel intensifies bombing in Lebanon",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/celebrara-cienfuegos-dia-internacional-de-los-monumentos-y-sitios-galeria/",
-        "published_date": "2026-04-09 17:30:44",
+        "url": "https://www.5septiembre.cu/israel-intensifica-los-bombardeos-en-el-libano/",
+        "published_date": "2026-04-10 15:41:49",
         "category": "Local Events"
     },
     {
-        "title": "Some notes on Note by Note",
+        "title": "Ember receives Fidel's Centennial plaque (+Video)",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260409/algunas-notas-sobre-nota-a-nota/",
-        "published_date": "2026-04-09 16:37:09",
+        "url": "https://www.trabajadores.cu/20260410/ember-recibe-placa-centenario-de-fidel-video/",
+        "published_date": "2026-04-10 15:27:24",
         "category": "Local Events"
     },
     {
-        "title": "Moscow doctors save baby with large brain tumor",
+        "title": "The IACHR demands explanations from the regime for the imprisonment of the minor Jonathan Muir Burgos",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cidh-exige-explicaciones-regimen-encarcelamiento_1_1125586.html",
+        "published_date": "2026-04-10 15:20:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "How to Maintain Sanity and Some Optimism in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/lien-estrada/how-to-maintain-sanity-and-some-optimism-in-cuba/",
+        "published_date": "2026-04-10 15:13:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miguel D\u00edaz-Canel to NBC News: Cuba is not subject to US designs",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/medicos-de-moscu-salvan-a-bebe-con-gran-tumor-cerebral/",
-        "published_date": "2026-04-09 15:55:32",
+        "url": "https://www.5septiembre.cu/miguel-diaz-canel-a-nbc-news-cuba-no-esta-sujeta-a-designios-de-ee-uu/",
+        "published_date": "2026-04-10 15:13:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gu\u00e1imaro: when the Cubans turned the reason for their sword into a Constitution",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/guaimaro-cuando-los-cubanos-convirtieron-en-constitucion-la-razon-de-su-espada/",
+        "published_date": "2026-04-10 15:07:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "All with Cuba: Against the threat of imperialist aggression.For the right to life",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260410/todos-con-cuba-contra-la-amenaza-de-agresion-imperialista-por-el-derecho-a-la-vida/",
+        "published_date": "2026-04-10 15:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Mart\u00ednez saves his third game in Japanese baseball",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cubano-martinez-salva-su-tercer-juego-en-beisbol-japones/",
+        "published_date": "2026-04-10 14:56:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peru: A vote of confidence in the people",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260410/peru-un-voto-de-confianza-al-pueblo/",
+        "published_date": "2026-04-10 14:47:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran reports more than 125,000 civilian facilities damaged by attacks",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-reporta-mas-de-125-mil-instalaciones-civiles-danadas-por-ataques/",
+        "published_date": "2026-04-10 14:44:02",
         "category": "Local Events"
     }
 ]
