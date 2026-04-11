@@ -1,5 +1,33 @@
 [
     {
+        "title": "Ludema Furniture: the blockade without collective consent",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260411/muebles-ludema-el-bloqueo-sin-la-anuencia-colectiva/",
+        "published_date": "2026-04-11 23:30:22",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Combatants reaffirm loyalty to the Cuban Revolution",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32614-combatientes-reafirman-lealtad-a-la-revolucion-cubana",
+        "published_date": "2026-04-11 18:03:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba and Russia consolidate strategic relations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/consolidan-cuba-y-rusia-relaciones-estrategicas/",
+        "published_date": "2026-04-11 14:15:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba denounces impact of the US blockade in a regional forum",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-denuncia-en-foro-regional-impacto-del-bloqueo-de-eeuu/",
+        "published_date": "2026-04-11 14:04:06",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Lebanon relies on international support to stop Israeli escalation",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/libano-confia-en-apoyo-internacional-para-frenar-la-escalada-israeli/",
@@ -112,32 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Labor protection premise of Labor and Social Security measures in Cienfuegos in the face of energy blockade",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/proteccion-laboral-premisa-de-medidas-de-trabajo-y-seguridad-social-en-cienfuegos-ante-bloqueo-energetico/",
-        "published_date": "2026-04-07 14:38:07",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Under constant pressure",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/bajo-presion-constante/",
-        "published_date": "2026-04-07 04:00:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "It is not a blockade, it is an economic war",
+        "title": "Villa Clara consolidates its defensive capacity from Escambray",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260406/no-es-bloqueo-es-guerra-economica/",
-        "published_date": "2026-04-06 22:26:55",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260411/villa-clara-consolida-su-capacidad-defensiva-desde-el-escambray/",
+        "published_date": "2026-04-11 19:59:21",
+        "category": "Military"
     },
     {
-        "title": "D\u00edaz-Canel receives US congressmen and criticizes the impact of the economic blockade",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/diaz-canel-recibe-a-congresistas-de-eeuu-y-critica-el-impacto-del-bloqueo-economico/",
-        "published_date": "2026-04-06 17:18:40",
-        "category": "Diplomacy"
+        "title": "A pair of oxen and a cart, the latest innovations in military strategy in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/par-bueyes-carreta-ultimas-innovaciones_1_1125619.html",
+        "published_date": "2026-04-11 19:37:56",
+        "category": "Military"
     },
     {
         "title": "National Defense Day in Cumanayagua: cohesion in the face of threats from the empire",
@@ -210,18 +224,18 @@
         "category": "Military"
     },
     {
-        "title": "Birthday in olive green (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cumpleanos-en-verde-olivo-fotos/",
-        "published_date": "2026-04-03 14:16:27",
-        "category": "Military"
+        "title": "Russia \"working on an energy supply plan\" that includes sending another oil tanker to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/rusia-trabaja-plan-suministro-energia_1_1125617.html",
+        "published_date": "2026-04-11 18:03:38",
+        "category": "Energy"
     },
     {
-        "title": "Ra\u00fal congratulated the Central Army for its 65 years of founding",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/felicito-raul-al-ejercito-central-por-sus-65-anos-de-fundado/",
-        "published_date": "2026-04-03 13:24:34",
-        "category": "Military"
+        "title": "Uni\u00f3n El\u00e9ctrica predicts an impact of 1,515 MW for the night peak schedule",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/union-electrica-pronostica-una-afectacion-de-1515-mw-para-el-horario-pico-nocturno/",
+        "published_date": "2026-04-11 13:49:12",
+        "category": "Energy"
     },
     {
         "title": "A fire in a Havana substation leaves 20,000 customers without power",
@@ -350,20 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "Iran criticizes IAEA position after attack on nuclear power plant",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-critica-postura-del-oiea-tras-ataque-a-central-nuclear/",
-        "published_date": "2026-04-05 18:20:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Carmencita and the Sonoras \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/carmencita-y-las-sonoras-song-of-the-day/",
-        "published_date": "2026-04-05 03:39:59",
-        "category": "Energy"
-    },
-    {
         "title": "Cash transfer and other deceptive temptations",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/transferencia-por-efectivo-y-otras-tentaciones-enganosas/",
@@ -399,150 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "The union movement's tribute to the new generations",
+        "title": "Tribute to Fidel in Ciro Redondo",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260403/el-homenaje-del-movimiento-sindical-a-las-nuevas-generaciones/",
-        "published_date": "2026-04-03 13:30:00",
-        "category": "Economy"
-    },
-    {
-        "title": "A Cuban and others deported by the US to Eswatini will have the right to a lawyer",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/cubano-deportados-ee-uu-esuatini_1_1125607.html",
-        "published_date": "2026-04-11 11:36:25",
+        "url": "https://www.trabajadores.cu/20260411/homenaje-a-fidel-en-ciro-redondo/",
+        "published_date": "2026-04-11 22:30:29",
         "category": "Local Events"
     },
     {
-        "title": "Graduates committed to tradition and history",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/licenciados-comprometidos-con-la-tradicion-y-la-historia/",
-        "published_date": "2026-04-11 04:00:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Digital sustainability and climate change",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/sostenibilidad-digital-y-cambio-climatico/",
-        "published_date": "2026-04-11 04:00:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Enjoying Lake Cocibolca, Ometepe, Nicaragua \u2013 Photo of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/enjoying-lake-cocibolca-ometepe-nicaragua-photo-of-the-day/",
-        "published_date": "2026-04-11 01:16:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Artemis II returns successfully after orbiting the Moon and opens the door to new NASA missions",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/astronautas-artemis-ii-entran-atmosfera_1_1125600.html",
-        "published_date": "2026-04-11 00:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Odyssey of Traveling on an Almost Stagnant Island",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/the-odyssey-of-traveling-on-an-almost-stagnant-island/",
-        "published_date": "2026-04-10 21:02:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven Cubans deported by the United States find support in a shelter in Tapachula",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/siete-cubanos-deportados-ee-uu_1_1125595.html",
-        "published_date": "2026-04-10 20:27:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Matanzas, the Crisis Also Pursues Cubans After Death",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/in-matanzas-the-crisis-also-pursues-cubans-after-death/",
-        "published_date": "2026-04-10 19:41:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The prison sentence against the artist Nando OBDC and another beating of F\u00e9lix Navarro in the Ag\u00fcica prison are confirmed",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/confirma-pena-carcel-artista-nando_1_1125590.html",
-        "published_date": "2026-04-10 18:35:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel's eight basic problems",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/ocho-problemas-basicos-diaz-canel_132_1125588.html",
-        "published_date": "2026-04-10 17:51:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "They stimulate fishing workers",
+        "title": "Economic actors seek to substitute imports in Artemisa",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260410/estimulan-a-trabajadores-pesqueros/",
-        "published_date": "2026-04-10 17:16:55",
+        "url": "https://www.trabajadores.cu/20260411/actores-economicos-buscan-sustituir-importaciones-en-artemisa/",
+        "published_date": "2026-04-11 21:25:39",
         "category": "Local Events"
     },
     {
-        "title": "Arlen L\u00f3pez already knows his next rival",
+        "title": "Joy everywhere",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260410/arlen-lopez-ya-conoce-a-su-proximo-rival/",
-        "published_date": "2026-04-10 16:45:28",
+        "url": "https://www.trabajadores.cu/20260411/alegria-por-doquier/",
+        "published_date": "2026-04-11 20:47:16",
         "category": "Local Events"
     },
     {
-        "title": "Russia, one hundred percent in solidarity with Cuba",
+        "title": "They develop a day for World Immunology Day",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260410/rusia-cien-por-ciento-solidaria-con-cuba/",
-        "published_date": "2026-04-10 16:22:39",
+        "url": "https://www.trabajadores.cu/20260411/desarrollan-jornada-por-dia-mundial-de-inmunologia/",
+        "published_date": "2026-04-11 20:09:24",
         "category": "Local Events"
     },
     {
-        "title": "UN warns of serious consequences of Israeli attacks on Lebanon",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/onu-alerta-sobre-graves-consecuencias-de-ataques-israelies-a-libano/",
-        "published_date": "2026-04-10 16:17:00",
+        "title": "Holgu\u00edn celebrated 65 years of daycare centers with full coverage for early childhood",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260411/holguin-celebro-los-65-anos-de-los-circulos-infantiles-con-cobertura-total-para-la-primera-infancia/",
+        "published_date": "2026-04-11 18:28:40",
         "category": "Local Events"
     },
     {
-        "title": "Peru Seeks a New President on Sunday, April 12th",
+        "title": "MY INFLUENCERS (I): Rodrigo and Elvira, a capricious hip",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260411/mis-influencers-i-rodrigo-y-elvira-una-cadera-caprichosa/",
+        "published_date": "2026-04-11 16:49:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "MY INFLUENCERS (II): Nicol\u00e1s and L\u00e9rida, champions without medals",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260411/mis-influencers-ii-nicolas-y-lerida-campeones-sin-medallas/",
+        "published_date": "2026-04-11 16:34:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unknowns in Peru\u2019s Elections on Sunday",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/features/peru-seeks-a-new-president-on-sunday-april-12th/",
-        "published_date": "2026-04-10 16:12:34",
+        "url": "https://havanatimes.org/opinion/unknowns-in-perus-elections-on-sunday/",
+        "published_date": "2026-04-11 16:11:21",
         "category": "Local Events"
     },
     {
-        "title": "Israel intensifies bombing in Lebanon",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/israel-intensifica-los-bombardeos-en-el-libano/",
-        "published_date": "2026-04-10 15:41:49",
+        "title": "Camagua: from the flip flop to the dream of a major festival",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32612-camagua-de-la-chancleta-al-sueno-de-un-festival-mayor",
+        "published_date": "2026-04-11 15:56:25",
         "category": "Local Events"
     },
     {
-        "title": "Ember receives Fidel's Centennial plaque (+Video)",
+        "title": "Camag\u00fceyans lead Cuban water polo teams",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/deportes/32611-camagueyanos-lideran-equipos-cuba-de-polo-acuatico",
+        "published_date": "2026-04-11 15:33:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers' solidarity from all corners of the world",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260410/ember-recibe-placa-centenario-de-fidel-video/",
-        "published_date": "2026-04-10 15:27:24",
+        "url": "https://www.trabajadores.cu/20260411/solidaridad-obrera-desde-todos-los-rincones-del-mundo/",
+        "published_date": "2026-04-11 15:21:11",
         "category": "Local Events"
     },
     {
-        "title": "The IACHR demands explanations from the regime for the imprisonment of the minor Jonathan Muir Burgos",
+        "title": "Pedro S\u00e1nchez begins his fourth official visit to China to strengthen bilateral ties (+ Video)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pedro-sanchez-inicia-cuarta-visita-oficial-a-china-para-reforzar-vinculos-bilaterales-video/",
+        "published_date": "2026-04-11 14:46:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran affirms good faith in negotiations but distrusts Washington",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-afirma-buena-fe-en-negociaciones-pero-desconfia-en-washington/",
+        "published_date": "2026-04-11 14:40:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Delegations of Iran and the US in Islamabad for negotiations, Tehran insists on preconditions for dialogue",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/delegaciones-de-iran-y-eeuu-en-islamabad-para-negociaciones-teheran-insiste-en-condiciones-previas-para-el-dialogo/",
+        "published_date": "2026-04-11 14:36:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Communist Party of Chile will hold the XI plenary session of its Central Committee",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/partido-comunista-de-chile-realizara-xi-pleno-de-su-comite-central/",
+        "published_date": "2026-04-11 14:24:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronicle of a Havana Building Collapse Foretold",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-feature/chronicle-of-a-havana-building-collapse-foretold/",
+        "published_date": "2026-04-11 14:06:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "They recognized doctors from Cuba in the San Marcos department, Guatemala",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reconocieron-a-medicos-de-cuba-en-departamento-san-marcos-guatemala/",
+        "published_date": "2026-04-11 13:59:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tehran conditions a possible agreement with the United States on Washington not acting on Israel's behalf",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cidh-exige-explicaciones-regimen-encarcelamiento_1_1125586.html",
-        "published_date": "2026-04-10 15:20:25",
+        "url": "https://www.14ymedio.com/internacional/iran-condiciona-posible-acuerdo-ee_1_1125615.html",
+        "published_date": "2026-04-11 13:35:25",
         "category": "Local Events"
     },
     {
-        "title": "How to Maintain Sanity and Some Optimism in Cuba",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/lien-estrada/how-to-maintain-sanity-and-some-optimism-in-cuba/",
-        "published_date": "2026-04-10 15:13:17",
+        "title": "A man dies while trying to steal dielectric oil in Santiago de Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-hombre-robar-aceite-dielectrico_1_1125611.html",
+        "published_date": "2026-04-11 12:55:01",
         "category": "Local Events"
     },
     {
-        "title": "Miguel D\u00edaz-Canel to NBC News: Cuba is not subject to US designs",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/miguel-diaz-canel-a-nbc-news-cuba-no-esta-sujeta-a-designios-de-ee-uu/",
-        "published_date": "2026-04-10 15:13:12",
+        "title": "Violence soars in the streets and schools of Russia, fueled by war propaganda",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/violencia-dispara-calles-escuelas-rusia_1_1125609.html",
+        "published_date": "2026-04-11 12:23:00",
         "category": "Local Events"
     }
 ]
