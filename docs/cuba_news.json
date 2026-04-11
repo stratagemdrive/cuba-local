@@ -224,20 +224,6 @@
         "category": "Military"
     },
     {
-        "title": "Foro Penal registers 490 political prisoners in Venezuela in the midst of the amnesty process",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/foro-penal-registra-490-presos_1_1125339.html",
-        "published_date": "2026-04-03 09:00:40",
-        "category": "Military"
-    },
-    {
-        "title": "Ra\u00fal congratulates the Central Army for its 65 years of founding",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/felicita-raul-al-ejercito-central-por-sus-65-anos-de-fundado/",
-        "published_date": "2026-04-03 00:22:36",
-        "category": "Military"
-    },
-    {
         "title": "A fire in a Havana substation leaves 20,000 customers without power",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/incendio-subestacion-habana-deja-20_1_1125598.html",
@@ -420,11 +406,39 @@
         "category": "Economy"
     },
     {
-        "title": "Dollar continues to rise in Cuba: this is how the informal market dawned today",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/dolar-sigue-en-alza-en-cuba-asi-amanecio-el-mercado-informal-hoy/",
-        "published_date": "2026-04-03 10:21:45",
-        "category": "Economy"
+        "title": "A Cuban and others deported by the US to Eswatini will have the right to a lawyer",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cubano-deportados-ee-uu-esuatini_1_1125607.html",
+        "published_date": "2026-04-11 11:36:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Graduates committed to tradition and history",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/licenciados-comprometidos-con-la-tradicion-y-la-historia/",
+        "published_date": "2026-04-11 04:00:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Digital sustainability and climate change",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sostenibilidad-digital-y-cambio-climatico/",
+        "published_date": "2026-04-11 04:00:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Enjoying Lake Cocibolca, Ometepe, Nicaragua \u2013 Photo of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/enjoying-lake-cocibolca-ometepe-nicaragua-photo-of-the-day/",
+        "published_date": "2026-04-11 01:16:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artemis II returns successfully after orbiting the Moon and opens the door to new NASA missions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/astronautas-artemis-ii-entran-atmosfera_1_1125600.html",
+        "published_date": "2026-04-11 00:03:46",
+        "category": "Local Events"
     },
     {
         "title": "The Odyssey of Traveling on an Almost Stagnant Island",
@@ -529,41 +543,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/miguel-diaz-canel-a-nbc-news-cuba-no-esta-sujeta-a-designios-de-ee-uu/",
         "published_date": "2026-04-10 15:13:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gu\u00e1imaro: when the Cubans turned the reason for their sword into a Constitution",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/guaimaro-cuando-los-cubanos-convirtieron-en-constitucion-la-razon-de-su-espada/",
-        "published_date": "2026-04-10 15:07:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "All with Cuba: Against the threat of imperialist aggression.For the right to life",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260410/todos-con-cuba-contra-la-amenaza-de-agresion-imperialista-por-el-derecho-a-la-vida/",
-        "published_date": "2026-04-10 15:04:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Mart\u00ednez saves his third game in Japanese baseball",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cubano-martinez-salva-su-tercer-juego-en-beisbol-japones/",
-        "published_date": "2026-04-10 14:56:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peru: A vote of confidence in the people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260410/peru-un-voto-de-confianza-al-pueblo/",
-        "published_date": "2026-04-10 14:47:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran reports more than 125,000 civilian facilities damaged by attacks",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-reporta-mas-de-125-mil-instalaciones-civiles-danadas-por-ataques/",
-        "published_date": "2026-04-10 14:44:02",
         "category": "Local Events"
     }
 ]
