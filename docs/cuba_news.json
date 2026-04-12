@@ -1,5 +1,19 @@
 [
     {
+        "title": "Trump announces the blockade of the Strait of Hormuz by the US Navy",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-anuncia-bloqueo-estrecho-ormuz_1_1125636.html",
+        "published_date": "2026-04-12 17:09:37",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba and Seychelles celebrate the establishment of diplomatic relations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-y-seychelles-celebran-establecimiento-de-relaciones-diplomaticas/",
+        "published_date": "2026-04-12 15:21:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ludema Furniture: the blockade without collective consent",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260411/muebles-ludema-el-bloqueo-sin-la-anuencia-colectiva/",
@@ -126,18 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuban women reaffirm their revolutionary commitment against the blockade",
+        "title": "To the furrow for the defense of the Homeland",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260407/mujeres-cubanas-reafirman-su-compromiso-revolucionario-contra-el-bloqueo/",
-        "published_date": "2026-04-07 18:19:00",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260412/al-surco-por-la-defensa-de-la-patria/",
+        "published_date": "2026-04-12 20:18:45",
+        "category": "Military"
     },
     {
-        "title": "D\u00edaz-Canel received US congressmen in Havana",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260407/diaz-canel-recibio-a-congresistas-de-ee-uu-en-la-habana/",
-        "published_date": "2026-04-07 15:16:10",
-        "category": "Diplomacy"
+        "title": "The US seeks to strengthen the military service list with an automatic registration that includes immigrants",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/eeuu-busca-reforzar-lista-servicio_1_1125649.html",
+        "published_date": "2026-04-12 19:12:21",
+        "category": "Military"
+    },
+    {
+        "title": "The Latest Innovations in Cuba's Military Strategy",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/the-latest-innovations-in-cubas-military-strategy/",
+        "published_date": "2026-04-12 14:57:35",
+        "category": "Military"
     },
     {
         "title": "Muscles vibrate for May Day",
@@ -217,11 +238,18 @@
         "category": "Military"
     },
     {
-        "title": "Trump pushes military budget of 1.5 trillion with cuts in health, education and environment",
+        "title": "Uni\u00f3n El\u00e9ctrica predicts an impact of 1,630 MW for the night peak this Sunday",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-impulsa-presupuesto-militar-de-1-5-billones-con-recortes-en-salud-educacion-y-medio-ambiente/",
-        "published_date": "2026-04-04 13:45:09",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/union-electrica-pronostica-una-afectacion-de-1630-mw-para-el-pico-nocturno-de-este-domingo/",
+        "published_date": "2026-04-12 14:42:23",
+        "category": "Energy"
+    },
+    {
+        "title": "China replaces the Canadian Sherritt as the main operator in the exploitation of nickel in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/china-sustituye-canadiense-sherritt-principal_1_1125633.html",
+        "published_date": "2026-04-12 14:00:24",
+        "category": "Energy"
     },
     {
         "title": "Russia \"working on an energy supply plan\" that includes sending another oil tanker to Cuba",
@@ -350,20 +378,6 @@
         "category": "Energy"
     },
     {
-        "title": "The energy collapse in Cuba forces us to look for emergency exits outside the national grid",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/colapso-energetico-cuba-obliga-buscar_1_1125408.html",
-        "published_date": "2026-04-05 20:28:28",
-        "category": "Energy"
-    },
-    {
-        "title": "Starlink in Cuba: the prohibited antenna that challenges the Etecsa monopoly",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/starlink-cuba-antena-prohibida-desafia_1_1125404.html",
-        "published_date": "2026-04-05 19:29:43",
-        "category": "Energy"
-    },
-    {
         "title": "Cash transfer and other deceptive temptations",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/transferencia-por-efectivo-y-otras-tentaciones-enganosas/",
@@ -392,150 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Banco Metropolitano begins operations with new monetary issues",
+        "title": "Workers\u2026 Palante",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260404/banco-metropolitano-inicia-operaciones-con-nuevas-emisiones-monetarias/",
-        "published_date": "2026-04-04 14:58:47",
-        "category": "Economy"
-    },
-    {
-        "title": "Camag\u00fcey promotes natural medicine",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32613-camagueey-impulsa-la-medicina-natural",
-        "published_date": "2026-04-12 04:05:30",
+        "url": "https://www.trabajadores.cu/20260412/trabajadores-palante-22/",
+        "published_date": "2026-04-12 23:24:19",
         "category": "Local Events"
     },
     {
-        "title": "A magnificent tribute to the Simple Verses, by Orlando V\u00edctor P\u00e9rez Cabrera",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-magnifico-homenaje-a-los-versos-sencillos-por-parte-de-orlando-victor-perez-cabrera/",
-        "published_date": "2026-04-12 04:00:40",
+        "title": "A May Day for the Homeland",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260412/un-primero-de-mayo-por-la-patria/",
+        "published_date": "2026-04-12 23:07:51",
         "category": "Local Events"
     },
     {
-        "title": "Duo Pajarito \u2013 Song of the Day",
+        "title": "Cuba\u2019s Miguel Diaz Canel Interviewed on NBC Meet the Press",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/duo-pajarito-song-of-the-day-3/",
-        "published_date": "2026-04-12 00:30:59",
+        "url": "https://havanatimes.org/opinion/cubas-miguel-diaz-canel-interviewed-on-nbc-meet-the-press/",
+        "published_date": "2026-04-12 22:37:44",
         "category": "Local Events"
     },
     {
-        "title": "Tribute to Fidel in Ciro Redondo",
+        "title": "The avant-gardes of celebration in Sancti Sp\u00edritus",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/homenaje-a-fidel-en-ciro-redondo/",
-        "published_date": "2026-04-11 22:30:29",
+        "url": "https://www.trabajadores.cu/20260412/los-vanguardias-de-celebracion-en-sancti-spiritus/",
+        "published_date": "2026-04-12 20:43:25",
         "category": "Local Events"
     },
     {
-        "title": "Economic actors seek to substitute imports in Artemisa",
+        "title": "Gifts of a productive April",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/actores-economicos-buscan-sustituir-importaciones-en-artemisa/",
-        "published_date": "2026-04-11 21:25:39",
+        "url": "https://www.trabajadores.cu/20260412/regalos-de-un-abril-productivo/",
+        "published_date": "2026-04-12 20:35:24",
         "category": "Local Events"
     },
     {
-        "title": "Joy everywhere",
+        "title": "Reborn from the ashes: a virtue of the most daring",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/alegria-por-doquier/",
-        "published_date": "2026-04-11 20:47:16",
+        "url": "https://www.trabajadores.cu/20260412/renacer-de-las-cenizas-una-virtud-de-los-mas-osados/",
+        "published_date": "2026-04-12 19:50:46",
         "category": "Local Events"
     },
     {
-        "title": "They develop a day for World Immunology Day",
+        "title": "Camag\u00fceyans committed to the May Day celebration",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/desarrollan-jornada-por-dia-mundial-de-inmunologia/",
-        "published_date": "2026-04-11 20:09:24",
+        "url": "https://www.trabajadores.cu/20260412/comprometidos-camagueyanos-con-la-celebracion-por-el-primero-de-mayo/",
+        "published_date": "2026-04-12 19:23:03",
         "category": "Local Events"
     },
     {
-        "title": "Holgu\u00edn celebrated 65 years of daycare centers with full coverage for early childhood",
+        "title": "Cuba's spy state at our doors: it is time to end the Castro regime",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/espia-cuba-puertas-hora-acabar_132_1125651.html",
+        "published_date": "2026-04-12 19:09:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Havana, the bustle of the iconic Rampa has moved to the 'candonga' of 100 and Boyeros",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/habana-bullicio-iconica-rampa-mudado_1_1125645.html",
+        "published_date": "2026-04-12 18:54:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban actress Zelma Morales, unforgettable face of national television, dies in Miami",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-miami-actriz-cubana-zelma_1_1125641.html",
+        "published_date": "2026-04-12 18:24:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba, the time of the ovens",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/cuba-hora-hornos_132_1125640.html",
+        "published_date": "2026-04-12 18:22:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two femicides confirmed, bringing the number of victims to 15 so far in 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/confirman-feminicidios-elevan-15-victimas_1_1125638.html",
+        "published_date": "2026-04-12 17:50:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Interview with Kristen Welker, NBC News Meet the Press journalist",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/holguin-celebro-los-65-anos-de-los-circulos-infantiles-con-cobertura-total-para-la-primera-infancia/",
-        "published_date": "2026-04-11 18:28:40",
+        "url": "https://www.trabajadores.cu/20260412/entrevista-concedida-a-kristen-welker-periodista-del-programa-meet-the-press-de-nbc-news/",
+        "published_date": "2026-04-12 17:24:21",
         "category": "Local Events"
     },
     {
-        "title": "MY INFLUENCERS (I): Rodrigo and Elvira, a capricious hip",
+        "title": "Etecsa grows in the face of limitations",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/mis-influencers-i-rodrigo-y-elvira-una-cadera-caprichosa/",
-        "published_date": "2026-04-11 16:49:29",
+        "url": "https://www.trabajadores.cu/20260412/etecsa-se-crece-ante-limitaciones/",
+        "published_date": "2026-04-12 16:44:36",
         "category": "Local Events"
     },
     {
-        "title": "MY INFLUENCERS (II): Nicol\u00e1s and L\u00e9rida, champions without medals",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/mis-influencers-ii-nicolas-y-lerida-campeones-sin-medallas/",
-        "published_date": "2026-04-11 16:34:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unknowns in Peru\u2019s Elections on Sunday",
+        "title": "Dinner Time, Texas, USA \u2013 Photo of the Da",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/unknowns-in-perus-elections-on-sunday/",
-        "published_date": "2026-04-11 16:11:21",
+        "url": "https://havanatimes.org/photo-of-the-day/dinner-time-texas-usa-photo-of-the-da/",
+        "published_date": "2026-04-12 16:32:49",
         "category": "Local Events"
     },
     {
-        "title": "Camagua: from the flip flop to the dream of a major festival",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32612-camagua-de-la-chancleta-al-sueno-de-un-festival-mayor",
-        "published_date": "2026-04-11 15:56:25",
+        "title": "Moscow prepares the Soyuz-5, the first rocket developed by Russia since 2014",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/moscu-alista-el-soyuz-5-primer-cohete-desarrollado-por-rusia-desde-2014/",
+        "published_date": "2026-04-12 15:33:52",
         "category": "Local Events"
     },
     {
-        "title": "Camag\u00fceyans lead Cuban water polo teams",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/deportes/32611-camagueyanos-lideran-equipos-cuba-de-polo-acuatico",
-        "published_date": "2026-04-11 15:33:58",
+        "title": "More than 27 million Peruvians go to the polls to elect a new president",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mas-de-27-millones-de-peruanos-salen-a-las-urnas-para-elegir-nuevo-presidente/",
+        "published_date": "2026-04-12 15:30:53",
         "category": "Local Events"
     },
     {
-        "title": "Workers' solidarity from all corners of the world",
+        "title": "They announce a new decree on agricultural and forestry marketing",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/dan-a-conocer-nuevo-decreto-sobre-comercializacion-agropecuaria-y-forestal/",
+        "published_date": "2026-04-12 15:26:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers\u2019 Solidarity from All Corners of the World",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/solidaridad-obrera-desde-todos-los-rincones-del-mundo/",
-        "published_date": "2026-04-11 15:21:11",
+        "url": "https://www.trabajadores.cu/20260412/workers-solidarity-from-all-corners-of-the-world/",
+        "published_date": "2026-04-12 15:20:35",
         "category": "Local Events"
     },
     {
-        "title": "Pedro S\u00e1nchez begins his fourth official visit to China to strengthen bilateral ties (+ Video)",
+        "title": "Minister of Transport checks services to the population",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pedro-sanchez-inicia-cuarta-visita-oficial-a-china-para-reforzar-vinculos-bilaterales-video/",
-        "published_date": "2026-04-11 14:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran affirms good faith in negotiations but distrusts Washington",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-afirma-buena-fe-en-negociaciones-pero-desconfia-en-washington/",
-        "published_date": "2026-04-11 14:40:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delegations of Iran and the US in Islamabad for negotiations, Tehran insists on preconditions for dialogue",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/delegaciones-de-iran-y-eeuu-en-islamabad-para-negociaciones-teheran-insiste-en-condiciones-previas-para-el-dialogo/",
-        "published_date": "2026-04-11 14:36:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Communist Party of Chile will hold the XI plenary session of its Central Committee",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/partido-comunista-de-chile-realizara-xi-pleno-de-su-comite-central/",
-        "published_date": "2026-04-11 14:24:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chronicle of a Havana Building Collapse Foretold",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/chronicle-of-a-havana-building-collapse-foretold/",
-        "published_date": "2026-04-11 14:06:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "They recognized doctors from Cuba in the San Marcos department, Guatemala",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reconocieron-a-medicos-de-cuba-en-departamento-san-marcos-guatemala/",
-        "published_date": "2026-04-11 13:59:34",
+        "url": "https://www.5septiembre.cu/chequea-ministro-del-transporte-servicios-a-la-poblacion/",
+        "published_date": "2026-04-12 15:11:03",
         "category": "Local Events"
     }
 ]
