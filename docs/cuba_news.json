@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Muscles vibrate for May Day",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260411/los-musculos-vibran-por-el-primero-de-mayo/",
+        "published_date": "2026-04-12 00:11:08",
+        "category": "Military"
+    },
+    {
         "title": "Villa Clara consolidates its defensive capacity from Escambray",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260411/villa-clara-consolida-su-capacidad-defensiva-desde-el-escambray/",
@@ -214,13 +221,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/trump-impulsa-presupuesto-militar-de-1-5-billones-con-recortes-en-salud-educacion-y-medio-ambiente/",
         "published_date": "2026-04-04 13:45:09",
-        "category": "Military"
-    },
-    {
-        "title": "A second US military plane crashes in the Strait of Hormuz this Friday",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/segundo-avion-militar-ee-uu_1_1125368.html",
-        "published_date": "2026-04-04 11:33:39",
         "category": "Military"
     },
     {
@@ -399,6 +399,27 @@
         "category": "Economy"
     },
     {
+        "title": "Camag\u00fcey promotes natural medicine",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32613-camagueey-impulsa-la-medicina-natural",
+        "published_date": "2026-04-12 04:05:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "A magnificent tribute to the Simple Verses, by Orlando V\u00edctor P\u00e9rez Cabrera",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/un-magnifico-homenaje-a-los-versos-sencillos-por-parte-de-orlando-victor-perez-cabrera/",
+        "published_date": "2026-04-12 04:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Duo Pajarito \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/duo-pajarito-song-of-the-day-3/",
+        "published_date": "2026-04-12 00:30:59",
+        "category": "Local Events"
+    },
+    {
         "title": "Tribute to Fidel in Ciro Redondo",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260411/homenaje-a-fidel-en-ciro-redondo/",
@@ -515,27 +536,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/reconocieron-a-medicos-de-cuba-en-departamento-san-marcos-guatemala/",
         "published_date": "2026-04-11 13:59:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tehran conditions a possible agreement with the United States on Washington not acting on Israel's behalf",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/iran-condiciona-posible-acuerdo-ee_1_1125615.html",
-        "published_date": "2026-04-11 13:35:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man dies while trying to steal dielectric oil in Santiago de Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/muere-hombre-robar-aceite-dielectrico_1_1125611.html",
-        "published_date": "2026-04-11 12:55:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violence soars in the streets and schools of Russia, fueled by war propaganda",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/violencia-dispara-calles-escuelas-rusia_1_1125609.html",
-        "published_date": "2026-04-11 12:23:00",
         "category": "Local Events"
     }
 ]
