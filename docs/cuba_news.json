@@ -1,5 +1,26 @@
 [
     {
+        "title": "China reiterates its support for Cuba in the face of pressure from the United States",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-reitera-su-respaldo-a-cuba-frente-a-presiones-de-estados-unidos/",
+        "published_date": "2026-04-15 20:12:30",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Despite Israeli aggression and popular rejection, Beirut and Tel Aviv agree to dialogue on a date and place yet to be determined",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pese-a-agresiones-israelies-y-rechazo-popular-beirut-y-tel-aviv-pactan-dialogo-en-fecha-y-lugar-aun-por-determinar/",
+        "published_date": "2026-04-15 13:56:27",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran used a Chinese spy satellite to identify US bases",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/iran-satelite-espia-chino-identificar_1_1125745.html",
+        "published_date": "2026-04-15 13:24:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The blockade creates opportunities for Anirists",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260414/el-bloqueo-crea-oportunidades-a-los-aniristas/",
@@ -119,31 +140,24 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Tribute to Aracelio Iglesias in Las Tunas",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260409/homenaje-a-aracelio-iglesias-en-las-tunas/",
-        "published_date": "2026-04-09 04:37:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Despite its record of protecting fugitives, the regime denies links to Medicare fraud",
+        "title": "'El Tuerto' and 'El Cangrejo', Ra\u00fal Castro's envoys to negotiate with the US the future of Cuba and the family",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/pese-antecedentes-proteccion-profugos-regimen_1_1125513.html",
-        "published_date": "2026-04-08 21:07:34",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Women from Holgu\u00edn denounced the Blockade",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260408/feminas-holguineras-denunciaron-el-bloqueo/",
-        "published_date": "2026-04-08 17:37:49",
-        "category": "Diplomacy"
+        "url": "https://www.14ymedio.com/cuba/tuerto-cangrejo-enviados-raul-castro_1_1125752.html",
+        "published_date": "2026-04-15 17:55:44",
+        "category": "Military"
     },
     {
         "title": "A Party forged in struggle",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/un-partido-fraguado-en-la-lucha/",
         "published_date": "2026-04-14 15:55:47",
+        "category": "Military"
+    },
+    {
+        "title": "The Philosophy of Excellence",
+        "source": "Granma",
+        "url": "http://en.granma.cu/cuba/2026-04-14/the-philosophy-of-excellence",
+        "published_date": "2026-04-14 14:04:45",
         "category": "Military"
     },
     {
@@ -243,6 +257,13 @@
         "url": "https://www.5septiembre.cu/la-produccion-mediatica-de-la-vida-y-la-muerte-desigual/",
         "published_date": "2026-04-08 04:00:50",
         "category": "Military"
+    },
+    {
+        "title": "They call in Cuba to take advantage of renewable energy sources",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32627-llaman-en-cuba-a-aprovechar-las-fuentes-renovables-de-energia",
+        "published_date": "2026-04-15 14:52:37",
+        "category": "Energy"
     },
     {
         "title": "The Havana refinery is not working and all the Russian oil was taken to Cienfuegos",
@@ -378,11 +399,18 @@
         "category": "Energy"
     },
     {
-        "title": "And the Pineapple snuck in (+ photos and videos)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260408/y-el-pina-se-colo-fotos-y-videos/",
-        "published_date": "2026-04-08 13:00:38",
-        "category": "Energy"
+        "title": "Digital currency and Cuban economy: new ways to circumvent financial restrictions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/economia/moneda-digital-economia-cuba-nuevas_132_1125750.html",
+        "published_date": "2026-04-15 13:30:39",
+        "category": "Economy"
+    },
+    {
+        "title": "The US lifts sanctions on Venezuela's public banking system",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-levanta-sanciones-sistema_1_1125746.html",
+        "published_date": "2026-04-15 13:24:22",
+        "category": "Economy"
     },
     {
         "title": "Moto Isla highlighted for its performance",
@@ -434,150 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "Camag\u00fcey company links environmental awareness and economic development",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32599-empresa-camagueeyana-vincula-conciencia-ambiental-y-desarrollo-economico",
-        "published_date": "2026-04-07 17:19:42",
-        "category": "Economy"
-    },
-    {
-        "title": "The sport of Cienfuegos grows in the face of difficulties",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-deporte-de-cienfuegos-se-crece-ante-las-dificultades/",
-        "published_date": "2026-04-15 12:00:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Canada approves another airline to fly to Cuba, although there is no scheduled date for the start of trips",
+        "title": "The regime threatens the daughter of an exiled Cuban journalist with six months in prison",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/canada-aprueba-aerolinea-volar-cuba_1_1125738.html",
-        "published_date": "2026-04-15 11:55:34",
+        "url": "https://www.14ymedio.com/cuba/regimen-amenaza-seis-meses-prision_1_1125771.html",
+        "published_date": "2026-04-15 21:57:27",
         "category": "Local Events"
     },
     {
-        "title": "Between cigar makers and Heroes, they call for the Artemise\u00f1o parade",
+        "title": "Unionists fraternize with those who know how to love",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260415/entre-tabaqueros-y-heroes-convocan-al-desfile-artemiseno/",
-        "published_date": "2026-04-15 11:42:40",
+        "url": "https://www.trabajadores.cu/20260415/sindicalistas-confraternizan-con-quienes-saben-querer/",
+        "published_date": "2026-04-15 21:40:53",
         "category": "Local Events"
     },
     {
-        "title": "Tens of thousands of Cubans will be able to regularize their status in Spain starting this Thursday",
+        "title": "A woman murdered in Bayamo in broad daylight in front of a primary school",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/decenas-miles-cubanos-podran-regularizar_1_1125740.html",
-        "published_date": "2026-04-15 11:38:41",
+        "url": "https://www.14ymedio.com/cuba/mujer-asesinada-bayamo-pleno-dia_1_1125758.html",
+        "published_date": "2026-04-15 21:34:14",
         "category": "Local Events"
     },
     {
-        "title": "There is much more to investigate about Gir\u00f3n",
+        "title": "\"The basic need to be happy in Cuba is a luxury\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/entrevista/necesidad-basica-feliz-cuba-lujo_1_1125764.html",
+        "published_date": "2026-04-15 21:18:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Delcy Rodr\u00edguez, between reforms, criticism and without an electoral calendar in Venezuela",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-reformas-criticas-calendario_1_1125762.html",
+        "published_date": "2026-04-15 21:02:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "At Azutecnia Las Tunas they resist and create",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260415/hay-mucho-mas-que-investigar-sobre-giron/",
-        "published_date": "2026-04-15 10:58:40",
+        "url": "https://www.trabajadores.cu/20260415/en-azutecnia-las-tunas-resisten-y-crean/",
+        "published_date": "2026-04-15 20:58:25",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Wednesday, April 15, 2026",
+        "title": "In Santiago de Cuba the parade is already underway",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260415/en-santiago-de-cuba-ya-se-pulsa-el-desfile/",
+        "published_date": "2026-04-15 20:17:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "A truck attacks an electric tricycle in Havana and leaves several injured",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-15-abril_132_1125735.html",
-        "published_date": "2026-04-15 10:39:07",
+        "url": "https://www.14ymedio.com/cuba/camioneta-embiste-triciclo-electrico-habana_1_1125756.html",
+        "published_date": "2026-04-15 19:38:07",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Wednesday, April 15, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-15-abril_7_1125737.html",
-        "published_date": "2026-04-15 10:34:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Concept to Code: The Lifecycle of an AI Consulting Project",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/tecnologia/from-concept-to-code-the_132_1125733.html",
-        "published_date": "2026-04-15 09:54:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire put out at Cienfuegos Provincial Hospital (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/sofocan-incendio-en-hospital-provincial-de-cienfuegos/",
-        "published_date": "2026-04-15 03:15:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pineapples in the City, Lara, Venezuela \u2013 Photo of the Day",
+        "title": "The Birthday Gift I Want to Give Myself",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/pineapples-in-the-city-lara-venezuela-photo-of-the-day/",
-        "published_date": "2026-04-15 02:30:31",
+        "url": "https://havanatimes.org/diaries/lien-estrada/the-birthday-gift-i-want-to-give-myself/",
+        "published_date": "2026-04-15 19:20:37",
         "category": "Local Events"
     },
     {
-        "title": "Nicaragua: When They Teach Us to Hate Our Neighbors",
+        "title": "Eduardo: heroic artilleryman of '61",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260415/eduardo-heroico-artillero-del-61/",
+        "published_date": "2026-04-15 18:54:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Even in adversity, life flourishes",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/hasta-en-la-adversidad-la-vida-florece/",
+        "published_date": "2026-04-15 18:52:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "They announce activities for Working Class Day",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260415/dan-a-conocer-actividades-por-el-dia-de-la-clase-obrera/",
+        "published_date": "2026-04-15 18:32:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban regime tries to silence the activist Oraiza Estrada at the UN, without success",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cuba-silenciar-activista-oraiza-estrada_1_1125754.html",
+        "published_date": "2026-04-15 18:27:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "For victory week",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/por-la-semana-de-la-victoria/",
+        "published_date": "2026-04-15 17:56:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Matanzas, Cuba, Garbage and Violeta",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/nicaragua-when-they-teach-us-to-hate-our-neighbors/",
-        "published_date": "2026-04-14 23:33:10",
+        "url": "https://havanatimes.org/photo-feature/matanzas-cuba-garbage-and-violeta/",
+        "published_date": "2026-04-15 17:25:08",
         "category": "Local Events"
     },
     {
-        "title": "They ask the authorities to pick up the deportees, among them Cubans, who wander around Tapachula",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/piden-autoridades-recojan-deportados-cubanos_1_1125727.html",
-        "published_date": "2026-04-14 21:13:59",
+        "title": "Avile\u00f1os ready to celebrate",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260415/avilenos-en-primero-de-mayo/",
+        "published_date": "2026-04-15 17:17:10",
         "category": "Local Events"
     },
     {
-        "title": "More than 153 deaths in traffic accidents in three months in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/153-muertos-accidentes-transito-tres_1_1125722.html",
-        "published_date": "2026-04-14 21:01:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Where gasoline is lacking, coal arrives",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/falta-gasolina-llega-carbon_1_1125724.html",
-        "published_date": "2026-04-14 20:36:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "ECLAC Forum analyzes the challenges of Sustainable Development in Chile",
+        "title": "Vice Minister of Public Health evaluates recovery after fire in Cienfuegos hospital",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/foro-de-cepal-analiza-en-chile-los-retos-del-desarrollo-sostenible/",
-        "published_date": "2026-04-14 20:23:12",
+        "url": "https://www.5septiembre.cu/viceministro-de-salud-publica-evalua-recuperacion-tras-incendio-en-hospital-de-cienfuegos/",
+        "published_date": "2026-04-15 17:13:18",
         "category": "Local Events"
     },
     {
-        "title": "Patria Colloquium, another victorious Gir\u00f3n from virtuality",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/coloquio-patria-otro-giron-victorioso-desde-la-virtualidad/",
-        "published_date": "2026-04-14 19:21:01",
+        "title": "Appeal from the Culture Union",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260415/llamamiento-del-sindicato-de-la-cultura-por-el-dia-del-proletariado/",
+        "published_date": "2026-04-15 17:02:20",
         "category": "Local Events"
     },
     {
-        "title": "How TweetDeleter Helps Users Clean Up Years of X Activity More Efficiently",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/how-tweetdeleter-helps-users-clean_132_1125720.html",
-        "published_date": "2026-04-14 18:48:02",
+        "title": "Unity and innovation: protagonists in Sancti Sp\u00edritus",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260415/unidad-e-innovacion-protagonistas-en-sancti-spiritus/",
+        "published_date": "2026-04-15 16:53:43",
         "category": "Local Events"
     },
     {
-        "title": "The Edgardo Mart\u00edn Guitar Festival will begin in Cienfuegos this Wednesday",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iniciara-en-cienfuegos-este-miercoles-festival-de-guitarras-edgardo-martin/",
-        "published_date": "2026-04-14 17:56:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "A painter arrested for a comment on social networks commits suicide in preventive detention",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/suicida-prision-preventiva-pintor-detenido_1_1125718.html",
-        "published_date": "2026-04-14 17:50:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba: Anna Bensi, 21, Refuses to Bow to State Security",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/cuba-anna-bensi-21-refuses-to-bow-to-state-security/",
-        "published_date": "2026-04-14 17:38:22",
+        "title": "Many ways to defend the homeland in Santiago de Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260415/muchas-maneras-de-defender-la-patria-en-santiago-de-cuba/",
+        "published_date": "2026-04-15 16:37:30",
         "category": "Local Events"
     }
 ]
