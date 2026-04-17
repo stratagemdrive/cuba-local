@@ -1,5 +1,26 @@
 [
     {
+        "title": "Iran announces the complete opening of the Strait of Hormuz for commercial ships after the ceasefire between Israel and Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-anuncia-la-apertura-total-del-estrecho-de-ormuz-para-buques-comerciales-tras-el-alto-el-fuego-entre-israel-y-libano/",
+        "published_date": "2026-04-17 17:35:38",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran gives in and opens the Strait of Hormuz while fifty countries meet in Paris",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/iran-cede-abre-estrecho-ormuz_1_1125839.html",
+        "published_date": "2026-04-17 17:28:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Declaration of the Revolutionary Government: Gir\u00f3n is today and always is!",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/declaracion-del-gobierno-revolucionario-giron-es-hoy-y-es-siempre/",
+        "published_date": "2026-04-17 15:05:27",
+        "category": "Diplomacy"
+    },
+    {
         "title": "US announces Operation Economic Fury against Iran",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/ee-uu-anuncia-la-operacion-furia-economica-contra-iran/",
@@ -119,25 +140,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba denounces impact of the US blockade in a regional forum",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-denuncia-en-foro-regional-impacto-del-bloqueo-de-eeuu/",
-        "published_date": "2026-04-11 14:04:06",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Lebanon relies on international support to stop Israeli escalation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/libano-confia-en-apoyo-internacional-para-frenar-la-escalada-israeli/",
-        "published_date": "2026-04-10 16:23:51",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Vice Chancellor Riabkov denounces the \"obsession\" of the United States with expelling Russia from the \"Western Hemisphere\"",
+        "title": "88% of Cubans who arrived in the United States after 2000 favor a military operation against the regime",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/vicecanciller-riabkov-denuncia-obsesion-ee_1_1125565.html",
-        "published_date": "2026-04-10 11:05:52",
-        "category": "Diplomacy"
+        "url": "https://www.14ymedio.com/cuba/migracion/88-cubanos-llegados-ee-uu_1_1125851.html",
+        "published_date": "2026-04-17 21:25:21",
+        "category": "Military"
+    },
+    {
+        "title": "UNECA S.A.National Vanguard flag wins",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260417/uneca-s-a-gana-bandera-vanguardia-nacional/",
+        "published_date": "2026-04-17 18:21:01",
+        "category": "Military"
+    },
+    {
+        "title": "China Expands Solar Power Globally Including in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/china-expands-solar-power-globally-including-in-cuba/",
+        "published_date": "2026-04-17 14:27:31",
+        "category": "Military"
+    },
+    {
+        "title": "Gir\u00f3n is today and always",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32633-giron-es-hoy-y-siempre",
+        "published_date": "2026-04-17 11:57:33",
+        "category": "Military"
     },
     {
         "title": "Trump announces ten-day ceasefire between Israel and Lebanon",
@@ -249,27 +277,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260411/villa-clara-consolida-su-capacidad-defensiva-desde-el-escambray/",
         "published_date": "2026-04-11 19:59:21",
-        "category": "Military"
-    },
-    {
-        "title": "A pair of oxen and a cart, the latest innovations in military strategy in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/par-bueyes-carreta-ultimas-innovaciones_1_1125619.html",
-        "published_date": "2026-04-11 19:37:56",
-        "category": "Military"
-    },
-    {
-        "title": "National Defense Day in Cumanayagua: cohesion in the face of threats from the empire",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/dia-nacional-de-la-defensa-en-cumanayagua-cohesion-ante-amenazas-del-imperio/",
-        "published_date": "2026-04-10 19:27:51",
-        "category": "Military"
-    },
-    {
-        "title": "Israel Massacres Over 250 Civilians in Lebanon",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/israel-massacres-over-250-civilians-in-lebanon/",
-        "published_date": "2026-04-09 13:49:45",
         "category": "Military"
     },
     {
@@ -413,6 +420,13 @@
         "category": "Energy"
     },
     {
+        "title": "They analyze implementation of the Government's Economic and Social Program for 2026",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260417/analizan-implementacion-del-programa-economico-y-social-del-gobierno-para-2026/",
+        "published_date": "2026-04-17 19:37:15",
+        "category": "Economy"
+    },
+    {
         "title": "Digital currency and Cuban economy: new ways to circumvent financial restrictions",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/blogs/economia/moneda-digital-economia-cuba-nuevas_132_1125750.html",
@@ -462,143 +476,143 @@
         "category": "Economy"
     },
     {
-        "title": "Dollars, Classic card and a Havana without tourists",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/dolares-tarjeta-clasica-habana-turistas_1_1125822.html",
-        "published_date": "2026-04-17 11:34:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The Decorator's House: The Future Is No Longer'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/casa-decorador-futuro-no_1_1125817.html",
-        "published_date": "2026-04-17 10:48:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "A US drone and a secret letter from Ra\u00fal Castro to Trump cross the Strait of Florida",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cruzan-estrecho-florida-dron-ee_1_1125818.html",
-        "published_date": "2026-04-17 10:40:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Havana Taxi: Cuba and the years of hope'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/havana-taxi-cuba-anos-ilusion_1_1125813.html",
-        "published_date": "2026-04-17 10:16:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, April 17, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-17-abril_132_1125812.html",
-        "published_date": "2026-04-17 10:13:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sergio Soto Refinery: innovation underpins sovereignty",
+        "title": "Hemophilia Day: they highlight the value of the diagnosis",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/refineria-sergio-soto-desde-la-innovacion-apuntala-la-soberania/",
-        "published_date": "2026-04-17 08:37:22",
+        "url": "https://www.trabajadores.cu/20260417/dia-de-la-hemofilia-resaltan-valor-del-diagnostico/",
+        "published_date": "2026-04-17 21:39:00",
         "category": "Local Events"
     },
     {
-        "title": "Effective communication, constant tapping",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/comunicacion-efectiva-golpeteo-constante/",
-        "published_date": "2026-04-17 07:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Speech given for the 65th Anniversary of the proclamation of the socialist character of the Cuban Revolution",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/discurso-pronunciado-por-el-aniversario-65-de-la-proclamacion-del-caracter-socialista-de-la-revolucion-cubana/",
-        "published_date": "2026-04-17 07:13:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the 65 years of victory: Fidel was, and is Gir\u00f3n",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/en-los-65-anos-de-la-victoria-fidel-fue-y-es-giron/",
-        "published_date": "2026-04-17 06:56:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba's victory against the US-financed mercenary invaders in Gir\u00f3n",
+        "title": "Master classes and concerts at the Edgardo Mart\u00edn Guitar Festival, in Cienfuegos",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-victoria-de-cuba-contra-los-invasores-mercenarios-financiados-por-ee-uu-en-giron/",
-        "published_date": "2026-04-17 06:00:10",
+        "url": "https://www.5septiembre.cu/clases-magistrales-y-conciertos-en-festival-de-guitarras-edgardo-martin-en-cienfuegos/",
+        "published_date": "2026-04-17 21:06:58",
         "category": "Local Events"
     },
     {
-        "title": "Homeland is Humanity",
+        "title": "Cuban workers unite (Photoreport)",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/patria-es-humanidad/",
-        "published_date": "2026-04-17 05:45:18",
+        "url": "https://www.trabajadores.cu/20260417/trabajadores-cubanos-unios-fotorreportaje/",
+        "published_date": "2026-04-17 20:20:38",
         "category": "Local Events"
     },
     {
-        "title": "Chicha: tradition and legend",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-chicha-tradicion-y-leyenda/",
-        "published_date": "2026-04-17 04:11:00",
+        "title": "Matanzas hires Naykel Cruz, who in 2024 frustrated a contract for the Cuban Baseball Federation",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/matanzas-contrata-naykel-cruz-2024_1_1125848.html",
+        "published_date": "2026-04-17 20:02:24",
         "category": "Local Events"
     },
     {
-        "title": "The Land of Freedom",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/pedro-pablo-morejon/the-land-of-freedom/",
-        "published_date": "2026-04-17 02:05:46",
+        "title": "Patria con Fidel opened its doors yesterday morning",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32636-patria-con-fidel-abrio-sus-puertas-en-la-manana-de-ayer",
+        "published_date": "2026-04-17 19:31:21",
         "category": "Local Events"
     },
     {
-        "title": "Denmark's Warning",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/denmarks-warning/",
-        "published_date": "2026-04-17 00:14:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "My Land, Trujillo, Venezuela \u2013 Photo of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/my-land-trujillo-venezuela-photo-of-the-day/",
-        "published_date": "2026-04-16 23:44:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Celebrate World Hemophilia Day",
+        "title": "The weather is good for births",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260416/celebran-dia-mundial-de-la-hemofilia/",
-        "published_date": "2026-04-16 22:58:33",
+        "url": "https://www.trabajadores.cu/20260417/el-tiempo-es-bueno-para-los-nacimientos/",
+        "published_date": "2026-04-17 18:40:56",
         "category": "Local Events"
     },
     {
-        "title": "No Tooth, but With An Implant",
+        "title": "Canada allocates another four million US dollars in humanitarian aid to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/canada-destina-cuatro-millones-dolares_1_1125844.html",
+        "published_date": "2026-04-17 18:37:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four fires are still active in Pinar del R\u00edo that have affected more than 1,000 hectares in a week",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/siguen-activos-cuatro-incendios-pinar_1_1125843.html",
+        "published_date": "2026-04-17 18:37:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chikungunya Strikes Back in Cuba",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/osmel-almaguer-diary/no-tooth-but-with-an-implant/",
-        "published_date": "2026-04-16 22:26:56",
+        "url": "https://havanatimes.org/opinion/chikungunya-strikes-back-in-cuba/",
+        "published_date": "2026-04-17 18:08:08",
         "category": "Local Events"
     },
     {
-        "title": "Party Worker's Day Celebrated in Cienfuegos",
+        "title": "Public Health will start a May Day parade in Matanzas",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260417/salud-publica-iniciara-desfile-por-el-primero-de-mayo-en-matanzas/",
+        "published_date": "2026-04-17 17:50:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rusty containers, the state alternative for housing in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/contenedores-oxidados-alternativa-estatal-vivienda_1_1125841.html",
+        "published_date": "2026-04-17 17:44:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Homeland: invitation to communicate government management with humanism",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/celebran-dia-del-trabajador-del-partido-en-cienfuegos/",
-        "published_date": "2026-04-16 21:05:51",
+        "url": "https://www.5septiembre.cu/patria-invitacion-a-comunicar-gestion-de-gobierno-con-humanismo/",
+        "published_date": "2026-04-17 17:44:22",
         "category": "Local Events"
     },
     {
-        "title": "The Cuban Regime Uses Bully Tactics at the UN",
+        "title": "Santiago Refinery collective promoter of blood donations",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260417/refineria-santiago-colectivo-promotor-de-donaciones-de-sangre/",
+        "published_date": "2026-04-17 17:00:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba: $$$ for Propaganda, Pot-Banging Protest in Havana",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/the-cuban-regime-uses-bully-tactics-at-the-un/",
-        "published_date": "2026-04-16 21:00:45",
+        "url": "https://havanatimes.org/cuba/cuba-for-propaganda-pot-banging-protest-in-havana/",
+        "published_date": "2026-04-17 16:43:26",
         "category": "Local Events"
     },
     {
-        "title": "V edition of the Patria International Colloquium begins in Cuba",
+        "title": "May Day: collective manifestation of identity, resistance and hope",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260417/primero-de-mayo-manifestacion-colectiva-de-identidad-resistencia-y-esperanza/",
+        "published_date": "2026-04-17 16:40:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mar\u00eda Corina Machado denies that Zapatero mediated or did anything for Venezuela's transition",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/maria-corina-machado-niega-zapatero_1_1125837.html",
+        "published_date": "2026-04-17 16:37:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Acting ICE Director Todd Lyons Resigns After Overseeing Trump's Mass Deportation Plan",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/comienza-en-cuba-v-edicion-del-coloquio-internacional-patria/",
-        "published_date": "2026-04-16 20:12:16",
+        "url": "https://www.5septiembre.cu/el-director-interino-del-ice-todd-lyons-renuncia-tras-supervisar-el-plan-de-deportacion-masiva-de-trump/",
+        "published_date": "2026-04-17 16:26:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran warns of \u201cdevastating response\u201d to truce violations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-advierte-con-respuesta-devastadora-ante-violaciones-de-tregua/",
+        "published_date": "2026-04-17 16:19:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "When the heart loses its rhythm",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260417/cuando-el-corazon-pierde-el-ritmo/",
+        "published_date": "2026-04-17 16:10:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "XIV Congress of the National Italy-Cuba Friendship Association begins",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/inicia-xiv-congreso-de-la-asociacion-nacional-de-amistad-italia-cuba/",
+        "published_date": "2026-04-17 16:08:23",
         "category": "Local Events"
     }
 ]
