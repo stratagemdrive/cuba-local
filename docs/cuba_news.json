@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Claudia Sheinbaum proposes a declaration against military intervention in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/claudia-sheinbaum-propone-declaracion-intervencion_1_1125853.html",
+        "published_date": "2026-04-18 11:05:57",
+        "category": "Military"
+    },
+    {
+        "title": "They commemorate the 65th anniversary of DAAFAR",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260417/conmemoran-aniversario-65-de-la-daafar/",
+        "published_date": "2026-04-18 00:54:17",
+        "category": "Military"
+    },
+    {
         "title": "88% of Cubans who arrived in the United States after 2000 favor a military operation against the regime",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/migracion/88-cubanos-llegados-ee-uu_1_1125851.html",
@@ -263,20 +277,6 @@
         "source": "Havana Times",
         "url": "https://havanatimes.org/opinion/the-latest-innovations-in-cubas-military-strategy/",
         "published_date": "2026-04-12 14:57:35",
-        "category": "Military"
-    },
-    {
-        "title": "Muscles vibrate for May Day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/los-musculos-vibran-por-el-primero-de-mayo/",
-        "published_date": "2026-04-12 00:11:08",
-        "category": "Military"
-    },
-    {
-        "title": "Villa Clara consolidates its defensive capacity from Escambray",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260411/villa-clara-consolida-su-capacidad-defensiva-desde-el-escambray/",
-        "published_date": "2026-04-11 19:59:21",
         "category": "Military"
     },
     {
@@ -469,11 +469,46 @@
         "category": "Economy"
     },
     {
-        "title": "Cash transfer and other deceptive temptations",
+        "title": "Rumbat\u00e1 projects his new album towards the Grammys listening",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32637-rumbata-proyecta-su-nuevo-disco-hacia-la-escucha-de-los-grammys",
+        "published_date": "2026-04-18 06:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers invite you to participate in the Debate Forum: Together we create",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260418/trabajadores-invita-a-participar-en-foro-debate-juntos-creamos/",
+        "published_date": "2026-04-18 05:18:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "All retiree cards do not have the same number",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/transferencia-por-efectivo-y-otras-tentaciones-enganosas/",
-        "published_date": "2026-04-10 04:00:21",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/todas-las-tarjetas-de-jubilados-no-tienen-el-mismo-numero/",
+        "published_date": "2026-04-18 04:00:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kes (The Band) \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/kes-the-band-song-of-the-day/",
+        "published_date": "2026-04-18 03:05:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Proletarian blood for the Homeland",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260417/sangre-proletaria-por-la-patria/",
+        "published_date": "2026-04-18 00:44:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Will New Relaxed Farm Rules Mean More Food in Cuba?",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/will-new-relaxed-farm-rules-mean-more-food-in-cuba/",
+        "published_date": "2026-04-18 00:12:00",
+        "category": "Local Events"
     },
     {
         "title": "Hemophilia Day: they highlight the value of the diagnosis",
@@ -571,48 +606,6 @@
         "source": "Havana Times",
         "url": "https://havanatimes.org/cuba/cuba-for-propaganda-pot-banging-protest-in-havana/",
         "published_date": "2026-04-17 16:43:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "May Day: collective manifestation of identity, resistance and hope",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/primero-de-mayo-manifestacion-colectiva-de-identidad-resistencia-y-esperanza/",
-        "published_date": "2026-04-17 16:40:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mar\u00eda Corina Machado denies that Zapatero mediated or did anything for Venezuela's transition",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/maria-corina-machado-niega-zapatero_1_1125837.html",
-        "published_date": "2026-04-17 16:37:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acting ICE Director Todd Lyons Resigns After Overseeing Trump's Mass Deportation Plan",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-director-interino-del-ice-todd-lyons-renuncia-tras-supervisar-el-plan-de-deportacion-masiva-de-trump/",
-        "published_date": "2026-04-17 16:26:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran warns of \u201cdevastating response\u201d to truce violations",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-advierte-con-respuesta-devastadora-ante-violaciones-de-tregua/",
-        "published_date": "2026-04-17 16:19:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "When the heart loses its rhythm",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/cuando-el-corazon-pierde-el-ritmo/",
-        "published_date": "2026-04-17 16:10:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "XIV Congress of the National Italy-Cuba Friendship Association begins",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/inicia-xiv-congreso-de-la-asociacion-nacional-de-amistad-italia-cuba/",
-        "published_date": "2026-04-17 16:08:23",
         "category": "Local Events"
     }
 ]
