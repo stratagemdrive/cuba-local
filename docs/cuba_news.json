@@ -1,5 +1,19 @@
 [
     {
+        "title": "Trump extends ceasefire until Iran presents deal proposal",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-extiende-alto-fuego-iran_1_1125980.html",
+        "published_date": "2026-04-21 20:48:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "A contribution to light from Punta Brava",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/un-aporte-a-la-luz-desde-punta-brava/",
+        "published_date": "2026-04-21 13:36:38",
+        "category": "Diplomacy"
+    },
+    {
         "title": "German Chancellor Merz rejects military intervention in Cuba",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/canciller-aleman-merz-rechaza-intervencion_1_1125939.html",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "China reiterates its support for Cuba in the face of pressure from the United States",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/china-reitera-su-respaldo-a-cuba-frente-a-presiones-de-estados-unidos/",
-        "published_date": "2026-04-15 20:12:30",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Despite Israeli aggression and popular rejection, Beirut and Tel Aviv agree to dialogue on a date and place yet to be determined",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pese-a-agresiones-israelies-y-rechazo-popular-beirut-y-tel-aviv-pactan-dialogo-en-fecha-y-lugar-aun-por-determinar/",
-        "published_date": "2026-04-15 13:56:27",
-        "category": "Diplomacy"
+        "title": "\u201cProtecting formal employment is protecting life\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/proteger-el-empleo-formal-es-proteger-la-vida/",
+        "published_date": "2026-04-21 19:27:07",
+        "category": "Military"
     },
     {
         "title": "The order to sign \"for the Homeland\" is given throughout the country in a campaign headed by D\u00edaz-Canel",
@@ -273,11 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "Iran warns about security in the Persian Gulf and Strait of Hormuz",
+        "title": "The start of the Elite Baseball League is confirmed amid blackouts and fuel shortages",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/confirma-inicio-liga-elite-beisbol_1_1125971.html",
+        "published_date": "2026-04-21 19:44:36",
+        "category": "Energy"
+    },
+    {
+        "title": "Iran warns neighbors: if they help the enemy, they will say goodbye to oil production in the Middle East",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-advierte-sobre-seguridad-en-el-golfo-persico-y-estrecho-de-ormuz/",
-        "published_date": "2026-04-13 13:19:19",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/iran-advierte-a-vecinos-si-ayudan-al-enemigo-diran-adios-a-produccion-de-petroleo-en-oriente-medio/",
+        "published_date": "2026-04-21 19:31:42",
+        "category": "Energy"
     },
     {
         "title": "The shit out of Regla goes back to work, after the arrival of Russian oil",
@@ -385,20 +399,6 @@
         "category": "Energy"
     },
     {
-        "title": "Cuban authorities rent gas stations to private MSMEs",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/autoridades-cubanas-alquilan-gasolineras-mipymes_1_1125675.html",
-        "published_date": "2026-04-13 19:49:24",
-        "category": "Energy"
-    },
-    {
-        "title": "Union energy cannot be blocked",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260413/la-energia-sindical-no-se-puede-bloquear/",
-        "published_date": "2026-04-13 19:05:12",
-        "category": "Energy"
-    },
-    {
         "title": "They analyze implementation of the Government's Economic and Social Program for 2026",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260417/analizan-implementacion-del-programa-economico-y-social-del-gobierno-para-2026/",
@@ -441,143 +441,143 @@
         "category": "Economy"
     },
     {
-        "title": "Presentation of the book 'The man, the female and hunger'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/presentacion-libro-hombre-hembra-hambre_1_1125946.html",
-        "published_date": "2026-04-21 11:56:17",
+        "title": "Digital tools to improve experiences in Varadero",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/herramientas-digitales-para-mejorar-experiencias-en-varadero/",
+        "published_date": "2026-04-21 22:00:18",
         "category": "Local Events"
     },
     {
-        "title": "XXX Anniversary of the Eusebio Delf\u00edn Recording Studio, Cienfuegos",
+        "title": "Argentine cinema is still in mourning, now Luis Puenzo has passed away",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aniversario-xxx-del-estudio-de-grabaciones-eusebio-delfin-de-cienfuegos/",
-        "published_date": "2026-04-21 11:49:23",
+        "url": "https://www.5septiembre.cu/cine-argentino-sigue-de-luto-ahora-fallecio-luis-puenzo/",
+        "published_date": "2026-04-21 21:31:18",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Tuesday, April 21, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-21-abril_132_1125944.html",
-        "published_date": "2026-04-21 10:49:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, April 21, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-21-abril_7_1125943.html",
-        "published_date": "2026-04-21 10:45:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "IN 500 CHARACTERS Facebook protection against exaggerated labeling",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/en-500-caracteres-proteccion-de-facebook-ante-exagerados-etiquetados/",
-        "published_date": "2026-04-21 10:00:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Justice of Venezuela grants conditional freedom to former opposition mayor Rafael Ram\u00edrez",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/justicia-venezuela-otorga-libertad-condicional_1_1125936.html",
-        "published_date": "2026-04-21 09:23:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US confirms a private meeting with Ra\u00fal Castro's grandson in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-confirma-reunion-privada_1_1125935.html",
-        "published_date": "2026-04-21 09:06:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amnesty International denounces the \"systematic repression\" in Cuba and the denial of rights in its prisons",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/amnistia-internacional-denuncia-represion-sistematica_1_1125934.html",
-        "published_date": "2026-04-21 08:58:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 65th National Bivalent Oral Polio Vaccination Campaign is being prepared in Florida",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32644-preparan-en-florida-la-65-campana-nacional-de-vacunacion-antipoliomielitica-oral-bivalente",
-        "published_date": "2026-04-21 05:55:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Workers invite you to participate in the Debate Forum: Together we create",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/trabajadores-invita-a-participar-en-foro-debate-juntos-creamos/",
-        "published_date": "2026-04-21 05:05:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "MY INFLUENCERS (VI): Matasiete, the best newspaper spokesperson in Havana",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/mis-influencers-vi-matasiete-el-mejor-voceador-de-periodicos-de-la-habana/",
-        "published_date": "2026-04-21 04:29:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Santiago groups, they sign for the country",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260420/en-colectivos-santiagueros-se-firma-por-la-patria/",
-        "published_date": "2026-04-20 23:05:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel and the workers exhibit bond for May Day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260420/exhiben-vinculo-fidel-y-los-trabajadores-por-el-primero-de-mayo/",
-        "published_date": "2026-04-20 22:08:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Casa de las Am\u00e9ricas Literary Prize begins",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260420/inicia-premio-literario-casa-de-las-americas/",
-        "published_date": "2026-04-20 21:16:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fernando Mendoza, American football player with Cuban roots and reader of Marco Aurelio",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/fernando-mendoza-jugador-futbol-americano_1_1125930.html",
-        "published_date": "2026-04-20 21:06:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Luis Brandoni, a leading figure in Argentine cinema, theater and television, dies after a domestic accident",
+        "title": "Ministry of Tourism turns 32 years old",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/muere-luis-brandoni-referente-del-cine-teatro-y-television-argentina-tras-un-accidente-domestico/",
-        "published_date": "2026-04-20 20:59:04",
+        "url": "https://www.5septiembre.cu/ministerio-de-turismo-cumple-32-anos/",
+        "published_date": "2026-04-21 21:23:31",
         "category": "Local Events"
     },
     {
-        "title": "The Cuban Government confirms the meeting with senior US officials, but denies an ultimatum",
+        "title": "A woman is threatened with five years in prison for recording a police operation in Cienfuegos",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-confirma-reunion-altos_1_1125926.html",
-        "published_date": "2026-04-20 20:57:17",
+        "url": "https://www.14ymedio.com/cuba/amenazan-cinco-anos-carcel-mujer_1_1125974.html",
+        "published_date": "2026-04-21 20:13:03",
         "category": "Local Events"
     },
     {
-        "title": "Telegram co-founder comments on how the EU and the UK \u201cregulate\u201d social networks",
+        "title": "Several passengers injured in the collision between a 'gazelle' and a fire truck in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gacela-embestida-camion-cisterna-bomberos_1_1125968.html",
+        "published_date": "2026-04-21 20:02:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cDressing Cienfuegos women has been my greatest satisfaction\u201d",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cofundador-de-telegram-comenta-como-la-ue-y-el-reino-unido-regulan-las-redes-sociales/",
-        "published_date": "2026-04-20 20:43:51",
+        "url": "https://www.5septiembre.cu/vestir-a-la-mujer-cienfueguera-ha-sido-mi-mayor-satisfaccion/",
+        "published_date": "2026-04-21 19:48:44",
         "category": "Local Events"
     },
     {
-        "title": "Movement begins My signature for the Homeland",
+        "title": "The reinforcements of the IV Elite League have been chosen",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/comienza-movimiento-mi-firma-por-la-patria/",
-        "published_date": "2026-04-20 20:33:56",
+        "url": "https://www.5septiembre.cu/elegidos-los-refuerzos-de-la-iv-liga-elite/",
+        "published_date": "2026-04-21 19:37:13",
         "category": "Local Events"
     },
     {
-        "title": "Resurgence in the House of Cultural Diversity of Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32642-resurgir-en-la-casa-de-la-diversidad-cultural-camagueyana",
-        "published_date": "2026-04-20 17:27:28",
+        "title": "They will present the newsletter El sharpener on the anniversary of Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presentaran-boletin-el-sacapuntas-en-el-aniversario-de-cienfuegos/",
+        "published_date": "2026-04-21 19:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fan of Hitler, idolater of Columbine and in the '27 club': the portrait of the Teotihuac\u00e1n shooter",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fan-de-hitler-idolatra-de-columbine-y-en-el-club-de-los-27-el-retrato-del-tirador-de-teotihuacan/",
+        "published_date": "2026-04-21 19:11:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban judokas return with medals, tickets and points for the ranking",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/retornan-judocas-cubanos-con-medallas-boletos-y-puntos-para-el-ranking/",
+        "published_date": "2026-04-21 18:58:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Customs Law decree comes into force to strengthen border control",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/entra-en-vigor-nuevo-decreto-ley-de-aduanas-para-fortalecer-control-fronterizo/",
+        "published_date": "2026-04-21 18:14:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The basic basket shrinks in Guant\u00e1namo",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/canasta-basica-encoge-guantanamo_1_1125965.html",
+        "published_date": "2026-04-21 17:22:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "State Security cuts off the communications of Anna Bensi and her mother",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/seguridad-corta-comunicaciones-anna-bensi_1_1125963.html",
+        "published_date": "2026-04-21 17:22:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The sponsor's generators and the public's fans cannot save Jazz Vil\u00e1's latest work",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/generadores-abanicos-cuba-teatro-jazz-vila_1_1125957.html",
+        "published_date": "2026-04-21 17:07:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "UEB Pedro Sotto Alba offers jobs",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/ueb-pedro-sotto-alba-ofrece-empleos/",
+        "published_date": "2026-04-21 15:46:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aguas de La Habana admits the collapse of supply \u201cin practically all localities\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/aguas-habana-admite-colapso-abastecimiento_1_1125955.html",
+        "published_date": "2026-04-21 15:31:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba's digital challenge: the fight for connectivity",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/consejos/desafio-digital-cuba-lucha-conectividad_132_1125951.html",
+        "published_date": "2026-04-21 13:55:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antonio Luaces Iraola, medical colonel in the Ten Years War",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/antonio-luaces-iraola-coronel-medico-en-la-guerra-de-los-diez-anos/",
+        "published_date": "2026-04-21 13:51:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "World of Warcraft: what makes a good player",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/world-of-warcraft-buen-jugador_132_1125945.html",
+        "published_date": "2026-04-21 13:36:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "A \"little push\" is needed to overthrow the dictatorship in Cuba, according to Fidel Castro's daughter",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/necesita-empujoncito-derribar-dictadura-cuba_1_1125949.html",
+        "published_date": "2026-04-21 13:00:27",
         "category": "Local Events"
     }
 ]
