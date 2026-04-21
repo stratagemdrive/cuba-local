@@ -1,5 +1,12 @@
 [
     {
+        "title": "German Chancellor Merz rejects military intervention in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/canciller-aleman-merz-rechaza-intervencion_1_1125939.html",
+        "published_date": "2026-04-21 09:43:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Meeting between delegations from Cuba and the United States confirmed",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/confirman-encuentro-entre-delegaciones-de-cuba-y-estados-unidos/",
@@ -130,13 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/pese-a-agresiones-israelies-y-rechazo-popular-beirut-y-tel-aviv-pactan-dialogo-en-fecha-y-lugar-aun-por-determinar/",
         "published_date": "2026-04-15 13:56:27",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran used a Chinese spy satellite to identify US bases",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/iran-satelite-espia-chino-identificar_1_1125745.html",
-        "published_date": "2026-04-15 13:24:48",
         "category": "Diplomacy"
     },
     {
@@ -399,13 +399,6 @@
         "category": "Energy"
     },
     {
-        "title": "Groove and science",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260413/surco-y-ciencia/",
-        "published_date": "2026-04-13 06:01:51",
-        "category": "Energy"
-    },
-    {
         "title": "They analyze implementation of the Government's Economic and Social Program for 2026",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260417/analizan-implementacion-del-programa-economico-y-social-del-gobierno-para-2026/",
@@ -448,11 +441,81 @@
         "category": "Economy"
     },
     {
-        "title": "The Alonso family",
+        "title": "Presentation of the book 'The man, the female and hunger'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/presentacion-libro-hombre-hembra-hambre_1_1125946.html",
+        "published_date": "2026-04-21 11:56:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "XXX Anniversary of the Eusebio Delf\u00edn Recording Studio, Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aniversario-xxx-del-estudio-de-grabaciones-eusebio-delfin-de-cienfuegos/",
+        "published_date": "2026-04-21 11:49:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, April 21, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-21-abril_132_1125944.html",
+        "published_date": "2026-04-21 10:49:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, April 21, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-21-abril_7_1125943.html",
+        "published_date": "2026-04-21 10:45:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "IN 500 CHARACTERS Facebook protection against exaggerated labeling",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260412/la-familia-alonso/",
-        "published_date": "2026-04-13 02:13:20",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260421/en-500-caracteres-proteccion-de-facebook-ante-exagerados-etiquetados/",
+        "published_date": "2026-04-21 10:00:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Justice of Venezuela grants conditional freedom to former opposition mayor Rafael Ram\u00edrez",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/justicia-venezuela-otorga-libertad-condicional_1_1125936.html",
+        "published_date": "2026-04-21 09:23:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US confirms a private meeting with Ra\u00fal Castro's grandson in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ee-uu-confirma-reunion-privada_1_1125935.html",
+        "published_date": "2026-04-21 09:06:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Amnesty International denounces the \"systematic repression\" in Cuba and the denial of rights in its prisons",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/amnistia-internacional-denuncia-represion-sistematica_1_1125934.html",
+        "published_date": "2026-04-21 08:58:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 65th National Bivalent Oral Polio Vaccination Campaign is being prepared in Florida",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32644-preparan-en-florida-la-65-campana-nacional-de-vacunacion-antipoliomielitica-oral-bivalente",
+        "published_date": "2026-04-21 05:55:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers invite you to participate in the Debate Forum: Together we create",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/trabajadores-invita-a-participar-en-foro-debate-juntos-creamos/",
+        "published_date": "2026-04-21 05:05:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "MY INFLUENCERS (VI): Matasiete, the best newspaper spokesperson in Havana",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/mis-influencers-vi-matasiete-el-mejor-voceador-de-periodicos-de-la-habana/",
+        "published_date": "2026-04-21 04:29:02",
+        "category": "Local Events"
     },
     {
         "title": "In Santiago groups, they sign for the country",
@@ -515,83 +578,6 @@
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/cultura/32642-resurgir-en-la-casa-de-la-diversidad-cultural-camagueyana",
         "published_date": "2026-04-20 17:27:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camag\u00fceyans sign and defend the Homeland",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260420/camagueyanos-firman-y-defienden-la-patria/",
-        "published_date": "2026-04-20 17:05:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The people of Sancti Spiritus endorsed their love for their country and their hatred of those who oppress it.",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260420/los-espirituanos-refrendaron-el-amor-a-la-patria-y-el-odio-a-quien-la-oprime/",
-        "published_date": "2026-04-20 16:16:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US begins the reimbursement of 166,000 million dollars in tariffs annulled by the Supreme Court",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-inicia-reembolso-166_1_1125919.html",
-        "published_date": "2026-04-20 14:46:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "After nine days, they control the fire that destroyed 1,700 hectares of forest in Pinar del R\u00edo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nueve-dias-controlan-incendio-arraso_1_1125918.html",
-        "published_date": "2026-04-20 14:42:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The town of which Fidel Castro is an honorary councilor leads a demonstration against the \"imperialist siege\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/pueblo-fidel-castro-concejal-honorifico_1_1125913.html",
-        "published_date": "2026-04-20 14:01:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cRepenting would be a lie\u201d: State Security pressures Ricardo Medina of El4tico to recant",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/arrepentirme-seria-mentira-seguridad-presiona_1_1125910.html",
-        "published_date": "2026-04-20 13:50:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Global food waste has difficult human consequences",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-04-20/global-food-waste-has-difficult-human-consequences",
-        "published_date": "2026-04-20 13:04:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans for medal today in Pan American Judo",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cubanos-por-medalla-hoy-en-panamericano-de-judo/",
-        "published_date": "2026-04-20 12:26:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump sees his level of support fall to a minimum",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-ve-su-nivel-de-apoyo-caer-al-minimo/",
-        "published_date": "2026-04-20 12:14:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "My signature for the Homeland, exercise of popular sovereignty",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32640-mi-firma-por-la-patria-ejercicio-de-soberania-popular",
-        "published_date": "2026-04-20 12:12:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opens 66th Casa de las Am\u00e9ricas Literary Prize",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/abre-66-premio-literario-casa-de-las-americas/",
-        "published_date": "2026-04-20 12:08:05",
         "category": "Local Events"
     }
 ]
