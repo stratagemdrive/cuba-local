@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The US Army will create an autonomous war force based on AI in Latin America",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ejercito-ee-uu-creara-fuerza_1_1125985.html",
+        "published_date": "2026-04-22 08:35:00",
+        "category": "Military"
+    },
+    {
+        "title": "Ra\u00fal congratulates the Eastern Army for its contribution to the War of All the People (+Video)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/felicita-raul-a-ejercito-oriental-por-aporte-a-guerra-de-todo-el-pueblo-video/",
+        "published_date": "2026-04-22 01:13:18",
+        "category": "Military"
+    },
+    {
         "title": "\u201cProtecting formal employment is protecting life\u201d",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260421/proteger-el-empleo-formal-es-proteger-la-vida/",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "A Party forged in struggle",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-partido-fraguado-en-la-lucha/",
-        "published_date": "2026-04-14 15:55:47",
-        "category": "Military"
-    },
-    {
-        "title": "The Philosophy of Excellence",
-        "source": "Granma",
-        "url": "http://en.granma.cu/cuba/2026-04-14/the-philosophy-of-excellence",
-        "published_date": "2026-04-14 14:04:45",
-        "category": "Military"
-    },
-    {
         "title": "The start of the Elite Baseball League is confirmed amid blackouts and fuel shortages",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/deportes/confirma-inicio-liga-elite-beisbol_1_1125971.html",
@@ -385,20 +385,6 @@
         "category": "Energy"
     },
     {
-        "title": "Of science and embroidery: history of the Avellaneda butterfly",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32626-de-ciencia-y-bordado-historia-de-la-mariposa-avellaneda",
-        "published_date": "2026-04-14 11:57:51",
-        "category": "Energy"
-    },
-    {
-        "title": "Camag\u00fcey is committed to sustainability and diversified food production",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32624-camagueey-apuesta-por-sostenibilidad-y-produccion-diversificada-de-alimentos",
-        "published_date": "2026-04-14 11:38:20",
-        "category": "Energy"
-    },
-    {
         "title": "They analyze implementation of the Government's Economic and Social Program for 2026",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260417/analizan-implementacion-del-programa-economico-y-social-del-gobierno-para-2026/",
@@ -439,6 +425,69 @@
         "url": "https://www.trabajadores.cu/20260414/banco-metropolitano-oferta-plaza/",
         "published_date": "2026-04-14 15:20:29",
         "category": "Economy"
+    },
+    {
+        "title": "From Lenin Hill: living memory of proletarian struggle",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260422/desde-la-colina-lenin-memoria-viva-de-lucha-proletaria/",
+        "published_date": "2026-04-22 11:53:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba cooperated with the FBI to solve a parental kidnapping case",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cuba-coopero-fbi-resolver-caso_1_1125988.html",
+        "published_date": "2026-04-22 11:32:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, April 22, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-abril-2026_132_1125989.html",
+        "published_date": "2026-04-22 10:41:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday April 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-abril-2026_7_1125991.html",
+        "published_date": "2026-04-22 10:35:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversial failures in elections in Peru lead to the resignation of the election organizer",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/polemicos-fallos-elecciones-peru-llevan_1_1125987.html",
+        "published_date": "2026-04-22 08:44:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bolivia denounces a damage of 2.6 million dollars for the coverage of an air route to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/bolivia-denuncia-dano-2-6_1_1125983.html",
+        "published_date": "2026-04-22 08:24:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "V\u00edctor and Freddy will be at the Santo Domingo karate do",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/victor-y-freddy-estaran-en-el-karate-do-de-santo-domingo/",
+        "published_date": "2026-04-22 04:00:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Health workers bet on sovereignty",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/trabajadores-de-la-salud-apuestan-por-la-soberania/",
+        "published_date": "2026-04-22 01:24:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "April with celebrations for May in Santiago de Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/abril-con-celebraciones-por-mayo-en-santiago-de-cuba/",
+        "published_date": "2026-04-22 00:49:09",
+        "category": "Local Events"
     },
     {
         "title": "Digital tools to improve experiences in Varadero",
@@ -515,69 +564,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260421/entra-en-vigor-nuevo-decreto-ley-de-aduanas-para-fortalecer-control-fronterizo/",
         "published_date": "2026-04-21 18:14:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "The basic basket shrinks in Guant\u00e1namo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/canasta-basica-encoge-guantanamo_1_1125965.html",
-        "published_date": "2026-04-21 17:22:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "State Security cuts off the communications of Anna Bensi and her mother",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/seguridad-corta-comunicaciones-anna-bensi_1_1125963.html",
-        "published_date": "2026-04-21 17:22:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The sponsor's generators and the public's fans cannot save Jazz Vil\u00e1's latest work",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/generadores-abanicos-cuba-teatro-jazz-vila_1_1125957.html",
-        "published_date": "2026-04-21 17:07:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "UEB Pedro Sotto Alba offers jobs",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/ueb-pedro-sotto-alba-ofrece-empleos/",
-        "published_date": "2026-04-21 15:46:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aguas de La Habana admits the collapse of supply \u201cin practically all localities\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/aguas-habana-admite-colapso-abastecimiento_1_1125955.html",
-        "published_date": "2026-04-21 15:31:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba's digital challenge: the fight for connectivity",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/desafio-digital-cuba-lucha-conectividad_132_1125951.html",
-        "published_date": "2026-04-21 13:55:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonio Luaces Iraola, medical colonel in the Ten Years War",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/antonio-luaces-iraola-coronel-medico-en-la-guerra-de-los-diez-anos/",
-        "published_date": "2026-04-21 13:51:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "World of Warcraft: what makes a good player",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/world-of-warcraft-buen-jugador_132_1125945.html",
-        "published_date": "2026-04-21 13:36:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "A \"little push\" is needed to overthrow the dictatorship in Cuba, according to Fidel Castro's daughter",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/necesita-empujoncito-derribar-dictadura-cuba_1_1125949.html",
-        "published_date": "2026-04-21 13:00:27",
         "category": "Local Events"
     }
 ]
