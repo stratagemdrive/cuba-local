@@ -49,6 +49,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Meeting between Cuban and U.S.delegations confirmed",
+        "source": "Granma",
+        "url": "http://en.granma.cu/cuba/2026-04-20/meeting-between-cuban-and-us-delegations-confirmed",
+        "published_date": "2026-04-20 15:04:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Albares criticizes Mar\u00eda Corina Machado and reveals that Spain offered her refuge",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/albares-critica-maria-corina-machado_1_1125916.html",
@@ -133,17 +140,31 @@
         "category": "Diplomacy"
     },
     {
-        "title": "D\u00edaz-Canel: \u201cCuba is not a failed state, it is a surrounded state\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/diaz-canel-cuba-no-es-un-estado-fallido-es-un-estado-cercado/",
-        "published_date": "2026-04-16 17:04:12",
-        "category": "Diplomacy"
+        "title": "Camag\u00fcey celebrated the founding of the Eastern Army",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32651-celebro-camagueey-fundacion-del-ejercito-oriental",
+        "published_date": "2026-04-22 18:01:47",
+        "category": "Military"
+    },
+    {
+        "title": "They spread a message from Ra\u00fal Castro calling to \"firmly confront any enemy aggression\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/difunden-raul-castro-llamando_1_1125999.html",
+        "published_date": "2026-04-22 14:21:54",
+        "category": "Military"
     },
     {
         "title": "The US Army will create an autonomous war force based on AI in Latin America",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/ejercito-ee-uu-creara-fuerza_1_1125985.html",
         "published_date": "2026-04-22 08:35:00",
+        "category": "Military"
+    },
+    {
+        "title": "Ra\u00fal congratulates Eastern Army (+Video)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260421/felicita-raul-a-ejercito-oriental-video/",
+        "published_date": "2026-04-22 01:13:18",
         "category": "Military"
     },
     {
@@ -259,25 +280,39 @@
         "category": "Military"
     },
     {
-        "title": "Battalion 339, in the memory of Cienfuegos",
+        "title": "April 22, 1819: Cienfuegos received light (+Gallery)",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-batallon-339-en-la-memoria-de-cienfuegos/",
-        "published_date": "2026-04-16 10:00:33",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/22-de-abril-de-1819-cienfuegos-recibio-la-luz/",
+        "published_date": "2026-04-22 22:27:38",
+        "category": "Energy"
     },
     {
-        "title": "A Party forged in struggle",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/49-vi-congreso-del-pcc/32629-un-partido-fraguado-en-la-lucha",
-        "published_date": "2026-04-16 01:08:28",
-        "category": "Military"
-    },
-    {
-        "title": "'El Tuerto' and 'El Cangrejo', Ra\u00fal Castro's envoys to negotiate with the US the future of Cuba and the family",
+        "title": "The official networks celebrate an \u201cilluminated\u201d city: Havana recovers electricity and buses for a few hours",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tuerto-cangrejo-enviados-raul-castro_1_1125752.html",
-        "published_date": "2026-04-15 17:55:44",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/redes-oficiales-celebran-ciudad-iluminada_1_1126005.html",
+        "published_date": "2026-04-22 20:32:58",
+        "category": "Energy"
+    },
+    {
+        "title": "The light has not reached San Jos\u00e9 de las Lajas, which continues to live in darkness",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/luz-no-llegado-san-jose_1_1126001.html",
+        "published_date": "2026-04-22 18:07:21",
+        "category": "Energy"
+    },
+    {
+        "title": "Russian crude oil refining process continues in Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32646-continua-en-cuba-proceso-de-refinacion-de-crudo-ruso",
+        "published_date": "2026-04-22 17:26:19",
+        "category": "Energy"
+    },
+    {
+        "title": "Today at the Round Table: Talking with the Minister of Energy and Mines",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260422/hoy-en-la-mesa-redonda-conversando-con-el-ministro-de-energia-y-minas/",
+        "published_date": "2026-04-22 15:55:32",
+        "category": "Energy"
     },
     {
         "title": "The start of the Elite Baseball League is confirmed amid blackouts and fuel shortages",
@@ -371,20 +406,6 @@
         "category": "Energy"
     },
     {
-        "title": "The Havana refinery is not working and all the Russian oil was taken to Cienfuegos",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/refineria-habana-no-funciona-petroleo_1_1125682.html",
-        "published_date": "2026-04-14 21:17:09",
-        "category": "Energy"
-    },
-    {
-        "title": "The private sector, key to feeding the pigs that will fuel the buses",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sector-privado-clave-alimentar-cerdos_1_1125706.html",
-        "published_date": "2026-04-14 15:28:33",
-        "category": "Energy"
-    },
-    {
         "title": "They analyze implementation of the Government's Economic and Social Program for 2026",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260417/analizan-implementacion-del-programa-economico-y-social-del-gobierno-para-2026/",
@@ -406,164 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Moto Isla highlighted for its performance",
+        "title": "Workers rampaging",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260414/moto-isla-destacada-por-el-funcionamiento/",
-        "published_date": "2026-04-14 20:40:42",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260422/trabajadores-arrasando/",
+        "published_date": "2026-04-22 22:47:46",
+        "category": "Local Events"
     },
     {
-        "title": "A private company will sponsor the Cuban Pentathlon team in the Central Americans",
+        "title": "The Uruguayan legislator born in Cuba promotes a law to regularize 30,000 migrants",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/empresa-privada-patrocinara-equipo-cubano_1_1125710.html",
-        "published_date": "2026-04-14 17:09:40",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/migracion/diputada-cubana-uruguay-busca-regularizar_1_1126013.html",
+        "published_date": "2026-04-22 21:55:26",
+        "category": "Local Events"
     },
     {
-        "title": "Banco Metropolitano offers place",
+        "title": "Sheinbaum invites the president of Morena to join the Mexican Government",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sheinbaum-invita-a-presidenta-de-morena-sumarse-a-gobierno-mexicano/",
+        "published_date": "2026-04-22 21:13:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "DPRK and Russia strengthen ties in social and internal security",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/rpdc-y-rusia-estrechan-lazos-en-seguridad-social-e-interior/",
+        "published_date": "2026-04-22 21:08:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Customs seizes 22,800 doses of 'chemical' from the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/aduana-cubana-decomisa-22-800_1_1126012.html",
+        "published_date": "2026-04-22 21:05:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil applies reciprocity and withdraws credentials from US agent",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/brasil-aplica-reciprocidad-y-retira-credenciales-a-agente-de-eeuu/",
+        "published_date": "2026-04-22 21:03:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli drone attack leaves dead and injured in southern Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ataque-israeli-con-dron-deja-muertos-y-heridos-en-el-sur-del-libano/",
+        "published_date": "2026-04-22 20:55:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fatigue barely allows us to enjoy the 'alumbrones' in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/fatiga-apenas-permite-disfrutar-alumbrones_1_1126011.html",
+        "published_date": "2026-04-22 20:24:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "A prisoner dies \u201cin unclear circumstances\u201d in a Havana prison",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/presa-muere-circunstancias-no-esclarecidas_1_1126006.html",
+        "published_date": "2026-04-22 20:22:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Once again National Vanguard is Az\u00facar Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/otra-vez-vanguardia-nacional-esazucar-cienfuegos/",
+        "published_date": "2026-04-22 18:32:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Looking for sex!",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260414/banco-metropolitano-oferta-plaza/",
-        "published_date": "2026-04-14 15:20:29",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260422/se-busca-sexo-2/",
+        "published_date": "2026-04-22 18:12:56",
+        "category": "Local Events"
     },
     {
-        "title": "From Lenin Hill: living memory of proletarian struggle",
+        "title": "Colloquium will evoke the work and thoughts of Nicol\u00e1s Guill\u00e9n in Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32649-coloquio-evocara-en-cuba-obra-y-pensamiento-de-nicolas-guillen",
+        "published_date": "2026-04-22 17:59:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "General Customs of Cuba puts new regulations into force",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32648-aduana-general-de-cuba-pone-en-vigor-nuevas-normas",
+        "published_date": "2026-04-22 17:36:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drug allergy",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260422/desde-la-colina-lenin-memoria-viva-de-lucha-proletaria/",
-        "published_date": "2026-04-22 11:53:07",
+        "url": "https://www.trabajadores.cu/20260422/alergia-a-medicamentos/",
+        "published_date": "2026-04-22 16:20:17",
         "category": "Local Events"
     },
     {
-        "title": "Cuba cooperated with the FBI to solve a parental kidnapping case",
+        "title": "Four Elite Bulls",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/2014-04-18-14-10-19/32645-cuatro-toros-a-la-elite",
+        "published_date": "2026-04-22 16:11:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fernandina de Jagua and El Girasol Sediento literary awards are presented in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/entregan-premios-literarios-fernandina-de-jagua-y-el-girasol-sediento-en-cienfuegos/",
+        "published_date": "2026-04-22 15:50:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "International Mother Earth Day",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/lecturas/32643-dia-internacional-de-la-madre-tierra",
+        "published_date": "2026-04-22 15:21:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Belkidia L\u00f3pez and the AHS receive the Jagua Award in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/belkidia-lopez-y-la-ahs-reciben-premio-jagua-en-cienfuegos/",
+        "published_date": "2026-04-22 15:14:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Technological Innovation Awards 2025 Announced",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/anuncian-premios-nacionales-de-innovacion-tecnologica-2025/",
+        "published_date": "2026-04-22 14:08:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran seizes three ships in the Strait of Hormuz, after the truce announced by Trump",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/cuba-coopero-fbi-resolver-caso_1_1125988.html",
-        "published_date": "2026-04-22 11:32:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, April 22, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-abril-2026_132_1125989.html",
-        "published_date": "2026-04-22 10:41:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday April 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-abril-2026_7_1125991.html",
-        "published_date": "2026-04-22 10:35:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Controversial failures in elections in Peru lead to the resignation of the election organizer",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/polemicos-fallos-elecciones-peru-llevan_1_1125987.html",
-        "published_date": "2026-04-22 08:44:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bolivia denounces a damage of 2.6 million dollars for the coverage of an air route to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/bolivia-denuncia-dano-2-6_1_1125983.html",
-        "published_date": "2026-04-22 08:24:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "V\u00edctor and Freddy will be at the Santo Domingo karate do",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/victor-y-freddy-estaran-en-el-karate-do-de-santo-domingo/",
-        "published_date": "2026-04-22 04:00:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Health workers bet on sovereignty",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/trabajadores-de-la-salud-apuestan-por-la-soberania/",
-        "published_date": "2026-04-22 01:24:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "April with celebrations for May in Santiago de Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/abril-con-celebraciones-por-mayo-en-santiago-de-cuba/",
-        "published_date": "2026-04-22 00:49:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Digital tools to improve experiences in Varadero",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/herramientas-digitales-para-mejorar-experiencias-en-varadero/",
-        "published_date": "2026-04-21 22:00:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentine cinema is still in mourning, now Luis Puenzo has passed away",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cine-argentino-sigue-de-luto-ahora-fallecio-luis-puenzo/",
-        "published_date": "2026-04-21 21:31:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Tourism turns 32 years old",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ministerio-de-turismo-cumple-32-anos/",
-        "published_date": "2026-04-21 21:23:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "A woman is threatened with five years in prison for recording a police operation in Cienfuegos",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/amenazan-cinco-anos-carcel-mujer_1_1125974.html",
-        "published_date": "2026-04-21 20:13:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several passengers injured in the collision between a 'gazelle' and a fire truck in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gacela-embestida-camion-cisterna-bomberos_1_1125968.html",
-        "published_date": "2026-04-21 20:02:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cDressing Cienfuegos women has been my greatest satisfaction\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/vestir-a-la-mujer-cienfueguera-ha-sido-mi-mayor-satisfaccion/",
-        "published_date": "2026-04-21 19:48:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reinforcements of the IV Elite League have been chosen",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/elegidos-los-refuerzos-de-la-iv-liga-elite/",
-        "published_date": "2026-04-21 19:37:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "They will present the newsletter El sharpener on the anniversary of Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presentaran-boletin-el-sacapuntas-en-el-aniversario-de-cienfuegos/",
-        "published_date": "2026-04-21 19:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fan of Hitler, idolater of Columbine and in the '27 club': the portrait of the Teotihuac\u00e1n shooter",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fan-de-hitler-idolatra-de-columbine-y-en-el-club-de-los-27-el-retrato-del-tirador-de-teotihuacan/",
-        "published_date": "2026-04-21 19:11:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban judokas return with medals, tickets and points for the ranking",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/retornan-judocas-cubanos-con-medallas-boletos-y-puntos-para-el-ranking/",
-        "published_date": "2026-04-21 18:58:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Customs Law decree comes into force to strengthen border control",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260421/entra-en-vigor-nuevo-decreto-ley-de-aduanas-para-fortalecer-control-fronterizo/",
-        "published_date": "2026-04-21 18:14:06",
+        "url": "https://www.14ymedio.com/internacional/iran-incauta-tres-buques-estrecho_1_1125995.html",
+        "published_date": "2026-04-22 13:01:04",
         "category": "Local Events"
     }
 ]
