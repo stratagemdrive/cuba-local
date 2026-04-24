@@ -1,5 +1,19 @@
 [
     {
+        "title": "The Cuban ambassador to the UN advances a \"no\" to the US ultimatum",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/embajador-cuba-onu-adelanta-no_1_1126056.html",
+        "published_date": "2026-04-24 10:46:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Labra \"warmed up\"",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260423/se-calento-el-labra/",
+        "published_date": "2026-04-24 00:20:04",
+        "category": "Diplomacy"
+    },
+    {
         "title": "US blockade: main cause of complex situation in Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/bloqueo-de-ee-uu-causa-principal-de-compleja-situacion-en-cuba/",
@@ -123,20 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/denuncian-desde-vietnam-agresiva-escalada-de-eeuu-contra-cuba/",
         "published_date": "2026-04-19 11:52:07",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran announces the complete opening of the Strait of Hormuz for commercial ships after the ceasefire between Israel and Lebanon",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-anuncia-la-apertura-total-del-estrecho-de-ormuz-para-buques-comerciales-tras-el-alto-el-fuego-entre-israel-y-libano/",
-        "published_date": "2026-04-17 17:35:38",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran gives in and opens the Strait of Hormuz while fifty countries meet in Paris",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/iran-cede-abre-estrecho-ormuz_1_1125839.html",
-        "published_date": "2026-04-17 17:28:51",
         "category": "Diplomacy"
     },
     {
@@ -427,10 +427,108 @@
         "category": "Economy"
     },
     {
+        "title": "Informative coffee for Friday, April 24, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-24-abril_132_1126053.html",
+        "published_date": "2026-04-24 10:43:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, April 24, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-24-abril_7_1126055.html",
+        "published_date": "2026-04-24 10:37:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"How I felt\" from April 24, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-24-abril-2026_7_1126052.html",
+        "published_date": "2026-04-24 10:22:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Chinese DeepSeek launches its new AI model and compares it with Anthropic or Google",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cienciaytecnologia/china-deepseek-lanza-nuevo-modelo_1_1126050.html",
+        "published_date": "2026-04-24 09:37:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE instructs its agents not to enter homes without a warrant, according to NBC",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ice-instruye-agentes-no-entrar_1_1126049.html",
+        "published_date": "2026-04-24 09:28:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"How I felt\" from April 24, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-24-abril-2026_132_1126046.html",
+        "published_date": "2026-04-24 09:17:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Delcy Rodr\u00edguez announces the \"end\" of the Amnesty Law",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-anuncia-ley-amnistia_1_1126045.html",
+        "published_date": "2026-04-24 09:14:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US accuses a soldier of profiting from classified information about Maduro's capture",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-acusa-soldado-lucrarse_1_1126047.html",
+        "published_date": "2026-04-24 09:14:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Javier Sol\u00eds: the ranchero bolero where he lives",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/javier-solis-el-bolero-ranchero-donde-habita/",
+        "published_date": "2026-04-24 05:00:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get to know our weekly edition in PDF from April 24",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-24-de-abril/",
+        "published_date": "2026-04-24 04:05:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abrakadabra children's company premieres at the Terry theater in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/compania-infantil-abrakadabra-de-estreno-en-el-teatro-terry-de-cienfuegos/",
+        "published_date": "2026-04-24 04:00:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Important decorations on the chests of prominent union leaders",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260423/importantes-condecoraciones-al-pecho-de-destacados-dirigentes-sindicales/",
+        "published_date": "2026-04-24 01:10:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pioneer parade for May 1 in Santiago de Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260423/desfile-pioneril-por-el-1-de-mayo-en-santiago-de-cuba/",
+        "published_date": "2026-04-24 00:17:38",
+        "category": "Local Events"
+    },
+    {
         "title": "The independent Alas Tensas observatory reports a new feminicide and a vicarious infanticide in Cuba",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/observatorio-independiente-alas-tensas-reporta_1_1126044.html",
         "published_date": "2026-04-23 23:15:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers rampaging",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260423/trabajadores-arrasando/",
+        "published_date": "2026-04-23 22:47:46",
         "category": "Local Events"
     },
     {
@@ -466,104 +564,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/deportes/pelotero-naykel-cruz-cambia-matanzas_1_1126037.html",
         "published_date": "2026-04-23 19:35:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "They denounce the death of 27 journalists due to Israeli attacks in Lebanon",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncian-muerte-de-27-periodistas-por-ataques-israelies-en-libano/",
-        "published_date": "2026-04-23 17:01:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran says it always welcomes dialogue and agreement",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-afirma-que-siempre-da-la-bienvenida-al-dialogo-y-al-acuerdo/",
-        "published_date": "2026-04-23 16:28:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without evidence that the kidnapped child was going to undergo sex change surgery in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/evidencias-nino-secuestrado-iba-sometido_1_1126033.html",
-        "published_date": "2026-04-23 16:21:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba advocates for equitable digital governance at the United Nations",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aboga-cuba-por-gobernanza-digital-equitativa-en-naciones-unidas/",
-        "published_date": "2026-04-23 16:01:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Secretary of the US Navy is dismissed \u201cwith immediate effect\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/destituyen-con-efecto-inmediato-al-secretario-de-la-marina-de-eeuu/",
-        "published_date": "2026-04-23 14:28:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Second European Convoy of Solidarity with Cuba arrives in Havana",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/llega-a-la-habana-segundo-convoy-europeo-de-solidaridad-con-cuba/",
-        "published_date": "2026-04-23 14:22:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "On another anniversary of the abject Padilla case",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/aniversario-abyecto-caso-padilla_1_1126032.html",
-        "published_date": "2026-04-23 14:04:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "What Is the Best Dissertation Writing Service?An Honest Breakdown",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/what-is-the-best-dissertation_132_1126029.html",
-        "published_date": "2026-04-23 13:43:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "A different hug",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260423/un-abrazo-diferente/",
-        "published_date": "2026-04-23 13:38:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camag\u00fcey citizens will parade on May Day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260423/desfilaran-agramontinos-el-primero-de-mayo/",
-        "published_date": "2026-04-23 13:25:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Panama arrests a Cuban wanted in the United States for sex trafficking and human trafficking",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/panama-arresta-cubano-buscado-estados_1_1126022.html",
-        "published_date": "2026-04-23 11:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presentation in Arenales of the novel 'The dumb ones of the mountain'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/presentacion-arenales-novela-mudos-montana_1_1126024.html",
-        "published_date": "2026-04-23 11:18:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The purchase of F-16 aircraft from the United States opens a new government crisis in Peru",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/compra-aviones-f-16-estados_1_1126023.html",
-        "published_date": "2026-04-23 11:13:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The image of a migrant family separated by ICE, winner of the World Press Photo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/imagen-familia-migrante-separada-ice_1_1126020.html",
-        "published_date": "2026-04-23 10:58:47",
         "category": "Local Events"
     }
 ]
