@@ -1,5 +1,40 @@
 [
     {
+        "title": "Loud and clear responses from Cubans to Washington",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260424/respuestas-altas-y-claras-de-los-cubanos-a-washington/",
+        "published_date": "2026-04-24 23:00:18",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Oil tanker crossing through Strait of Hormuz reported despite blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reportan-cruce-de-petrolero-por-estrecho-de-ormuz-pese-a-bloqueo/",
+        "published_date": "2026-04-24 19:49:13",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba reiterates commitment to multilateralism, dialogue and peace",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32656-reitera-cuba-compromiso-con-el-multilateralismo-el-dialogo-y-la-paz",
+        "published_date": "2026-04-24 17:53:20",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iranian Foreign Minister talks with Pakistan about the truce with the United States",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/canciller-irani-dialoga-con-pakistan-sobre-la-tregua-con-estados-unidos/",
+        "published_date": "2026-04-24 17:43:12",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Crisis in the Middle East puts food security in Asia at risk",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/crisis-en-medio-oriente-pone-en-riesgo-seguridad-alimentaria-en-asia/",
+        "published_date": "2026-04-24 16:24:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The Cuban ambassador to the UN advances a \"no\" to the US ultimatum",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/embajador-cuba-onu-adelanta-no_1_1126056.html",
@@ -102,41 +137,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260420/maraton-mediatico-europa-por-cuba-denuncio-bloqueo-y-amenazas-de-ee-uu/",
         "published_date": "2026-04-20 07:57:22",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba wants peace, but does not know fear",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260419/cuba-quiere-la-paz-pero-no-conoce-el-miedo/",
-        "published_date": "2026-04-20 03:05:33",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Pine for peace",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260419/pinar-por-la-paz/",
-        "published_date": "2026-04-19 19:24:12",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Neither the blockade nor the threats: \u201cMy Signature for the Homeland\u201d in Cienfuegos (+ Gallery)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ni-el-bloqueo-ni-las-amenazas-mi-firma-por-la-patria-en-cienfuegos-galeria/",
-        "published_date": "2026-04-19 17:25:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Mobilization in Santo Domingo supports Cuba and rejects US blockade",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/movilizacion-en-santo-domingo-respalda-a-cuba-y-rechaza-bloqueo-eeuu/",
-        "published_date": "2026-04-19 17:10:25",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Vietnam denounces aggressive US escalation against Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncian-desde-vietnam-agresiva-escalada-de-eeuu-contra-cuba/",
-        "published_date": "2026-04-19 11:52:07",
         "category": "Diplomacy"
     },
     {
@@ -266,20 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "Trump announces ten-day ceasefire between Israel and Lebanon",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-anuncia-alto-fuego-diez_1_1125796.html",
-        "published_date": "2026-04-16 18:02:36",
-        "category": "Military"
-    },
-    {
-        "title": "D\u00edaz-Canel participates in an event for the anniversary of the socialist proclamation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/participa-diaz-canel-en-acto-por-aniversario-de-la-proclamacion-socialista/",
-        "published_date": "2026-04-16 14:45:24",
-        "category": "Military"
-    },
-    {
         "title": "Russia willing to study new oil supplies to Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/rusia-dispuesta-a-estudiar-nuevos-suministros-de-petroleo-a-cuba/",
@@ -406,18 +392,11 @@
         "category": "Energy"
     },
     {
-        "title": "Artemisa Schoolchildren: Unemployed?Not even to gain momentum!",
+        "title": "Holguin Mipyme received National Vanguard status",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260416/escolares-artemisa-parados-ni-para-coger-impulso/",
-        "published_date": "2026-04-16 13:46:39",
-        "category": "Energy"
-    },
-    {
-        "title": "The retirees of Mayabeque lose the little money that the sale of newspapers gave them",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/correos-noticias-prensa-san-jose-lajas_1_1125779.html",
-        "published_date": "2026-04-16 12:38:01",
-        "category": "Energy"
+        "url": "https://www.trabajadores.cu/20260424/mipyme-holguinera-recibio-condicion-de-vanguardia-nacional/",
+        "published_date": "2026-04-24 17:40:27",
+        "category": "Economy"
     },
     {
         "title": "They analyze implementation of the Government's Economic and Social Program for 2026",
@@ -427,143 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Informative coffee for Friday, April 24, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-24-abril_132_1126053.html",
-        "published_date": "2026-04-24 10:43:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, April 24, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-24-abril_7_1126055.html",
-        "published_date": "2026-04-24 10:37:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from April 24, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-24-abril-2026_7_1126052.html",
-        "published_date": "2026-04-24 10:22:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Chinese DeepSeek launches its new AI model and compares it with Anthropic or Google",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/china-deepseek-lanza-nuevo-modelo_1_1126050.html",
-        "published_date": "2026-04-24 09:37:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE instructs its agents not to enter homes without a warrant, according to NBC",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ice-instruye-agentes-no-entrar_1_1126049.html",
-        "published_date": "2026-04-24 09:28:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from April 24, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-24-abril-2026_132_1126046.html",
-        "published_date": "2026-04-24 09:17:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delcy Rodr\u00edguez announces the \"end\" of the Amnesty Law",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-anuncia-ley-amnistia_1_1126045.html",
-        "published_date": "2026-04-24 09:14:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US accuses a soldier of profiting from classified information about Maduro's capture",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-acusa-soldado-lucrarse_1_1126047.html",
-        "published_date": "2026-04-24 09:14:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Javier Sol\u00eds: the ranchero bolero where he lives",
+        "title": "New Community Youth Network presented in Cienfuegos",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/javier-solis-el-bolero-ranchero-donde-habita/",
-        "published_date": "2026-04-24 05:00:01",
+        "url": "https://www.5septiembre.cu/presentan-en-cienfuegos-nueva-red-juvenil-comunitaria/",
+        "published_date": "2026-04-24 23:48:50",
         "category": "Local Events"
     },
     {
-        "title": "Get to know our weekly edition in PDF from April 24",
+        "title": "Pitfalls in bankization issues in the Here the People program",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-24-de-abril/",
-        "published_date": "2026-04-24 04:05:27",
+        "url": "https://www.5septiembre.cu/escollos-en-temas-de-bancarizacion-en-programa-aqui-el-pueblo/",
+        "published_date": "2026-04-24 22:53:12",
         "category": "Local Events"
     },
     {
-        "title": "Abrakadabra children's company premieres at the Terry theater in Cienfuegos",
+        "title": "Mar\u00eda Karla Cuesta Hern\u00e1ndez: a guitar to play the infinite",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/compania-infantil-abrakadabra-de-estreno-en-el-teatro-terry-de-cienfuegos/",
-        "published_date": "2026-04-24 04:00:54",
+        "url": "https://www.5septiembre.cu/maria-karla-cuesta-hernandez-una-guitarra-para-tocar-el-infinito/",
+        "published_date": "2026-04-24 21:48:05",
         "category": "Local Events"
     },
     {
-        "title": "Important decorations on the chests of prominent union leaders",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260423/importantes-condecoraciones-al-pecho-de-destacados-dirigentes-sindicales/",
-        "published_date": "2026-04-24 01:10:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pioneer parade for May 1 in Santiago de Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260423/desfile-pioneril-por-el-1-de-mayo-en-santiago-de-cuba/",
-        "published_date": "2026-04-24 00:17:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The independent Alas Tensas observatory reports a new feminicide and a vicarious infanticide in Cuba",
+        "title": "Political prisoner Lizandra G\u00f3ngora ends her hunger and thirst strike",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/observatorio-independiente-alas-tensas-reporta_1_1126044.html",
-        "published_date": "2026-04-23 23:15:50",
+        "url": "https://www.14ymedio.com/cuba/presa-politica-lizandra-gongora-depone_1_1126076.html",
+        "published_date": "2026-04-24 21:03:43",
         "category": "Local Events"
     },
     {
-        "title": "Workers rampaging",
+        "title": "Joy in pine towns",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260423/trabajadores-arrasando/",
-        "published_date": "2026-04-23 22:47:46",
+        "url": "https://www.trabajadores.cu/20260424/alegria-en-poblados-pineros/",
+        "published_date": "2026-04-24 21:00:03",
         "category": "Local Events"
     },
     {
-        "title": "Collective leadership in Cuba is a myth, command remains concentrated",
+        "title": "Honduras still does not fill the positions left by Cuban specialists",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/direccion-colectiva-cuba-mito-mando_1_1126042.html",
-        "published_date": "2026-04-23 21:58:44",
+        "url": "https://www.14ymedio.com/internacional/honduras-sigue-cubrir-plazas-dejaron_1_1126070.html",
+        "published_date": "2026-04-24 20:57:54",
         "category": "Local Events"
     },
     {
-        "title": "Union internship in Cuba: weaving unity in challenging times",
+        "title": "Cuban athlete Javier Mart\u00edn 'Spiderman' arrested after eight days of solitary protest",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/detenido-ocho-dias-protesta-solitaria_1_1126074.html",
+        "published_date": "2026-04-24 20:52:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Russian oil tanker 'Universal' changes course and cools Cuba's expectations",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/petrolero-ruso-universal-cambia-rumbo_1_1126072.html",
+        "published_date": "2026-04-24 20:32:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Homeland commands, we obey",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260423/pasantia-sindical-en-cuba-tejer-unidad-en-tiempos-de-desafio/",
-        "published_date": "2026-04-23 21:24:57",
+        "url": "https://www.trabajadores.cu/20260424/la-patria-manda-nosotros-obedecemos/",
+        "published_date": "2026-04-24 19:45:53",
         "category": "Local Events"
     },
     {
-        "title": "Eaten by bedbugs in prison, Jonathan Muir cries: \u201cDad, get me out of here, I can't take it anymore\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/comido-chinches-prision-jonathan-muir_1_1126040.html",
-        "published_date": "2026-04-23 20:51:58",
+        "title": "Chinese companies explore investment opportunities in Laos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/empresas-chinas-exploran-oportunidades-de-inversion-en-laos/",
+        "published_date": "2026-04-24 19:38:22",
         "category": "Local Events"
     },
     {
-        "title": "Civil Aviation at the forefront",
+        "title": "Sancti Spiritus groups dress up for May Day",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260423/la-aviacion-civil-a-la-vanguardia/",
-        "published_date": "2026-04-23 20:11:53",
+        "url": "https://www.trabajadores.cu/20260424/colectivos-espirituanos-se-visten-de-gala-por-el-primero-de-mayo/",
+        "published_date": "2026-04-24 19:30:45",
         "category": "Local Events"
     },
     {
-        "title": "Player Naykel Cruz changes Matanzas for Italy despite having announced his hiring",
+        "title": "On the way to the future",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/de-camino-al-futuro/",
+        "published_date": "2026-04-24 18:54:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "A beat behind the door",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260424/un-latido-tras-la-puerta/",
+        "published_date": "2026-04-24 18:20:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Declaration of the Union of Young Communists in support of the revolutionary Government",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32657-declaracion-de-la-union-de-jovenes-comunistas-en-respaldo-al-gobierno-revolucionario",
+        "published_date": "2026-04-24 18:06:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wilmer Ferr\u00e1n: the rumba they don't want to see",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32655-wilmer-ferran-la-rumba-que-no-quieren-ver",
+        "published_date": "2026-04-24 17:23:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alejo Carpentier: Giant of Latin American literature",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260424/alejo-carpentier-gigante-de-la-literatura-latinoamericana/",
+        "published_date": "2026-04-24 16:45:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban water polo teams qualify for the Central American and Caribbean Games",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/deportes/32654-equipos-cuba-de-polo-acuatico-clasifican-a-juegos-centroamericanos-y-del-caribe",
+        "published_date": "2026-04-24 16:33:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe Cuban Government is still afraid of people like me\u201d: Otero Alc\u00e1ntara publishes his testimony from prison",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/pelotero-naykel-cruz-cambia-matanzas_1_1126037.html",
-        "published_date": "2026-04-23 19:35:54",
+        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-todavia-miedo-personas_1_1126065.html",
+        "published_date": "2026-04-24 16:11:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "They highlight Varadero's commitment to Cuban tourism",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260424/resaltan-compromiso-de-varadero-con-el-turismo-cubano/",
+        "published_date": "2026-04-24 16:00:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban president congratulates medalists of the chemistry Olympics",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-cubano-felicita-a-medallistas-de-olimpiada-de-quimica/",
+        "published_date": "2026-04-24 16:00:49",
         "category": "Local Events"
     }
 ]
