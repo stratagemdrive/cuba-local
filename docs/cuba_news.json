@@ -1,5 +1,19 @@
 [
     {
+        "title": "The Casa de las Am\u00e9ricas essay prize \"honors all revolutionary diplomacy\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/premio-ensayo-casa-americas-honra_1_1126092.html",
+        "published_date": "2026-04-25 18:44:59",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Solidarity group denounces attacks and reiterates support for Cuban sovereignty",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260425/agrupacion-solidaria-denuncia-agresiones-y-reitera-respaldo-a-la-soberania-cubana/",
+        "published_date": "2026-04-25 15:02:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Loud and clear responses from Cubans to Washington",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260424/respuestas-altas-y-claras-de-los-cubanos-a-washington/",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Egypt and Pakistan discuss negotiations between the US and Iran",
+        "title": "Brics MENA views developments in the Middle East with concern",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/egipto-y-pakistan-dialogan-sobre-negociaciones-entre-eeuu-e-iran/",
-        "published_date": "2026-04-20 12:22:16",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/brics-mena-ve-con-preocupacion-acontecimientos-en-medio-oriente/",
+        "published_date": "2026-04-25 15:53:58",
+        "category": "Military"
     },
     {
-        "title": "Media marathon Europe For Cuba denounced US blockade and threats",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260420/maraton-mediatico-europa-por-cuba-denuncio-bloqueo-y-amenazas-de-ee-uu/",
-        "published_date": "2026-04-20 07:57:22",
-        "category": "Diplomacy"
+        "title": "Intense clashes between Israel and Hezbollah in southern Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/intensos-enfrentamientos-entre-israel-y-hezbola-en-el-sur-de-libano/",
+        "published_date": "2026-04-25 15:36:33",
+        "category": "Military"
     },
     {
         "title": "Cuba hosts international internship on global trade union movement",
@@ -238,32 +252,11 @@
         "category": "Military"
     },
     {
-        "title": "88% of Cubans who arrived in the United States after 2000 favor a military operation against the regime",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/migracion/88-cubanos-llegados-ee-uu_1_1125851.html",
-        "published_date": "2026-04-17 21:25:21",
-        "category": "Military"
-    },
-    {
-        "title": "UNECA S.A.National Vanguard flag wins",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/uneca-s-a-gana-bandera-vanguardia-nacional/",
-        "published_date": "2026-04-17 18:21:01",
-        "category": "Military"
-    },
-    {
-        "title": "China Expands Solar Power Globally Including in Cuba",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/china-expands-solar-power-globally-including-in-cuba/",
-        "published_date": "2026-04-17 14:27:31",
-        "category": "Military"
-    },
-    {
-        "title": "Gir\u00f3n is today and always",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32633-giron-es-hoy-y-siempre",
-        "published_date": "2026-04-17 11:57:33",
-        "category": "Military"
+        "title": "They predict an impact of 1,205 MW for this Saturday's peak hours",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pronostican-afectacion-de-1-205-mw-para-el-horario-pico-de-este-sabado/",
+        "published_date": "2026-04-25 14:56:27",
+        "category": "Energy"
     },
     {
         "title": "Cuban crude oil can be refined",
@@ -392,6 +385,13 @@
         "category": "Energy"
     },
     {
+        "title": "National Vanguard for the Mixed Company Sanvig S.A.in Mayabeque",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260425/vanguardia-nacional-para-la-empresa-mixta-sanvig-s-a-en-mayabeque/",
+        "published_date": "2026-04-25 20:19:22",
+        "category": "Economy"
+    },
+    {
         "title": "Holguin Mipyme received National Vanguard status",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260424/mipyme-holguinera-recibio-condicion-de-vanguardia-nacional/",
@@ -399,11 +399,123 @@
         "category": "Economy"
     },
     {
-        "title": "They analyze implementation of the Government's Economic and Social Program for 2026",
+        "title": "Recetophilia or the taste of the universe by Evelin Queipo",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/59-literatura/32659-recetofilia-o-el-sabor-del-universo-de-evelin-queipo",
+        "published_date": "2026-04-25 19:35:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Karel Guzm\u00e1n: \u201cWhat happens to the percentages that the Cuban Basketball Federation receives from our contracts?\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/karel-guzman-sucede-porcientos-federacion_1_1126094.html",
+        "published_date": "2026-04-25 18:50:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another medical \"feat\" of the Cuban regime: treating a human hip as if it were a boiler",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/proeza-medica-regimen-cubano-tratar_1_1126089.html",
+        "published_date": "2026-04-25 18:28:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Construcciones CATEY SRL offers vacant positions",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/analizan-implementacion-del-programa-economico-y-social-del-gobierno-para-2026/",
-        "published_date": "2026-04-17 19:37:15",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260425/construcciones-catey-srl-oferta-plazas-vacantes/",
+        "published_date": "2026-04-25 18:17:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sorsano gives up the continental belt",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/2014-04-18-18-00-06/32658-sorsano-cede-la-faja-continental",
+        "published_date": "2026-04-25 17:58:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US conditions the payment of Nicol\u00e1s Maduro's lawyers with funds from the Venezuelan State",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-condiciona-pago-abogados_1_1126087.html",
+        "published_date": "2026-04-25 17:55:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peru, fear drives them crazy",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260425/peru-el-miedo-los-enloquece/",
+        "published_date": "2026-04-25 17:39:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The official media highlights the alms of \u201csolidarity with Cuba\u201d from Russia, China and other countries",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/medios-oficialistas-destacan-limosnas-solidaridad_1_1126084.html",
+        "published_date": "2026-04-25 15:53:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "United Left of Spain warns about international fascism",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/izquierda-unida-de-espana-alerta-sobre-fascismo-internacional/",
+        "published_date": "2026-04-25 15:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "US-Iran Dialogue, between being or not being",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/dialogo-eeuu-iran-entre-ser-o-no-ser/",
+        "published_date": "2026-04-25 15:40:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mercedes Benz for a dollar",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/mercedes-benz-dolar_1_1126082.html",
+        "published_date": "2026-04-25 15:31:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cubans in China sign for the Homeland and remember Gir\u00f3n's victory",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cubanos-en-china-firman-por-la-patria-y-recuerdan-victoria-de-giron/",
+        "published_date": "2026-04-25 15:29:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba present in solidarity with the province of Angola",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-presente-en-solidaridad-con-provincia-de-angola/",
+        "published_date": "2026-04-25 15:18:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba participates in the Italian Obiettivo X tourism fair",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-participa-en-feria-italiana-de-turismo-obiettivo-x/",
+        "published_date": "2026-04-25 15:12:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Solidarity with Cuba in Italy in marches for Liberation Day",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/solidaridad-con-cuba-en-italia-en-marchas-por-el-dia-de-la-liberacion/",
+        "published_date": "2026-04-25 15:09:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conalza Las Tunas forges high recognition",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260425/conalza-las-tunas-fragua-alto-reconocimiento/",
+        "published_date": "2026-04-25 14:15:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "An independent survey seeks to measure the political opinion of Cubans",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/encuesta-independiente-busca-medir-opinion_1_1126080.html",
+        "published_date": "2026-04-25 13:05:51",
+        "category": "Local Events"
     },
     {
         "title": "The transformative triad: AI, automation and LEO satellites",
@@ -424,125 +536,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/panama-informa-liberacion-tres-diez_1_1126078.html",
         "published_date": "2026-04-25 01:39:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Handwritten messages: No one gives up here!",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/mensajes-de-puno-y-letra-aqui-no-se-rinde-nadie/",
-        "published_date": "2026-04-25 00:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Community Youth Network presented in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presentan-en-cienfuegos-nueva-red-juvenil-comunitaria/",
-        "published_date": "2026-04-24 23:48:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pitfalls in bankization issues in the Here the People program",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/escollos-en-temas-de-bancarizacion-en-programa-aqui-el-pueblo/",
-        "published_date": "2026-04-24 22:53:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mar\u00eda Karla Cuesta Hern\u00e1ndez: a guitar to play the infinite",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/maria-karla-cuesta-hernandez-una-guitarra-para-tocar-el-infinito/",
-        "published_date": "2026-04-24 21:48:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Political prisoner Lizandra G\u00f3ngora ends her hunger and thirst strike",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/presa-politica-lizandra-gongora-depone_1_1126076.html",
-        "published_date": "2026-04-24 21:03:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Joy in pine towns",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/alegria-en-poblados-pineros/",
-        "published_date": "2026-04-24 21:00:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honduras still does not fill the positions left by Cuban specialists",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/honduras-sigue-cubrir-plazas-dejaron_1_1126070.html",
-        "published_date": "2026-04-24 20:57:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban athlete Javier Mart\u00edn 'Spiderman' arrested after eight days of solitary protest",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/detenido-ocho-dias-protesta-solitaria_1_1126074.html",
-        "published_date": "2026-04-24 20:52:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Russian oil tanker 'Universal' changes course and cools Cuba's expectations",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/petrolero-ruso-universal-cambia-rumbo_1_1126072.html",
-        "published_date": "2026-04-24 20:32:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Homeland commands, we obey",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/la-patria-manda-nosotros-obedecemos/",
-        "published_date": "2026-04-24 19:45:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese companies explore investment opportunities in Laos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/empresas-chinas-exploran-oportunidades-de-inversion-en-laos/",
-        "published_date": "2026-04-24 19:38:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sancti Spiritus groups dress up for May Day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/colectivos-espirituanos-se-visten-de-gala-por-el-primero-de-mayo/",
-        "published_date": "2026-04-24 19:30:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the way to the future",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/de-camino-al-futuro/",
-        "published_date": "2026-04-24 18:54:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "A beat behind the door",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/un-latido-tras-la-puerta/",
-        "published_date": "2026-04-24 18:20:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Declaration of the Union of Young Communists in support of the revolutionary Government",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32657-declaracion-de-la-union-de-jovenes-comunistas-en-respaldo-al-gobierno-revolucionario",
-        "published_date": "2026-04-24 18:06:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wilmer Ferr\u00e1n: the rumba they don't want to see",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32655-wilmer-ferran-la-rumba-que-no-quieren-ver",
-        "published_date": "2026-04-24 17:23:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alejo Carpentier: Giant of Latin American literature",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/alejo-carpentier-gigante-de-la-literatura-latinoamericana/",
-        "published_date": "2026-04-24 16:45:02",
         "category": "Local Events"
     }
 ]
