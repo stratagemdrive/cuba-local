@@ -238,20 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Claudia Sheinbaum proposes a declaration against military intervention in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/claudia-sheinbaum-propone-declaracion-intervencion_1_1125853.html",
-        "published_date": "2026-04-18 11:05:57",
-        "category": "Military"
-    },
-    {
-        "title": "They commemorate the 65th anniversary of DAAFAR",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260417/conmemoran-aniversario-65-de-la-daafar/",
-        "published_date": "2026-04-18 00:54:17",
-        "category": "Military"
-    },
-    {
         "title": "They predict an impact of 1,205 MW for this Saturday's peak hours",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/pronostican-afectacion-de-1-205-mw-para-el-horario-pico-de-este-sabado/",
@@ -399,6 +385,41 @@
         "category": "Economy"
     },
     {
+        "title": "Who is the \u201clone wolf\u201d suspect in the attempted shooting at Trump's dinner?",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/lobo-solitario-sospechoso-tiroteo-cena_1_1126096.html",
+        "published_date": "2026-04-26 11:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Baseball in Cienfuegos is alive",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-beisbol-en-cienfuegos-esta-vivo/",
+        "published_date": "2026-04-26 04:00:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stories from the neighborhood: Sofia",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/historias-desde-el-barrio-sofia/",
+        "published_date": "2026-04-26 04:00:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holgu\u00edn distinguished its most dedicated workers",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260425/holguin-distinguio-a-sus-mas-abnegados-trabajadores/",
+        "published_date": "2026-04-26 01:10:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Productive push for May Day",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260425/empujon-productivo-por-el-primero-de-mayo/",
+        "published_date": "2026-04-26 00:12:53",
+        "category": "Local Events"
+    },
+    {
         "title": "Recetophilia or the taste of the universe by Evelin Queipo",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/cultura/59-literatura/32659-recetofilia-o-el-sabor-del-universo-de-evelin-queipo",
@@ -501,41 +522,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/solidaridad-con-cuba-en-italia-en-marchas-por-el-dia-de-la-liberacion/",
         "published_date": "2026-04-25 15:09:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conalza Las Tunas forges high recognition",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260425/conalza-las-tunas-fragua-alto-reconocimiento/",
-        "published_date": "2026-04-25 14:15:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "An independent survey seeks to measure the political opinion of Cubans",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/encuesta-independiente-busca-medir-opinion_1_1126080.html",
-        "published_date": "2026-04-25 13:05:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The transformative triad: AI, automation and LEO satellites",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-triada-transformadora-ia-automatizacion-y-satelites-leo/",
-        "published_date": "2026-04-25 04:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "A New Dream that defies time",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-sueno-nuevo-que-desafia-el-tiempo/",
-        "published_date": "2026-04-25 04:00:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Panama reports the release of three of the ten Panamanians detained in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/panama-informa-liberacion-tres-diez_1_1126078.html",
-        "published_date": "2026-04-25 01:39:09",
         "category": "Local Events"
     }
 ]
