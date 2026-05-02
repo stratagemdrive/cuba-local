@@ -1,5 +1,12 @@
 [
     {
+        "title": "United voices in solidarity with Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260502/voces-unidas-en-solidaridad-con-cuba/",
+        "published_date": "2026-05-02 15:34:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cThey are not going to intimidate us\u201d: Bruno Rodr\u00edguez before Trump's decree to expand coercive measures against Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/no-van-a-amedrentarnos-bruno-rodriguez-ante-decreto-de-trump-para-ampliar-medidas-coercitivas-contra-cuba/",
@@ -119,25 +126,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Loud and clear responses from Cubans to Washington",
+        "title": "President of Colombia rejected threats of military attack against Cuba",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/respuestas-altas-y-claras-de-los-cubanos-a-washington/",
-        "published_date": "2026-04-24 23:00:18",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260502/presidente-de-colombia-rechazo-amenazas-de-ataque-militar-contra-cuba/",
+        "published_date": "2026-05-02 23:22:40",
+        "category": "Military"
     },
     {
-        "title": "Oil tanker crossing through Strait of Hormuz reported despite blockade",
+        "title": "Trump quietly withdraws US military and dismantles key center for Gaza truce",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reportan-cruce-de-petrolero-por-estrecho-de-ormuz-pese-a-bloqueo/",
-        "published_date": "2026-04-24 19:49:13",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/trump-repliega-silenciosamente-a-militares-estadounidenses-y-desmantela-centro-clave-para-la-tregua-en-gaza/",
+        "published_date": "2026-05-02 19:57:42",
+        "category": "Military"
     },
     {
-        "title": "Cuba reiterates commitment to multilateralism, dialogue and peace",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32656-reitera-cuba-compromiso-con-el-multilateralismo-el-dialogo-y-la-paz",
-        "published_date": "2026-04-24 17:53:20",
-        "category": "Diplomacy"
+        "title": "There is no valid reason for military aggression against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/para-una-agresion-militar-contra-cuba-no-existe-razon-valida/",
+        "published_date": "2026-05-02 19:26:30",
+        "category": "Military"
     },
     {
         "title": "Baluja Garc\u00eda: \u201cWe are going to be victorious\u201d",
@@ -236,6 +243,13 @@
         "url": "https://www.5septiembre.cu/intensos-enfrentamientos-entre-israel-y-hezbola-en-el-sur-de-libano/",
         "published_date": "2026-04-25 15:36:33",
         "category": "Military"
+    },
+    {
+        "title": "radiant light",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260502/luz-radiante/",
+        "published_date": "2026-05-02 17:39:49",
+        "category": "Energy"
     },
     {
         "title": "With the impetus of youth",
@@ -350,11 +364,123 @@
         "category": "Economy"
     },
     {
-        "title": "Holguin Mipyme received National Vanguard status",
+        "title": "The ruin of the Great Theater: where the republican pomp and the Castro liturgy crumble",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-ruina-gran-teatro-pompa-republicana_7_1126297.html",
+        "published_date": "2026-05-02 20:19:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trade unionists from around the world debate the fight for a better planet",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/mipyme-holguinera-recibio-condicion-de-vanguardia-nacional/",
-        "published_date": "2026-04-24 17:40:27",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260502/sindicalistas-del-mundo-debaten-sobre-la-lucha-por-un-planeta-mejor/",
+        "published_date": "2026-05-02 20:08:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without makeup, the Gran Teatro de La Habana Alicia Alonso exhibits the wear and tear of a failed restoration",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/maquillaje-gran-teatro-habana-alicia_1_1126289.html",
+        "published_date": "2026-05-02 20:03:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce that Brazilian activist was subjected to torture by Israel",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/denuncian-que-activista-brasileno-fue-sometido-a-torturas-por-israel/",
+        "published_date": "2026-05-02 19:48:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Medical Brigade Declaration defending the Homeland",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260502/declaracion-brigada-medica-cubana-defendiendo-la-patria/",
+        "published_date": "2026-05-02 19:34:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba is committed to continuing to be a place of hope in the Caribbean",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-se-compromete-a-seguir-siendo-un-sitio-de-esperanza-en-el-caribe/",
+        "published_date": "2026-05-02 19:33:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Michele Curto: \"Now is the time to say I am Fidel\"",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/michele-curto-es-ahora-el-momento-de-decir-yo-soy-fidel/",
+        "published_date": "2026-05-02 19:18:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nationalized Cubans lean towards the Spanish socialist party and the radical right of Vox",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/migracion/cubanos-nacionalizados-inclinan-partido-socialista_1_1126287.html",
+        "published_date": "2026-05-02 19:10:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Solidarity cannot be blocked",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260502/la-solidaridad-no-se-puede-bloquear/",
+        "published_date": "2026-05-02 18:31:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another Cuban migrant dies in ICE custody in the US",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-migrante-cubano-custodia-ice_1_1126285.html",
+        "published_date": "2026-05-02 18:07:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leader PSG draws and fuels Lens' hopes in French football",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/lider-psg-empata-y-alimenta-esperanzas-del-lens-en-futbol-frances/",
+        "published_date": "2026-05-02 17:44:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Automotive Transport CIMEX proposes a job call",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260502/transporte-automotor-cimex-propone-convocatoria-laboral/",
+        "published_date": "2026-05-02 15:30:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba opens its chest and embraces them, Homeland is humanity",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-les-abre-el-pecho-y-los-abraza-patria-es-humanidad/",
+        "published_date": "2026-05-02 14:46:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban artist Tania Bruguera gives a microphone to New York and warns of \"freedom of expression in danger\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/artista-cubana-tania-bruguera-da_1_1126282.html",
+        "published_date": "2026-05-02 13:33:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "kyiv raises Moscow's losses in attacks on its oil industry to $7 billion",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/kiev-eleva-7-000-millones_1_1126279.html",
+        "published_date": "2026-05-02 13:21:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban regime tries to block a statement by LASA academics against repression",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-bloquear-declaracion-academicos_1_1126276.html",
+        "published_date": "2026-05-02 13:20:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "A former Florida congressman is convicted of conspiring for the Maduro Government",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/condenan-ex-congresista-florida-conspirar_1_1126277.html",
+        "published_date": "2026-05-02 12:05:10",
+        "category": "Local Events"
     },
     {
         "title": "Conference 'Let's talk about hegemony'",
@@ -375,125 +501,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/marifelix-sarria-aumenta-su-palmares-en-el-campeonato-panamericano-de-panama-2026/",
         "published_date": "2026-05-02 08:56:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The digital mirage: when artificial intelligence learns to lie with a human face",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-espejismo-digital-cuando-la-inteligencia-artificial-aprende-a-mentir-con-rostro-humano/",
-        "published_date": "2026-05-02 04:18:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jubilant May 1st in the Pueblo de los Molinos (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/jubiloso-1ro-de-mayo-en-el-pueblo-de-los-molinos-fotos/",
-        "published_date": "2026-05-02 01:30:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba present in celebration of May 1 in Uruguay",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/cuba-presente-en-celebracion-por-el-1-de-mayo-en-uruguay/",
-        "published_date": "2026-05-02 01:19:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump signs new executive order to expand coercive measures against Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-firma-nueva-orden-ejecutiva-para-ampliar-medidas-coercitivas-contra-cuba/",
-        "published_date": "2026-05-02 00:58:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The parade passed, the tents remained",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/desfile-paso-carpas-quedaron_1_1126268.html",
-        "published_date": "2026-05-01 21:07:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "A fighter from Gir\u00f3n on the socialist May Day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/un-combatiente-de-giron-en-el-primero-de-mayo-socialista/",
-        "published_date": "2026-05-01 19:24:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Children, magic in the parade",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/ninos-magia-en-el-desfile/",
-        "published_date": "2026-05-01 19:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "May 1st parade in Havana: fewer people and more tiredness under the sun",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-desfile-1-mayo-habana-gente_7_1126265.html",
-        "published_date": "2026-05-01 18:59:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Not to forget Gir\u00f3n: 6,230,973 fighting firms",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/para-no-olvidar-giron-6-230-973-de-firmas-combatientes/",
-        "published_date": "2026-05-01 18:40:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Half a million, according to the Government;tiredness and disinterest, depending on the street",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/medio-millon-gobierno-cansancio-desinteres_1_1126258.html",
-        "published_date": "2026-05-01 18:37:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "What they can't block us",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/lo-que-no-pueden-bloquearnos/",
-        "published_date": "2026-05-01 17:01:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Proletarian party in the Plaza Santiago (Photo report)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/fiesta-proletaria-en-la-plaza-santiaguera-fotorreportaje/",
-        "published_date": "2026-05-01 16:20:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tourism will win",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/el-turismo-vencera/",
-        "published_date": "2026-05-01 16:02:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Panamanian newspaper highlights events in Cuba for May 1",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/periodico-panameno-destaca-actos-en-cuba-por-el-1-de-mayo/",
-        "published_date": "2026-05-01 15:52:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran questions official US figures and assures that the real cost of the conflict in the Middle East is four times what was declared",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-cuestiona-cifras-oficiales-de-eeuu-y-asegura-que-el-costo-real-del-conflicto-en-oriente-medio-cuadruplica-lo-declarado/",
-        "published_date": "2026-05-01 15:50:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unity and commitment in Artemisa (Photo report)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/unidad-y-compromiso-en-artemisa-fotorreportaje/",
-        "published_date": "2026-05-01 15:30:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Pentagon closes agreements with seven leading companies in artificial intelligence",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/pentagono-cierra-acuerdos-siete-companias_1_1126252.html",
-        "published_date": "2026-05-01 15:09:21",
         "category": "Local Events"
     }
 ]
