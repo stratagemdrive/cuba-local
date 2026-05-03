@@ -112,18 +112,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The Casa de las Am\u00e9ricas essay prize \"honors all revolutionary diplomacy\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/premio-ensayo-casa-americas-honra_1_1126092.html",
-        "published_date": "2026-04-25 18:44:59",
-        "category": "Diplomacy"
+        "title": "Intellectuals and artists denounce new threats from the US towards Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/intelectuales-y-artistas-denuncian-nuevas-amenazas-de-eeuu-hacia-cuba/",
+        "published_date": "2026-05-03 19:35:45",
+        "category": "Military"
     },
     {
-        "title": "Solidarity group denounces attacks and reiterates support for Cuban sovereignty",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260425/agrupacion-solidaria-denuncia-agresiones-y-reitera-respaldo-a-la-soberania-cubana/",
-        "published_date": "2026-04-25 15:02:41",
-        "category": "Diplomacy"
+        "title": "Colombia rejected threats of military attack against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/colombia-rechazo-amenazas-de-ataque-militar-contra-cuba/",
+        "published_date": "2026-05-03 19:05:59",
+        "category": "Military"
     },
     {
         "title": "Cienfuegos Folklore Ensemble: Cuba and its tradition",
@@ -238,20 +238,6 @@
         "category": "Military"
     },
     {
-        "title": "Brics MENA views developments in the Middle East with concern",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/brics-mena-ve-con-preocupacion-acontecimientos-en-medio-oriente/",
-        "published_date": "2026-04-25 15:53:58",
-        "category": "Military"
-    },
-    {
-        "title": "Intense clashes between Israel and Hezbollah in southern Lebanon",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/intensos-enfrentamientos-entre-israel-y-hezbola-en-el-sur-de-libano/",
-        "published_date": "2026-04-25 15:36:33",
-        "category": "Military"
-    },
-    {
         "title": "radiant light",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260502/luz-radiante/",
@@ -308,13 +294,6 @@
         "category": "Energy"
     },
     {
-        "title": "They predict an impact of 1,205 MW for this Saturday's peak hours",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pronostican-afectacion-de-1-205-mw-para-el-horario-pico-de-este-sabado/",
-        "published_date": "2026-04-25 14:56:27",
-        "category": "Energy"
-    },
-    {
         "title": "They publish a new standard that updates control against money laundering and terrorist financing",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/publican-nueva-norma-que-actualiza-el-control-contra-el-lavado-de-activos-y-el-financiamiento-al-terrorismo/",
@@ -357,150 +336,143 @@
         "category": "Economy"
     },
     {
-        "title": "National Vanguard for the Mixed Company Sanvig S.A.in Mayabeque",
+        "title": "Paradigms",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260425/vanguardia-nacional-para-la-empresa-mixta-sanvig-s-a-en-mayabeque/",
-        "published_date": "2026-04-25 20:19:22",
-        "category": "Economy"
-    },
-    {
-        "title": "The first private residence for the elderly in Cuba opens its doors",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/abre-puertas-primera-residencia-privada_1_1126298.html",
-        "published_date": "2026-05-03 11:32:48",
+        "url": "https://www.trabajadores.cu/20260503/paradigmas/",
+        "published_date": "2026-05-03 22:41:42",
         "category": "Local Events"
     },
     {
-        "title": "'Voices' at L\u00e1zaro Horta's Piano Bar",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/voces-piano-bar-lazaro-horta_1_1126299.html",
-        "published_date": "2026-05-03 11:13:56",
+        "title": "A lot of gas will be needed in the tank for Cuban volleyball",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260503/hara-falta-mucha-gasolina-en-el-tanque-para-el-voleibol-cubano/",
+        "published_date": "2026-05-03 21:29:12",
         "category": "Local Events"
     },
     {
-        "title": "4+3: the law of renewal",
+        "title": "Lorca and Guill\u00e9n: Bridges between two greats",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260503/lorca-y-guillen-puentes-entre-dos-grandes/",
+        "published_date": "2026-05-03 21:25:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two young mothers benefit with the first modular houses made from containers inaugurated in Havana",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/43-la-ley-de-la-renovacion/",
-        "published_date": "2026-05-03 06:00:11",
+        "url": "https://www.5septiembre.cu/benefician-a-dos-jovenes-madres-con-primeras-casas-modulares-a-partir-de-contenedores-inauguradas-en-la-habana/",
+        "published_date": "2026-05-03 20:40:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Mejorana, or the last service to the unity of Jos\u00e9 Mart\u00ed",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-mejorana-o-el-ultimo-servicio-a-la-unidad-de-jose-marti/",
+        "published_date": "2026-05-03 20:05:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Starting today in Holgu\u00edn, 33rd edition of the May Pilgrimage (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/desde-hoy-en-holguin-las-33-romerias-de-mayo-fotos/",
+        "published_date": "2026-05-03 19:51:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentine \u201cjustice\u201d tries to hide serious irregularities in the process against Cristina",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/justicia-argentina-intenta-ocultar-graves-irregularidades-en-proceso-contra-cristina/",
+        "published_date": "2026-05-03 19:17:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "State and non-state companies: Valid and necessary merger",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260503/empresas-estatales-y-no-estatales-fusion-valida-y-necesaria/",
+        "published_date": "2026-05-03 19:16:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "US responds to 14-point Iranian proposal",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/estados-unidos-responde-a-propuesta-irani-de-14-puntos/",
+        "published_date": "2026-05-03 18:57:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ecuadorian organizations support revocation of Noboa's mandate",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/organizaciones-de-ecuador-apoyan-revocatoria-de-mandato-de-noboa/",
+        "published_date": "2026-05-03 18:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel: \u201cCuba will not fail the hope of the world\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260503/diaz-canel-cuba-no-le-fallara-a-la-esperanza-del-mundo/",
+        "published_date": "2026-05-03 18:46:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tell the reality, despite everything",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/generacion-y/contar-realidad-pese_132_1126338.html",
+        "published_date": "2026-05-03 17:59:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "An NGO committed to freedom",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/ong-comprometida-libertad_132_1126337.html",
+        "published_date": "2026-05-03 17:49:16",
         "category": "Local Events"
     },
     {
         "title": "ALBA-TCP calls on the world community to oppose threats against Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/32694-alba-tcp-llama-a-comunidad-mundial-oponerse-a-amenazas-contra-cuba",
+        "published_date": "2026-05-03 17:45:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "A bus accident on the National Highway leaves 48 injured, four of them seriously",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/accidente-omnibus-autopista-nacional-deja_1_1126327.html",
+        "published_date": "2026-05-03 17:36:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sweden boards another tanker suspected of belonging to the Russian shadow fleet",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/suecia-aborda-petrolero-sospechoso-pertencer_1_1126330.html",
+        "published_date": "2026-05-03 17:34:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cConcern\u201d in Matanzas regarding active cases of hepatitis",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/preocupacion-matanzas-casos-activos-hepatitis_1_1126333.html",
+        "published_date": "2026-05-03 17:32:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Cuban is sentenced to 14 years in prison for growing and selling marijuana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cubano-condenado-14-anos-prision_1_1126326.html",
+        "published_date": "2026-05-03 17:05:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yicel Acosta: the conquest of his own voice",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32692-yicel-acosta-la-conquista-de-su-propia-voz",
+        "published_date": "2026-05-03 16:58:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "How come you didn't see me?",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260502/alba-tcp-llama-a-comunidad-mundial-oponerse-a-amenazas-contra-cuba/",
-        "published_date": "2026-05-03 03:08:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "ALBA-TCP calls on the world community to oppose threats against Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/alba-tcp-llama-a-comunidad-mundial-oponerse-a-amenazas-contra-cuba/",
-        "published_date": "2026-05-03 00:40:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The ruin of the Great Theater: where the republican pomp and the Castro liturgy crumble",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-ruina-gran-teatro-pompa-republicana_7_1126297.html",
-        "published_date": "2026-05-02 20:19:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trade unionists from around the world debate the fight for a better planet",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260502/sindicalistas-del-mundo-debaten-sobre-la-lucha-por-un-planeta-mejor/",
-        "published_date": "2026-05-02 20:08:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without makeup, the Gran Teatro de La Habana Alicia Alonso exhibits the wear and tear of a failed restoration",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/maquillaje-gran-teatro-habana-alicia_1_1126289.html",
-        "published_date": "2026-05-02 20:03:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "They denounce that Brazilian activist was subjected to torture by Israel",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncian-que-activista-brasileno-fue-sometido-a-torturas-por-israel/",
-        "published_date": "2026-05-02 19:48:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Medical Brigade Declaration defending the Homeland",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260502/declaracion-brigada-medica-cubana-defendiendo-la-patria/",
-        "published_date": "2026-05-02 19:34:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba is committed to continuing to be a place of hope in the Caribbean",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-se-compromete-a-seguir-siendo-un-sitio-de-esperanza-en-el-caribe/",
-        "published_date": "2026-05-02 19:33:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Michele Curto: \"Now is the time to say I am Fidel\"",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/michele-curto-es-ahora-el-momento-de-decir-yo-soy-fidel/",
-        "published_date": "2026-05-02 19:18:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nationalized Cubans lean towards the Spanish socialist party and the radical right of Vox",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/migracion/cubanos-nacionalizados-inclinan-partido-socialista_1_1126287.html",
-        "published_date": "2026-05-02 19:10:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Solidarity cannot be blocked",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260502/la-solidaridad-no-se-puede-bloquear/",
-        "published_date": "2026-05-02 18:31:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another Cuban migrant dies in ICE custody in the US",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/muere-migrante-cubano-custodia-ice_1_1126285.html",
-        "published_date": "2026-05-02 18:07:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leader PSG draws and fuels Lens' hopes in French football",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lider-psg-empata-y-alimenta-esperanzas-del-lens-en-futbol-frances/",
-        "published_date": "2026-05-02 17:44:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Automotive Transport CIMEX proposes a job call",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260502/transporte-automotor-cimex-propone-convocatoria-laboral/",
-        "published_date": "2026-05-02 15:30:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba opens its chest and embraces them, Homeland is humanity",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-les-abre-el-pecho-y-los-abraza-patria-es-humanidad/",
-        "published_date": "2026-05-02 14:46:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban artist Tania Bruguera gives a microphone to New York and warns of \"freedom of expression in danger\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/artista-cubana-tania-bruguera-da_1_1126282.html",
-        "published_date": "2026-05-02 13:33:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "kyiv raises Moscow's losses in attacks on its oil industry to $7 billion",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/kiev-eleva-7-000-millones_1_1126279.html",
-        "published_date": "2026-05-02 13:21:25",
+        "url": "https://www.trabajadores.cu/20260503/como-que-no-me-viste/",
+        "published_date": "2026-05-03 16:56:41",
         "category": "Local Events"
     }
 ]
