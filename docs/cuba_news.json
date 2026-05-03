@@ -126,6 +126,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Cienfuegos Folklore Ensemble: Cuba and its tradition",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conjunto-folclorico-de-cienfuegos-cuba-y-su-tradicion/",
+        "published_date": "2026-05-03 04:00:22",
+        "category": "Military"
+    },
+    {
         "title": "President of Colombia rejected threats of military attack against Cuba",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260502/presidente-de-colombia-rechazo-amenazas-de-ataque-militar-contra-cuba/",
@@ -308,13 +315,6 @@
         "category": "Energy"
     },
     {
-        "title": "Cuban crude oil can be refined",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260424/el-petroleo-crudo-cubano-si-se-puede-refinar/",
-        "published_date": "2026-04-25 00:33:35",
-        "category": "Energy"
-    },
-    {
         "title": "They publish a new standard that updates control against money laundering and terrorist financing",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/publican-nueva-norma-que-actualiza-el-control-contra-el-lavado-de-activos-y-el-financiamiento-al-terrorismo/",
@@ -362,6 +362,41 @@
         "url": "https://www.trabajadores.cu/20260425/vanguardia-nacional-para-la-empresa-mixta-sanvig-s-a-en-mayabeque/",
         "published_date": "2026-04-25 20:19:22",
         "category": "Economy"
+    },
+    {
+        "title": "The first private residence for the elderly in Cuba opens its doors",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/abre-puertas-primera-residencia-privada_1_1126298.html",
+        "published_date": "2026-05-03 11:32:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Voices' at L\u00e1zaro Horta's Piano Bar",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/voces-piano-bar-lazaro-horta_1_1126299.html",
+        "published_date": "2026-05-03 11:13:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "4+3: the law of renewal",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/43-la-ley-de-la-renovacion/",
+        "published_date": "2026-05-03 06:00:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "ALBA-TCP calls on the world community to oppose threats against Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260502/alba-tcp-llama-a-comunidad-mundial-oponerse-a-amenazas-contra-cuba/",
+        "published_date": "2026-05-03 03:08:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "ALBA-TCP calls on the world community to oppose threats against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/alba-tcp-llama-a-comunidad-mundial-oponerse-a-amenazas-contra-cuba/",
+        "published_date": "2026-05-03 00:40:12",
+        "category": "Local Events"
     },
     {
         "title": "The ruin of the Great Theater: where the republican pomp and the Castro liturgy crumble",
@@ -466,41 +501,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/kiev-eleva-7-000-millones_1_1126279.html",
         "published_date": "2026-05-02 13:21:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban regime tries to block a statement by LASA academics against repression",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/regimen-cubano-bloquear-declaracion-academicos_1_1126276.html",
-        "published_date": "2026-05-02 13:20:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "A former Florida congressman is convicted of conspiring for the Maduro Government",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/condenan-ex-congresista-florida-conspirar_1_1126277.html",
-        "published_date": "2026-05-02 12:05:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conference 'Let's talk about hegemony'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/conferencia-hablemos-hegemonia_1_1126274.html",
-        "published_date": "2026-05-02 11:30:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Praise of daring",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/elogio-atrevimiento_1_1126272.html",
-        "published_date": "2026-05-02 11:10:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marif\u00e9lix Sarr\u00eda increases his record at the Pan American Championships in Panama 2026",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/marifelix-sarria-aumenta-su-palmares-en-el-campeonato-panamericano-de-panama-2026/",
-        "published_date": "2026-05-02 08:56:25",
         "category": "Local Events"
     }
 ]
