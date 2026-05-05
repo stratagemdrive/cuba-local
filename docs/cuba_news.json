@@ -1,5 +1,19 @@
 [
     {
+        "title": "Myanmar and Pakistan seek to strengthen bilateral cooperation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/myanmar-y-pakistan-buscan-fortalecer-la-cooperacion-bilateral/",
+        "published_date": "2026-05-05 07:21:40",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Radiocuba: Overcome the blockade and the energy crisis to keep radio and television on (+ Photos, Podcast and Infographic)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/radiocuba-sortear-el-bloqueo-y-la-crisis-energetica-para-mantener-encendidas-la-radio-y-la-television-fotos-podcast-e-infografia/",
+        "published_date": "2026-05-05 06:58:12",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba is not alone!",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260504/cuba-no-esta-sola-6/",
@@ -124,6 +138,13 @@
         "url": "https://www.5septiembre.cu/canciller-aleman-cuestiona-la-estrategia-de-estados-unidos-y-advierte-sobre-su-debilitamiento-frente-a-iran/",
         "published_date": "2026-04-27 15:25:26",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Ortega: The most powerful weapon of Nicaraguans is dignity",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ortega-el-arma-mas-poderosa-de-los-nicaraguenses-es-la-dignidad/",
+        "published_date": "2026-05-05 07:35:12",
+        "category": "Military"
     },
     {
         "title": "April rumors in Cuba: drones, resignations and secret negotiations",
@@ -259,11 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "The US Senate fails in the attempt to limit Trump's possible military actions in Cuba",
+        "title": "The European Union extends aid to Cuba by 2.85 million euros for Melissa",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/senado-ee-uu-falla-limitar_1_1126175.html",
-        "published_date": "2026-04-28 23:38:40",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/union-europea-amplia-2-85_1_1126378.html",
+        "published_date": "2026-05-05 09:20:17",
+        "category": "Energy"
     },
     {
         "title": "Light that heals",
@@ -357,6 +378,90 @@
         "category": "Economy"
     },
     {
+        "title": "Informative coffee for Tuesday, May 5, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-5-mayo_132_1126384.html",
+        "published_date": "2026-05-05 10:41:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, May 5, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-5-mayo_7_1126386.html",
+        "published_date": "2026-05-05 10:39:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "IN 500 CHARACTERS Restart your cell phone frequently",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260505/en-500-caracteres-reinicie-frecuentemente-su-celular/",
+        "published_date": "2026-05-05 10:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Machado says in the US that the elections in Venezuela should be in the next 12 months",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/machado-dice-ee-uu-elecciones_1_1126382.html",
+        "published_date": "2026-05-05 09:51:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US announces another attack against a ship in the Caribbean that leaves two dead",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-anuncia-ataque-embarcacion_1_1126380.html",
+        "published_date": "2026-05-05 09:34:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "MY INFLUENCERS (IX): Margarita, my flower of skin",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260505/mis-influencers-ix-margarita-mi-flor-de-piel/",
+        "published_date": "2026-05-05 09:01:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nicaragua highlights Cuba's courage in the face of threats from the US",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/nicaragua-resalta-valentia-de-cuba-ante-amenazas-de-eeuu/",
+        "published_date": "2026-05-05 07:45:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico rejects interception of Global Sumud Flotilla",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mexico-rechaza-intercepcion-de-flotilla-global-sumud/",
+        "published_date": "2026-05-05 06:42:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cubans in Chile condemn escalation of Trump's threats against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cubanos-en-chile-condenan-escalada-de-amenazas-de-trump-contra-cuba/",
+        "published_date": "2026-05-05 06:38:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spanish film Leo & Lou will inaugurate educational film exhibition in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/filme-espanol-leo-lou-inaugurara-muestra-de-cine-educativo-en-cuba/",
+        "published_date": "2026-05-05 06:21:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shared Words literary event inaugurated in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/inauguran-en-cuba-evento-literario-palabras-compartidas/",
+        "published_date": "2026-05-05 06:12:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paris is overflowing with love",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/se-desborda-de-amor-paris/",
+        "published_date": "2026-05-05 05:00:35",
+        "category": "Local Events"
+    },
+    {
         "title": "Cuba never ceases to surprise",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260504/cuba-no-deja-de-sorprender/",
@@ -410,90 +515,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/felix-sayli-navarro-rechazan-exilio_1_1126363.html",
         "published_date": "2026-05-04 17:47:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The invisible prison.Artists imprisoned in the Americas'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/prision-invisible-artistas-presos-americas_1_1126361.html",
-        "published_date": "2026-05-04 16:38:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro denounced that Colombia's peace plan is being sabotaged from Ecuador",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/petro-denuncio-que-desde-ecuador-se-sabotea-plan-de-paz-de-colombia/",
-        "published_date": "2026-05-04 16:38:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marco Rubio to the Vatican this week, Leo XIV will receive him",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/marco-rubio-esta-semana-al-vaticano-lo-recibira-leon-xiv/",
-        "published_date": "2026-05-04 16:32:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "V International Educational Film Festival began today",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260504/comenzo-hoy-v-muestra-internacional-de-cine-educativo/",
-        "published_date": "2026-05-04 16:05:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lebanon denounces Israeli attacks on rescue teams",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/libano-denuncia-ataques-israelies-contra-equipos-de-rescate/",
-        "published_date": "2026-05-04 15:20:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Customs seizes 48 capsules with cocaine at Jos\u00e9 Mart\u00ed airport",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aduana-de-cuba-ocupa-48-capsulas-con-cocaina-en-aeropuerto-jose-marti/",
-        "published_date": "2026-05-04 14:51:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "FITCuba will bring news, say organizers",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fitcuba-traera-novedades-dicen-organizadores/",
-        "published_date": "2026-05-04 14:24:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marco Rubio to the Vatican, Leo XIV will receive him",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/32697-marco-rubio-hacia-el-vaticano-lo-recibira-leon-xiv",
-        "published_date": "2026-05-04 14:10:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massive accident causes one death and 48 injuries",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32696-accidente-masivo-provoca-un-fallecido-y-48-lesionados",
-        "published_date": "2026-05-04 13:54:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u2018Feeling Positive: The Cuban Box Project\u2019",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/feeling-positive-the-cuban-box_1_1126359.html",
-        "published_date": "2026-05-04 13:31:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The architecture of the invisible'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/arquitectura-invisible_1_1126357.html",
-        "published_date": "2026-05-04 13:23:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "He retired and does not receive payment",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260504/se-jubilo-y-no-recibe-pago/",
-        "published_date": "2026-05-04 13:11:23",
         "category": "Local Events"
     }
 ]
