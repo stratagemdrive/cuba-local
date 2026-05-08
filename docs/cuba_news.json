@@ -1,5 +1,19 @@
 [
     {
+        "title": "Marches in Italy against the visit of Marco Rubio and in support of Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/marchas-en-italia-contra-la-visita-de-marco-rubio-y-en-apoyo-a-cuba/",
+        "published_date": "2026-05-07 15:11:12",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "D\u00edaz-Canel questions Marco Rubio's statements",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32707-cuestiona-diaz-canel-declaraciones-de-marco-rubio",
+        "published_date": "2026-05-07 09:12:58",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cienfuegos agriculture faces intensified US economic and energy blockade",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/enfrenta-agricultura-cienfueguera-recrudecido-bloqueo-economico-y-energetico-de-ee-uu/",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Minrex highlights the legality of the nationalization process in Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32682-minrex-destaca-legalidad-del-proceso-de-nacionalizacion-en-cuba",
-        "published_date": "2026-04-30 11:21:43",
-        "category": "Diplomacy"
+        "title": "Lula affirms that Trump is not planning a military invasion against Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/lula-afirma-trump-no-planea_1_1126483.html",
+        "published_date": "2026-05-07 21:34:37",
+        "category": "Military"
     },
     {
-        "title": "It is absurd that Cuba threatens the United States, says Foreign Minister Bruno Rodr\u00edguez",
+        "title": "Cuba \u201cshould be applauded and helped, not bombed,\u201d says Gustavo Petro",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/absurdo-que-cuba-amenace-a-estados-unidos-afirma-canciller-bruno-rodriguez/",
-        "published_date": "2026-04-29 23:31:30",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/cuba-deberia-ser-aplaudida-y-ayudada-no-bombardeada-afirma-gustavo-petro/",
+        "published_date": "2026-05-07 15:54:39",
+        "category": "Military"
     },
     {
         "title": "Russia announces a total mobile internet blackout in Moscow for May 9",
@@ -266,18 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "Ra\u00fal present at the Anti-imperialist Tribune this May 1st",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/raul-presente-en-la-tribuna-antimperialista-este-1ro-de-mayo/",
-        "published_date": "2026-05-01 13:42:37",
-        "category": "Military"
+        "title": "FITCuba has run out of fuel",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/fitcuba-quedado-combustible_1_1126475.html",
+        "published_date": "2026-05-07 20:33:55",
+        "category": "Energy"
     },
     {
-        "title": "Cuba standing in the streets celebrates May Day",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-de-pie-en-las-calles-celebra-el-primero-de-mayo/",
-        "published_date": "2026-05-01 10:52:32",
-        "category": "Military"
+        "title": "In violation of US regulations, MSMEs sell fuel to the Cuban state sector",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/violacion-norma-ee-uu-mipymes_1_1126465.html",
+        "published_date": "2026-05-07 15:22:47",
+        "category": "Energy"
     },
     {
         "title": "Bandec Cienfuegos expands use of renewable energy",
@@ -329,13 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "The union movement honors labor merits",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260429/el-movimiento-sindical-honra-meritos-laborales/",
-        "published_date": "2026-04-29 14:45:46",
-        "category": "Energy"
-    },
-    {
         "title": "Banco Metropolitano will allow you to withdraw cash with BPA and Bandec cards for a commission",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/banco-metropolitano-permitira-sacar-efectivo_1_1126437.html",
@@ -364,10 +371,94 @@
         "category": "Economy"
     },
     {
+        "title": "ICE keeps in custody a Cuban who was mistakenly deported to the Island and was returned to the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/ice-mantiene-custodia-cubano-deporto_1_1126481.html",
+        "published_date": "2026-05-07 21:03:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US sanctions Gaesa, its president and the state nickel mining company",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ee-uu-sanciona-gaesa-presidenta_1_1126478.html",
+        "published_date": "2026-05-07 20:52:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meli\u00e1 closes 50% of its hotels in Cuba due to lack of tourists",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/melia-cierra-50-hoteles-cuba_1_1126477.html",
+        "published_date": "2026-05-07 20:33:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "WHO assesses the risk of hantavirus for public health",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/oms-evalua-el-riesgo-del-hantavirus-para-la-salud-publica/",
+        "published_date": "2026-05-07 15:42:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban president responds to the statements made by Marco Rubio",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-cubano-responde-a-las-declaraciones-realizadas-por-marco-rubio/",
+        "published_date": "2026-05-07 15:27:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran offers assistance to ships in the Strait of Hormuz",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-ofrece-asistencia-a-buques-en-el-estrecho-de-ormuz/",
+        "published_date": "2026-05-07 15:18:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pressing on that giant and beautiful task called the Community Youth Network",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pulsando-esa-tarea-gigante-y-hermosa-que-se-llama-red-juvenil-comunitaria/",
+        "published_date": "2026-05-07 15:02:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "From university to business: The best route for artificial intelligence",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/de-la-universidad-a-la-empresa-la-mejor-ruta-para-la-inteligencia-artificial/",
+        "published_date": "2026-05-07 14:41:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Tourism: FITCuba 2026 is a window to opportunities",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ministro-de-turismo-fitcuba-2026-es-ventana-a-oportunidades/",
+        "published_date": "2026-05-07 13:56:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young people maintain the legacy of the Sa\u00edz brothers in Romer\u00edas de Mayo",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mantienen-jovenes-legado-de-los-hermanos-saiz-en-romerias-de-mayo/",
+        "published_date": "2026-05-07 13:46:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The waste of disenchantment",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/desperdicios-desencanto_1_1126467.html",
+        "published_date": "2026-05-07 13:00:25",
+        "category": "Local Events"
+    },
+    {
         "title": "The Canadian Sherritt suspends its activities in Cuba and repatriates its staff",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/canadiense-sherritt-suspende-actividades-cuba_1_1126464.html",
         "published_date": "2026-05-07 12:50:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Our people will continue to defend the political system that is sovereignly recognized in the Constitution",
+        "source": "Granma",
+        "url": "http://en.granma.cu/cuba/2026-05-07/our-people-will-continue-to-defend-the-political-system-that-is-sovereignly-recognized-in-the-constitution",
+        "published_date": "2026-05-07 12:05:02",
         "category": "Local Events"
     },
     {
@@ -385,6 +476,27 @@
         "category": "Local Events"
     },
     {
+        "title": "Yem\u00e1n Arias: ten years as a soloist and a pending concert",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/57-artes-escenicas/32710-yeman-arias-diez-anos-de-solista-y-un-concierto-pendiente",
+        "published_date": "2026-05-07 10:24:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Child immunization with anti-polio vaccine advances in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32709-avanza-en-camagueey-inmunizacion-infantil-con-vacuna-antipoliomielitica",
+        "published_date": "2026-05-07 09:33:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Committed to Cuba, Camag\u00fcey communicators weave dreams",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32708-comprometidos-con-cuba-comunicadores-camagueeyanos-tejen-suenos",
+        "published_date": "2026-05-07 09:23:51",
+        "category": "Local Events"
+    },
+    {
         "title": "\"Transnational repression\" in Nicaragua: they warn of threats and executions in exile",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/represion-transnacional-nicaragua-alertan-amenazas_1_1126456.html",
@@ -396,111 +508,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/abordan-propuestas-de-la-red-juvenil-comunitaria-en-cruces/",
         "published_date": "2026-05-07 04:00:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The name of Juana'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/nombre-juana_1_1120003.html",
-        "published_date": "2026-05-07 03:59:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Piarists ask for the return of the Guanabacoa cloister, looted by vandals",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/escolapios-piden-devolucion-claustro-guanabacoa_1_1126445.html",
-        "published_date": "2026-05-06 22:32:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tabasco organizes food and clothing collection for more than a thousand Cubans deported by the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/tabasco-organiza-colecta-alimentos-ropa_1_1126441.html",
-        "published_date": "2026-05-06 20:49:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Guiteras breaks \u201cas planned\u201d and aggravates the blackouts in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/guiteras-rompe-previsto-agrava-apagones_1_1126439.html",
-        "published_date": "2026-05-06 18:19:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban-American historian Ada Ferrer asks D\u00edaz-Canel for \"a true national dialogue\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/historiadora-cubanoamericana-ada-ferrer-pide_1_1126434.html",
-        "published_date": "2026-05-06 15:02:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Africa alert to hantavirus outbreak on MV Hondius cruise ship",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/africa-atenta-a-brote-de-hantavirus-en-crucero-mv-hondius/",
-        "published_date": "2026-05-06 14:36:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula will travel to the United States to meet with Trump",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lula-viajara-a-estados-unidos-para-reunirse-con-trump/",
-        "published_date": "2026-05-06 14:32:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "They support Bachelet in Chile after reports of a boycott of her candidacy",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/apoyan-en-chile-a-bachelet-tras-denuncias-de-boicot-a-su-candidatura/",
-        "published_date": "2026-05-06 14:11:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israeli attacks in Lebanon leave seven dead and school damaged",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ataques-israelies-en-libano-dejan-siete-muertos-y-danos-en-escuela/",
-        "published_date": "2026-05-06 13:47:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hotel chains in the foreground of FITCuba 2026",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cadenas-hoteleras-en-primeros-planos-de-fitcuba-2026/",
-        "published_date": "2026-05-06 13:29:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The time has come",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/llegado-hora_1_1126430.html",
-        "published_date": "2026-05-06 12:49:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "A new US attack against a ship in the Pacific leaves three dead",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/nuevo-ataque-ee-uu-embarcacion_1_1126429.html",
-        "published_date": "2026-05-06 12:46:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rubio, on the reward for Diosdado Cabello: \"US policy has not changed\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rubio-recompensa-diosdado-cabello-politica_1_1126425.html",
-        "published_date": "2026-05-06 12:14:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The kiosks at the Matanzas terminal attract people without resources who order something to eat",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/kioscos-terminal-matanzas-atraen-gente_1_1126421.html",
-        "published_date": "2026-05-06 11:26:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sanctions and threats of war: The last stand",
-        "source": "Granma",
-        "url": "http://en.granma.cu/cuba/2026-05-06/sanctions-and-threats-of-war-the-last-stand",
-        "published_date": "2026-05-06 10:05:43",
         "category": "Local Events"
     }
 ]
