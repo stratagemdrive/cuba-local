@@ -126,20 +126,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cienfuegos defends the Homeland this May Day (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-defiende-la-patria-este-primero-de-mayo/",
-        "published_date": "2026-05-01 11:01:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "May Day 2026: The Homeland defends itself in the streets and squares of Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/primero-de-mayo-de-2026-la-patria-se-defiende-en-las-calles-y-plazas-de-cuba/",
-        "published_date": "2026-05-01 10:23:44",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Lula affirms that Trump is not planning a military invasion against Cuba",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/lula-afirma-trump-no-planea_1_1126483.html",
@@ -357,6 +343,41 @@
         "category": "Economy"
     },
     {
+        "title": "The Cuban regime calls the \"supposed\" US offer of 100 million in aid a \"fable\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-tacha-fabula-supuesto_1_1126531.html",
+        "published_date": "2026-05-09 11:19:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Florida governor signs law to limit the influence of Cuba and other countries in Florida",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gobernador-florida-firma-ley-limitar_1_1126530.html",
+        "published_date": "2026-05-09 11:10:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Global Big Day 2026, where every bird counts",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/global-big-day-2026-donde-cada-ave-cuenta/",
+        "published_date": "2026-05-09 04:00:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Voice of Cuba in Geneva against digital divide and unilateral measures",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-voz-de-cuba-en-ginebra-contra-la-brecha-digital-y-las-medidas-unilaterales/",
+        "published_date": "2026-05-09 04:00:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Call for the 2026 National Film Criticism and Research Award",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/27-artes-visuales/32713-convocan-al-premio-nacional-de-critica-e-investigacion-cinematografica-2026",
+        "published_date": "2026-05-09 00:26:06",
+        "category": "Local Events"
+    },
+    {
         "title": "Coyotes, extortions, messages and a video: the disappearance of six Cubans in Mexico",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/migracion/coyotes-extorsiones-mensajes-video-desaparicion_1_1126527.html",
@@ -459,41 +480,6 @@
         "source": "Granma",
         "url": "http://en.granma.cu/mundo/2026-05-08/the-us-aggression-against-cuba-is-a-collective-punishment-of-a-genocidal-nature",
         "published_date": "2026-05-08 11:05:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new sanctions worsen the country's situation, just as they strengthen the determination to defend the homeland",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-05-08/the-new-sanctions-worsen-the-countrys-situation-just-as-they-strengthen-the-determination-to-defend-the-homeland",
-        "published_date": "2026-05-08 11:05:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Telemedicine: A Valuable Tool for Health and Life",
-        "source": "Granma",
-        "url": "http://en.granma.cu/cuba/2026-05-08/telemedicine-a-valuable-tool-for-health-and-life",
-        "published_date": "2026-05-08 11:05:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from May 8, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-8-mayo-2026_7_1126508.html",
-        "published_date": "2026-05-08 10:24:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "China reinvents itself as an international tourism power after the pandemic",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/china-reinventa-potencia-turistica-internacional_1_1126505.html",
-        "published_date": "2026-05-08 10:23:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US and Iran raise tension with an exchange of attacks, after 29 days of the ceasefire",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-e-iran-elevan_1_1126504.html",
-        "published_date": "2026-05-08 10:09:51",
         "category": "Local Events"
     }
 ]
