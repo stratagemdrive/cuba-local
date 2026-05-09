@@ -1,5 +1,26 @@
 [
     {
+        "title": "Relations between Cuba and Venezuela are paralyzed and waiting for what happens in the two countries",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-pierde-petroleo-acuerdos-e_1_1126525.html",
+        "published_date": "2026-05-08 19:27:07",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban Foreign Minister denounces multidimensional US aggression on ABC",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/canciller-cubano-denuncia-en-abc-agresion-multidimensional-de-eeuu/",
+        "published_date": "2026-05-08 16:38:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Executive order and announced blockade measures increase damage to the Cuban population",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/orden-ejecutiva-y-medidas-de-bloqueo-anunciadas-incrementan-dano-a-la-poblacion-cubana/",
+        "published_date": "2026-05-08 16:32:32",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Marches in Italy against the visit of Marco Rubio and in support of Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/marchas-en-italia-contra-la-visita-de-marco-rubio-y-en-apoyo-a-cuba/",
@@ -116,27 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/primero-de-mayo-de-2026-la-patria-se-defiende-en-las-calles-y-plazas-de-cuba/",
         "published_date": "2026-05-01 10:23:44",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Proletarian voice against the blockade",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260501/voz-proletaria-contra-el-bloqueo/",
-        "published_date": "2026-05-01 10:20:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump's \u201copportunity\u201d to Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260430/la-oportunidad-de-trump-a-cuba/",
-        "published_date": "2026-04-30 20:16:45",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba will convert its squares into forums condemning the blockade and for peace on the 1st.of May",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/140-1-mayo/32685-cuba-convertira-sus-plazas-en-tribunas-de-condena-al-bloqueo-y-por-la-paz-el-1ro-de-mayo",
-        "published_date": "2026-04-30 12:36:00",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "Uni\u00f3n El\u00e9ctrica forecasts an impact of 1,720 MW for night peak hours",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/union-electrica-pronostica-afectacion-de-1-720-mw-para-horario-pico-nocturno/",
+        "published_date": "2026-05-08 15:59:33",
+        "category": "Energy"
+    },
+    {
         "title": "FITCuba has run out of fuel",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/fitcuba-quedado-combustible_1_1126475.html",
@@ -350,17 +357,122 @@
         "category": "Economy"
     },
     {
-        "title": "They publish a new standard that updates control against money laundering and terrorist financing",
+        "title": "Coyotes, extortions, messages and a video: the disappearance of six Cubans in Mexico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/coyotes-extorsiones-mensajes-video-desaparicion_1_1126527.html",
+        "published_date": "2026-05-08 21:17:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Explosions rock southern Iran near Strait of Hormuz",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/publican-nueva-norma-que-actualiza-el-control-contra-el-lavado-de-activos-y-el-financiamiento-al-terrorismo/",
-        "published_date": "2026-04-30 13:55:20",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/explosiones-sacuden-el-sur-de-iran-cerca-del-estrecho-de-ormuz/",
+        "published_date": "2026-05-08 17:13:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Onei admits that 91.5% of medicines and health supplies are missing in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/onei-admite-cuba-falta-91_1_1126523.html",
+        "published_date": "2026-05-08 17:11:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain honors UN rapporteur Francesca Albanese and supports her work on Palestine",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/espana-condecora-a-relatora-de-la-onu-francesca-albanese-y-respalda-su-labor-sobre-palestina/",
+        "published_date": "2026-05-08 17:05:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "New sanctions aggravate the country's situation, to the same extent that they strengthen the determination to defend the Homeland",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/nuevas-sanciones-agravan-situacion-del-pais-en-la-misma-medida-en-que-fortalecen-la-determinacion-de-defender-la-patria/",
+        "published_date": "2026-05-08 16:55:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "They promote the \u201cMy Neighborhood for the Homeland\u201d movement from the communities",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/impulsan-desde-las-comunidades-el-movimiento-mi-barrio-por-la-patria/",
+        "published_date": "2026-05-08 16:44:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "There will be more sanctions against the Cuban regime, Marco Rubio announces in Rome",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/habra-sanciones-regimen-cubano-anuncia_1_1126520.html",
+        "published_date": "2026-05-08 16:33:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia welcomes China's decision to reject sanctions against Iran",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/rusia-celebra-decision-de-china-de-rechazar-las-sanciones-contra-iran/",
+        "published_date": "2026-05-08 16:25:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Democrats investigate possible political favors in pardons granted by Trump",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/democratas-investigan-posibles-favores-politicos-en-indultos-otorgados-por-trump/",
+        "published_date": "2026-05-08 16:13:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yandy D\u00edaz: from prison, boats and exile to 1,000 hits in the Major Leagues",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/yandy-diaz-prision-lanchas-exilio_1_1126519.html",
+        "published_date": "2026-05-08 16:09:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, May 8, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-8-mayo_132_1126517.html",
+        "published_date": "2026-05-08 15:30:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States seeks to remove the nationality of V\u00edctor Manuel Rocha, a spy in the service of Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-busca-quitarle-nacionalidad_1_1126513.html",
+        "published_date": "2026-05-08 14:51:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Print edition of May 8, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-8-mayo-2026_132_1126511.html",
+        "published_date": "2026-05-08 13:48:46",
+        "category": "Local Events"
     },
     {
         "title": "Get to know our weekly edition in PDF from May 8",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-8-de-mayo/",
         "published_date": "2026-05-08 12:13:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The U.S.aggression against Cuba is a collective punishment of a genocidal nature",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-05-08/the-us-aggression-against-cuba-is-a-collective-punishment-of-a-genocidal-nature",
+        "published_date": "2026-05-08 11:05:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new sanctions worsen the country's situation, just as they strengthen the determination to defend the homeland",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-05-08/the-new-sanctions-worsen-the-countrys-situation-just-as-they-strengthen-the-determination-to-defend-the-homeland",
+        "published_date": "2026-05-08 11:05:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Telemedicine: A Valuable Tool for Health and Life",
+        "source": "Granma",
+        "url": "http://en.granma.cu/cuba/2026-05-08/telemedicine-a-valuable-tool-for-health-and-life",
+        "published_date": "2026-05-08 11:05:05",
         "category": "Local Events"
     },
     {
@@ -382,118 +494,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/ee-uu-e-iran-elevan_1_1126504.html",
         "published_date": "2026-05-08 10:09:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Havana we want",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/habana-queremos_1_1126496.html",
-        "published_date": "2026-05-08 10:09:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "US negotiators see little willingness on the part of Havana to accept Washington's proposals",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/negociadores-ee-uu-ven-voluntad_1_1126502.html",
-        "published_date": "2026-05-08 09:59:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from May 8, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-8-mayo-2026_132_1126501.html",
-        "published_date": "2026-05-08 09:53:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maria Corina Machado describes the death of political prisoner V\u00edctor Quero as \"murder\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/maria-corina-machado-califica-asesinato_1_1126497.html",
-        "published_date": "2026-05-08 09:49:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presentation of the book 'Chronicles of Juan Tanamera'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/presentacion-libro-cronicas-juan-tanamera_1_1126492.html",
-        "published_date": "2026-05-08 09:32:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Recycled Chinese containers, new homes for hundreds of homeless Cubans",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/contenedores-chinos-reciclados-nuevas-viviendas_1_1126484.html",
-        "published_date": "2026-05-08 09:31:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Virtual Seminar: 'Goodbye Lenin'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/seminario-virtual-goodbye-lenin_1_1126489.html",
-        "published_date": "2026-05-08 09:12:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ren\u00e9e M\u00e9ndez Capote, the Cuban girl who was born with the 20th century",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/renee-mendez-capote-la-cubanita-que-nacio-con-el-siglo-xx/",
-        "published_date": "2026-05-08 04:00:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE keeps in custody a Cuban who was mistakenly deported to the Island and was returned to the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/ice-mantiene-custodia-cubano-deporto_1_1126481.html",
-        "published_date": "2026-05-07 21:03:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US sanctions Gaesa, its president and the state nickel mining company",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-sanciona-gaesa-presidenta_1_1126478.html",
-        "published_date": "2026-05-07 20:52:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meli\u00e1 closes 50% of its hotels in Cuba due to lack of tourists",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/melia-cierra-50-hoteles-cuba_1_1126477.html",
-        "published_date": "2026-05-07 20:33:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "WHO assesses the risk of hantavirus for public health",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/oms-evalua-el-riesgo-del-hantavirus-para-la-salud-publica/",
-        "published_date": "2026-05-07 15:42:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban president responds to the statements made by Marco Rubio",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-cubano-responde-a-las-declaraciones-realizadas-por-marco-rubio/",
-        "published_date": "2026-05-07 15:27:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran offers assistance to ships in the Strait of Hormuz",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-ofrece-asistencia-a-buques-en-el-estrecho-de-ormuz/",
-        "published_date": "2026-05-07 15:18:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pressing on that giant and beautiful task called the Community Youth Network",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pulsando-esa-tarea-gigante-y-hermosa-que-se-llama-red-juvenil-comunitaria/",
-        "published_date": "2026-05-07 15:02:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "From university to business: The best route for artificial intelligence",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/de-la-universidad-a-la-empresa-la-mejor-ruta-para-la-inteligencia-artificial/",
-        "published_date": "2026-05-07 14:41:57",
         "category": "Local Events"
     }
 ]
