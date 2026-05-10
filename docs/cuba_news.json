@@ -1,5 +1,12 @@
 [
     {
+        "title": "They commemorate Victory Day in Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260509/rememoran-en-cuba-el-dia-de-la-victoria/",
+        "published_date": "2026-05-10 01:45:32",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Military parade in Moscow commemorates the 81st anniversary of Victory Day (+Photos and Video)",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/rusia-reitera-disposicion-de-apoyar-a-cuba-material-y-politicamente/",
@@ -116,13 +123,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260502/voces-unidas-en-solidaridad-con-cuba/",
         "published_date": "2026-05-02 15:34:25",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "\u201cThey are not going to intimidate us\u201d: Bruno Rodr\u00edguez before Trump's decree to expand coercive measures against Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/no-van-a-amedrentarnos-bruno-rodriguez-ante-decreto-de-trump-para-ampliar-medidas-coercitivas-contra-cuba/",
-        "published_date": "2026-05-02 01:05:31",
         "category": "Diplomacy"
     },
     {
@@ -350,6 +350,13 @@
         "category": "Energy"
     },
     {
+        "title": "Social Economic Program 2026: where all our great goals and commitments are",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260509/programa-economico-social-2026-donde-estan-todas-nuestras-grandes-metas-y-compromisos/",
+        "published_date": "2026-05-10 01:10:13",
+        "category": "Economy"
+    },
+    {
         "title": "Banco Metropolitano will allow you to withdraw cash with BPA and Bandec cards for a commission",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/banco-metropolitano-permitira-sacar-efectivo_1_1126437.html",
@@ -362,6 +369,27 @@
         "url": "https://www.5septiembre.cu/la-deuda-de-eeuu-supera-el-tamano-de-su-economia-por-primera-vez-desde-la-segunda-guerra-mundial/",
         "published_date": "2026-05-06 14:00:14",
         "category": "Economy"
+    },
+    {
+        "title": "The mother: gives life and always multiplies it",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-madre-da-la-vida-y-la-multiplica-siempre/",
+        "published_date": "2026-05-10 04:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gu\u00e1imaro ashes, expression of revolutionary intransigence",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/historia-incio/sucesos-submenu/32717-cenizas-de-guaimaro-expresion-de-intransigencia-revolucionaria",
+        "published_date": "2026-05-10 00:00:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The rose garden of mothers",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/lecturas/45-cronicas-sueltas/32714-la-rosaleda-de-las-madres",
+        "published_date": "2026-05-10 00:00:00",
+        "category": "Local Events"
     },
     {
         "title": "The soul of Cuba vibrated in the Teatro Am\u00e9rica (Photoreport)",
@@ -480,27 +508,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/nacionalidad-espanola-ley-memoria-numero_1_1126543.html",
         "published_date": "2026-05-09 13:23:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rum factory Santiago de Cuba raises the flag of the National Vanguard",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260509/ronera-santiago-de-cuba-alza-bandera-de-vanguardia-nacional/",
-        "published_date": "2026-05-09 13:05:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Mother's Day without flowers or gifts",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/dia-madres-flores-regalos_1_1126534.html",
-        "published_date": "2026-05-09 12:31:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "El\u00edas Amor: \u201cThe economic and political changes in Cuba have to be simultaneous\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/elias-amor-cambios-economicos-politicos_1_1126535.html",
-        "published_date": "2026-05-09 12:06:20",
         "category": "Local Events"
     }
 ]
