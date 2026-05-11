@@ -1,5 +1,12 @@
 [
     {
+        "title": "China confirms Trump's visit focused on stabilizing ties",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-confirma-visita-de-trump-enfocada-en-estabilizar-nexos/",
+        "published_date": "2026-05-11 11:43:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "They commemorate Victory Day in Cuba",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260509/rememoran-en-cuba-el-dia-de-la-victoria/",
@@ -117,6 +124,20 @@
         "url": "https://www.5septiembre.cu/cuba-agradece-al-alba-su-rechazo-a-amenazas-de-estados-unidos/",
         "published_date": "2026-05-04 14:56:26",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Arithmetic of a world on fire",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aritmetica-de-un-mundo-en-llamas/",
+        "published_date": "2026-05-11 12:43:03",
+        "category": "Military"
+    },
+    {
+        "title": "Ignacio Agramonte forever shines in history",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/historia-incio/personalidades-submenu/32718-por-siempre-brilla-ignacio-agramonte-en-la-historia",
+        "published_date": "2026-05-11 00:00:00",
+        "category": "Military"
     },
     {
         "title": "The US openly multiplies its military flights near Cuba, as a warning",
@@ -245,13 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "Cienfuegos Folklore Ensemble: Cuba and its tradition",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conjunto-folclorico-de-cienfuegos-cuba-y-su-tradicion/",
-        "published_date": "2026-05-03 04:00:22",
-        "category": "Military"
-    },
-    {
         "title": "A desperate plea in the middle of the dark Havana night: \"Light!\"",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/habra-despedirse-tomacorrientes_1_1126566.html",
@@ -350,6 +364,76 @@
         "category": "Economy"
     },
     {
+        "title": "Nationals from the cruise ship with hantavirus outbreak arrive in the US",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/llegan-a-eeuu-nacionales-del-crucero-con-brote-de-hantavirus/",
+        "published_date": "2026-05-11 13:13:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Telephones out of service",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260511/telefonos-fuera-de-servicio/",
+        "published_date": "2026-05-11 13:03:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bar\u00e7a defeats Madrid at the Camp Nou and is proclaimed LaLiga champion",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-barca-vence-al-madrid-en-el-camp-nou-y-se-proclama-campeon-de-laliga/",
+        "published_date": "2026-05-11 11:20:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico and Honduras in the pillory",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/mexico-honduras-picota_1_1126607.html",
+        "published_date": "2026-05-11 10:54:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Monday, May 11, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-11-mayo_132_1126608.html",
+        "published_date": "2026-05-11 10:53:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Monday, May 11, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-lunes-11-mayo_7_1126610.html",
+        "published_date": "2026-05-11 10:52:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain dedicates half a million euros to buy food for the Cuban population",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/espana-dedica-medio-millon-euros_1_1126606.html",
+        "published_date": "2026-05-11 10:05:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump considers Iran's proposals unacceptable, calling for the lifting of sanctions and control of Hormuz",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-considera-inaceptables-propuestas-iran_1_1126605.html",
+        "published_date": "2026-05-11 09:50:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Relatives of political prisoners pay tribute to the opponent who died in the custody of the Venezuelan State",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/familiares-presos-politicos-rinden-homenaje_1_1126603.html",
+        "published_date": "2026-05-11 09:30:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Towards the economic brake in a fragmented world: stormy times",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/hacia-el-freno-economico-en-un-mundo-fragmentado-tiempos-de-tormenta/",
+        "published_date": "2026-05-11 04:00:39",
+        "category": "Local Events"
+    },
+    {
         "title": "Finca Marta, 10 years after Fidel's visit",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260510/finca-marta-a-10-anos-de-la-visita-de-fidel/",
@@ -417,76 +501,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260510/belleza-memoria-y-resistencia/",
         "published_date": "2026-05-10 19:51:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Assembly is the Union",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/the-assembly-is-the-union/",
-        "published_date": "2026-05-10 19:12:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Political prisoner Sayl\u00ed Navarro is punished for disclosing the beating her father received in prison",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sancionan-presa-politica-sayli-navarro_1_1126598.html",
-        "published_date": "2026-05-10 18:30:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban athletes win medals in canoeing and wrestling in Hungary and the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/disciplinas-canotaje-lucha-otorgan-medallas_1_1126594.html",
-        "published_date": "2026-05-10 18:04:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia, challenging democracy",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/colombia-retando-democracia_132_1126593.html",
-        "published_date": "2026-05-10 17:39:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "American doctor on vacation takes care of cruise ship affected by hantavirus outbreak",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/medico-estadounidense-en-vacaciones-asume-atencion-en-crucero-afectado-por-brote-de-hantavirus/",
-        "published_date": "2026-05-10 17:24:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Political definition days in India",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/jornadas-de-definiciones-politicas-en-india/",
-        "published_date": "2026-05-10 17:10:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russian company Space Energy to launch 50 space rockets annually",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/compania-rusa-space-energy-lanzara-50-cohetes-espaciales-anualmente/",
-        "published_date": "2026-05-10 17:01:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lina Ruz to Fidel: \u201cI have in you more than my children the indelible heroes of an entire youth and an entire people\u201d (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lina-ruz-a-fidel-tengo-en-ustedes-mas-que-a-mis-hijos-a-los-heroes-imborrables-de-toda-una-juventud-y-de-todo-un-pueblo-fotos/",
-        "published_date": "2026-05-10 16:36:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of Ministers approves the 2026 Economic and Social Program of the Cuban Government",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/consejo-de-ministros-aprueba-el-programa-economico-y-social-2026-del-gobierno-cubano/",
-        "published_date": "2026-05-10 16:22:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba celebrates Mother's Day with art, poetry and gratitude",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-celebra-el-dia-de-las-madres-con-arte-poesia-y-gratitud/",
-        "published_date": "2026-05-10 16:20:09",
         "category": "Local Events"
     }
 ]
