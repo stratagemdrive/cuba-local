@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Cuban Foreign Minister finds it difficult to defend the regime in English",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/canciller-cubano-le-cuesta-defender_1_1126612.html",
+        "published_date": "2026-05-11 15:12:06",
+        "category": "Diplomacy"
+    },
+    {
         "title": "China confirms Trump's visit focused on stabilizing ties",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/china-confirma-visita-de-trump-enfocada-en-estabilizar-nexos/",
@@ -124,6 +131,13 @@
         "url": "https://www.5septiembre.cu/cuba-agradece-al-alba-su-rechazo-a-amenazas-de-estados-unidos/",
         "published_date": "2026-05-04 14:56:26",
         "category": "Diplomacy"
+    },
+    {
+        "title": "The Arithmetic of a world in flames",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-05-11/the-arithmetic-of-a-world-in-flames",
+        "published_date": "2026-05-11 13:05:55",
+        "category": "Military"
     },
     {
         "title": "Arithmetic of a world on fire",
@@ -252,20 +266,6 @@
         "category": "Military"
     },
     {
-        "title": "Intellectuals and artists denounce new threats from the US towards Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/intelectuales-y-artistas-denuncian-nuevas-amenazas-de-eeuu-hacia-cuba/",
-        "published_date": "2026-05-03 19:35:45",
-        "category": "Military"
-    },
-    {
-        "title": "Colombia rejected threats of military attack against Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/colombia-rechazo-amenazas-de-ataque-militar-contra-cuba/",
-        "published_date": "2026-05-03 19:05:59",
-        "category": "Military"
-    },
-    {
         "title": "A desperate plea in the middle of the dark Havana night: \"Light!\"",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/habra-despedirse-tomacorrientes_1_1126566.html",
@@ -343,6 +343,13 @@
         "category": "Energy"
     },
     {
+        "title": "Pedicabs and tricycles solve the problem, but\u2026",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260511/bicitaxis-y-triciclos-resuelven-pero/",
+        "published_date": "2026-05-11 19:55:57",
+        "category": "Economy"
+    },
+    {
         "title": "Social Economic Program 2026: where all our great goals and commitments are",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260509/programa-economico-social-2026-donde-estan-todas-nuestras-grandes-metas-y-compromisos/",
@@ -364,6 +371,125 @@
         "category": "Economy"
     },
     {
+        "title": "Worry and occupy ourselves",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260511/preocuparnos-y-ocuparnos/",
+        "published_date": "2026-05-11 23:30:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Evo Morales' followers threaten to \"convulse\" Bolivia if they arrest him",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/seguidores-evo-morales-amenazan-convulsionar_1_1126626.html",
+        "published_date": "2026-05-11 20:45:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe still don't know anything,\u201d says one of the Cuban mothers looking for their children in Mexico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/seguimos-dice-madres-cubanas-buscan_1_1126624.html",
+        "published_date": "2026-05-11 20:42:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Guiteras thermoelectric plant enters, the Felton leaves: Cuba is once again close to the 2,000 MW deficit",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/entra-termoelectrica-guiteras-sale-felton_1_1126618.html",
+        "published_date": "2026-05-11 20:27:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "A woman is murdered in her home in Cienfuegos by her ex-partner",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/mujer-asesinada-hogar-cienfuegos-ex_1_1126622.html",
+        "published_date": "2026-05-11 20:10:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "A new shipment of humanitarian aid leaves Mexico for Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sale-mexico-nuevo-cargamento-ayuda_1_1126617.html",
+        "published_date": "2026-05-11 19:56:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Plus Ultra suspends the Madrid flight with Cubana de Aviaci\u00f3n for fear of US sanctions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/plus-ultra-suspende-vuelo-madrid_1_1126621.html",
+        "published_date": "2026-05-11 19:52:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "VEDCA grows for the benefit of Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260511/vedca-crece-para-beneficio-de-cuba/",
+        "published_date": "2026-05-11 18:53:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Esteban Lazo tours future Solinera in Vedado",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/recorre-esteban-lazo-futura-solinera-en-el-vedado/",
+        "published_date": "2026-05-11 18:11:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ideal of Agramonte grows in every Camag\u00fceyan",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32722-el-ideal-de-agramonte-crece-en-cada-camagueeyano",
+        "published_date": "2026-05-11 18:00:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Commitment and dedication distinguish the Maternal Hospital of Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32721-compromiso-y-entrega-distinguen-a-hospital-materno-de-camagueey",
+        "published_date": "2026-05-11 17:42:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Mayor continues riding on his plain, on his Island",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-mayor-sigue-cabalgando-en-su-llanura-en-su-isla/",
+        "published_date": "2026-05-11 17:10:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three new draft laws to Parliament",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32720-tres-nuevos-anteproyectos-de-leyes-al-parlamento",
+        "published_date": "2026-05-11 16:58:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Towards the third month of Trump's \"excursion\" to Iran",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/opinion/32719-hacia-el-tercer-mes-excursion-de-trump-a-iran",
+        "published_date": "2026-05-11 16:44:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mobile payments and digital betting: how small transactions changed the online casino",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/mobile-payments-and-digital-betting_132_1126614.html",
+        "published_date": "2026-05-11 16:37:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Transferm\u00f3vil denies false news about an alleged function that would affect users' money",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/transfermovil-desmiente-una-falsa-noticia-sobre-una-supuesta-funcion-que-afectaria-el-dinero-de-los-usuarios/",
+        "published_date": "2026-05-11 15:32:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Villa Clara Medical University for excellence",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/universidad-medica-de-villa-clara-por-la-excelencia/",
+        "published_date": "2026-05-11 14:56:58",
+        "category": "Local Events"
+    },
+    {
         "title": "Nationals from the cruise ship with hantavirus outbreak arrive in the US",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/llegan-a-eeuu-nacionales-del-crucero-con-brote-de-hantavirus/",
@@ -382,125 +508,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/el-barca-vence-al-madrid-en-el-camp-nou-y-se-proclama-campeon-de-laliga/",
         "published_date": "2026-05-11 11:20:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico and Honduras in the pillory",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/mexico-honduras-picota_1_1126607.html",
-        "published_date": "2026-05-11 10:54:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, May 11, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-11-mayo_132_1126608.html",
-        "published_date": "2026-05-11 10:53:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, May 11, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-lunes-11-mayo_7_1126610.html",
-        "published_date": "2026-05-11 10:52:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain dedicates half a million euros to buy food for the Cuban population",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/espana-dedica-medio-millon-euros_1_1126606.html",
-        "published_date": "2026-05-11 10:05:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump considers Iran's proposals unacceptable, calling for the lifting of sanctions and control of Hormuz",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-considera-inaceptables-propuestas-iran_1_1126605.html",
-        "published_date": "2026-05-11 09:50:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Relatives of political prisoners pay tribute to the opponent who died in the custody of the Venezuelan State",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/familiares-presos-politicos-rinden-homenaje_1_1126603.html",
-        "published_date": "2026-05-11 09:30:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Towards the economic brake in a fragmented world: stormy times",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/hacia-el-freno-economico-en-un-mundo-fragmentado-tiempos-de-tormenta/",
-        "published_date": "2026-05-11 04:00:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Finca Marta, 10 years after Fidel's visit",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/finca-marta-a-10-anos-de-la-visita-de-fidel/",
-        "published_date": "2026-05-10 22:03:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gale",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/vendaval/",
-        "published_date": "2026-05-10 21:25:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "New energy from La Estancia",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/nuevos-brios-de-la-estancia/",
-        "published_date": "2026-05-10 21:19:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "It's not the cow's fault",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/la-culpa-no-es-de-la-vaca/",
-        "published_date": "2026-05-10 21:15:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "What could be Cuba's performance in the next Central American and Caribbean Games in Santo Domingo 2026?",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/cual-pudiera-ser-la-actuacion-de-cuba-en-los-proximos-juegos-centroamericanos-y-del-caribe-de-santo-domingo-2026/",
-        "published_date": "2026-05-10 21:11:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women who inspire",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/mujeres-que-inspiran/",
-        "published_date": "2026-05-10 20:58:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coco's Guajira Illusion",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/la-ilusion-guajira-de-coco/",
-        "published_date": "2026-05-10 20:53:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Precise language",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/lenguaje-preciso-2/",
-        "published_date": "2026-05-10 20:41:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos Celebrates Nursing Day Day",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/celebra-cienfuegos-jornada-por-el-dia-de-la-enfermeria/",
-        "published_date": "2026-05-10 20:23:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beauty, memory and resistance",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260510/belleza-memoria-y-resistencia/",
-        "published_date": "2026-05-10 19:51:50",
         "category": "Local Events"
     }
 ]
