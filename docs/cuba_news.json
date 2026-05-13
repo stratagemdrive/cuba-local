@@ -1,5 +1,12 @@
 [
     {
+        "title": "Adjustment of fuel prices in foreign currency",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32735-ajuste-de-precios-de-combustibles-en-divisas",
+        "published_date": "2026-05-13 08:00:08",
+        "category": "Diplomacy"
+    },
+    {
         "title": "US unionists say NO to the war against Cuba",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260512/sindicalistas-de-ee-uu-dicen-no-a-la-guerra-contra-cuba/",
@@ -112,25 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Broad international support for Cuba in the face of new US sanctions",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32699-amplio-respaldo-internacional-a-cuba-frente-a-nuevas-sanciones-de-ee-uu",
-        "published_date": "2026-05-05 10:11:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Myanmar and Pakistan seek to strengthen bilateral cooperation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/myanmar-y-pakistan-buscan-fortalecer-la-cooperacion-bilateral/",
-        "published_date": "2026-05-05 07:21:40",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Radiocuba: Overcome the blockade and the energy crisis to keep radio and television on (+ Photos, Podcast and Infographic)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/radiocuba-sortear-el-bloqueo-y-la-crisis-energetica-para-mantener-encendidas-la-radio-y-la-television-fotos-podcast-e-infografia/",
-        "published_date": "2026-05-05 06:58:12",
-        "category": "Diplomacy"
+        "title": "The US considers that Cuba threatens its security for hosting military activities by Russia and China",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ee-uu-considera-cuba-amenaza_1_1126672.html",
+        "published_date": "2026-05-13 10:29:56",
+        "category": "Military"
     },
     {
         "title": "They denounce attempts to normalize military threats against Cuba",
@@ -259,11 +252,18 @@
         "category": "Military"
     },
     {
-        "title": "Ortega: The most powerful weapon of Nicaraguans is dignity",
+        "title": "The hypocritical formula of the fence",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ortega-el-arma-mas-poderosa-de-los-nicaraguenses-es-la-dignidad/",
-        "published_date": "2026-05-05 07:35:12",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/la-formula-hipocrita-del-cerco/",
+        "published_date": "2026-05-13 12:46:10",
+        "category": "Energy"
+    },
+    {
+        "title": "They facilitate bank loans to acquire solar panels",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32730-facilitan-creditos-bancarios-para-adquirir-paneles-solares",
+        "published_date": "2026-05-13 08:00:00",
+        "category": "Energy"
     },
     {
         "title": "The Cuban Government privatizes the sale of fuel, but will continue to control prices",
@@ -364,13 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "The European Union extends aid to Cuba by 2.85 million euros for Melissa",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/union-europea-amplia-2-85_1_1126378.html",
-        "published_date": "2026-05-05 09:20:17",
-        "category": "Energy"
-    },
-    {
         "title": "They defend their Bank",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260512/defienden-su-banco/",
@@ -411,6 +404,97 @@
         "url": "https://www.5septiembre.cu/la-deuda-de-eeuu-supera-el-tamano-de-su-economia-por-primera-vez-desde-la-segunda-guerra-mundial/",
         "published_date": "2026-05-06 14:00:14",
         "category": "Economy"
+    },
+    {
+        "title": "Respectful neonatal care is applied in Holgu\u00edn",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aplican-en-holguin-cuidados-neonatales-respetuosos/",
+        "published_date": "2026-05-13 12:58:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Of Cuban parents, Pere Villacorta is a defender in the youth ranks of FC Barcelona",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/padres-cubanos-pere-villacorta-defensor_1_1126684.html",
+        "published_date": "2026-05-13 12:57:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Donald Trump arrived in China, everything ready for his meeting with Xi Jinping",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/donald-trump-llego-a-china-todo-listo-para-su-reunion-con-xi-jinping/",
+        "published_date": "2026-05-13 12:33:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cirilo wants more and has enough for that",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260513/cirilo-quiere-mas-y-tiene-para-eso/",
+        "published_date": "2026-05-13 12:00:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The concern of Spanish companies in Cuba about Helms-Burton grows",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/economia/crece-preocupacion-empresas-espanolas-cuba_1_1126681.html",
+        "published_date": "2026-05-13 11:51:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the state warehouses of Havana, many slogans and no products",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/bodegas-estatales-habana-consignas-producto_1_1126679.html",
+        "published_date": "2026-05-13 11:22:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Florida plans to close 'Alligator Alcatraz' due to high costs, according to the 'New York Times'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/florida-planea-cierre-alligator-alcatraz_1_1126676.html",
+        "published_date": "2026-05-13 11:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, May 13, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-13-mayo_7_1126678.html",
+        "published_date": "2026-05-13 11:08:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump will ask Xi to \"open\" China to American companies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-pedira-xi-abrir-china_1_1126675.html",
+        "published_date": "2026-05-13 11:00:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Human Rights Watch believes that the Amnesty Law in Venezuela has \"serious deficiencies\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/human-rights-watch-cree-ley_1_1126673.html",
+        "published_date": "2026-05-13 10:38:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Open Havana Concert in Colombia",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/concierto-habana-abierta-colombia_1_1126670.html",
+        "published_date": "2026-05-13 09:51:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pediatric Hospital of Cienfuegos: another anniversary for the smile of childhood",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/hospital-pediatrico-de-cienfuegos-otro-aniversario-por-la-sonrisa-de-la-infancia/",
+        "published_date": "2026-05-13 04:00:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban peasantry will not disappoint the Revolution (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-campesinado-cubano-no-defraudara-a-la-revolucion-fotos/",
+        "published_date": "2026-05-13 03:48:17",
+        "category": "Local Events"
     },
     {
         "title": "The Piarists ask for the return of the Guanabacoa cloister, looted by vandals",
@@ -459,97 +543,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260512/honor-a-quienes-curan-y-tambien-sufren/",
         "published_date": "2026-05-12 19:30:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fight goes to safety",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/la-lucha-va-al-seguro/",
-        "published_date": "2026-05-12 17:32:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exhibition on Fidel Castro inaugurated in Jesi, Italy",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/inauguran-en-jesi-italia-exposicion-sobre-fidel-castro/",
-        "published_date": "2026-05-12 17:09:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two prisoners die in Guant\u00e1namo, one from tuberculosis and the other from starvation",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/mueren-presos-guantanamo-tuberculosis-inanicion_1_1126647.html",
-        "published_date": "2026-05-12 17:03:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Upec calls for the National Journalism Contest July 26",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/union-de-periodistas-de-cuba-convoca-al-concurso-nacional-de-periodismo-26-de-julio/",
-        "published_date": "2026-05-12 16:39:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "China without many expectations with Trump's visit, says expert",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/china-sin-muchas-expectativas-con-visita-de-trump-afirma-experto/",
-        "published_date": "2026-05-12 16:21:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "SASA Headquarters offers vacant positions",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/casa-matriz-de-sasa-ofrece-plazas-vacantes/",
-        "published_date": "2026-05-12 16:00:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The regime wants to charge Yoan de la Cruz for financing alleged sabotage",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/regimen-quiere-imputar-yoan-cruz_1_1126644.html",
-        "published_date": "2026-05-12 15:52:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holgu\u00edn accumulates favorable results in the Life Task",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/acumula-holguin-resultados-favorables-en-la-tarea-vida/",
-        "published_date": "2026-05-12 15:20:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba receives $6.5 million in aid from Japan in photovoltaic systems for hospitals",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-recibe-ayuda-japon-6_1_1126642.html",
-        "published_date": "2026-05-12 15:08:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scientific center carries out studies on beaches",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/realiza-centro-cientifico-estudios-sobre-las-playas/",
-        "published_date": "2026-05-12 15:06:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "And if I die one day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/y-si-me-muero-algun-dia/",
-        "published_date": "2026-05-12 14:40:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "For life and heritage",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/por-la-vida-y-el-patrimonio/",
-        "published_date": "2026-05-12 14:38:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bronze for Mitchel in Parapan American taekwondo",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/bronce-para-mitchel-en-parapanamericano-de-taekwondo/",
-        "published_date": "2026-05-12 14:02:16",
         "category": "Local Events"
     }
 ]
