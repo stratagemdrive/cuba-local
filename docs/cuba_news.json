@@ -1,5 +1,40 @@
 [
     {
+        "title": "Cienfuegos: signatures that are the will of a people",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cienfuegos-firmas-que-son-la-voluntad-de-un-pueblo/",
+        "published_date": "2026-05-13 21:03:54",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Self-powered energizers",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260513/energizadores-autopotenciados/",
+        "published_date": "2026-05-13 15:15:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Bruno Rodr\u00edguez warns of possible bloodbath if the US attacks Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bruno-rodriguez-alerta-de-eventual-bano-de-sangre-si-ee-uu-agrede-a-cuba/",
+        "published_date": "2026-05-13 14:53:08",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The book Cuba, prints of the resistance is presented in Mexico",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presentan-en-mexico-el-libro-cuba-estampas-de-la-resistencia/",
+        "published_date": "2026-05-13 13:42:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba: \u201cA military aggression would cause a humanitarian catastrophe, a bloodbath\u201d",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32736-cuba-una-agresion-militar-provocaria-una-catastrofe-humanitaria-un-bano-de-sangre",
+        "published_date": "2026-05-13 12:57:51",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Adjustment of fuel prices in foreign currency",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32735-ajuste-de-precios-de-combustibles-en-divisas",
@@ -102,20 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/no-pueden-seguir-negando-la-verdad-inocultable/",
         "published_date": "2026-05-06 13:40:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Economic coercion and naval threat: the siege of Cuba's self-determination",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/coercion-economica-y-amenaza-naval-el-asedio-a-la-autodeterminacion-de-cuba/",
-        "published_date": "2026-05-06 13:36:31",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Humanitarian and genocidal impact of the blockade",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32706-impacto-humanitario-y-genocida-del-bloqueo",
-        "published_date": "2026-05-06 09:46:09",
         "category": "Diplomacy"
     },
     {
@@ -245,11 +266,25 @@
         "category": "Military"
     },
     {
-        "title": "Rubio downplays the importance of the photo taken with a soldier in front of a map of Cuba",
+        "title": "A state company from Pinar del R\u00edo seeks foreign investors to produce rice",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rubio-resta-importancia-foto-tomada_1_1126410.html",
-        "published_date": "2026-05-05 20:35:05",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/empresa-estatal-pinar-rio-busca_1_1126705.html",
+        "published_date": "2026-05-13 20:34:59",
+        "category": "Energy"
+    },
+    {
+        "title": "In broad daylight, residents of San Miguel del Padr\u00f3n protest and demand \"current\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/plena-luz-dia-vecinos-san_1_1126698.html",
+        "published_date": "2026-05-13 20:21:22",
+        "category": "Energy"
+    },
+    {
+        "title": "Electric mobility a viable solution",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260513/la-movilidad-electrica-una-solucion-viable/",
+        "published_date": "2026-05-13 14:40:02",
+        "category": "Energy"
     },
     {
         "title": "The hypocritical formula of the fence",
@@ -406,143 +441,143 @@
         "category": "Economy"
     },
     {
-        "title": "Respectful neonatal care is applied in Holgu\u00edn",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aplican-en-holguin-cuidados-neonatales-respetuosos/",
-        "published_date": "2026-05-13 12:58:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Of Cuban parents, Pere Villacorta is a defender in the youth ranks of FC Barcelona",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/padres-cubanos-pere-villacorta-defensor_1_1126684.html",
-        "published_date": "2026-05-13 12:57:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Donald Trump arrived in China, everything ready for his meeting with Xi Jinping",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/donald-trump-llego-a-china-todo-listo-para-su-reunion-con-xi-jinping/",
-        "published_date": "2026-05-13 12:33:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cirilo wants more and has enough for that",
+        "title": "They prioritize medical training in healthcare settings in Holgu\u00edn",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260513/cirilo-quiere-mas-y-tiene-para-eso/",
-        "published_date": "2026-05-13 12:00:28",
+        "url": "https://www.trabajadores.cu/20260513/priorizan-formacion-medica-en-escenarios-asistenciales-de-holguin/",
+        "published_date": "2026-05-13 21:36:42",
         "category": "Local Events"
     },
     {
-        "title": "The concern of Spanish companies in Cuba about Helms-Burton grows",
+        "title": "Pedro Roig, historical figure of the Cuban exile and veteran of the Bay of Pigs, dies",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/crece-preocupacion-empresas-espanolas-cuba_1_1126681.html",
-        "published_date": "2026-05-13 11:51:35",
+        "url": "https://www.14ymedio.com/cuba/migracion/muere-pedro-roig-figura-historica_1_1126707.html",
+        "published_date": "2026-05-13 21:33:54",
         "category": "Local Events"
     },
     {
-        "title": "In the state warehouses of Havana, many slogans and no products",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/bodegas-estatales-habana-consignas-producto_1_1126679.html",
-        "published_date": "2026-05-13 11:22:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Florida plans to close 'Alligator Alcatraz' due to high costs, according to the 'New York Times'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/florida-planea-cierre-alligator-alcatraz_1_1126676.html",
-        "published_date": "2026-05-13 11:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, May 13, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-13-mayo_7_1126678.html",
-        "published_date": "2026-05-13 11:08:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump will ask Xi to \"open\" China to American companies",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-pedira-xi-abrir-china_1_1126675.html",
-        "published_date": "2026-05-13 11:00:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Human Rights Watch believes that the Amnesty Law in Venezuela has \"serious deficiencies\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/human-rights-watch-cree-ley_1_1126673.html",
-        "published_date": "2026-05-13 10:38:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Open Havana Concert in Colombia",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/concierto-habana-abierta-colombia_1_1126670.html",
-        "published_date": "2026-05-13 09:51:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pediatric Hospital of Cienfuegos: another anniversary for the smile of childhood",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/hospital-pediatrico-de-cienfuegos-otro-aniversario-por-la-sonrisa-de-la-infancia/",
-        "published_date": "2026-05-13 04:00:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban peasantry will not disappoint the Revolution (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-campesinado-cubano-no-defraudara-a-la-revolucion-fotos/",
-        "published_date": "2026-05-13 03:48:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Piarists ask for the return of the Guanabacoa cloister, looted by vandals",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-escolapios-piden-devolucion-claustro-guanabacoa_7_1126668.html",
-        "published_date": "2026-05-12 22:55:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleeping is also a privilege in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/dormir-privilegio-habana_1_1126651.html",
-        "published_date": "2026-05-12 20:49:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fede Valverde: what is known about the conflict with Aur\u00e9lien Tchouam\u00e9ni",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/fede-valverde-conflicto-aurelien-tchouameni_132_1126662.html",
-        "published_date": "2026-05-12 20:44:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cacerolazos in Havana, after a deficit of more than 2,000 MW, which could be repeated today",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cacerolazos-habana-deficit-2-000_1_1126656.html",
-        "published_date": "2026-05-12 20:30:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holgu\u00edn gives a setback to 'revolutionary' baseball with VIP tickets of 1,500 pesos",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/holguin-da-reves-beisbol-revolucionario_1_1126658.html",
-        "published_date": "2026-05-12 20:24:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santiago de Cuba organizes Young Radio Workshop and Contest",
+        "title": "Cuban Conferences against Homophobia and Transphobia: A political commitment to diversity",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/santiago-de-cuba-organiza-taller-y-concurso-de-la-radio-joven/",
-        "published_date": "2026-05-12 20:04:56",
+        "url": "https://www.trabajadores.cu/20260513/jornadas-cubanas-contra-la-homofobia-y-la-transfobia-un-compromiso-politico-con-la-diversidad/",
+        "published_date": "2026-05-13 21:11:59",
         "category": "Local Events"
     },
     {
-        "title": "Honor to those who heal and also suffer",
+        "title": "A young 32-year-old mother is murdered in the street by her ex-partner in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/joven-madre-32-anos-asesinada_1_1126700.html",
+        "published_date": "2026-05-13 20:18:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The regime will try two exiled Cuba Primero activists for \"terrorism\" and in absentia",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-juzgara-terrorismo-ausencia-activistas_1_1126699.html",
+        "published_date": "2026-05-13 20:12:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba rules out a first place in the medal table in the Central American and Caribbean Games",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cuba-descarta-primer-sitio-medallero_1_1126696.html",
+        "published_date": "2026-05-13 19:56:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Yasmany Gonz\u00e1lez's minimum severity regime is revoked for denouncing prison abuses online",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/revocan-regimen-minima-severidad-yasmany_1_1126694.html",
+        "published_date": "2026-05-13 19:14:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nicol\u00e1s Guill\u00e9n Colloquium and Festival begins",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/honor-a-quienes-curan-y-tambien-sufren/",
-        "published_date": "2026-05-12 19:30:08",
+        "url": "https://www.trabajadores.cu/20260513/comienza-coloquio-y-festival-nicolas-guillen/",
+        "published_date": "2026-05-13 18:29:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "In respect to the sound",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260513/en-respeto-al-son/",
+        "published_date": "2026-05-13 18:07:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Notes for a transition towards a functioning republic in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/apuntes-transicion-republica-funcione-cuba_1_1126692.html",
+        "published_date": "2026-05-13 17:54:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Democrats demand that Trump not invade the island or detain Cuban migrants in Guant\u00e1namo",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/democratas-exigen-trump-no-invadir_1_1126690.html",
+        "published_date": "2026-05-13 17:43:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Victims of Sandinism reject the candidacy of Sergio Ram\u00edrez to the Royal Spanish Academy",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/victimas-sandinismo-rechazan-candidatura-sergio_1_1126687.html",
+        "published_date": "2026-05-13 17:20:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peru: crisis and resistance",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260513/peru-crisis-y-resistencia/",
+        "published_date": "2026-05-13 17:13:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carmen Duarte presents in Madrid 'Islas que no ya son', a novel about memory, exile and failed revolutions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/carmen-duarte-presenta-madrid-islas_1_1126686.html",
+        "published_date": "2026-05-13 17:12:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico on the centenary of the Cuban flag",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260513/mexico-en-el-centenario-de-la-bandera-cubana/",
+        "published_date": "2026-05-13 16:44:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Surveillance against hantavirus",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32740-vigilancia-frente-al-hantavirus",
+        "published_date": "2026-05-13 16:22:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tribute to women and men with hardworking hands",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260513/tributo-a-mujeres-y-hombres-de-manos-laboriosas/",
+        "published_date": "2026-05-13 14:55:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel: Cuba does not threaten, Cuba is constantly threatened",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-cuba-no-amenaza-cuba-es-constantemente-amenazada/",
+        "published_date": "2026-05-13 14:03:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Servicios Automotores S.A. invites you to join the group",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260513/nuevas-ofertas-laborales-en-servicios-automotores-s-a/",
+        "published_date": "2026-05-13 14:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Experts warn: \u201cIn the face of hantavirus, the most important thing is surveillance\u201d",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/expertos-advierten-ante-el-hantavirus-lo-primordial-es-la-vigilancia/",
+        "published_date": "2026-05-13 13:36:49",
         "category": "Local Events"
     }
 ]
