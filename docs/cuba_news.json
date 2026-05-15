@@ -1,5 +1,40 @@
 [
     {
+        "title": "Damage could be alleviated more easily and expeditiously by lifting the blockade",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/podria-aliviarse-el-dano-de-un-modo-mas-facil-y-expedito-con-el-levantamiento-del-bloqueo/",
+        "published_date": "2026-05-14 20:25:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Information from the Revolutionary Government",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32745-informacion-del-gobierno-revolucionario",
+        "published_date": "2026-05-14 17:42:16",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban Foreign Minister comments on US aid offer",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32744-canciller-cubano-comenta-ofrecimiento-de-ayuda-de-ee-uu",
+        "published_date": "2026-05-14 17:27:24",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Xi Jinping to Trump: \u201cThere are no winners in a trade war\u201d",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/xi-jinping-a-trump-en-una-guerra-comercial-no-hay-ganadores/",
+        "published_date": "2026-05-14 16:06:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban Foreign Minister affirms that the US formalized an offer of aid to the island",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/canciller-de-cuba-afirma-eeuu-formalizo-oferta-de-ayuda-a-la-isla/",
+        "published_date": "2026-05-14 13:38:24",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Fuel ran out, acknowledges the Minister of Energy to justify blackouts of 22 hours in a row",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/acabo-combustible-reconoce-ministro-energia_1_1126713.html",
@@ -102,41 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cuba-felicita-a-rusia-por-la-victoria-contra-el-fascismo/",
         "published_date": "2026-05-09 16:07:26",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Relations between Cuba and Venezuela are paralyzed and waiting for what happens in the two countries",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-pierde-petroleo-acuerdos-e_1_1126525.html",
-        "published_date": "2026-05-08 19:27:07",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuban Foreign Minister denounces multidimensional US aggression on ABC",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-cubano-denuncia-en-abc-agresion-multidimensional-de-eeuu/",
-        "published_date": "2026-05-08 16:38:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Executive order and announced blockade measures increase damage to the Cuban population",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/orden-ejecutiva-y-medidas-de-bloqueo-anunciadas-incrementan-dano-a-la-poblacion-cubana/",
-        "published_date": "2026-05-08 16:32:32",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Marches in Italy against the visit of Marco Rubio and in support of Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/marchas-en-italia-contra-la-visita-de-marco-rubio-y-en-apoyo-a-cuba/",
-        "published_date": "2026-05-07 15:11:12",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "D\u00edaz-Canel questions Marco Rubio's statements",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32707-cuestiona-diaz-canel-declaraciones-de-marco-rubio",
-        "published_date": "2026-05-07 09:12:58",
         "category": "Diplomacy"
     },
     {
@@ -259,6 +259,27 @@
         "category": "Military"
     },
     {
+        "title": "\u201cEveryone is talking about how unbearable this is.\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/mundo-hablando-inaguantable_1_1126726.html",
+        "published_date": "2026-05-14 20:28:02",
+        "category": "Energy"
+    },
+    {
+        "title": "Sanctioned at 10 years of age",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/sancionado-a-los-10-anos-de-edad/",
+        "published_date": "2026-05-14 16:05:16",
+        "category": "Energy"
+    },
+    {
+        "title": "The Electrical Union announces a 2,200 MW deficit after a turbulent night of protests in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/union-electrica-anuncia-2-200_1_1126719.html",
+        "published_date": "2026-05-14 13:34:04",
+        "category": "Energy"
+    },
+    {
         "title": "Uni\u00f3n El\u00e9ctrica reports partial disconnection of the SEN from Ciego de \u00c1vila to Guant\u00e1namo",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/union-electrica-informa-desconexion-parcial-del-sen-desde-ciego-de-avila-hasta-guantanamo/",
@@ -378,25 +399,11 @@
         "category": "Energy"
     },
     {
-        "title": "Uni\u00f3n El\u00e9ctrica forecasts an impact of 1,720 MW for night peak hours",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/union-electrica-pronostica-afectacion-de-1-720-mw-para-horario-pico-nocturno/",
-        "published_date": "2026-05-08 15:59:33",
-        "category": "Energy"
-    },
-    {
-        "title": "FITCuba has run out of fuel",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/fitcuba-quedado-combustible_1_1126475.html",
-        "published_date": "2026-05-07 20:33:55",
-        "category": "Energy"
-    },
-    {
-        "title": "In violation of US regulations, MSMEs sell fuel to the Cuban state sector",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/violacion-norma-ee-uu-mipymes_1_1126465.html",
-        "published_date": "2026-05-07 15:22:47",
-        "category": "Energy"
+        "title": "Review and control more",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/revisar-y-controlar-mas/",
+        "published_date": "2026-05-14 17:32:34",
+        "category": "Economy"
     },
     {
         "title": "They defend their Bank",
@@ -427,24 +434,129 @@
         "category": "Economy"
     },
     {
-        "title": "Banco Metropolitano will allow you to withdraw cash with BPA and Bandec cards for a commission",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/banco-metropolitano-permitira-sacar-efectivo_1_1126437.html",
-        "published_date": "2026-05-06 20:33:56",
-        "category": "Economy"
+        "title": "Information from the Revolutionary Government",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/informacion-del-gobierno-revolucionario/",
+        "published_date": "2026-05-14 23:48:09",
+        "category": "Local Events"
     },
     {
-        "title": "US debt exceeds the size of its economy for the first time since World War II",
+        "title": "Matanzas consolidates multidisciplinary strategies in cancer care",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/matanzas-consolida-estrategias-multidisciplinaria-en-la-atencion-oncologica/",
+        "published_date": "2026-05-14 22:37:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Diplomatic but very clear message from China to the US",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/mensaje-diplomatico-pero-muy-claro-de-china-a-ee-uu/",
+        "published_date": "2026-05-14 22:24:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "The director of the CIA meets in Havana with his Cuban counterpart",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/director-cia-reune-habana-contraparte_1_1126733.html",
+        "published_date": "2026-05-14 22:23:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "San Jos\u00e9 El Hueyate is \u201cno man's land\u201d and where 40 migrants disappeared, including six Cubans",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/san-jose-hueyate-tierra-nadie_1_1126731.html",
+        "published_date": "2026-05-14 21:42:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Information from the Revolutionary Government",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/informacion-del-gobierno-revolucionario/",
+        "published_date": "2026-05-14 20:57:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba studies the US 100 million aid proposal and describes it as \"apparent generosity\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-estudia-propuesta-ayuda-100_1_1126724.html",
+        "published_date": "2026-05-14 20:15:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers with their eyes on the community",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/los-trabajadores-con-sus-ojos-puestos-en-la-comunidad/",
+        "published_date": "2026-05-14 18:31:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Plaza Am\u00e9rica promises better benefits",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/plaza-america-promete-mejores-prestaciones/",
+        "published_date": "2026-05-14 17:15:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Guiteras thermoelectric plant in cooling to evaluate boiler breakdown",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32743-termoelectrica-guiteras-en-enfriamiento-para-evaluar-averia-en-caldera",
+        "published_date": "2026-05-14 17:03:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camag\u00fcey delivers result of the My Signature for the Homeland process",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32742-entrega-camagueey-resultado-de-proceso-mi-firma-por-la-patria",
+        "published_date": "2026-05-14 16:53:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Circuits restored, unit six in startup process",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32741-restablecen-circuitos-en-proceso-de-arranque-unidad-seis",
+        "published_date": "2026-05-14 16:40:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alerts against accidents",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260514/alertas-contra-siniestros/",
+        "published_date": "2026-05-14 16:27:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "School Games officially canceled",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-deuda-de-eeuu-supera-el-tamano-de-su-economia-por-primera-vez-desde-la-segunda-guerra-mundial/",
-        "published_date": "2026-05-06 14:00:14",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/oficialmente-cancelados-los-juegos-escolares/",
+        "published_date": "2026-05-14 15:52:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Injury Wave Redefines 2026 World Cup Forecasts",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/ola-lesiones-redefine-pronosticos-mundial_132_1126721.html",
+        "published_date": "2026-05-14 13:46:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "XIX Conference against homophobia and transphobia presented in Havana",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presentan-en-la-habana-xix-jornada-contra-la-homofobia-y-la-transfobia/",
+        "published_date": "2026-05-14 13:25:21",
+        "category": "Local Events"
     },
     {
         "title": "Leaders of China and the US stress the importance of bilateral summit",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/lideres-de-china-y-eeuu-subrayan-trascendencia-de-cumbre-bilateral/",
         "published_date": "2026-05-14 13:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Political prisoner Sissi Abascal Zamora arrives in Miami with her family",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/presa-politica-sissi-abascal-zamora_1_1126718.html",
+        "published_date": "2026-05-14 13:00:17",
         "category": "Local Events"
     },
     {
@@ -459,125 +571,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-14-mayo_7_1126716.html",
         "published_date": "2026-05-14 10:30:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Million dollar lawsuit against the US Government for a raid against migrants in Chicago",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/demanda-millonaria-gobierno-ee-uu_1_1126712.html",
-        "published_date": "2026-05-14 10:14:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Xi asks the US to be \"partners and not rivals\" and Trump predicts a \"fantastic future together\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/xi-pide-ee-uu-socios_1_1126710.html",
-        "published_date": "2026-05-14 10:02:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Web3 and AI: autonomous smart contracts",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/web3-e-ia-contratos-inteligentes-autonomos/",
-        "published_date": "2026-05-14 04:00:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "ONAT of Cienfuegos concluded, with one hundred percent presentation, Personal Income Campaign",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/concluyo-onat-de-cienfuegos-con-el-ciento-por-ciento-de-presentacion-campana-de-ingresos-personales/",
-        "published_date": "2026-05-14 00:34:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "They prioritize medical training in healthcare settings in Holgu\u00edn",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260513/priorizan-formacion-medica-en-escenarios-asistenciales-de-holguin/",
-        "published_date": "2026-05-13 21:36:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pedro Roig, historical figure of the Cuban exile and veteran of the Bay of Pigs, dies",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/migracion/muere-pedro-roig-figura-historica_1_1126707.html",
-        "published_date": "2026-05-13 21:33:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Conferences against Homophobia and Transphobia: A political commitment to diversity",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260513/jornadas-cubanas-contra-la-homofobia-y-la-transfobia-un-compromiso-politico-con-la-diversidad/",
-        "published_date": "2026-05-13 21:11:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "A young 32-year-old mother is murdered in the street by her ex-partner in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/joven-madre-32-anos-asesinada_1_1126700.html",
-        "published_date": "2026-05-13 20:18:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The regime will try two exiled Cuba Primero activists for \"terrorism\" and in absentia",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/regimen-juzgara-terrorismo-ausencia-activistas_1_1126699.html",
-        "published_date": "2026-05-13 20:12:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba rules out a first place in the medal table in the Central American and Caribbean Games",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/cuba-descarta-primer-sitio-medallero_1_1126696.html",
-        "published_date": "2026-05-13 19:56:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yasmany Gonz\u00e1lez's minimum severity regime is revoked for denouncing prison abuses online",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/revocan-regimen-minima-severidad-yasmany_1_1126694.html",
-        "published_date": "2026-05-13 19:14:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nicol\u00e1s Guill\u00e9n Colloquium and Festival begins",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260513/comienza-coloquio-y-festival-nicolas-guillen/",
-        "published_date": "2026-05-13 18:29:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "In respect to the sound",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260513/en-respeto-al-son/",
-        "published_date": "2026-05-13 18:07:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Notes for a transition towards a functioning republic in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/apuntes-transicion-republica-funcione-cuba_1_1126692.html",
-        "published_date": "2026-05-13 17:54:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Democrats demand that Trump not invade the island or detain Cuban migrants in Guant\u00e1namo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/democratas-exigen-trump-no-invadir_1_1126690.html",
-        "published_date": "2026-05-13 17:43:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Victims of Sandinism reject the candidacy of Sergio Ram\u00edrez to the Royal Spanish Academy",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/victimas-sandinismo-rechazan-candidatura-sergio_1_1126687.html",
-        "published_date": "2026-05-13 17:20:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peru: crisis and resistance",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260513/peru-crisis-y-resistencia/",
-        "published_date": "2026-05-13 17:13:02",
         "category": "Local Events"
     }
 ]
