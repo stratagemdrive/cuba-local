@@ -1,5 +1,12 @@
 [
     {
+        "title": "Measures are underway to avoid asphyxiation of transportation in the country",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/en-marcha-medidas-para-evitar-asfixia-de-las-transportaciones-en-el-pais/",
+        "published_date": "2026-05-16 00:46:26",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba continues to build its sovereign path towards socialist development",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cuba-sigue-construyendo-su-camino-soberano-hacia-el-desarrollo-socialista/",
@@ -130,13 +137,6 @@
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32735-ajuste-de-precios-de-combustibles-en-divisas",
         "published_date": "2026-05-13 08:00:08",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "US unionists say NO to the war against Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/sindicalistas-de-ee-uu-dicen-no-a-la-guerra-contra-cuba/",
-        "published_date": "2026-05-12 19:58:35",
         "category": "Diplomacy"
     },
     {
@@ -455,6 +455,34 @@
         "category": "Economy"
     },
     {
+        "title": "An infidente in the heart of the Isle of Pines",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/un-infidente-en-el-corazon-de-isla-de-pinos/",
+        "published_date": "2026-05-16 08:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Skating in Cienfuegos: commitment, results and new purposes",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/patinaje-en-cienfuegos-empeno-resultados-y-nuevos-propositos/",
+        "published_date": "2026-05-16 04:00:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "From the first drawing in the air to the workshop in the forest",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32750-del-primer-dibujo-en-el-aire-al-taller-en-el-bosque",
+        "published_date": "2026-05-16 02:31:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holgu\u00edn demonstrated responsiveness",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/demostro-holguin-capacidad-de-respuesta/",
+        "published_date": "2026-05-16 00:10:48",
+        "category": "Local Events"
+    },
+    {
         "title": "Sancti Sp\u00edritus strengthens its preparation",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260515/sancti-spiritus-fortalece-su-preparacion-ante-posibles-desastres/",
@@ -564,34 +592,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-15-mayo-2026_132_1126761.html",
         "published_date": "2026-05-15 12:51:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The gas cylinders that are not for everyone in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/balitas-gas-no-son-cuba_1_1126753.html",
-        "published_date": "2026-05-15 12:43:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Government of Bolivia denounces a \"macabre plan\" promoted by Evo Morales",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/gobierno-bolivia-denuncia-plan-macabro_1_1126756.html",
-        "published_date": "2026-05-15 12:36:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump forgets about the trade war to do business with his \"friend\" Xi",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-olvida-guerra-comercial-negocios_1_1126754.html",
-        "published_date": "2026-05-15 12:29:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crypto Wallet for Business: How to Choose a Solution That Won't Let You Down",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/economia/crypto-wallet-for-business-how_132_1126751.html",
-        "published_date": "2026-05-15 12:05:19",
         "category": "Local Events"
     }
 ]
