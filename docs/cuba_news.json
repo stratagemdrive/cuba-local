@@ -1,5 +1,33 @@
 [
     {
+        "title": "Cuba continues to build its sovereign path towards socialist development",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-sigue-construyendo-su-camino-soberano-hacia-el-desarrollo-socialista/",
+        "published_date": "2026-05-15 18:56:52",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Transportation adjustments in the current energy scenario",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32751-adecuaciones-del-transporte-en-escenario-energetico-actual-detalles",
+        "published_date": "2026-05-15 17:20:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "We want only one help: tear down the blockade now",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/queremos-una-sola-ayuda-tumben-el-bloqueo-ya/",
+        "published_date": "2026-05-15 16:08:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Russia willing to help Cuba amid the US blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/rusia-dispuesta-a-ayudar-a-cuba-en-medio-del-bloqueo-estadounidense/",
+        "published_date": "2026-05-15 14:44:38",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Global governance at the closing of the meeting of Brics foreign ministers in India",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/gobernanza-global-en-cierre-de-cita-de-cancilleres-brics-en-india/",
@@ -112,32 +140,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "US congressmen denounce impact of the blockade on Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/congresistas-de-eeuu-denuncian-impacto-del-bloqueo-a-cuba/",
-        "published_date": "2026-05-12 17:06:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Cuban Foreign Minister finds it difficult to defend the regime in English",
+        "title": "The Cuban Government publishes and deletes a guide to survive a military invasion",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/canciller-cubano-le-cuesta-defender_1_1126612.html",
-        "published_date": "2026-05-11 15:12:06",
-        "category": "Diplomacy"
+        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-publica-borra-guia_1_1126778.html",
+        "published_date": "2026-05-15 20:49:23",
+        "category": "Military"
     },
     {
-        "title": "China confirms Trump's visit focused on stabilizing ties",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/china-confirma-visita-de-trump-enfocada-en-estabilizar-nexos/",
-        "published_date": "2026-05-11 11:43:20",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "They commemorate Victory Day in Cuba",
+        "title": "Working commission related to Meteor 2026 meets in Havana",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260509/rememoran-en-cuba-el-dia-de-la-victoria/",
-        "published_date": "2026-05-10 01:45:32",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260515/sesiona-en-la-habana-comision-de-trabajo-relacionada-con-meteoro-2026/",
+        "published_date": "2026-05-15 18:58:37",
+        "category": "Military"
+    },
+    {
+        "title": "Civil Defense confirms actions for Meteoro 2026",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32749-confirma-defensa-civil-acciones-para-meteoro-2026",
+        "published_date": "2026-05-15 11:42:09",
+        "category": "Military"
+    },
+    {
+        "title": "Cuba denounced the threat of direct US military aggression and the effects of a brutal blockade",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-05-15/cuba-denounced-the-threat-of-direct-us-military-aggression-and-the-effects-of-a-brutal-blockade",
+        "published_date": "2026-05-15 11:05:26",
+        "category": "Military"
+    },
+    {
+        "title": "Cuban Foreign Minister denounces the repercussions of a military aggression against the island",
+        "source": "Granma",
+        "url": "http://en.granma.cu/cuba/2026-05-14/cuban-foreign-minister-denounces-the-repercussions-of-a-military-aggression-against-the-island",
+        "published_date": "2026-05-14 10:05:02",
+        "category": "Military"
     },
     {
         "title": "Rubio: \u201cThe wealth in Cuba is controlled by a military company that keeps all the money\u201d",
@@ -231,18 +266,25 @@
         "category": "Military"
     },
     {
-        "title": "Lula affirms that Trump is not planning a military invasion against Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/lula-afirma-trump-no-planea_1_1126483.html",
-        "published_date": "2026-05-07 21:34:37",
-        "category": "Military"
+        "title": "New measures announced in transportation due to fuel deficit",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/anuncian-nuevas-medidas-en-el-transporte-ante-deficit-de-combustible/",
+        "published_date": "2026-05-15 23:25:23",
+        "category": "Energy"
     },
     {
-        "title": "Cuba \u201cshould be applauded and helped, not bombed,\u201d says Gustavo Petro",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-deberia-ser-aplaudida-y-ayudada-no-bombardeada-afirma-gustavo-petro/",
-        "published_date": "2026-05-07 15:54:39",
-        "category": "Military"
+        "title": "Main transportation services reorganized due to fuel limitations",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/reorganizan-principales-servicios-del-transporte-ante-limitaciones-con-combustible/",
+        "published_date": "2026-05-15 21:24:34",
+        "category": "Energy"
+    },
+    {
+        "title": "Sancti Sp\u00edritus survives with one hour of light after blackouts of up to 27 hours",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sancti-spiritus-sobrevive-hora-luz_1_1126765.html",
+        "published_date": "2026-05-15 18:54:11",
+        "category": "Energy"
     },
     {
         "title": "Get to know our weekly edition in PDF of May 15",
@@ -364,25 +406,18 @@
         "category": "Energy"
     },
     {
-        "title": "A desperate plea in the middle of the dark Havana night: \"Light!\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/habra-despedirse-tomacorrientes_1_1126566.html",
-        "published_date": "2026-05-09 18:27:55",
-        "category": "Energy"
+        "title": "Prevent with the intensity of the Meteor",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/prevenir-con-la-intensidad-del-meteoro/",
+        "published_date": "2026-05-15 20:59:41",
+        "category": "Economy"
     },
     {
-        "title": "UNE foresees the impact of 1,740 MW during peak hours this Saturday",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/une-preve-afectacion-de-1740-mw-en-horario-pico-este-sabado/",
-        "published_date": "2026-05-09 15:34:25",
-        "category": "Energy"
-    },
-    {
-        "title": "The National Ballet of Cuba is committed to continuing dancing despite the energy crisis",
+        "title": "The new prices come into force with the Ticket application, but there is no gasoline for individuals",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/ballet-nacional-cuba-apuesta-seguir_1_1126546.html",
-        "published_date": "2026-05-09 13:54:27",
-        "category": "Energy"
+        "url": "https://www.14ymedio.com/cuba/entran-vigor-nuevos-precios-aplicacion_1_1126772.html",
+        "published_date": "2026-05-15 19:58:25",
+        "category": "Economy"
     },
     {
         "title": "Review and control more",
@@ -420,6 +455,111 @@
         "category": "Economy"
     },
     {
+        "title": "Sancti Sp\u00edritus strengthens its preparation",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/sancti-spiritus-fortalece-su-preparacion-ante-posibles-desastres/",
+        "published_date": "2026-05-15 23:23:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Matanzas places emphasis on disaster reduction",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/matanzas-pone-enfasis-en-reduccion-de-desastre/",
+        "published_date": "2026-05-15 23:03:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Skilled worker, to be or not to be?",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/obrero-calificado-ser-o-no-ser/",
+        "published_date": "2026-05-15 21:10:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Silvio Rodr\u00edguez: Art is freedom",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/silvio-rodriguez-el-arte-es-libertad/",
+        "published_date": "2026-05-15 19:58:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "A traffic accident on the National Highway leaves two dead and one seriously injured",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/mueren-cubanos-accidente-transito-autopista_1_1126770.html",
+        "published_date": "2026-05-15 19:40:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two large European shipping companies freeze shipments to Cuba for fear of the reach of Trump's sanctions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/grandes-navieras-europeas-congelan-envios_1_1126768.html",
+        "published_date": "2026-05-15 19:31:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Isle of Youth evokes Fidel and release of the Moncadistas",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/isla-de-la-juventud-evoca-a-fidel-y-excarcelacion-de-los-moncadistas/",
+        "published_date": "2026-05-15 17:43:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "They produce hip prostheses in Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32752-producen-en-cuba-protesis-de-cadera",
+        "published_date": "2026-05-15 17:38:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers with their eyes on the community",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/los-trabajadores-con-sus-ojos-puestos-en-la-comunidad/",
+        "published_date": "2026-05-15 15:27:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban beach volleyball: a new stage begins",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/voly-de-playa-cubano-una-nueva-etapa-comienza/",
+        "published_date": "2026-05-15 15:18:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's visit to China concludes with agreements to stabilize ties",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/concluye-visita-de-trump-a-china-con-acuerdos-para-estabilizar-nexos/",
+        "published_date": "2026-05-15 14:27:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meteor 2026 in Cienfuegos: prepared for the cyclonic season",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/meteoro-2026-en-cienfuegos-preparados-ante-la-temporada-ciclonica/",
+        "published_date": "2026-05-15 14:10:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Hereditary Angioedema Day Celebrated",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260515/celebran-dia-mundial-del-angioedema-hereditario/",
+        "published_date": "2026-05-15 13:58:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "X applies algorithmic filter to Cuban national accounts as a censorship mechanism",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/x-aplica-filtro-algoritmico-a-cuentas-nacionales-cubanas-como-mecanismo-de-censura/",
+        "published_date": "2026-05-15 13:18:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin fails to unblock the Ukrainian front and Europe prepares a court against Russia",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/putin-no-logra-desbloquear-frente_1_1126763.html",
+        "published_date": "2026-05-15 13:07:17",
+        "category": "Local Events"
+    },
+    {
         "title": "Print edition of May 15, 2026",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-15-mayo-2026_132_1126761.html",
@@ -452,111 +592,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/blogs/economia/crypto-wallet-for-business-how_132_1126751.html",
         "published_date": "2026-05-15 12:05:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, May 15, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-15-mayo_132_1126747.html",
-        "published_date": "2026-05-15 10:56:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "A transition for Cuba cannot be based on lay saints",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/transicion-cuba-no-basarse-santos_1_1126739.html",
-        "published_date": "2026-05-15 10:19:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from May 15, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-15-mayo-2026_132_1126743.html",
-        "published_date": "2026-05-15 09:35:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US takes steps to accuse Ra\u00fal Castro for the downing of the Hermanos al Rescate planes",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-da-pasos-acusar_1_1126737.html",
-        "published_date": "2026-05-15 09:32:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Symposium 'Education in Republican Cuba'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/simposio-educacion-cuba-republicana_1_1126741.html",
-        "published_date": "2026-05-15 09:08:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Afro-descendant Days in Camag\u00fcey at the end of May",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32746-jornadas-afrodescendencias-en-camagueey-a-finales-de-mayo",
-        "published_date": "2026-05-15 08:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man between two worlds",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-hombre-entre-dos-mundos/",
-        "published_date": "2026-05-15 07:00:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Arianna and the reason for a signature",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/arianna-y-la-razon-de-una-firma/",
-        "published_date": "2026-05-15 04:00:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peasants of Cienfuegos ready for the national event for May 17",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/campesinos-de-cienfuegos-listos-para-el-acto-nacional-por-el-17-de-mayo/",
-        "published_date": "2026-05-15 00:14:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Information from the Revolutionary Government",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/informacion-del-gobierno-revolucionario/",
-        "published_date": "2026-05-14 23:48:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel highlights Cuban willingness to receive international aid",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/destaca-diaz-canel-disposicion-cubana-para-recibir-ayuda-internacional/",
-        "published_date": "2026-05-14 23:40:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Matanzas consolidates multidisciplinary strategies in cancer care",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260514/matanzas-consolida-estrategias-multidisciplinaria-en-la-atencion-oncologica/",
-        "published_date": "2026-05-14 22:37:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diplomatic but very clear message from China to the US",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260514/mensaje-diplomatico-pero-muy-claro-de-china-a-ee-uu/",
-        "published_date": "2026-05-14 22:24:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The director of the CIA meets in Havana with his Cuban counterpart",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/director-cia-reune-habana-contraparte_1_1126733.html",
-        "published_date": "2026-05-14 22:23:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "San Jos\u00e9 El Hueyate is \u201cno man's land\u201d and where 40 migrants disappeared, including six Cubans",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/san-jose-hueyate-tierra-nadie_1_1126731.html",
-        "published_date": "2026-05-14 21:42:08",
         "category": "Local Events"
     }
 ]
