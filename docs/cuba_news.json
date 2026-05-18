@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuba denounces fraudulent US file to justify military aggression (+ Video)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-denuncia-expediente-fraudulento-de-eeuu-para-justificar-agresion-militar-video/",
+        "published_date": "2026-05-18 12:19:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cEvery furrow we open is a trench against the blockade\u201d (+ Galleries)",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cada-surco-que-abrimos-es-una-trinchera-contra-el-bloqueo-galerias/",
@@ -130,13 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cienfuegos-firmas-que-son-la-voluntad-de-un-pueblo/",
         "published_date": "2026-05-13 21:03:54",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Self-powered energizers",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260513/energizadores-autopotenciados/",
-        "published_date": "2026-05-13 15:15:05",
         "category": "Diplomacy"
     },
     {
@@ -273,6 +273,13 @@
         "category": "Military"
     },
     {
+        "title": "The Prosecutor's Office requests up to 13 years in prison for three women who protested a blackout in Santiago de Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/fiscalia-pide-13-anos-prision_1_1126834.html",
+        "published_date": "2026-05-18 11:19:48",
+        "category": "Energy"
+    },
+    {
         "title": "Transportation in Cienfuegos readjusts due to fuel deficit",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/reajustan-en-cienfuegos-transportaciones-ante-deficit-de-combustibles/",
@@ -406,13 +413,6 @@
         "category": "Energy"
     },
     {
-        "title": "Adjustments to prices for the sale of fuel in dollars in Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/reajustes-a-precios-de-la-venta-en-dolares-de-los-combustibles-en-cuba/",
-        "published_date": "2026-05-12 18:14:43",
-        "category": "Energy"
-    },
-    {
         "title": "Prevent with the intensity of the Meteor",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260515/prevenir-con-la-intensidad-del-meteoro/",
@@ -455,150 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "Social Economic Program 2026: where all our great goals and commitments are",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260509/programa-economico-social-2026-donde-estan-todas-nuestras-grandes-metas-y-compromisos/",
-        "published_date": "2026-05-10 01:10:13",
-        "category": "Economy"
-    },
-    {
-        "title": "Blue captain two home runs away from 100",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/capitan-azul-a-dos-jonrones-de-los-100/",
-        "published_date": "2026-05-17 22:58:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roxana G\u00f3mez and a bronze diamond",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/roxana-gomez-y-un-diamante-de-bronce/",
-        "published_date": "2026-05-17 22:51:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two more metals travel by canoe",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/dos-metales-mas-viajan-en-canoa/",
-        "published_date": "2026-05-17 22:42:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Emigdio Pascual, pillar of the performing arts",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/jose-emigdio-pascual-pilar-de-las-artes-escenicas/",
-        "published_date": "2026-05-17 22:17:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "My neighborhood belongs to everyone",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/mi-barrio-es-de-todos/",
-        "published_date": "2026-05-17 22:01:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Digital transformation with Varadero Governance Office",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/transformacion-digital-con-oficina-gobernanza-varadero/",
-        "published_date": "2026-05-17 20:22:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "30 Years of Lives, Friendship and Fidelity",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/30-anos-de-vidas-amistad-y-fidelidad/",
-        "published_date": "2026-05-17 20:09:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Of national reference environmental management in Ciego de \u00c1vila",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/de-referencia-nacional-gestion-ambiental-en-ciego-de-avila/",
-        "published_date": "2026-05-17 19:58:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exile will provide \"the capital necessary to rebuild Cuba,\" says Jorge Mas",
+        "title": "Las Tunas responds to the increase in thefts in its electrical system with \u201cchemical traps\u201d",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/exilio-aportara-capital-necesario-reconstruir_1_1126826.html",
-        "published_date": "2026-05-17 19:46:18",
+        "url": "https://www.14ymedio.com/cuba/tunas-responde-aumento-robos-sistema_1_1126842.html",
+        "published_date": "2026-05-18 14:26:38",
         "category": "Local Events"
     },
     {
-        "title": "Notes on Note by Note",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260517/apuntes-sobre-nota-a-nota/",
-        "published_date": "2026-05-17 19:25:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The time of freedom",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/hora-libres_132_1126822.html",
-        "published_date": "2026-05-17 18:03:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roxana G\u00f3mez wins bronze in the Diamond League in the 400-meter dash event",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/roxana-gomez-conquista-bronce-liga_1_1126820.html",
-        "published_date": "2026-05-17 17:34:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Date in Cuba for culture and vindication",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32758-fecha-en-cuba-para-la-cultura-y-la-vindicacion",
-        "published_date": "2026-05-17 16:05:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"It will be wonderful to sing again in my Sauto theater\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sera-maravilloso-volver-cantar-teatro_1_1126816.html",
-        "published_date": "2026-05-17 15:31:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hanami in Camag\u00fcey: fifteen years of Japanese culture and community",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32757-hanami-en-camagueey-quince-anos-de-cultura-japonesa-y-comunidad",
-        "published_date": "2026-05-17 15:30:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "They distribute products from the family basket",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32756-distribuyen-productos-de-la-canasta-familiar",
-        "published_date": "2026-05-17 15:27:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "He who does not love his country, does not love his mother",
+        "title": "Nicaragua will pay tribute to Sandino 131 years after his birth",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-que-no-quiere-a-su-patria-no-quiere-a-su-madre/",
-        "published_date": "2026-05-17 15:25:25",
+        "url": "https://www.5septiembre.cu/nicaragua-rendira-homenaje-a-sandino-a-131-anos-de-su-natalicio/",
+        "published_date": "2026-05-18 13:05:10",
         "category": "Local Events"
     },
     {
-        "title": "Venezuela hands over to the US Alex Saab, Maduro's financial operator and friend of Havana",
+        "title": "Ana Mar\u00eda is grateful",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260518/ana-maria-esta-agradecida/",
+        "published_date": "2026-05-18 13:03:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Indian museums join international celebration",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/museos-de-india-se-suman-a-celebracion-internacional/",
+        "published_date": "2026-05-18 12:49:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marchers related to Evo Morales want to reach La Paz",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/marchistas-afines-a-evo-morales-quieren-llegar-a-la-paz/",
+        "published_date": "2026-05-18 12:43:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Along Carlos III Street and towards Ethiopia",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/jodio-entrega-alex-saab-ee_1_1126817.html",
-        "published_date": "2026-05-17 15:16:42",
+        "url": "https://www.14ymedio.com/cuba/calle-carlos-iii-etiopia_1_1126835.html",
+        "published_date": "2026-05-18 12:28:08",
         "category": "Local Events"
     },
     {
-        "title": "We are summoned by the history that made the Cuban countryside free and dignified",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32754-nos-convoca-la-historia-que-hizo-libre-y-digno-al-campo-cubano",
-        "published_date": "2026-05-17 15:10:46",
+        "title": "\"Taiwan will not be sacrificed or exchanged,\" assures its president after the summit between Xi and Trump",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/taiwan-no-sera-sacrificado-intercambiado_1_1126840.html",
+        "published_date": "2026-05-18 12:28:07",
         "category": "Local Events"
     },
     {
-        "title": "Given the energy situation, Cuba ratifies the current labor and salary measures",
+        "title": "Guaranteeing internal order: a strategic objective in times of threats",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/garantizar-el-orden-interior-un-objetivo-estrategico-en-tiempos-de-amenazas/",
+        "published_date": "2026-05-18 12:26:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tehran announces 6,500 arrests of alleged spies and opponents since the start of the war",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/teheran-anuncia-6-500-arrestos_1_1126836.html",
+        "published_date": "2026-05-18 12:16:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iberostar adapts in Cuba to the tourist situation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iberostar-se-adapta-en-cuba-a-situacion-turistica/",
+        "published_date": "2026-05-18 12:13:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "India to host meeting of BRICS justice ministers",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/india-acogera-reunion-de-ministros-de-justicia-del-brics/",
+        "published_date": "2026-05-18 12:06:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Raidel Mart\u00ednez saves game 13 and approaches a historic mark",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/raidel-martinez-salva-juego-13-y-se-acerca-a-marca-historica/",
+        "published_date": "2026-05-18 11:57:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The suspension of the CMA CGM and Hapag-Lloyd service affects 60% of Cuba's maritime traffic",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/suspension-servicio-cma-cgm-hapag_1_1126832.html",
+        "published_date": "2026-05-18 11:03:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "LA GUAGUA Summary from May 11 to 17",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260518/la-guagua-resumen-del-11-al-17-de-mayo/",
+        "published_date": "2026-05-18 10:00:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The mother of the political prisoner who died in state custody in Venezuela dies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/fallece-madre-preso-politico-murio_1_1126828.html",
+        "published_date": "2026-05-18 09:57:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The museum as a space for everyone",
         "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32755-ante-la-situacion-energetica-cuba-ratifica-las-medidas-laborales-y-salariales-vigentes",
-        "published_date": "2026-05-17 15:09:31",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32760-el-museo-como-un-espacio-para-todos",
+        "published_date": "2026-05-18 09:51:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "They successfully carry out Meteor 2026 (+Photos)",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32759-realizan-con-exito-meteoro-2026-en-camagueey",
+        "published_date": "2026-05-18 09:34:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "A day to highlight the African footprint in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/una-jornada-para-destacar-la-huella-africana-en-cienfuegos/",
+        "published_date": "2026-05-18 04:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The community is ours too",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260517/la-comunidad-tambien-es-nuestra/",
+        "published_date": "2026-05-18 02:02:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Will",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260517/testamento/",
+        "published_date": "2026-05-18 01:31:53",
         "category": "Local Events"
     }
 ]
