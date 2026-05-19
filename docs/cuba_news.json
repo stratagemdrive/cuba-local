@@ -252,20 +252,6 @@
         "category": "Military"
     },
     {
-        "title": "The Arithmetic of a world in flames",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-05-11/the-arithmetic-of-a-world-in-flames",
-        "published_date": "2026-05-11 13:05:55",
-        "category": "Military"
-    },
-    {
-        "title": "Arithmetic of a world on fire",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aritmetica-de-un-mundo-en-llamas/",
-        "published_date": "2026-05-11 12:43:03",
-        "category": "Military"
-    },
-    {
         "title": "The electricity deficit does not drop below 2,000 MW despite the entry of Guiteras",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/deficit-eletricidad-no-baja-2_1_1126851.html",
@@ -448,6 +434,125 @@
         "category": "Economy"
     },
     {
+        "title": "Tribute to Mart\u00ed in Santiago de Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260519/homenaje-a-marti-en-santiago-de-cuba-4/",
+        "published_date": "2026-05-19 13:58:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNE: An impact of 1875 MW is expected during peak hours",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/une-se-preve-una-afectacion-de-1875-mw-en-el-horario-pico/",
+        "published_date": "2026-05-19 13:51:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "They find the body of a woman murdered by an acquaintance in Las Tunas",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/encuentran-tunas-cuerpo-mujer-asesinada_1_1126875.html",
+        "published_date": "2026-05-19 13:51:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Joel Despaigne enters the Volleyball Hall of Fame",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cubano-joel-despaigne-entra-salon_1_1126872.html",
+        "published_date": "2026-05-19 13:17:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "fair claim",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260519/justa-reclamacion/",
+        "published_date": "2026-05-19 13:01:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "A teenager on a pine island",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260519/un-adolescente-en-una-isla-de-pinos/",
+        "published_date": "2026-05-19 12:39:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban regime responds to the US psychological war with feigned calm",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/guerra-psicologica-ee-uu-regimen_1_1126871.html",
+        "published_date": "2026-05-19 10:53:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, May 19, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-19-mayo_132_1126868.html",
+        "published_date": "2026-05-19 10:36:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, May 19, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-19-mayo_7_1126870.html",
+        "published_date": "2026-05-19 10:23:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Confinement states",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/estados-confinamiento_1_1126864.html",
+        "published_date": "2026-05-19 10:10:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "How Online Casino Platforms Fit Into Canada\u2019s Expanding Digital Gambling Market",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/how-online-casino-platforms-fit_132_1126863.html",
+        "published_date": "2026-05-19 10:03:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The anti-imperialism that did not die in Dos R\u00edos",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/historia-incio/sucesos-submenu/32761-el-antiimperialismo-que-no-murio-en-dos-rios",
+        "published_date": "2026-05-19 10:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Launch of the book 'Dying of Exile: Far from Cuba'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/lanzamiento-libro-morir-exilio-lejos_1_1126744.html",
+        "published_date": "2026-05-19 09:56:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mart\u00ed and the city as a scene of struggle for social justice",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/marti-y-la-urbe-como-escenario-de-lucha-por-la-justicia-social/",
+        "published_date": "2026-05-19 05:00:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Birding is still alive in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sigue-vivo-el-birding-en-cuba/",
+        "published_date": "2026-05-19 04:00:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronicle of the V\u00edznar Ravine",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cronica-del-barranco-de-viznar/",
+        "published_date": "2026-05-19 04:00:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Diadema Flute Orchestra: When gratitude becomes art",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/orquesta-de-flautas-diadema-cuando-la-gratitud-se-convierte-en-arte/",
+        "published_date": "2026-05-19 00:24:23",
+        "category": "Local Events"
+    },
+    {
         "title": "Chilean unionists in solidarity with Cuba and opposed to the war",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260518/sindicalistas-chilenos-solidarios-con-cuba-y-opuestos-a-la-guerra/",
@@ -466,125 +571,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/ayuda-humanitaria-cuba-procedente-mexico_1_1126857.html",
         "published_date": "2026-05-18 21:14:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parabolic solar cookers, one more step towards the zero option in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cocinas-solares-parabolicas-paso-opcion_1_1126849.html",
-        "published_date": "2026-05-18 21:05:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "A political prisoner from 11J dies \u201cin a severe state of malnutrition\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/muere-severo-desnutricion-preso-politico_1_1126852.html",
-        "published_date": "2026-05-18 20:22:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cancun residents promote the deportation of Cubans who commit crimes",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/vecinos-cancun-promueven-deportacion-cubanos_1_1126855.html",
-        "published_date": "2026-05-18 20:19:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "New shipment of solidarity aid sent by Mexico and Uruguay arrives in Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260518/arriba-a-cuba-nuevo-cargamento-de-ayuda-solidaria-enviado-por-mexico-y-uruguay/",
-        "published_date": "2026-05-18 20:13:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Day concludes with tribute to fallen firefighters doing their duty",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260518/concluye-jornada-nacional-con-homenaje-a-bomberos-caidos-cumpliendo-su-deber/",
-        "published_date": "2026-05-18 19:54:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "With the cancellation of World2Fly, Cuba is left with almost no direct flights with Spain",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cancelacion-world2fly-cuba-queda-vuelos_1_1126847.html",
-        "published_date": "2026-05-18 18:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The last jewel of Cuban baseball escapes in search of the Major Leagues",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/fuga-ultima-joya-beisbol-cubano_1_1126845.html",
-        "published_date": "2026-05-18 18:16:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegueros contribute to the Cuban harvest",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegueros-aportan-a-cosecha-cubana/",
-        "published_date": "2026-05-18 15:52:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Las Tunas responds to the increase in thefts in its electrical system with \u201cchemical traps\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tunas-responde-aumento-robos-sistema_1_1126842.html",
-        "published_date": "2026-05-18 14:26:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nicaragua will pay tribute to Sandino 131 years after his birth",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/nicaragua-rendira-homenaje-a-sandino-a-131-anos-de-su-natalicio/",
-        "published_date": "2026-05-18 13:05:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ana Mar\u00eda is grateful",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260518/ana-maria-esta-agradecida/",
-        "published_date": "2026-05-18 13:03:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indian museums join international celebration",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/museos-de-india-se-suman-a-celebracion-internacional/",
-        "published_date": "2026-05-18 12:49:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marchers related to Evo Morales want to reach La Paz",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/marchistas-afines-a-evo-morales-quieren-llegar-a-la-paz/",
-        "published_date": "2026-05-18 12:43:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Along Carlos III Street and towards Ethiopia",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/calle-carlos-iii-etiopia_1_1126835.html",
-        "published_date": "2026-05-18 12:28:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Taiwan will not be sacrificed or exchanged,\" assures its president after the summit between Xi and Trump",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/taiwan-no-sera-sacrificado-intercambiado_1_1126840.html",
-        "published_date": "2026-05-18 12:28:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guaranteeing internal order: a strategic objective in times of threats",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/garantizar-el-orden-interior-un-objetivo-estrategico-en-tiempos-de-amenazas/",
-        "published_date": "2026-05-18 12:26:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tehran announces 6,500 arrests of alleged spies and opponents since the start of the war",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/teheran-anuncia-6-500-arrestos_1_1126836.html",
-        "published_date": "2026-05-18 12:16:54",
         "category": "Local Events"
     }
 ]
