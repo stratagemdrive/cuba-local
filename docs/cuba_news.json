@@ -1,5 +1,12 @@
 [
     {
+        "title": "Mythomania, another weapon of war of the US against Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260519/la-mitomania-otra-arma-de-guerra-de-ee-uu-contra-cuba/",
+        "published_date": "2026-05-20 03:18:27",
+        "category": "Diplomacy"
+    },
+    {
         "title": "D\u00edaz-Canel denounces tightening of the US blockade against Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/diaz-canel-denuncia-recrudecimiento-del-bloqueo-de-eeuu-contra-cuba/",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Fuel ran out, acknowledges the Minister of Energy to justify blackouts of 22 hours in a row",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/acabo-combustible-reconoce-ministro-energia_1_1126713.html",
-        "published_date": "2026-05-14 10:49:55",
-        "category": "Diplomacy"
+        "title": "Matanceros honor Mart\u00ed",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260519/matanceros-honran-a-marti/",
+        "published_date": "2026-05-20 03:02:19",
+        "category": "Military"
     },
     {
         "title": "Cuba intensifies actions to prevent and confront crime",
@@ -238,18 +245,11 @@
         "category": "Military"
     },
     {
-        "title": "Guterres affirms that there is no \u201cmilitary solution\u201d for Cuba and calls for \u201cconstructive dialogue\u201d in the face of threats from the US",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/guterres-afirma-que-no-hay-una-solucion-militar-para-cuba-y-pide-dialogo-constructivo-ante-amenazas-de-eeuu/",
-        "published_date": "2026-05-12 12:58:32",
-        "category": "Military"
-    },
-    {
-        "title": "Taiwan defends its military cooperation with the US ahead of Xi-Trump meeting",
+        "title": "University entrance exams are suspended and the school year will end a month early",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/taiwan-defiende-cooperacion-militar-ee_1_1126636.html",
-        "published_date": "2026-05-12 11:23:29",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/suspenden-examenes-acceso-universidad-curso_1_1126900.html",
+        "published_date": "2026-05-20 10:47:19",
+        "category": "Energy"
     },
     {
         "title": "The electricity deficit does not drop below 2,000 MW despite the entry of Guiteras",
@@ -385,13 +385,6 @@
         "category": "Energy"
     },
     {
-        "title": "The Cuban Government privatizes the sale of fuel, but will continue to control prices",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-privatiza-venta-combustibles_1_1126664.html",
-        "published_date": "2026-05-12 21:19:29",
-        "category": "Energy"
-    },
-    {
         "title": "Evo Morales says that the protests in the country are the \"people's uprising\" against Rodrigo Paz's reforms",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/evo-morales-dice-protestas-pais_1_1126892.html",
@@ -420,18 +413,123 @@
         "category": "Economy"
     },
     {
-        "title": "They defend their Bank",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260512/defienden-su-banco/",
-        "published_date": "2026-05-12 13:06:25",
-        "category": "Economy"
+        "title": "Rear Admiral Roberto Eduardo Gonz\u00e1lez Luaces died in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fallecio-en-cienfuegos-el-contralmirante-roberto-eduardo-gonzalez-luaces/",
+        "published_date": "2026-05-20 13:41:47",
+        "category": "Local Events"
     },
     {
-        "title": "Russia reduces its economic growth forecasts for 2026 by two thirds",
+        "title": "Marco Rubio to Cubans: \"Trump is offering them a new relationship with the United States\"",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rusia-reduce-tercios-pronosticos-crecimiento_1_1126633.html",
-        "published_date": "2026-05-12 11:15:27",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cuba/marco-rubio-cubanos-trump-les_1_1126905.html",
+        "published_date": "2026-05-20 12:04:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, May 20, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-20-mayo_132_1126901.html",
+        "published_date": "2026-05-20 11:11:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, May 20, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-20-mayo_7_1126903.html",
+        "published_date": "2026-05-20 11:10:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Xi closes ranks with Putin who offers himself as a \"reliable\" energy partner in the face of international crises",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/xi-cierra-filas-putin-ofrece_1_1126898.html",
+        "published_date": "2026-05-20 10:32:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban American National Foundation draws a roadmap for an eventual transition",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/fundacion-nacional-cubano-americana-traza_1_1126896.html",
+        "published_date": "2026-05-20 10:12:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three former Caracas police officers linked to the failed coup against Hugo Ch\u00e1vez are released from prison",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/excarcelan-tres-ex-policias-caracas_1_1126894.html",
+        "published_date": "2026-05-20 09:46:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camag\u00fcey stands out in the National Children's Plastic Show",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/27-artes-visuales/32764-sobresale-camagueey-en-salon-nacional-de-plastica-infantil",
+        "published_date": "2026-05-20 09:40:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unrendered accounts",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260520/cuentas-sin-rendir/",
+        "published_date": "2026-05-20 09:33:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "New biodigesters on a Camag\u00fcey farmer's farm",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32763-nuevos-biodigestores-en-finca-de-campesino-camagueeyano",
+        "published_date": "2026-05-20 09:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Homeland honors Mart\u00ed",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260520/la-patria-honra-a-marti/",
+        "published_date": "2026-05-20 09:24:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "They bring forward the closing of the school year and eliminate the entrance exams to Higher Education",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260520/cuba-adelanta-el-cierre-del-curso-escolar-y-elimina-los-examenes-de-ingreso-a-la-educacion-superior/",
+        "published_date": "2026-05-20 04:01:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "A look from the roof of Cruces (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/un-vistazo-desde-el-techo-de-cruces-fotos/",
+        "published_date": "2026-05-20 04:00:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The singer Renato Carosone",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-cantante-renato-carosone/",
+        "published_date": "2026-05-20 04:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Isla de la Juventud commemorated International Museum Day",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260519/conmemoro-isla-de-la-juventud-el-dia-internacional-de-los-museos/",
+        "published_date": "2026-05-20 03:43:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ebola outbreak continues to worry WHO",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/brote-de-ebola-sigue-preocupando-a-la-oms/",
+        "published_date": "2026-05-20 02:01:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba brings forward the closing of the school year and eliminates entrance exams to Higher Education",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-adelanta-el-cierre-del-curso-escolar-y-elimina-los-examenes-de-ingreso-a-la-educacion-superior/",
+        "published_date": "2026-05-20 01:28:12",
+        "category": "Local Events"
     },
     {
         "title": "The triple jumper Davisleydi Velazco, whom Cuba disdained, wins gold in Puerto Rico",
@@ -452,125 +550,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260519/rostros-iluminados-tras-una-medalla/",
         "published_date": "2026-05-19 18:59:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apartment rentals in Tres Cantos: complete guide on housing, market and flexible options",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/alquiler-pisos-tres-cantos-guia_132_1126888.html",
-        "published_date": "2026-05-19 18:09:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sherritt suspends the plan to leave Cuba despite US sanctions on Moa Nickel",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sherritt-suspende-plan-salir-cuba_1_1126886.html",
-        "published_date": "2026-05-19 17:47:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vladimir Putin arrives in Beijing on official visit",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/vladimir-putin-llega-a-beijing-en-visita-oficial/",
-        "published_date": "2026-05-19 17:04:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former president Jos\u00e9 Luis Rodr\u00edguez Zapatero charged with alleged influence peddling",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/expresidente-jose-luis-rodriguez-zapatero-imputado-por-presunto-trafico-de-influencias/",
-        "published_date": "2026-05-19 16:49:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gaza suffers serious shortage of medical equipment due to Israeli aggression",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/gaza-sufre-grave-escasez-de-equipos-medicos-por-agresion-israeli/",
-        "published_date": "2026-05-19 16:40:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Onei data reflects a brutal fall in all productive sectors in five years",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/datos-onei-reflejan-caida-brutal_1_1126884.html",
-        "published_date": "2026-05-19 16:24:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tribute to the communicator Mart\u00ed",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/homenaje-al-marti-comunicador/",
-        "published_date": "2026-05-19 15:52:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chronicle of a tireless turner",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260519/cronica-de-un-tornero-incansable/",
-        "published_date": "2026-05-19 15:13:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia-China strategic alliance plays stabilizing role, says Putin",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/alianza-estrategica-rusia-china-juega-papel-estabilizador-dice-putin/",
-        "published_date": "2026-05-19 14:55:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two good news came down from the ring",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260519/dos-buenas-noticias-bajaron-del-ring/",
-        "published_date": "2026-05-19 14:26:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The mystery of Mart\u00ed and Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-misterio-de-marti-y-de-cuba/",
-        "published_date": "2026-05-19 14:25:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Spanish president Rodr\u00edguez Zapatero, accused of influence peddling for Plus Ultra",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ex-presidente-espanol-rodriguez-zapatero_1_1126882.html",
-        "published_date": "2026-05-19 14:24:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mart\u00ed, eternal in the patriotic and cultural memory of Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/marti-eterno-en-la-memoria-patriotica-y-cultural-de-cuba/",
-        "published_date": "2026-05-19 14:17:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Facing eternity",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/de-cara-a-la-eternidad/",
-        "published_date": "2026-05-19 14:10:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tribute to Mart\u00ed in Santiago de Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260519/homenaje-a-marti-en-santiago-de-cuba-4/",
-        "published_date": "2026-05-19 13:58:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Xi to Trump: Putin \u201cmight end up regretting invading Ukraine,\u201d says 'Financial Times'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/xi-trump-putin-acabar-arrepintiendose_1_1126878.html",
-        "published_date": "2026-05-19 13:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delcy Rodr\u00edguez orders an investigation into the death of political prisoner V\u00edctor Quero in state custody",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-ordena-investigar-muerte_1_1126877.html",
-        "published_date": "2026-05-19 13:55:31",
         "category": "Local Events"
     }
 ]
