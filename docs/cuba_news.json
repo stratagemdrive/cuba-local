@@ -1,5 +1,19 @@
 [
     {
+        "title": "The crisis in Bolivia escalates with the support of the United States, tension with Colombia and strong protests",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/crisis-bolivia-escala-apoyo-ee_1_1126927.html",
+        "published_date": "2026-05-21 09:18:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Cuban exile celebrates with applause the indictment of Ra\u00fal Castro: \"Impunity is over\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/exilio-cubano-celebra-aplausos-imputacion_1_1126925.html",
+        "published_date": "2026-05-21 09:09:01",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Iran warns that a return to the battlefield will bring bigger surprises",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/iran-advierte-que-un-regreso-al-campo-de-batalla-traera-sorpresas-mayores/",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuban Foreign Minister comments on US aid offer",
+        "title": "Cuba condemns US accusation against leader of the Revolution",
         "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32744-canciller-cubano-comenta-ofrecimiento-de-ayuda-de-ee-uu",
-        "published_date": "2026-05-14 17:27:24",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Xi Jinping to Trump: \u201cThere are no winners in a trade war\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/xi-jinping-a-trump-en-una-guerra-comercial-no-hay-ganadores/",
-        "published_date": "2026-05-14 16:06:33",
-        "category": "Diplomacy"
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32769-cuba-condena-acusacion-de-eeuu-contra-lider-de-la-revolucion-raul-castro",
+        "published_date": "2026-05-21 09:26:26",
+        "category": "Military"
     },
     {
         "title": "Ra\u00fal Castro Ruz: dignity and resistance in the face of imperial harassment",
@@ -256,13 +263,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/rubio-riqueza-cuba-controlada-empresa_1_1126709.html",
         "published_date": "2026-05-14 09:39:40",
-        "category": "Military"
-    },
-    {
-        "title": "The US considers that Cuba threatens its security for hosting military activities by Russia and China",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-considera-cuba-amenaza_1_1126672.html",
-        "published_date": "2026-05-13 10:29:56",
         "category": "Military"
     },
     {
@@ -399,13 +399,6 @@
         "category": "Energy"
     },
     {
-        "title": "The hypocritical formula of the fence",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-formula-hipocrita-del-cerco/",
-        "published_date": "2026-05-13 12:46:10",
-        "category": "Energy"
-    },
-    {
         "title": "Information for retirees in Cuba about charging on magnetic cards",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/informacion-a-jubilados-en-cuba-sobre-cobro-en-tarjetas-magneticas/",
@@ -441,6 +434,132 @@
         "category": "Economy"
     },
     {
+        "title": "Amelia Calzadilla presents in Madrid a liberal party for \u201cthe day after\u201d Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/amelia-calzadilla-presenta-madrid-partido_1_1126939.html",
+        "published_date": "2026-05-21 13:50:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The regime describes the accusation of Ra\u00fal Castro for \"defending his airspace\" as a \"rogue act\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-califica-acto-canalla-imputacion_1_1126936.html",
+        "published_date": "2026-05-21 13:42:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Weather in Miami today: heat, sun and possible rain",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/clima-en-miami-hoy-calor-sol-y-posible-lluvia/",
+        "published_date": "2026-05-21 13:28:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blackouts in Cuba today, May 21: the SEN predicts 1,945 MW of impact during peak hours",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/apagones-en-cuba-hoy-21-de-mayo-el-sen-preve-1945-mw-de-afectacion-en-el-horario-pico/",
+        "published_date": "2026-05-21 13:07:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban government changes rules for housing subsidies and sets new amounts",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gobierno-cubano-cambia-reglas-para-subsidios-de-vivienda-y-fija-nuevos-montos/",
+        "published_date": "2026-05-21 12:19:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is Trump considering lifting the embargo on Cuba?\u201cThere will be news very soon,\u201d he assures",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/trump-evalua-quitar-el-embargo-a-cuba-habra-noticias-muy-pronto-asegura/",
+        "published_date": "2026-05-21 11:26:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Thursday, May 21, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-21-mayo_132_1126933.html",
+        "published_date": "2026-05-21 11:00:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Thursday, May 21, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-21-mayo_7_1126935.html",
+        "published_date": "2026-05-21 10:54:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carlos Lechuga presents his book: 'Cuban Dog'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/carlos-lechuga-presenta-libro-perro_1_1126931.html",
+        "published_date": "2026-05-21 10:40:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar rises again in Cuba and the official and informal rates are closer.The euro remains unstoppable",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/139540/",
+        "published_date": "2026-05-21 10:40:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camag\u00fceyans reaffirm that education is not blocked",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32770-reafirman-camagueeyanos-que-la-educacion-no-se-bloquea",
+        "published_date": "2026-05-21 09:47:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's ambivalent stance on Taiwan is a 'victory' for China",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/postura-ambivalente-trump-taiwan-supone_1_1126929.html",
+        "published_date": "2026-05-21 09:41:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Family Medicine is recognized in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32768-reconocen-en-camagueey-a-la-medicina-familiar",
+        "published_date": "2026-05-21 09:14:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mart\u00ed's thoughts are valid in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32767-vigentes-los-pensamientos-de-marti-en-camagueey",
+        "published_date": "2026-05-21 08:57:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Matanzas, sentences of 10 to 15 years in prison in one of the 20 \"exemplary trials\" announced",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/matanzas-penas-10-15-anos_1_1126923.html",
+        "published_date": "2026-05-21 08:57:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sovereignty: Cuba's commitment to a citizen-centered digital government",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/soberania-la-apuesta-de-cuba-por-un-gobierno-digital-centrado-en-el-ciudadano/",
+        "published_date": "2026-05-21 04:00:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cimex promotes rechargeable fan at 41 USD: purchases from outside Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/cimex-promociona-ventilador-recargable-a-41-usd-compras-desde-el-exterior-de-cuba/",
+        "published_date": "2026-05-21 00:01:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Certifications from the Civil Registry in Cuba will have deadlines of 3 and 15 business days",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/tramites/certificaciones-del-registro-civil-en-cuba-tendran-plazos-de-3-y-15-dias-habiles/",
+        "published_date": "2026-05-20 22:59:27",
+        "category": "Local Events"
+    },
+    {
         "title": "The US aircraft carrier 'Nimitz' is deployed in the Caribbean in the middle of the campaign against Cuba",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/portaviones-nimitz-ee-uu-desplegado_1_1126921.html",
@@ -452,132 +571,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/conviene-comprar-vuelos-ahora-o-esperar-que-aerolineas-siguen-volando-de-espana-a-cuba-tras-la-salida-de-iberia-y-world2fly/",
         "published_date": "2026-05-20 22:16:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Daniel Ferrer: \u201cWe are not going to build a free Cuba on the basis of revenge\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/jose-daniel-ferrer-no-construir_1_1126917.html",
-        "published_date": "2026-05-20 22:12:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin ends intense agenda in China, always accompanied by Xi",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/putin-finaliza-intensa-agenda-en-china-acompanado-siempre-por-xi/",
-        "published_date": "2026-05-20 21:40:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breaking News: The United States moves an important aircraft carrier to the Caribbean area in full tension with Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/ultima-hora-estados-unidos-desplaza-importante-portaviones-al-area-del-caribe-en-plena-tension-con-cuba/",
-        "published_date": "2026-05-20 21:38:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "American Airlines announces flight suspensions and changes",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/american-airlines-anuncia-suspensiones-y-cambios-de-vuelos/",
-        "published_date": "2026-05-20 21:10:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shipments of milk, meat and solar panels to Cuba are a sign of \u201csolidarity\u201d, but \u201cnot with the regime\u201d, clarifies Uruguay",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/envios-leche-carne-paneles-solares_1_1126915.html",
-        "published_date": "2026-05-20 20:42:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to improve efficiency in teleworking: Optimize your performance",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/mejorar-eficiencia-teletrabajo-optimice-rendimiento_132_1126913.html",
-        "published_date": "2026-05-20 20:21:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba condemns the scoundrel accusation against the Leader of the Revolution",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-condena-la-canalla-acusacion-contra-el-lider-de-la-revolucion/",
-        "published_date": "2026-05-20 20:14:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans will be able to decide the order of their children's surnames at birth",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/tramites/cubanos-podran-decidir-el-orden-de-los-apellidos-de-sus-hijos-al-nacer/",
-        "published_date": "2026-05-20 20:06:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Siege, threats and surveillance of activists mark May 20 in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/asedio-amenazas-vigilancia-activistas-marcan_1_1126911.html",
-        "published_date": "2026-05-20 19:29:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Basic Basket: Information from MINCIN on distribution of rice from the warehouse and donations from abroad",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/canasta-basica-informacion-del-mincin-sobre-distribucion-del-arroz-de-la-bodega-y-donaciones-desde-el-extranjero/",
-        "published_date": "2026-05-20 19:08:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The moral of affiliating",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260520/la-moraleja-de-afiliar/",
-        "published_date": "2026-05-20 19:00:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Solinera illuminates the future",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260520/solinera-ilumina-hacia-el-futuro/",
-        "published_date": "2026-05-20 18:53:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sentenced to deprivation of liberty for drug trafficking in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/condenados-a-privacion-de-libertad-por-trafico-de-drogas-en-cienfuegos/",
-        "published_date": "2026-05-20 18:14:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the airlines that are currently flying to Cuba, according to ECASA",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/estas-son-las-aerolineas-que-estan-volando-actualmente-a-cuba-segun-ecasa/",
-        "published_date": "2026-05-20 18:06:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much does a liter of gasoline cost in Cuba today?The informal market sets new prices",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cuanto-cuesta-un-litro-de-gasolina-en-cuba-hoy-el-mercado-informal-marca-nuevos-precios/",
-        "published_date": "2026-05-20 17:30:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States formally accuses Ra\u00fal Castro for the downing of Hermanos al Rescate planes",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/estados-unidos-acusa-formalmente-a-raul-castro-por-el-derribo-de-avionetas-de-hermanos-al-rescate/",
-        "published_date": "2026-05-20 17:21:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Specialized Services and Integrated Project Management Company needs an architect",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260520/empresa-de-servicios-especializados-y-direccion-integrada-de-proyectos-necesita-arquitecto/",
-        "published_date": "2026-05-20 16:59:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important information about the sale of liquefied gas in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/informacion-importante-sobre-venta-de-gas-licuado-en-cuba/",
-        "published_date": "2026-05-20 16:46:51",
         "category": "Local Events"
     }
 ]
