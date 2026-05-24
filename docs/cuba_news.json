@@ -91,11 +91,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Measures are underway to avoid asphyxiation of transportation in the country",
+        "title": "The media uses the detective novel to tell the story of the CIA director's trip to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/medios-echan-mano-novela-policiaca_1_1127030.html",
+        "published_date": "2026-05-24 11:01:47",
+        "category": "Military"
+    },
+    {
+        "title": "From the town to Ra\u00fal",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260515/en-marcha-medidas-para-evitar-asfixia-de-las-transportaciones-en-el-pais/",
-        "published_date": "2026-05-16 00:46:26",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260524/del-pueblo-a-raul-2/",
+        "published_date": "2026-05-24 09:05:32",
+        "category": "Military"
     },
     {
         "title": "The elite of the Cuban regime has a home in Florida",
@@ -224,20 +231,6 @@
         "category": "Military"
     },
     {
-        "title": "The US charges Ra\u00fal Castro for the death of the Hermanos al Rescate pilots in 1996",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-encausa-raul-castro_1_1126908.html",
-        "published_date": "2026-05-20 17:34:05",
-        "category": "Military"
-    },
-    {
-        "title": "Matanceros honor Mart\u00ed",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260519/matanceros-honran-a-marti/",
-        "published_date": "2026-05-20 03:02:19",
-        "category": "Military"
-    },
-    {
         "title": "Cuba will pay up to 10 times more for private energy: \u201cThe rates ranged between three and six pesos\u201d",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/panorama/cuba-pagara-hasta-10-veces-mas-por-energia-privada-las-tarifas-oscilaban-entre-tres-y-seis-pesos/",
@@ -322,6 +315,13 @@
         "category": "Energy"
     },
     {
+        "title": "Banco Metropolitano activates reservations by Ticket to access banking services",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/banco-metropolitano-activa-reservas-por-ticket-para-acceder-a-servicios-bancarios/",
+        "published_date": "2026-05-23 23:12:48",
+        "category": "Economy"
+    },
+    {
         "title": "Great increase in the exchange rates of the dollar and other currencies",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/gran-aumento-en-las-tasas-de-cambio-del-dolar-y-demas-divisas/",
@@ -385,6 +385,90 @@
         "category": "Economy"
     },
     {
+        "title": "Dollar record in Cuba.These are the exchange rates",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/record-del-dolar-en-cuba-asi-estan-las-tasas-de-cambio/",
+        "published_date": "2026-05-24 11:18:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meteorology: Heat and heavy rain in Tampa and other areas of Florida",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/meteotologia-calor-y-grandes-aguaceros-en-tampa-y-otras-zonas-de-florida/",
+        "published_date": "2026-05-24 10:43:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "They find the weak point of one of the 15 most dangerous bacteria for human health",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cienciaytecnologia/hallan-punto-debil-15-bacterias_1_1127028.html",
+        "published_date": "2026-05-24 10:38:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shooting in front of the White House ends with one suspect dead after intervention of the Secret Service",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/tiroteo-frente-a-la-casa-blanca-termina-con-un-sospechoso-muerto-tras-intervencion-del-servicio-secreto/",
+        "published_date": "2026-05-24 10:05:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers are the essential force",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260524/los-trabajadores-son-la-fuerza-esencial-2/",
+        "published_date": "2026-05-24 09:07:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gayol: Symbol of solidarity and internationalism",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/historia-incio/personalidades-submenu/32776-gayol-simbolo-de-solidaridad-e-internacionalismo",
+        "published_date": "2026-05-24 08:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronicles from Spain: Mariana Pineda, the freedom that Granada does not forget",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cronicas-desde-espana-mariana-pineda-la-libertad-que-granada-no-olvida/",
+        "published_date": "2026-05-24 04:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Professional Technical Education in Cienfuegos: vocation from practice",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ensenanza-tecnico-profesional-en-cienfuegos-vocacion-desde-la-practica/",
+        "published_date": "2026-05-24 04:00:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alerts for intense heat, dangerous currents and sargassum in South Florida this weekend",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/alertas-por-calor-intenso-corrientes-peligrosas-y-sargazo-en-el-sur-de-florida-este-fin-de-semana/",
+        "published_date": "2026-05-24 01:06:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shooting outside the White House: the Secret Service reduces a lone attacker",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/disparos-frente-a-la-casa-blanca-el-servicio-secreto-reduce-a-un-atacante-solitario/",
+        "published_date": "2026-05-24 00:20:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "United States authorities warn about documents necessary to fly from July 2026",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/autoridades-de-los-estados-unidos-advierten-sobre-documentos-necesarios-para-volar-a-partir-de-julio-de-2026/",
+        "published_date": "2026-05-24 00:09:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "They warn that the United States could dismantle the Cuban Adjustment Act without needing to eliminate it",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/emigracion/advierten-que-estados-unidos-podria-desarticular-la-ley-de-ajuste-cubano-sin-necesidad-de-eliminarla/",
+        "published_date": "2026-05-23 23:48:03",
+        "category": "Local Events"
+    },
+    {
         "title": "Transferm\u00f3vil: how to change mobile phones without losing saved accounts, cards and invoices",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/transfermovil-como-cambiar-de-movil-sin-perder-cuentas-tarjetas-y-facturas-guardadas/",
@@ -438,90 +522,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/sismo-de-magnitud-6-0-sacude-la-isla-grande-de-hawai-y-se-siente-en-varias-islas/",
         "published_date": "2026-05-23 18:59:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Explosion and fire paralyze busy Miami highway: huge column of smoke alarms drivers",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/explosion-e-incendio-paralizan-transitada-autopista-enorme-columna-de-humo-alarma-a-conductores/",
-        "published_date": "2026-05-23 18:35:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "An electrical worker on Isla de la Juventud is sentenced to eight years in prison for stealing 60 liters of oil",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/condenan-a-ocho-anos-de-carcel-a-un-operario-electrico-en-isla-de-la-juventud-por-robar-60-litros-de-aceite/",
-        "published_date": "2026-05-23 18:15:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States tightens access to the green card: who will have to leave the country to apply for it?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/estados-unidos-endurece-acceso-a-la-green-card-quienes-deberan-salir-del-pais-para-solicitarla/",
-        "published_date": "2026-05-23 17:11:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Tulip\u00e1n market, closed: \"they have given the order to go to the march for Ra\u00fal\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/mercado-tulipan-cerrado-han-dado_1_1127026.html",
-        "published_date": "2026-05-23 16:51:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Life in Cuba is unlivable\": The testimony of Father Alberto Reyes shakes Madrid",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/videos/video-ext-vida-cuba-invivible-testimonio-padre_7_1127025.html",
-        "published_date": "2026-05-23 16:02:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Twelve years in prison for stealing 70 liters of dielectric oil in Artemisa",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/doce-anos-carcel-sustraer-70_1_1127022.html",
-        "published_date": "2026-05-23 15:59:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expensive gasoline, storms and complicated flights: this is how you get to Memorial Day in the United States",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/gasolina-cara-tormentas-y-vuelos-complicados-asi-se-llega-al-memorial-day-en-estados-unidos/",
-        "published_date": "2026-05-23 15:49:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Voices for sovereignty from Santiago de Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260523/voces-por-la-soberania-desde-santiago-de-cuba/",
-        "published_date": "2026-05-23 15:20:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba is not Iran: anatomy of a dictatorship without relief",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-no-iran-anatomia-dictadura_1_1127020.html",
-        "published_date": "2026-05-23 15:12:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Information on distribution of the basic basket in Cuba: this is how the distribution progresses in several provinces",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/informacion-sobre-distribucion-de-la-canasta-basica-en-cuba-asi-avanza-el-reparto-en-varias-provincias/",
-        "published_date": "2026-05-23 14:52:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Las Tunas workers against infamy",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260523/trabajadores-tuneros-contra-la-infamia/",
-        "published_date": "2026-05-23 14:30:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "In honor of the Apostle",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260523/en-honor-al-apostol/",
-        "published_date": "2026-05-23 14:12:39",
         "category": "Local Events"
     }
 ]
