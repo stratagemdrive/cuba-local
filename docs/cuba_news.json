@@ -1,5 +1,33 @@
 [
     {
+        "title": "Cuba denounced aggressive escalation by the US at the UN",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-denuncio-en-onu-escalada-agresiva-de-eeuu/",
+        "published_date": "2026-05-26 23:12:31",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "La Anir faces the blockade on National Buses Las Tunas",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260526/la-anir-frente-al-bloqueo-en-omnibus-nacionales-las-tunas/",
+        "published_date": "2026-05-26 18:51:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Poland summons Russian ambassador to protest threats to diplomatic staff",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/polonia-convoca-embajador-ruso-protestar_1_1127103.html",
+        "published_date": "2026-05-26 18:31:11",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran rejects sanctions and US blockade against Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/32780-rechaza-iran-sanciones-y-bloqueo-de-estados-unidos-contra-cuba",
+        "published_date": "2026-05-26 11:51:05",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Dialogue Cuba United States: Cuban ambassador sets red lines before Washington",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/dialogo-cuba-estados-unidos-embajadora-lineas-rojas/",
@@ -102,13 +130,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/diaz-canel-denuncia-recrudecimiento-del-bloqueo-de-eeuu-contra-cuba/",
         "published_date": "2026-05-19 14:30:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Treasury Department decrees measures against Cuban officials",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260518/departamento-del-tesoro-decreta-medidas-contra-funcionarios-cubanos/",
-        "published_date": "2026-05-18 23:42:50",
         "category": "Diplomacy"
     },
     {
@@ -252,6 +273,13 @@
         "category": "Military"
     },
     {
+        "title": "Cuba suspends youth baseball championships due to lack of fuel",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/suspenden-campeonatos-beisbol-cuba-falta-combustible/",
+        "published_date": "2026-05-26 22:36:00",
+        "category": "Energy"
+    },
+    {
         "title": "The US increases fuel exports to Cuba for private businesses, but shortages persist",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/ee-uu-aumenta-exportaciones-de-combustible-a-cuba-para-privados-pero-persiste-la-escasez/",
@@ -326,13 +354,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/suspenden-examenes-acceso-universidad-curso_1_1126900.html",
         "published_date": "2026-05-20 10:47:19",
-        "category": "Energy"
-    },
-    {
-        "title": "The electricity deficit does not drop below 2,000 MW despite the entry of Guiteras",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/deficit-eletricidad-no-baja-2_1_1126851.html",
-        "published_date": "2026-05-18 19:42:03",
         "category": "Energy"
     },
     {
@@ -441,143 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "Publication of the Liquefied Gas company in the midst of the LPG shortage in Cuba",
+        "title": "Spanish companies in Cuba study leaving in the face of Trump's new sanctions",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/publicacion-de-la-empresa-de-gas-licuado-en-medio-de-la-escasez-de-glp-en-cuba/",
-        "published_date": "2026-05-26 13:41:14",
+        "url": "https://www.directoriocubano.info/acontecer/empresas-espanolas-cuba-evaluan-retirarse-sanciones-eeuu/",
+        "published_date": "2026-05-26 22:06:00",
         "category": "Local Events"
     },
     {
-        "title": "Cuba publishes two months later the list of 2,010 pardoned people, with only one confirmed political prisoner",
+        "title": "The United States suspends the issuance of visas in the Embassies of these countries",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-publica-lista-2010-presos-indultados-seguridad-del-estado/",
-        "published_date": "2026-05-26 13:36:00",
+        "url": "https://www.directoriocubano.info/actualidad/estados-unidos-suspende-emision-de-visados-en-las-embajadas-de-estos-paises/",
+        "published_date": "2026-05-26 21:08:55",
         "category": "Local Events"
     },
     {
-        "title": "The dominance of Meli\u00e1 and Iberostar in Cuba is in danger due to the possible arrival of investors from the United States",
+        "title": "ICE focuses on immigration lawyers who file false asylum requests",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/predominio-melia-e-iberostar-cuba_1_1127098.html",
-        "published_date": "2026-05-26 13:01:26",
+        "url": "https://www.14ymedio.com/internacional/ice-pone-foco-abogados-migracion_1_1127112.html",
+        "published_date": "2026-05-26 20:40:38",
         "category": "Local Events"
     },
     {
-        "title": "The MININT denies the alleged curfew: the message that circulated on networks was false",
+        "title": "L\u00e1zaro survives in Tapachula by selling Cuban coffee for \"five pesos\" on the street",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/lazaro-sobrevive-tapachula-vendiendo-cafe_1_1127109.html",
+        "published_date": "2026-05-26 20:30:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe car alone costs 600 dollars\u201d: traveling from the center of Cuba to Havana to fly to Spain already seems like another fare",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/minint-desmiente-toque-queda-cuba/",
-        "published_date": "2026-05-26 12:45:00",
+        "url": "https://www.directoriocubano.info/panorama/solo-el-carro-cuesta-600-dolares-viajar-desde-el-centro-de-cuba-a-la-habana-para-volar-a-espana-ya-parece-otro-pasaje/",
+        "published_date": "2026-05-26 20:20:54",
         "category": "Local Events"
     },
     {
-        "title": "Brother: \u201cEVERYTHING IS UNDER CONTROL\u201d",
+        "title": "Camag\u00fcey in sessions by Social Communication Law",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32785-camagueey-en-sesiones-por-ley-de-comunicacion-social",
+        "published_date": "2026-05-26 20:06:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "What Cubans should know before traveling to Canada with a visa or eTA",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/lo-que-deben-saber-los-cubanos-antes-de-viajar-a-canada-con-visa-o-eta/",
+        "published_date": "2026-05-26 20:00:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"They felt untouchable,\" says Mar\u00eda Corina Machado about the corruption network in Venezuela and Spain",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/sentian-intocables-dice-maria-corina_1_1127101.html",
+        "published_date": "2026-05-26 19:50:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The crisis forces us to improvise: a coal-powered scooter in Cuba appears in Villa Clara",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/motoneta-carbon-villa-clara-cuba-crisis-combustible/",
+        "published_date": "2026-05-26 19:32:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artemisa adjusts the summer tone in Campismo Popular",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260526/brother-todo-esta-bajo-control/",
-        "published_date": "2026-05-26 12:17:05",
+        "url": "https://www.trabajadores.cu/20260526/artemisa-ajusta-el-tono-verano-en-campismo-popular/",
+        "published_date": "2026-05-26 19:25:19",
         "category": "Local Events"
     },
     {
-        "title": "President D\u00edaz-Canel leads the event for Africa Day",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/encabeza-presidente-diaz-canel-el-acto-por-el-dia-de-africa/",
-        "published_date": "2026-05-26 12:08:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba wakes up this Tuesday with 1,553 MW without electricity and foresees cuts of up to 1,990 MW during peak hours",
+        "title": "Five months later and the new Spanish consulate in Camag\u00fcey still does not function",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-amanece-este-martes-con-1553-mw-sin-electricidad-y-preve-cortes-de-hasta-1990-mw-en-el-horario-pico/",
-        "published_date": "2026-05-26 12:06:58",
+        "url": "https://www.directoriocubano.info/actualidad/cinco-meses-despues-y-el-nuevo-consulado-espanol-en-camaguey-aun-no-funciona/",
+        "published_date": "2026-05-26 19:09:39",
         "category": "Local Events"
     },
     {
-        "title": "Rubiera warns of heavy rains in Cuba and southern Florida this weekend",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/rubiera-advierte-sobre-lluvias-intensas-en-cuba-y-el-sur-de-florida-este-fin-de-semana/",
-        "published_date": "2026-05-26 11:31:58",
+        "title": "Online application for a current passport in Cuba is available (+Video)",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32784-disponible-solicitud-en-linea-de-pasaporte-corriente-en-cuba",
+        "published_date": "2026-05-26 19:09:39",
         "category": "Local Events"
     },
     {
-        "title": "Unearthing lies will not free them from the judgment of History: UPEC statement",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/desenterrar-mentiras-no-los-librara-del-juicio-de-la-historia-pronunciamiento-de-la-upec/",
-        "published_date": "2026-05-26 11:24:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, May 26, 2026",
+        "title": "Mental health in the digital age: The rise of anonymous support networks and data protection",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-26-mayo_132_1127094.html",
-        "published_date": "2026-05-26 11:08:23",
+        "url": "https://www.14ymedio.com/blogs/consejos/salud-mental-digital-auge-redes_132_1127107.html",
+        "published_date": "2026-05-26 18:53:25",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Tuesday, May 26, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-26-mayo_7_1127097.html",
-        "published_date": "2026-05-26 11:07:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "International peace and security at the UN Security Council",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/paz-y-seguridad-internacionales-en-consejo-de-seguridad-de-la-onu/",
-        "published_date": "2026-05-26 11:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"More than closing and leaving, Spanish companies are wondering how to continue in Cuba\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cerrar-marcharse-empresas-espanolas-preguntan_1_1127095.html",
-        "published_date": "2026-05-26 10:55:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran responds to new US attacks",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-responde-a-nuevos-ataques-de-estados-unidos/",
-        "published_date": "2026-05-26 10:50:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court of Spain orders to reveal details of Cuba's debt",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/tribunal-supremo-espana-deuda-cuba-detalles/",
-        "published_date": "2026-05-26 10:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exhibition 'Terminal State'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/exposicion-terminal_1_1127092.html",
-        "published_date": "2026-05-26 10:12:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The thermometer gives no respite: Sweltering days in Cuba while Miami touches 87\u00b0F",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/el-termometro-no-da-tregua-dias-sofocantes-en-cuba-mientras-miami-roza-los-87f/",
-        "published_date": "2026-05-26 10:09:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Laughter ahead'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/risa-delante_1_1127090.html",
-        "published_date": "2026-05-26 10:08:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presentation of the monographic book on the artist Humberto Castro",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/presentacion-libro-monografico-artista-humberto_1_1127088.html",
-        "published_date": "2026-05-26 10:04:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "IN 500 CHARACTERS Turn off or restart your cell phone?",
+        "title": "Workers and ANEC consolidate alliance for rigorous economic studies",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260526/en-500-caracteres-apagar-o-reiniciar-el-celular/",
-        "published_date": "2026-05-26 10:00:16",
+        "url": "https://www.trabajadores.cu/20260526/trabajadores-y-anec-consolidan-alianza-para-estudios-economicos-de-rigor/",
+        "published_date": "2026-05-26 18:53:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNDP and the European Union promote renewable source projects to increase food production in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pnud-y-la-union-europea-impulsan-proyectos-de-fuentes-renovables-para-elevar-la-produccion-de-alimentos-en-cuba/",
+        "published_date": "2026-05-26 18:36:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Families demand that Delcy Rodr\u00edguez release 34 political prisoners",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/familias-exigen-delcy-rodriguez-liberar_1_1127104.html",
+        "published_date": "2026-05-26 18:36:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "How to survive in Cuba with three hours of electricity?Viral video on TikTok",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/sobrevive-cuba-tres-horas-corriente-tiktok/",
+        "published_date": "2026-05-26 18:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cubalub Santiago diversifies marketing",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260526/cubalub-santiago-diversifica-la-comercializacion/",
+        "published_date": "2026-05-26 18:34:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carlos Caicedo declines his presidential candidacy and supports Iv\u00e1n Cepeda to strengthen the unity of the Historical Pact in Colombia",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/carlos-caicedo-declina-su-candidatura-presidencial-y-respalda-a-ivan-cepeda-para-fortalecer-la-unidad-del-pacto-historico-en-colombia/",
+        "published_date": "2026-05-26 18:26:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Defending Ra\u00fal is defending the work of the Revolution",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260526/defender-a-raul-es-defender-la-obra-de-la-revolucion/",
+        "published_date": "2026-05-26 18:19:23",
         "category": "Local Events"
     }
 ]
