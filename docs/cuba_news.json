@@ -1,5 +1,12 @@
 [
     {
+        "title": "National Assembly pronounces: Cuba wants peace with independence",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260528/asamblea-nacional-se-pronuncia-cuba-quiere-paz-con-independencia/",
+        "published_date": "2026-05-28 16:09:17",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Minrex denounces media instigation of military intervention in Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/denuncia-minrex-instigacion-de-medios-a-intervencion-militar-en-cuba/",
@@ -133,11 +140,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba questions double standards of the European Union in the face of the US blockade",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-cuestiona-doble-rasero-de-la-union-europea-ante-bloqueo-de-eeuu/",
-        "published_date": "2026-05-25 15:09:52",
-        "category": "Diplomacy"
+        "title": "How strong is Cuba's army?They analyze their weapons and defensive range",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/que-tan-fuerte-es-el-ejercito-de-cuba-analizan-su-armamento-y-alcance-defensivo/",
+        "published_date": "2026-05-28 21:00:43",
+        "category": "Military"
+    },
+    {
+        "title": "Cuban pilot receives sentence in Florida for hiding his military past when requesting residency in the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/piloto-cubano-sentenciado-siete-meses-fraude-migratorio/",
+        "published_date": "2026-05-28 19:45:00",
+        "category": "Military"
+    },
+    {
+        "title": "Prison for immigration fraud for one of the soldiers accused alongside Ra\u00fal Castro in the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/prision-fraude-migratorio-militares-imputados_1_1127172.html",
+        "published_date": "2026-05-28 18:56:06",
+        "category": "Military"
+    },
+    {
+        "title": "The undefeated",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260528/los-invictos/",
+        "published_date": "2026-05-28 16:31:10",
+        "category": "Military"
+    },
+    {
+        "title": "Ra\u00fal in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32794-raul-en-camaguey",
+        "published_date": "2026-05-28 11:04:29",
+        "category": "Military"
     },
     {
         "title": "The United States already has its army ready to act on Cuba, according to Politico",
@@ -245,41 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "The elite of the Cuban regime has a home in Florida",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/elite-regimen-cubano-casa-florida_1_1127012.html",
-        "published_date": "2026-05-23 12:47:30",
-        "category": "Military"
-    },
-    {
-        "title": "An exhausted and exhausted population attends the event in defense of Ra\u00fal Castro in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/poblacion-agotada-acarreada-asiste-acto_1_1126990.html",
-        "published_date": "2026-05-22 17:13:33",
-        "category": "Military"
-    },
-    {
-        "title": "D\u00edaz-Canel leads mobilization in defense of leader of the Revolution",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/diaz-canel-encabeza-movilizacion-en-defensa-de-lider-de-la-revolucion/",
-        "published_date": "2026-05-22 16:16:51",
-        "category": "Military"
-    },
-    {
-        "title": "Tobacco workers from Lajas, in defense of Ra\u00fal and the Revolution",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/tabaqueros-de-lajas-en-defensa-de-raul-y-la-revolucion/",
-        "published_date": "2026-05-22 16:11:18",
-        "category": "Military"
-    },
-    {
-        "title": "Tribune to condemn the despicable act of the US against Army General Ra\u00fal Castro Ruz",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260522/tribuna-para-condenar-el-acto-despreciable-de-los-eeuu-contra-el-general-de-ejercito-raul-castro-ruz/",
-        "published_date": "2026-05-22 12:32:04",
-        "category": "Military"
-    },
-    {
         "title": "The ruling party describes the impact of US sanctions as \"devastating\" and places its hopes in China",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/oficialismo-califica-demoledor-impacto-sanciones_1_1127165.html",
@@ -375,13 +375,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260521/nueva-tarifa-unica-para-cogeneradores-incentivo-a-la-transicion-energetica/",
         "published_date": "2026-05-21 18:38:40",
-        "category": "Energy"
-    },
-    {
-        "title": "Employment services: key questions about labor market challenges and opportunities",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260520/servicios-de-empleo-preguntas-clave-sobre-los-retos-y-las-oportunidades-del-mercado-de-trabajo/",
-        "published_date": "2026-05-20 18:15:50",
         "category": "Energy"
     },
     {
@@ -497,150 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "Information for retirees in Cuba about charging on magnetic cards",
+        "title": "USCIS updates appeal form used by immigrants in the United States",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/informacion-a-jubilados-en-cuba-sobre-cobro-en-tarjetas-magneticas/",
-        "published_date": "2026-05-20 16:15:03",
-        "category": "Economy"
-    },
-    {
-        "title": "The Caribbean as a Zone of Peace vs. \u201cYankee backyard.\u201dLocale reconfiguration?",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-caribe-como-zona-de-paz-vs-traspatio-yanqui/",
-        "published_date": "2026-05-28 14:08:40",
+        "url": "https://www.directoriocubano.info/actualidad/uscis-actualiza-formulario-de-apelacion-usado-por-inmigrantes-en-estados-unidos/",
+        "published_date": "2026-05-28 23:50:44",
         "category": "Local Events"
     },
     {
-        "title": "China would send rice to Cuba and promises agricultural support in the face of the food crisis",
+        "title": "Distribution of liquefied gas in Cuba: a master's degree on the sales system of a non-existent product",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/china-cuba-negocian-cooperacion-agricola-arroz/",
-        "published_date": "2026-05-28 13:36:00",
+        "url": "https://www.directoriocubano.info/cuba/sobre-la-distribucion-de-gas-licuado-en-cuba-una-maestria-sobre-el-sistema-de-venta-de-un-producto-inexistente/",
+        "published_date": "2026-05-28 23:13:05",
         "category": "Local Events"
     },
     {
-        "title": "Trump seeks to protect himself from possible legal processes after his mandate",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-busca-resguardarse-ante-posibles-procesos-legales-tras-su-mandato/",
-        "published_date": "2026-05-28 13:35:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban vice president participates in the Eurasian Economic Forum",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/vicepresidente-cubano-participa-en-el-foro-economico-euroasiatico/",
-        "published_date": "2026-05-28 13:14:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel visits the UCI and highlights the Pioneer Project",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/diaz-canel-visita-la-uci-y-destaca-proyecto-pionero/",
-        "published_date": "2026-05-28 12:47:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the video of the revolt in Cancun after a Cuban was attacked by a dog bite",
+        "title": "Water crisis in Cuba triggers prices in the informal market",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/este-es-el-video-de-la-revuelta-en-cancun-tras-agresion-de-un-cubano-por-la-mordida-de-un-perro/",
-        "published_date": "2026-05-28 12:31:41",
+        "url": "https://www.directoriocubano.info/actualidad/crisis-del-agua-en-cuba-dispara-los-precios-en-el-mercado-informal/",
+        "published_date": "2026-05-28 22:50:30",
         "category": "Local Events"
     },
     {
-        "title": "Cuban Liquefied Gas Company shares information about contracts in CUPET",
+        "title": "Right now there is liquefied gas in Cuba at $25 per balita in this online store",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/empresa-cubana-de-gas-licuado-comparte-informacion-sobre-contratos-en-cupet/",
-        "published_date": "2026-05-28 12:08:53",
+        "url": "https://www.directoriocubano.info/cuba/ahora-mismo-ofertan-gas-licuado-en-cuba-a-25-dolares-la-balita-en-esta-tienda-online/",
+        "published_date": "2026-05-28 22:15:00",
         "category": "Local Events"
     },
     {
-        "title": "Cuba will suspend the APK Viajendo and the ticket agencies from June 17",
+        "title": "52 Cubans detained in Brazil in less than two months for irregular entry",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-suspende-apk-viajando-agencias-reserva-pasajes-junio-2026/",
-        "published_date": "2026-05-28 11:33:00",
+        "url": "https://www.directoriocubano.info/acontecer/52-cubanos-detenidos-brasil-dos-meses-ingreso-irregular/",
+        "published_date": "2026-05-28 22:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Cuba foresees blackouts of up to 1,670 MW this Thursday due to a deficit in electricity generation",
+        "title": "Breaking News: The United States insists on bringing Ra\u00fal Castro to justice as tension with Cuba increases",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-preve-apagones-de-hasta-1670-mw-este-jueves-por-deficit-de-generacion-electrica/",
-        "published_date": "2026-05-28 11:25:48",
+        "url": "https://www.directoriocubano.info/cuba/ultima-hora-estados-unidos-insiste-en-llevar-a-raul-castro-ante-la-justicia-mientras-aumenta-la-tension-con-cuba/",
+        "published_date": "2026-05-28 21:32:29",
         "category": "Local Events"
     },
     {
-        "title": "The actors who define the sequence of change in Cuba",
+        "title": "They find 300 gold bars and millions of dollars in cash in his house",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/encuentran-300-lingotes-de-oro-y-millones-de-dolares-de-efectivo-en-su-casa/",
+        "published_date": "2026-05-28 21:18:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba admits that dialogue with the United States is not moving forward",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-no-ve-avances-dialogo-estados-unidos-josefina-vidal/",
+        "published_date": "2026-05-28 20:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The roar of despair of a Cuban who returns to the country after many years",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/actores-definen-secuencia-cambio-cuba_1_1127163.html",
-        "published_date": "2026-05-28 11:25:40",
+        "url": "https://www.14ymedio.com/cuba/rugido-desesperacion-cubana-vuelve-pais_1_1127184.html",
+        "published_date": "2026-05-28 20:34:37",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Thursday, May 28, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-28-mayo_132_1127160.html",
-        "published_date": "2026-05-28 11:07:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cancellation of flights to Cuba: in a few days this airline will stop flying to the island",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cancelacion-de-vuelos-a-cuba-en-unos-dias-esta-aerolinea-dejara-de-volar-a-la-isla/",
-        "published_date": "2026-05-28 11:01:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dollar explodes in Cuba: absolute record in the exchange rate in the informal market",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/explota-el-dolar-en-cuba-record-absoluto-en-la-tasa-de-cambio-en-el-mercado-informal/",
-        "published_date": "2026-05-28 10:19:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Canadian Blue Diamond reopens three hotels in Varadero to attract Cuban Americans",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/canadiense-blue-diamond-reabre-tres_1_1127138.html",
-        "published_date": "2026-05-28 09:56:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Rubiera warns about heavy rains in Cuba and Florida: this is the latest the models show",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/jose-rubiera-alerta-sobre-lluvias-fuertes-en-cuba-y-florida-esto-es-lo-ultimo-que-muestran-los-modelos/",
-        "published_date": "2026-05-28 09:45:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "ONEI: production of bread and rice fell in 2025 while the manufacture of beer and alcohol grew in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/onei-produccion-pan-arroz-cayo-2025-crecio-cerveza-alcohol-cuba/",
-        "published_date": "2026-05-28 06:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two guerrillas who conquered adversity",
+        "title": "AI as an ally in hotel service",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260528/dos-guerrilleros-vencedores-de-la-adversidad-2/",
-        "published_date": "2026-05-28 06:28:06",
+        "url": "https://www.trabajadores.cu/20260528/la-ia-como-aliada-en-la-atencion-hotelera/",
+        "published_date": "2026-05-28 20:33:07",
         "category": "Local Events"
     },
     {
-        "title": "Judge orders the release of a Cuban detained by ICE after almost 7 months without evidence to deport him",
+        "title": "Guiteras returns to the electrical system and promises to alleviate blackouts with 200 megawatts",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/juez-federal-ordena-liberar-cubano-detenido-ice-sin-pruebas/",
-        "published_date": "2026-05-28 06:02:00",
+        "url": "https://www.directoriocubano.info/acontecer/termoelectrica-guiteras-sincroniza-sen-200-megavatios/",
+        "published_date": "2026-05-28 20:16:00",
         "category": "Local Events"
     },
     {
-        "title": "CARICOM declares humanitarian crisis in Cuba, but Guyana and Trinidad and Tobago do not support the text",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/caricom-declara-crisis-humanitaria-en-cuba-dos-paises-desmarcan/",
-        "published_date": "2026-05-28 05:34:00",
+        "title": "\u201cAlprazolam, alprazolam!\u201d, the fashionable cry on the streets of Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/alprazolam-pregon-moda-calles_1_1127182.html",
+        "published_date": "2026-05-28 19:55:54",
         "category": "Local Events"
     },
     {
-        "title": "Mexican project in Cuba: 1,500 producers from Villa Clara will receive agricultural support",
+        "title": "Cubans in Galicia: 1,095 obtained Spanish nationality during 2025",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/proyecto-mexicano-en-cuba-1500-productores-villa-clara/",
-        "published_date": "2026-05-28 05:00:00",
+        "url": "https://www.directoriocubano.info/acontecer/cubanos-nacionalidad-espanola-galicia-1095-2025/",
+        "published_date": "2026-05-28 19:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A judge appointed by Trump orders the release of a Cuban with criminal records and prevents his deportation",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/juez-nombrado-trump-ordena-liberar_1_1127177.html",
+        "published_date": "2026-05-28 19:37:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "AP assures that Trump has asked Miami prosecutors not to investigate Delcy Rodr\u00edguez",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ap-asegura-trump-pedido-fiscales_1_1127180.html",
+        "published_date": "2026-05-28 19:37:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Explosion in apartment complex in the United States causes fire and alarm for trapped people",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/explosion-en-complejo-de-apartamentos-en-estados-unidos-provoca-incendio-y-alarma-por-personas-atrapadas/",
+        "published_date": "2026-05-28 19:19:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accident in Quemado de G\u00fcines leaves two dead and 13 injured",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/accidente-quemado-guines-dos-fallecidos-trece-heridos/",
+        "published_date": "2026-05-28 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The largest NGO in Cuba serves more than 12 thousand people a day and warns about a humanitarian crisis",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/mayor-ong-cuba-quisicuaba-crisis-humanitaria/",
+        "published_date": "2026-05-28 18:46:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana accuses Washington of \u201clack of responsibility and seriousness\u201d in the bilateral dialogue",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/habana-acusa-washington-falta-responsabilidad_1_1127174.html",
+        "published_date": "2026-05-28 18:34:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "They debate about communication and its challenges in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32799-debaten-sobre-la-comunicacion-y-sus-retos-en-camagueey",
+        "published_date": "2026-05-28 18:11:21",
         "category": "Local Events"
     }
 ]
