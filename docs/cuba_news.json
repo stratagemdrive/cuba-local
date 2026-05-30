@@ -1,5 +1,12 @@
 [
     {
+        "title": "Uruguayan legislators ask the United States to end the blockade against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/legisladores-de-uruguay-piden-a-estados-unidos-el-cese-del-bloqueo-contra-cuba/",
+        "published_date": "2026-05-30 11:28:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Vald\u00e9s Mesa and Alexandr Lukasenko hold a friendly meeting in Kasakhstan",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/valdes-mesa-y-alexandr-lukasenko-sostienen-amistoso-encuentro-en-kasajistan/",
@@ -133,11 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Iran rejects sanctions and US blockade against Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/32780-rechaza-iran-sanciones-y-bloqueo-de-estados-unidos-contra-cuba",
-        "published_date": "2026-05-26 11:51:05",
-        "category": "Diplomacy"
+        "title": "Cuba pronounces on military meeting with the United States Southern Command",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-se-pronuncia-sobre-reunion-militar-con-el-comando-sur-de-estados-unidos/",
+        "published_date": "2026-05-30 01:56:00",
+        "category": "Military"
+    },
+    {
+        "title": "Revolutionary Armed Forces holds meeting with US Southern Command",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fuerzas-armadas-revolucionarias-sostiene-reunion-con-comando-sur-de-ee-uu/",
+        "published_date": "2026-05-30 00:57:13",
+        "category": "Military"
+    },
+    {
+        "title": "Cienfuegos will celebrate the great 95-Ra\u00fal Bike Tour",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/celebrara-cienfuegos-la-gran-bicicletada-95-raul/",
+        "published_date": "2026-05-30 00:25:44",
+        "category": "Military"
     },
     {
         "title": "What are they up to?Meeting of the head of the Southern Command with senior Cuban military personnel in the east of the country",
@@ -256,27 +277,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/venezuela-libera-ocho-militares-condenados_1_1127130.html",
         "published_date": "2026-05-27 12:48:15",
-        "category": "Military"
-    },
-    {
-        "title": "More than 20 US military missions near Havana and Santiago de Cuba revealed",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/revelan-mas-de-20-misiones-militares-de-ee-uu-cerca-de-la-habana-y-santiago-de-cuba/",
-        "published_date": "2026-05-26 12:21:55",
-        "category": "Military"
-    },
-    {
-        "title": "Facing imperial extraterritoriality: The unwavering legal defense of Cuba's sovereignty",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/frente-a-la-extraterritorialidad-imperial-la-inquebrantable-defensa-juridica-de-la-soberania-de-cuba/",
-        "published_date": "2026-05-26 11:18:12",
-        "category": "Military"
-    },
-    {
-        "title": "Sancti Sp\u00edritus, a territory protected by its people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260525/sancti-spiritus-un-territorio-blindado-por-su-pueblo/",
-        "published_date": "2026-05-25 23:56:16",
         "category": "Military"
     },
     {
@@ -462,150 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "They detect an attempt to remove more than 24 thousand euros hidden in luggage at Havana airport",
+        "title": "Frank Pa\u00eds, a leading orthopedic center that takes steps on the path of digital transformation (+ Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/frank-pais-un-centro-ortopedico-de-referencia-que-da-pasos-en-el-camino-de-la-transformacion-digital-fotos/",
+        "published_date": "2026-05-30 11:48:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prohibition and closed borders, Colombia on the eve of the elections",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ley-seca-y-fronteras-cerradas-colombia-en-visperas-de-las-elecciones/",
+        "published_date": "2026-05-30 11:16:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eurasian Economic Union, a fundamental pillar in the new global order",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/union-economica-eurasiatica-pilar-fundamental-en-el-nuevo-orden-global/",
+        "published_date": "2026-05-30 11:05:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar once again sets a record in Cuba and is close to 600 Cuban pesos",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/detectan-intento-de-sacar-mas-de-24-mil-euros-ocultos-en-equipaje-en-aeropuerto-de-la-habana/",
-        "published_date": "2026-05-22 00:55:50",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/cuba/el-dolar-vuelve-a-marcar-record-en-cuba-y-se-aproxima-a-los-600-pesos-cubanos/",
+        "published_date": "2026-05-30 10:41:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jos\u00e9 Rubiera updates the forecast for Cuba and Florida: what to expect this weekend",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/jose-rubiera-actualiza-el-pronostico-para-cuba-y-florida-que-esperar-este-fin-de-semana/",
+        "published_date": "2026-05-30 10:30:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conviction to win",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260530/conviccion-de-vencer-2/",
+        "published_date": "2026-05-30 09:37:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "United States NGO improves care of work horses in Cienfuegos",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/ong-eeuu-caballos-trabajo-cienfuegos/",
+        "published_date": "2026-05-30 06:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia will send food, seeds and supplies to Cuba after agricultural mission",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/colombia-enviara-alimentos-semillas-insumos-cuba-mision-agricola/",
+        "published_date": "2026-05-30 06:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gifts for Father's Day in Cuba?CIMEX launches fairs and offers in stores while many salaries are barely enough",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/regalos-para-el-dia-de-los-padres-en-cuba-cimex-lanza-ferias-y-ofertas-en-tiendas-mientras-muchos-salarios-apenas-alcanzan/",
+        "published_date": "2026-05-30 05:24:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba will begin granting university degrees without entrance exams on June 8",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-iniciara-8-junio-otorgamiento-carreras-universitarias-sin-examenes/",
+        "published_date": "2026-05-30 04:42:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE agent arrested for shooting Venezuelan immigrant in Minnesota",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/arrestan-agente-ice-disparar-inmigrante-venezolano-minnesota/",
+        "published_date": "2026-05-30 04:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The hands that prepared it before lighting it",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/las-manos-que-lo-prepararon-antes-de-encenderlo/",
+        "published_date": "2026-05-30 04:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Itchy eyes: why rubbing them can damage the cornea",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/picazon-en-los-ojos-frotarlos-danar-cornea/",
+        "published_date": "2026-05-30 03:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two guerrillas who conquered adversity",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/historia-incio/personalidades-submenu/32807-dos-guerrilleros-vencedores-de-la-adversidad",
+        "published_date": "2026-05-30 03:21:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cyclonic season 2026: western region will be the most exposed in June, according to Insmet",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/temporada-ciclonica-2026-region-occidental-expuesta-junio-insmet/",
+        "published_date": "2026-05-30 02:59:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "New ambulances arrive in Sancti Sp\u00edritus, but they still cannot provide service",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/sancti-spiritus-refuerza-ambulancias-cuatro-vehiculos/",
+        "published_date": "2026-05-30 02:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Saint Lucia of Cuba: beacon of hope for coral reefs",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32806-santa-lucia-de-cuba-faro-de-esperanza-para-los-arrecifes-coralinos",
+        "published_date": "2026-05-30 02:18:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "President of the Episcopate in Cuba warns about the humanitarian crisis that the island is going through",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/presidente-del-episcopado-cuba-crisis-humanitaria-arturo-gonzalez-amador/",
+        "published_date": "2026-05-30 01:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Details about the boat found on the Cuban coast, according to the Ministry of the Interior",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/nacional/detalles-sobre-lancha-encontrada-en-las-costas-cubanas-segun-el-ministerio-del-interior/",
+        "published_date": "2026-05-30 00:12:02",
+        "category": "Local Events"
     },
     {
         "title": "Closing of hotels in Cuba?Iberostar would be removing 12 facilities from its offer on the island",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/cierre-de-hoteles-en-cuba-iberostar-estaria-retirando-12-instalaciones-de-su-oferta-en-la-isla/",
         "published_date": "2026-05-29 23:38:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Information from the United States Government on travel to Spain",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/informacion-del-gobierno-de-estados-unidos-sobre-viajes-a-espana/",
-        "published_date": "2026-05-29 23:08:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you know how much they actually charge?This is the money that Miami employees receive",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/sabes-cuanto-cobran-en-realidad-este-es-el-dinero-que-reciben-los-empleados-de-miami/",
-        "published_date": "2026-05-29 22:08:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important information from MINCIN about rice",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/informacion-importante-del-mincin-sobre-el-arroz/",
-        "published_date": "2026-05-29 21:37:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Notice on the sale of expired toothpaste in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/aviso-sobre-venta-de-pasta-dental-vencida-en-cuba/",
-        "published_date": "2026-05-29 21:15:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another hug in Cinco Palmas",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260529/otro-abrazo-en-cinco-palmas/",
-        "published_date": "2026-05-29 20:49:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two Cuban women murdered and one shot in Mexico so far this year",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/feminicidio-casos-consumados-cubanas-registran_1_1127217.html",
-        "published_date": "2026-05-29 20:45:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Havanatur promotes hotels in Varadero for July: some rates exceed 80,000 CUP per night",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/havanatur-promociona-hoteles-en-varadero-para-julio-algunas-tarifas-superan-los-80-000-cup-por-noche/",
-        "published_date": "2026-05-29 20:12:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Remuneration",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260529/retribucion/",
-        "published_date": "2026-05-29 20:01:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The inspectors turn off the timbiriches of San Jos\u00e9 de las Lajas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/inspectores-apagan-timbiriches-san-jose_1_1127212.html",
-        "published_date": "2026-05-29 19:51:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNESCO warns that Cuban classrooms are at risk due to the energy crisis",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/unesco-advierte-aulas-cubanas-riesgo_1_1127215.html",
-        "published_date": "2026-05-29 19:49:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentina already has its 26 for the 2026 World Cup: Messi leads a list with several new features and these will be the schedules for Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/argentina-ya-tiene-sus-26-para-el-mundial-2026-messi-lidera-una-lista-con-varias-novedades-y-estos-seran-los-horarios-para-cuba/",
-        "published_date": "2026-05-29 19:38:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans have the right to live in peace",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260529/los-cubanos-tenemos-derecho-a-vivir-en-paz/",
-        "published_date": "2026-05-29 19:12:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans with solar panels will be able to sell electricity to the SEN in this way",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cubanos-con-paneles-solares-podran-vender-electricidad-al-sen-de-esta-forma/",
-        "published_date": "2026-05-29 19:09:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "New revelations shake the Derek Rosa case in Miami",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/nuevas-revelaciones-sacuden-el-caso-derek-rosa-en-miami/",
-        "published_date": "2026-05-29 18:36:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "This way they will be able to watch more than 90 matches of the 2026 World Cup for free from Miami in Spanish",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/asi-podran-ver-gratis-desde-miami-mas-de-90-partidos-del-mundial-2026-en-espanol/",
-        "published_date": "2026-05-29 18:04:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "White House publishes interactive map with 3.1 million immigration arrests in the United States",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/casa-blanca-mapa-arrestos-inmigrantes-31-millones/",
-        "published_date": "2026-05-29 17:41:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Cuba to Serbia and then to Spain: this is how the network dismantled by Europol operated",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/de-cuba-a-serbia-y-luego-a-espana-asi-operaba-la-red-desmantelada-por-europol/",
-        "published_date": "2026-05-29 17:11:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "They adapt a building to create a maternal home in Nuevitas",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32809-adaptan-edificacion-para-crear-hogar-materno-en-nuevitas",
-        "published_date": "2026-05-29 16:56:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban authorities prohibit Alina L\u00f3pez Hern\u00e1ndez from attending the LASA congress in Paris",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cubano-prohibe-alina-barbara-lopez_1_1127210.html",
-        "published_date": "2026-05-29 16:53:27",
         "category": "Local Events"
     }
 ]
