@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "Natural gas: Cuba uses national fuel as a strategic source against blackouts",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/gas-natural-cuba-fuente-estrategica-apagones/",
+        "published_date": "2026-05-31 00:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "\u201cProvide energy, creativity and optimism from the young militancy\u201d",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/aportar-energia-creatividad-y-optimismo-desde-la-joven-militancia/",
@@ -378,6 +385,20 @@
         "category": "Energy"
     },
     {
+        "title": "The dollar is explosive: great increase in the informal and official markets",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/explosivo-el-dolar-gran-aumento-en-el-mercado-informal-y-en-el-oficial/",
+        "published_date": "2026-05-31 10:55:55",
+        "category": "Economy"
+    },
+    {
+        "title": "Spanish banks and hotel companies prepare to leave Cuba before the United States ultimatum",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/bancos-hoteleras-espanolas-se-preparan-para-salir-de-cuba-antes-del-ultimatum-de-estados-unidos/",
+        "published_date": "2026-05-31 03:02:00",
+        "category": "Economy"
+    },
+    {
         "title": "Taoro products from Holgu\u00edn are now sold online and in TRD Caribe stores in foreign currency",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/productos-taoro-holguin-venden-internet-tiendas-trd-caribe-divisas/",
@@ -441,18 +462,109 @@
         "category": "Economy"
     },
     {
-        "title": "Great increase in the exchange rates of the dollar and other currencies",
+        "title": "ETECSA recognizes telephone and internet problems and explains the measures to recover the service",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/gran-aumento-en-las-tasas-de-cambio-del-dolar-y-demas-divisas/",
-        "published_date": "2026-05-23 10:44:09",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/acontecer/etecsa-reconoce-problemas-de-telefonia-e-internet-y-explica-las-medidas-para-recuperar-el-servicio/",
+        "published_date": "2026-05-31 12:02:23",
+        "category": "Local Events"
     },
     {
-        "title": "Big changes are coming to US banks after an executive order from Donald Trump",
+        "title": "Exhibition 'Bad Country'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/exposicion-mal-pais_1_1127235.html",
+        "published_date": "2026-05-31 10:30:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronicles from Spain: A Cuban in the land of the Sanjurjo",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cronicas-desde-espana-un-cubano-en-la-tierra-de-los-sanjurjo/",
+        "published_date": "2026-05-31 09:00:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Apartment rent in Miami drops 4.1% and offers relief to tenants",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/vienen-grandes-cambios-en-los-bancos-de-estados-unidos-tras-una-orden-ejecutiva-de-donald-trump/",
-        "published_date": "2026-05-23 01:15:44",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/acontecer/alquiler-apartamentos-miami-baja-cuatro-por-ciento/",
+        "published_date": "2026-05-31 05:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "How much taxes could you save?DeSantis launches calculator for homeowners who want to pay less",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/desantis-lanza-calculadora-ahorro-impuestos-propietarios-florida/",
+        "published_date": "2026-05-31 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump backs down with controversial measure that threatened thousands of green card procedures",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/trump-retrocede-medida-green-card-uscis/",
+        "published_date": "2026-05-31 04:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "What are the popular councils, arising from Fidel's idea?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/que-son-los-consejos-populares-surgidos-por-idea-de-fidel/",
+        "published_date": "2026-05-31 04:00:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami-Dade expects up to a million visitors for the 2026 World Cup",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/miami-dade-espera-millon-visitantes-mundial-2026/",
+        "published_date": "2026-05-31 03:59:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alien.gov: the United States government launches a portal to report migrants to ICE",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/alien-gob-estados-unidos-lanza-portal-reportar-migrantes-ice/",
+        "published_date": "2026-05-31 02:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Water distribution is restored in Manat\u00ed, Las Tunas after more than a month without service",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/restablecen-distribucion-agua-manati-las-tunas/",
+        "published_date": "2026-05-31 02:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suicides in ICE custody have reached double digits since January, according to AP investigation",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/suicidios-inmigrantes-custodia-ice-investigacion-ap/",
+        "published_date": "2026-05-31 01:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Ra\u00fal who dedicated his life to the Revolution was born in Bir\u00e1n",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32805-en-biran-se-gesto-el-raul-que-consagro-su-vida-a-la-revolucion",
+        "published_date": "2026-05-31 01:14:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blue Diamond Resorts ceases operations in Cuba and withdraws its brand from 62 hotels",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/blue-diamond-resorts-cesa-operaciones-cuba-62-hoteles/",
+        "published_date": "2026-05-31 01:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Democratic Senator Rub\u00e9n Gallego says that Marco Rubio \"has an obsession with Cuba\"",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/senador-democrata-ruben-gallego-marco-rubio-obsesion-cuba/",
+        "published_date": "2026-05-31 00:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "China sends new shipment of drugs and medical supplies to Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/china-envia-cargamento-farmacos-suministros-medicos-cuba/",
+        "published_date": "2026-05-30 23:20:00",
+        "category": "Local Events"
     },
     {
         "title": "H\u00e9ctor Maseda, prisoner of the Black Spring and widower of Laura Poll\u00e1n, dies in exile",
@@ -487,111 +599,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/cimex-anuncia-la-llegada-de-nuevas-motos-egok-a-la-habana/",
         "published_date": "2026-05-30 19:12:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Canadian Blue Diamond leaves Cuba and returns the management of its hotels to Gaviota",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/canadiense-blue-diamond-deja-cuba_1_1127231.html",
-        "published_date": "2026-05-30 18:58:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Children will be celebrated Festival of Arts for Peace in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/celebraran-infancias-festival-de-las-artes-por-la-paz-en-cuba/",
-        "published_date": "2026-05-30 18:34:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans with delayed green cards: lawyer explains when it is appropriate to sue USCIS",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cubanos-mandamus-residencia-permanente-green-card-uscis/",
-        "published_date": "2026-05-30 18:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They beat and threaten a minor prisoner with a punishment cell for protesting in Mor\u00f3n",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/golpean-amenazan-celda-castigo-menor_1_1127229.html",
-        "published_date": "2026-05-30 18:04:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camag\u00fcey once again confirmed its support for the Revolution",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260530/camaguey-otra-vez-confirmo-su-apoyo-a-la-revolucion/",
-        "published_date": "2026-05-30 17:19:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hurricanes in Miami: living in a tall building does not always prevent evacuating",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/huracanes-miami-edificios-altos-evacuacion/",
-        "published_date": "2026-05-30 17:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lots of stars for Polo Monta\u00f1ez",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260530/un-monton-de-estrellas-para-polo-montanez/",
-        "published_date": "2026-05-30 16:30:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miami-Dade cancels more than 4,700 parking permits for people with disabilities after audit",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/miami-dade-cancela-4700-permisos-estacionamiento-discapacidad-auditoria/",
-        "published_date": "2026-05-30 16:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "FBI warns travelers to the 2026 World Cup in Miami: do not go without a ticket or fly drones near stadiums",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/fbi-advierte-viajeros-mundial-2026-miami-drones-boleto/",
-        "published_date": "2026-05-30 16:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peru, time for definitions",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260530/peru-la-hora-de-las-definiciones/",
-        "published_date": "2026-05-30 15:52:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubamax warns about scams aimed at customers who send packages and money to Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cubamax-alerta-sobre-estafas-dirigidas-a-clientes-que-envian-paquetes-y-dinero-a-cuba/",
-        "published_date": "2026-05-30 15:11:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "CTC Magazine No. 37: Tribute to Fidel Castro and L\u00e1zaro Pe\u00f1a in new edition of CTC Magazine (+ PDF)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260530/homenaje-a-fidel-castro-y-a-lazaro-pena-en-nueva-edicion-de-la-revista-ctc/",
-        "published_date": "2026-05-30 15:04:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "University of Havana begins distance master's degrees",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/universidad-de-la-habana-comienza-maestrias-a-distancia/",
-        "published_date": "2026-05-30 14:51:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the furrow to the factory the Homeland defends itself",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260530/desde-el-surco-hasta-la-fabrica-la-patria-se-defiende/",
-        "published_date": "2026-05-30 14:39:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Guiteras leaves the electrical system again due to \"lack of raw water\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/guiteras-vuelve-salir-sistema-electrico_1_1127223.html",
-        "published_date": "2026-05-30 14:38:50",
         "category": "Local Events"
     }
 ]
