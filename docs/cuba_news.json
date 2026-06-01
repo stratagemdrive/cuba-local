@@ -1,5 +1,19 @@
 [
     {
+        "title": "Poetic support for Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260601/respaldo-poetico-a-cuba/",
+        "published_date": "2026-06-01 09:56:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Voices, thanks and rights",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260601/voces-agradecimientos-y-derechos/",
+        "published_date": "2026-06-01 09:41:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "32nd Havana Poetry Festival closes",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260531/clausuran-32-festival-de-poesia-de-la-habana/",
@@ -126,18 +140,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba denounced aggressive escalation by the US at the UN",
+        "title": "The artificial crisis and the real possibility of military action against Cuba (+ Video)",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-denuncio-en-onu-escalada-agresiva-de-eeuu/",
-        "published_date": "2026-05-26 23:12:31",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/la-crisis-artificial-y-la-posibilidad-real-de-una-accion-militar-contra-cuba-video/",
+        "published_date": "2026-06-01 13:04:25",
+        "category": "Military"
     },
     {
-        "title": "La Anir faces the blockade on National Buses Las Tunas",
+        "title": "Camag\u00fceyans ratify support for Ra\u00fal Castro",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32811-camagueeyanos-ratifican-su-apoyo-a-raul-castro-ruz",
+        "published_date": "2026-06-01 09:36:48",
+        "category": "Military"
+    },
+    {
+        "title": "Trust and example (Separata #Ra\u00fal es Ra\u00fal #95Birthday)",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260526/la-anir-frente-al-bloqueo-en-omnibus-nacionales-las-tunas/",
-        "published_date": "2026-05-26 18:51:44",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260601/la-confianza-y-el-ejemplo-separata-raul-es-raul-95cumpleanos/",
+        "published_date": "2026-06-01 09:04:21",
+        "category": "Military"
     },
     {
         "title": "Workers Congress in Arms: Always with the workers",
@@ -259,25 +280,11 @@
         "category": "Military"
     },
     {
-        "title": "Leonardo Padura warns about civilian victims in the face of possible US military action in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/leonardo-padura-advierte-victimas-civiles-bombardeo-eeuu-cuba/",
-        "published_date": "2026-05-29 03:50:00",
-        "category": "Military"
-    },
-    {
-        "title": "The Army General congratulates the INRE on its 45th anniversary",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-general-de-ejercito-felicita-al-inre-en-su-aniversario-45/",
-        "published_date": "2026-05-29 00:50:02",
-        "category": "Military"
-    },
-    {
-        "title": "How strong is Cuba's army?They analyze their weapons and defensive range",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/que-tan-fuerte-es-el-ejercito-de-cuba-analizan-su-armamento-y-alcance-defensivo/",
-        "published_date": "2026-05-28 21:00:43",
-        "category": "Military"
+        "title": "The authorities recognize that 100,000 children do not receive milk due to lack of fuel",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/autoridades-reconocen-100-000-ninos_1_1127283.html",
+        "published_date": "2026-06-01 14:48:42",
+        "category": "Energy"
     },
     {
         "title": "Oil falls 20% from 2026 peak on US-Iran ceasefire optimism",
@@ -448,143 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "ETECSA celebrates one year of the \"tarifazo\" with more expensive offers without visible improvements in mobile internet",
+        "title": "Negotiating with Israel does not equal surrender, says Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/negociar-con-israel-no-equivale-a-rendicion-afirma-libano/",
+        "published_date": "2026-06-01 16:38:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "T\u00fcrkiye condemns attack on Al-Aqsa Mosque by Israeli extremists",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/turkiye-condena-asalto-a-mezquita-al-aqsa-por-extremistas-israelies/",
+        "published_date": "2026-06-01 16:32:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula maintains lead in new poll in Brazil",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/lula-mantiene-delantera-en-nuevo-sondeo-en-brasil/",
+        "published_date": "2026-06-01 16:16:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami announces traffic changes starting this June",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/etecsa-un-ano-tarifazo-recauda-millones-usuarios-denuncian-peor-conectividad/",
-        "published_date": "2026-06-01 00:06:00",
+        "url": "https://www.directoriocubano.info/estados-unidos/miami-anuncia-cambios-de-transito-desde-este-mes-de-junio/",
+        "published_date": "2026-06-01 16:01:02",
         "category": "Local Events"
     },
     {
-        "title": "Simple, affable, brave and very human",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260531/sencillo-afable-valiente-y-muy-humano/",
-        "published_date": "2026-05-31 23:56:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "From now on, new USCIS fee in the United States: who must pay it and what happens if they don't?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/desde-shora-nueva-tarifa-de-uscis-en-estados-unidos-quien-debe-pagarla-y-que-pasa-si-no-lo-hace/",
-        "published_date": "2026-05-31 23:35:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meta prepares paid subscriptions for WhatsApp, Instagram and Facebook: these would be the prices of the Plus plans",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/meta-activa-suscripciones-pago-whatsapp-instagram-facebook-plan-plus/",
-        "published_date": "2026-05-31 23:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNESCO alert due to the impact of the energy crisis on education in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/alerta-unesco-riesgos-educativos-cuba-crisis-energetica/",
-        "published_date": "2026-05-31 22:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Starlink debuts in Argentina a portable antenna for cars with internet on the move",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/starlink-antena-portatil-autos-argentina-internet-satelital-movil/",
-        "published_date": "2026-05-31 22:03:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Digital payments in Cuba: less than 10% of private businesses in Sancti Sp\u00edritus accept transfers",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/pagos-digitales-cuba-negocios-privados-sancti-spiritus/",
-        "published_date": "2026-05-31 21:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "FCC Lifeline Program will have more controls for immigrants in the United States",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/programa-lifeline-fcc-controles-inmigrantes-estados-unidos/",
-        "published_date": "2026-05-31 21:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Hero in his Corner",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260531/un-heroe-en-su-rincon/",
-        "published_date": "2026-05-31 20:59:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "CIMEX sells induction frying pan for $19: it costs more than the average monthly salary in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cimex-vende-sarten-de-induccion-por-19-dolares-cuesta-mas-que-el-salario-medio-mensual-en-cuba/",
-        "published_date": "2026-05-31 20:33:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Evaloquios: poets in front of the mirror, unbridled and free",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260531/evaloquios-poetas-frente-al-espejo-desbocadas-y-libres/",
-        "published_date": "2026-05-31 20:28:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "And how that crime hurts!",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260531/y-como-duele-ese-delito/",
-        "published_date": "2026-05-31 20:04:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former US intelligence officials warn Trump that an invasion of Cuba would be a lost war",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/exfuncionarios-inteligencia-eeuu-advierten-trump-invasion-cuba-guerra-perdida/",
-        "published_date": "2026-05-31 20:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Curfew in Newark due to protests in front of ICE detention center",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/toque-queda-newark-visitas-familiares-ice-delaney-hall/",
-        "published_date": "2026-05-31 19:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Artemisa reestablishes public transportation with six routes and official prices through alliance with the private sector",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/artemisa-transporte-publico-seis-rutas-precios-oficiales-sector-privado/",
-        "published_date": "2026-05-31 19:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Ciego de \u00c1vila they warn: the solar parks in Cayo Coco \u201cwill harm the local fauna\u201d",
+        "title": "Davisleydi Velazco, triple jumper expelled from Cuba, beats a record by 50 centimeters in France",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ciego-avila-advierten-parques-solares_1_1127259.html",
-        "published_date": "2026-05-31 18:25:48",
+        "url": "https://www.14ymedio.com/deportes/davisleydi-velazco-triplista-expulsada-cuba_1_1127284.html",
+        "published_date": "2026-06-01 15:45:39",
         "category": "Local Events"
     },
     {
-        "title": "A Cuban family abandoned in North Macedonia uncovered the business of a coyote network",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/familia-cubana-abandonada-macedonia-norte_1_1127263.html",
-        "published_date": "2026-05-31 18:14:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "They ask the Cuban Consulate in Cancun to speak out against a wave of discrimination",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/piden-consulado-cubano-cancun-pronuncie_1_1127261.html",
-        "published_date": "2026-05-31 18:07:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Comedy against the crisis in Cuba: \u201cWe even laugh at the things that are happening to us\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/comedia-crisis-cuba-reimos-cosas_1_1127262.html",
-        "published_date": "2026-05-31 18:05:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Guiteras thermoelectric plant awaits a definitive diagnosis before starting repairs",
+        "title": "Florida approves tax cut package that benefits homeowners",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/la-termoelectrica-guiteras-espera-diagnostico-definitivo-antes-de-iniciar-reparaciones/",
-        "published_date": "2026-05-31 17:59:12",
+        "url": "https://www.directoriocubano.info/acontecer/florida-aprueba-paquete-recortes-impuestos-propietarios-viviendas/",
+        "published_date": "2026-06-01 15:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Changes in the payment of electricity in Cuba: what changes as of June 1?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cambios-en-el-pago-de-la-electricidad-en-cuba-que-cambia-a-partir-de-este-1-de-junio/",
+        "published_date": "2026-06-01 15:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massive Open Tribune in Cienfuegos: the people together with Ra\u00fal and the Revolution (+ Gallery)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/multitudinaria-tribuna-abierta-en-cienfuegos-el-pueblo-junto-a-raul-y-a-la-revolucion/",
+        "published_date": "2026-06-01 14:41:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "WhatsApp will stop working on these old phones from June 2026: check the model list",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/whatsapp-dejara-funcionar-telefonos-antiguos-junio-2026/",
+        "published_date": "2026-06-01 14:32:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia's schools are \"machines for the subjugation\" of children, Amnesty denounces",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/escuelas-rusia-son-maquinas-subyugacion_1_1127279.html",
+        "published_date": "2026-06-01 14:29:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who are the two candidates who will face each other for the Presidency in Colombia on June 21",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/son-candidatos-enfrentaran-presidencia-colombia_1_1127278.html",
+        "published_date": "2026-06-01 14:25:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "USCIS limits green card applications for employment starting this June",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/uscis-restringe-solicitudes-green-card-boletin-visas-junio-2026/",
+        "published_date": "2026-06-01 14:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Monday, June 1, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-1-junio_132_1127271.html",
+        "published_date": "2026-06-01 13:37:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "If Fidel is the horse, Ra\u00fal is the most intrepid and brave rider",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/si-fidel-es-el-caballo-raul-es-el-mas-intrepido-y-valiente-jinete/",
+        "published_date": "2026-06-01 13:32:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "RevoluSEND makes shipments to Cuba 184% more expensive and charges another commission when paying by card",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/revolusend-encarece-envios-a-cuba-en-184-y-cobra-otra-comision-al-pagar-con-tarjeta/",
+        "published_date": "2026-06-01 13:31:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ra\u00fal Castro Ruz, in the CIA's magnicidal crosshairs",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/raul-castro-ruz-en-la-mirilla-magnicida-de-la-cia/",
+        "published_date": "2026-06-01 13:14:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban people ratify support for Ra\u00fal Castro in massive forums",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pueblo-cubano-ratifica-apoyo-a-raul-castro-en-tribunas-masivas/",
+        "published_date": "2026-06-01 13:05:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba denies mobile internet limit of three hours a day",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-desmiente-limite-internet-movil-tres-horas-diarias/",
+        "published_date": "2026-06-01 13:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lizt Alfonso Dance Cuba calls for its 32nd Summer Course",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/lizt-alfonso-dance-cuba-convoca-a-su-32-curso-de-verano/",
+        "published_date": "2026-06-01 13:00:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Weekly summary: May 25-31",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260601/resumen-semanal-del-25-al-31-de-mayo/",
+        "published_date": "2026-06-01 12:40:12",
         "category": "Local Events"
     }
 ]
