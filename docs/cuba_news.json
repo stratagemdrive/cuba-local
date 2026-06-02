@@ -1,5 +1,12 @@
 [
     {
+        "title": "Russia announces projects with Cuba on the eve of the Saint Petersburg Forum",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/rusia-anuncia-proyectos-cuba-visperas_1_1127291.html",
+        "published_date": "2026-06-01 17:49:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Poetic support for Cuba",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260601/respaldo-poetico-a-cuba/",
@@ -130,13 +137,6 @@
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32789-crece-la-solidaridad-hacia-la-isla-no-al-bloqueo-a-cuba",
         "published_date": "2026-05-27 10:47:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Let Cuba live in peace",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260527/dejen-a-cuba-vivir-en-paz/",
-        "published_date": "2026-05-27 08:11:22",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "They bring renewable energy to communities in Holgu\u00edn that are difficult to access",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260601/llevan-energia-renovable-hasta-comunidades-holguineras-de-dificil-acceso/",
+        "published_date": "2026-06-01 18:52:40",
+        "category": "Energy"
+    },
+    {
         "title": "The authorities recognize that 100,000 children do not receive milk due to lack of fuel",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/autoridades-reconocen-100-000-ninos_1_1127283.html",
@@ -371,20 +378,6 @@
         "category": "Energy"
     },
     {
-        "title": "The Cuban regime turns off the homes and lights up the stands",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/regimen-cubano-apaga-hogares-enciende_1_1127056.html",
-        "published_date": "2026-05-24 19:04:37",
-        "category": "Energy"
-    },
-    {
-        "title": "Brazil prepares new aid for Cuba, but rules out sending fuel for fear of US sanctions",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/brasil-prepara-nueva-ayuda-para-cuba-pero-descarta-enviar-combustible-por-temor-a-sanciones-de-estados-unidos/",
-        "published_date": "2026-05-24 17:01:39",
-        "category": "Energy"
-    },
-    {
         "title": "The dollar is explosive: great increase in the informal and official markets",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/explosivo-el-dolar-gran-aumento-en-el-mercado-informal-y-en-el-oficial/",
@@ -441,18 +434,81 @@
         "category": "Economy"
     },
     {
-        "title": "Decree 138: In the right measure?(Economy Separate)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260524/decreto-138-en-la-justa-medida-separata-economia/",
-        "published_date": "2026-05-24 22:19:20",
-        "category": "Economy"
+        "title": "The creator of 'Despingovery Channel' is arrested days after publishing a video of war scrap",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/detienen-creador-despingovery-channel-dias_1_1127300.html",
+        "published_date": "2026-06-01 21:29:33",
+        "category": "Local Events"
     },
     {
-        "title": "Without current and without money: Cubans react to the opening of ATMs",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/sin-corriente-y-sin-dinero-cubanos-reaccionan-a-apertura-de-cajeros-automaticos/",
-        "published_date": "2026-05-24 19:25:31",
-        "category": "Economy"
+        "title": "Four Cubans arrested in Cancun for selling drugs and two others for hitting an elderly woman",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/detienen-cancun-cuatro-cubanos-venta_1_1127306.html",
+        "published_date": "2026-06-01 20:51:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Marianao Police took away a woman in a patrol car who \"was screaming because her son was hungry\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/policia-marianao-llevo-patrulla-mujer_1_1127303.html",
+        "published_date": "2026-06-01 19:52:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"The Cuban tourism sector needs a renaissance with profound changes\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/entrevista/sector-turistico-cubano-necesita-renacimiento_1_1127299.html",
+        "published_date": "2026-06-01 19:36:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mario Freixas presents his most recent collection Join my summer",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260601/mario-freixas-presenta-su-mas-reciente-coleccion-unete-a-mi-verano/",
+        "published_date": "2026-06-01 19:01:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zapatero and the debasement of politics",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/zapatero-envilecimiento-politica_1_1127297.html",
+        "published_date": "2026-06-01 18:57:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \"mega hearings\", Trump's new plan to accelerate the number of deportations",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/mega-audiencias-nuevo-plan-trump_1_1127295.html",
+        "published_date": "2026-06-01 18:44:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "At Acinox Las Tunas they think about the environment",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260601/en-acinox-las-tunas-piensan-en-el-medioambiente/",
+        "published_date": "2026-06-01 18:43:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin faces another geopolitical setback in Armenia",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/putin-juega-reves-geopolitico-armenia_1_1127293.html",
+        "published_date": "2026-06-01 18:23:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Voter registration marks new democratic chapter in Ethiopia",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/registro-de-votantes-marca-nuevo-capitulo-democratico-en-etiopia/",
+        "published_date": "2026-06-01 16:49:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iberostar follows in the footsteps of Blue Diamond and leaves Gaesa hotels",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/iberostar-sigue-pasos-blue-diamond_1_1127286.html",
+        "published_date": "2026-06-01 16:41:28",
+        "category": "Local Events"
     },
     {
         "title": "Negotiating with Israel does not equal surrender, says Lebanon",
@@ -515,83 +571,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/whatsapp-dejara-funcionar-telefonos-antiguos-junio-2026/",
         "published_date": "2026-06-01 14:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia's schools are \"machines for the subjugation\" of children, Amnesty denounces",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/escuelas-rusia-son-maquinas-subyugacion_1_1127279.html",
-        "published_date": "2026-06-01 14:29:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who are the two candidates who will face each other for the Presidency in Colombia on June 21",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/son-candidatos-enfrentaran-presidencia-colombia_1_1127278.html",
-        "published_date": "2026-06-01 14:25:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "USCIS limits green card applications for employment starting this June",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/uscis-restringe-solicitudes-green-card-boletin-visas-junio-2026/",
-        "published_date": "2026-06-01 14:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, June 1, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-1-junio_132_1127271.html",
-        "published_date": "2026-06-01 13:37:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "If Fidel is the horse, Ra\u00fal is the most intrepid and brave rider",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/si-fidel-es-el-caballo-raul-es-el-mas-intrepido-y-valiente-jinete/",
-        "published_date": "2026-06-01 13:32:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "RevoluSEND makes shipments to Cuba 184% more expensive and charges another commission when paying by card",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/revolusend-encarece-envios-a-cuba-en-184-y-cobra-otra-comision-al-pagar-con-tarjeta/",
-        "published_date": "2026-06-01 13:31:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ra\u00fal Castro Ruz, in the CIA's magnicidal crosshairs",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/raul-castro-ruz-en-la-mirilla-magnicida-de-la-cia/",
-        "published_date": "2026-06-01 13:14:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban people ratify support for Ra\u00fal Castro in massive forums",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pueblo-cubano-ratifica-apoyo-a-raul-castro-en-tribunas-masivas/",
-        "published_date": "2026-06-01 13:05:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba denies mobile internet limit of three hours a day",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-desmiente-limite-internet-movil-tres-horas-diarias/",
-        "published_date": "2026-06-01 13:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lizt Alfonso Dance Cuba calls for its 32nd Summer Course",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lizt-alfonso-dance-cuba-convoca-a-su-32-curso-de-verano/",
-        "published_date": "2026-06-01 13:00:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Weekly summary: May 25-31",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260601/resumen-semanal-del-25-al-31-de-mayo/",
-        "published_date": "2026-06-01 12:40:12",
         "category": "Local Events"
     }
 ]
