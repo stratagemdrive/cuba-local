@@ -140,6 +140,41 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Open letter to Ra\u00fal Castro Ruz from Cultural workers",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260603/carta-abierta-a-raul-castro-ruz-de-los-trabajadores-de-la-cultura/",
+        "published_date": "2026-06-03 15:11:34",
+        "category": "Military"
+    },
+    {
+        "title": "Ra\u00fal, peace, unity, his legacy",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260603/raul-la-paz-la-unidad-su-legado/",
+        "published_date": "2026-06-03 14:08:14",
+        "category": "Military"
+    },
+    {
+        "title": "Ra\u00fal's 95",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/los-95-de-raul/",
+        "published_date": "2026-06-03 13:04:49",
+        "category": "Military"
+    },
+    {
+        "title": "Cuba united today around Ra\u00fal's 95th birthday",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32824-unida-cuba-hoy-en-torno-al-cumpleanos-95-de-raul",
+        "published_date": "2026-06-03 09:27:15",
+        "category": "Military"
+    },
+    {
+        "title": "Trust and example",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260603/la-confianza-y-el-ejemplo/",
+        "published_date": "2026-06-03 04:02:21",
+        "category": "Military"
+    },
+    {
         "title": "Ra\u00fal, a man of culture and ideas",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/raul-un-hombre-de-la-cultura-y-las-ideas/",
@@ -242,41 +277,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260530/raul-como-12-anos-atras-en-el-mausoleo-de-artemisa/",
         "published_date": "2026-05-30 11:00:42",
-        "category": "Military"
-    },
-    {
-        "title": "Cuba pronounces on military meeting with the United States Southern Command",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-se-pronuncia-sobre-reunion-militar-con-el-comando-sur-de-estados-unidos/",
-        "published_date": "2026-05-30 01:56:00",
-        "category": "Military"
-    },
-    {
-        "title": "Revolutionary Armed Forces holds meeting with US Southern Command",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fuerzas-armadas-revolucionarias-sostiene-reunion-con-comando-sur-de-ee-uu/",
-        "published_date": "2026-05-30 00:57:13",
-        "category": "Military"
-    },
-    {
-        "title": "Cienfuegos will celebrate the great 95-Ra\u00fal Bike Tour",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/celebrara-cienfuegos-la-gran-bicicletada-95-raul/",
-        "published_date": "2026-05-30 00:25:44",
-        "category": "Military"
-    },
-    {
-        "title": "What are they up to?Meeting of the head of the Southern Command with senior Cuban military personnel in the east of the country",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/que-se-traen-entre-manos-reunion-del-jefe-del-comando-sur-con-altos-militares-cubanos-en-el-oriente-del-pais/",
-        "published_date": "2026-05-29 22:41:43",
-        "category": "Military"
-    },
-    {
-        "title": "The head of the US Southern Command meets with a senior Cuban military commander in Guant\u00e1namo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/jefe-comando-sur-ee-uu_1_1127219.html",
-        "published_date": "2026-05-29 22:38:59",
         "category": "Military"
     },
     {
@@ -385,13 +385,6 @@
         "category": "Energy"
     },
     {
-        "title": "The US increases fuel exports to Cuba for private businesses, but shortages persist",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/ee-uu-aumenta-exportaciones-de-combustible-a-cuba-para-privados-pero-persiste-la-escasez/",
-        "published_date": "2026-05-26 13:15:21",
-        "category": "Energy"
-    },
-    {
         "title": "The dollar is explosive: great increase in the informal and official markets",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/explosivo-el-dolar-gran-aumento-en-el-mercado-informal-y-en-el-oficial/",
@@ -427,150 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "The dollar continues to rise in Cuba: informal currency market and official exchange rates",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/el-dolar-sigue-subiendo-en-cuba-mercado-informal-de-divisas-y-tasas-de-cambio-oficiales/",
-        "published_date": "2026-05-26 10:51:34",
-        "category": "Economy"
+        "title": "Combatants and civilian workers of the Great Tank Unit honor Ra\u00fal",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260603/combatientes-y-trabajadores-civiles-de-gran-unidad-de-tanques-honran-a-raul/",
+        "published_date": "2026-06-03 15:37:08",
+        "category": "Local Events"
     },
     {
-        "title": "Banking, transportation and waste collection star in extraordinary session of the Municipal Assembly of Lajas",
+        "title": "The train that made the route between Santiago de Cuba and Havana derails in Las Tunas, with 900 people on board",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/descarrila-tunas-tren-ruta-santiago_1_1127387.html",
+        "published_date": "2026-06-03 14:53:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia: Voices of repudiation of Trump after supporting far-right extremists",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/bancarizacion-transporte-y-recogida-de-desechos-protagonizan-sesion-extraordinaria-de-la-asamblea-municipal-de-lajas/",
-        "published_date": "2026-06-02 22:36:41",
+        "url": "https://www.5septiembre.cu/colombia-voces-de-repudio-a-trump-tras-apoyo-a-ultraderechista/",
+        "published_date": "2026-06-03 14:52:33",
         "category": "Local Events"
     },
     {
-        "title": "Breakdown causes energy loss in several Cuban substations",
+        "title": "Panama intensifies operation after mass escape of inmates",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/averia-provoca-perdida-energetica-en-varias-subestaciones-cubanas/",
-        "published_date": "2026-06-02 20:53:02",
+        "url": "https://www.5septiembre.cu/panama-intensifica-operativo-tras-fuga-masiva-de-reclusos/",
+        "published_date": "2026-06-03 14:46:53",
         "category": "Local Events"
     },
     {
-        "title": "World Environment Day in Cienfuegos: celebration and commitment",
+        "title": "Business Group: experience of 15 in Artemisa and Mayabeque",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260603/grupo-empresarial-experiencia-de-15-en-artemisa-y-mayabeque/",
+        "published_date": "2026-06-03 13:55:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Istanbul will host the International Zero Waste Forum",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/dia-mundial-del-medio-ambiente-en-cienfuegos-celebracion-y-compromiso/",
-        "published_date": "2026-06-02 20:36:29",
+        "url": "https://www.5septiembre.cu/estambul-acogera-foro-internacional-cero-residuos/",
+        "published_date": "2026-06-03 13:54:25",
         "category": "Local Events"
     },
     {
-        "title": "A cultural center in Havana financed by Europe, looted and abandoned",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/centro-cultural-habana-financiado-europa_1_1127346.html",
-        "published_date": "2026-06-02 18:25:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba, the GAE and the United States: anatomy of a State slander",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/cuba-el-gae-y-estados-unidos-anatomia-de-una-calumnia-de-estado/",
-        "published_date": "2026-06-02 18:13:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ra\u00fal is living history",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/raul-es-historia-viva-2/",
-        "published_date": "2026-06-02 18:05:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic hurricane season starts \u201cdown\u201d",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32820-arranca-a-la-baja-temporada-de-huracanes-en-el-atlantico",
-        "published_date": "2026-06-02 17:35:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Memory is shaped like a dandelion",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32821-la-memoria-tiene-forma-de-diente-de-leon",
-        "published_date": "2026-06-02 17:34:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "L\u00e1zaro Junco Nen\u00ednger, the first Cuban to exceed 400 home runs in the National Series, dies",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/fallece-lazaro-junco-neninger-primer_1_1127341.html",
-        "published_date": "2026-06-02 17:20:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The L\u00e1zaro Junco that I knew",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/el-lazaro-junco-que-conoci/",
-        "published_date": "2026-06-02 16:13:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Freedom between the sheets",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/libertad-sabanas_132_1127338.html",
-        "published_date": "2026-06-02 15:53:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Mayabeque sows for others,\" lament residents in San Jos\u00e9 de las Lajas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/mayabeque-siembra-lamentan-residentes-san_1_1127336.html",
-        "published_date": "2026-06-02 15:34:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "A meeting, the happiest of his life",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/un-encuentro-el-mas-feliz-de-su-vida/",
-        "published_date": "2026-06-02 14:31:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "National day began for Legal Worker's Day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/comenzo-jornada-nacional-por-el-dia-del-trabajador-juridico/",
-        "published_date": "2026-06-02 14:09:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The regime presents Gaesa as the entity that has allowed the Revolution to be saved",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/regimen-presenta-gaesa-entidad-permitido_1_1127332.html",
-        "published_date": "2026-06-02 13:44:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The first was with Ra\u00fal",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/el-primero-fue-con-raul/",
-        "published_date": "2026-06-02 13:43:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The flight of hotel companies in Cuba continues, with the departure of the Asian Aston",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sigue-fuga-hoteleras-cuba-salida_1_1127327.html",
-        "published_date": "2026-06-02 13:25:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Machado defends a \u201cpeaceful, credible and disciplined\u201d transition in Venezuela",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/machado-defiende-transicion-pacifica-creible_1_1127328.html",
-        "published_date": "2026-06-02 13:10:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Weekly summary: May 25-31",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/resumen-semanal-del-25-al-31-de-mayo/",
-        "published_date": "2026-06-02 12:40:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia calls France's detention of tanker Tagor unfounded",
+        "title": "Mainland China rejects Taiwan's ties with the US and Japan",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/rusia-tacha-de-infundada-detencion-por-francia-de-petrolero-tagor/",
-        "published_date": "2026-06-02 12:27:02",
+        "url": "https://www.5septiembre.cu/china-continental-rechaza-vinculos-de-taiwan-con-eeuu-y-japon/",
+        "published_date": "2026-06-03 13:47:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ra\u00fal Castro's most bitter birthday",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/cumpleanos-amargo-raul-castro_1_1127385.html",
+        "published_date": "2026-06-03 13:45:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Soul brothers",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/hermanos-del-alma/",
+        "published_date": "2026-06-03 13:34:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ra\u00fal Castro, reference in the history of Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/raul-castro-referencia-en-la-historia-de-cuba/",
+        "published_date": "2026-06-03 12:59:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ra\u00fal Castro Ruz on his 95th birthday",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/raul-castro-ruz-en-su-95-cumpleanos/",
+        "published_date": "2026-06-03 12:53:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exhibition 'Docile Metals and Memory'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/exposicion-docile-metals-and-memory_1_1127380.html",
+        "published_date": "2026-06-03 12:16:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "254 gang members are sentenced to 85 years in prison in a massive trial in El Salvador",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/condenan-254-pandilleros-penas-85_1_1127377.html",
+        "published_date": "2026-06-03 12:14:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro asks Colombia to \"vote in complete freedom\" after Trump's support for De la Espriella",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/petro-pide-colombia-votar-plena_1_1127379.html",
+        "published_date": "2026-06-03 12:03:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Simple, affable, brave and very human",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260603/sencillo-afable-valiente-y-muy-humano/",
+        "published_date": "2026-06-03 12:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "The feared El Helicoide prison has not been closed, a Venezuelan NGO denounces",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/temida-carcel-helicoide-no-sido_1_1127369.html",
+        "published_date": "2026-06-03 11:51:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Online School Support for English in Baccalaureate: How to Prepare for Official Exams from Home",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/consejos/apoyo-escolar-linea-ingles-bachillerato_132_1127371.html",
+        "published_date": "2026-06-03 11:47:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The touch-ups to buildings in Sancti Sp\u00edritus are just \u201ca band-aid in the midst of a number of wounds\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/retoques-edificios-sancti-spiritus-son_1_1127344.html",
+        "published_date": "2026-06-03 11:35:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \"epicenter\" of AI: why Taiwan is indispensable for big technology",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cienciaytecnologia/epicentro-ia-taiwan-indispensable-grandes_1_1127370.html",
+        "published_date": "2026-06-03 11:30:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Revitalizes work strategies of the Culture Union",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260603/revitaliza-estrategias-de-trabajo-sindicato-de-la-cultura/",
+        "published_date": "2026-06-03 11:00:24",
         "category": "Local Events"
     }
 ]
