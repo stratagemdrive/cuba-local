@@ -1,5 +1,12 @@
 [
     {
+        "title": "Raquel, a feisty clandestine fighter",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/a-fondo/25-entrevistas/32822-raquel-una-luchadora-clandestina-batalladora",
+        "published_date": "2026-06-02 17:44:04",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Army General Ra\u00fal Castro Ruz in the foreign policy and diplomacy of the Revolution",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/el-general-de-ejercito-raul-castro-ruz-en-la-politica-exterior-y-la-diplomacia-de-la-revolucion/",
@@ -130,13 +137,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/canciller-cubano-acusa-ee-uu_1_1127123.html",
         "published_date": "2026-05-27 12:24:46",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The US ambassador to Spain bought a Hermanos al Rescate plane to turn it into a museum in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/embajador-ee-uu-espana-compro_1_1127121.html",
-        "published_date": "2026-05-27 12:00:03",
         "category": "Diplomacy"
     },
     {
@@ -280,6 +280,27 @@
         "category": "Military"
     },
     {
+        "title": "Cacerolazo in Guanabacoa in broad daylight and with the Police present",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cacerolazo-guanabacoa-plena-luz-dia_1_1127358.html",
+        "published_date": "2026-06-02 20:09:32",
+        "category": "Energy"
+    },
+    {
+        "title": "Rubio affirms that Cuba will continue to be a \u201cfailed state\u201d without a change in leadership",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/rubio-afirma-cuba-seguira-fallido_1_1127356.html",
+        "published_date": "2026-06-02 19:21:14",
+        "category": "Energy"
+    },
+    {
+        "title": "They bring renewable energy to communities in Holgu\u00edn that are difficult to access",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260602/llevan-energia-renovable-hasta-comunidades-holguineras-de-dificil-acceso/",
+        "published_date": "2026-06-02 14:02:40",
+        "category": "Energy"
+    },
+    {
         "title": "They bring renewable energy to communities in Holgu\u00edn that are difficult to access",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260601/llevan-energia-renovable-hasta-comunidades-holguineras-de-dificil-acceso/",
@@ -371,13 +392,6 @@
         "category": "Energy"
     },
     {
-        "title": "The National Baseball Commission suspends the Under 12, 15 and 18 championships due to lack of fuel",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/comision-nacional-beisbol-suspende-campeonatos_1_1127084.html",
-        "published_date": "2026-05-25 20:33:25",
-        "category": "Energy"
-    },
-    {
         "title": "The dollar is explosive: great increase in the informal and official markets",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/explosivo-el-dolar-gran-aumento-en-el-mercado-informal-y-en-el-oficial/",
@@ -420,11 +434,88 @@
         "category": "Economy"
     },
     {
-        "title": "Kallas calls on Cuba to \"end political repression\" and \"intransigent control of the economy\"",
+        "title": "Banking, transportation and waste collection star in extraordinary session of the Municipal Assembly of Lajas",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bancarizacion-transporte-y-recogida-de-desechos-protagonizan-sesion-extraordinaria-de-la-asamblea-municipal-de-lajas/",
+        "published_date": "2026-06-02 22:36:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakdown causes energy loss in several Cuban substations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/averia-provoca-perdida-energetica-en-varias-subestaciones-cubanas/",
+        "published_date": "2026-06-02 20:53:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Environment Day in Cienfuegos: celebration and commitment",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/dia-mundial-del-medio-ambiente-en-cienfuegos-celebracion-y-compromiso/",
+        "published_date": "2026-06-02 20:36:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "A cultural center in Havana financed by Europe, looted and abandoned",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/kallas-llama-cuba-poner-represion_1_1127071.html",
-        "published_date": "2026-05-25 15:24:29",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cuba/centro-cultural-habana-financiado-europa_1_1127346.html",
+        "published_date": "2026-06-02 18:25:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba, the GAE and the United States: anatomy of a State slander",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260602/cuba-el-gae-y-estados-unidos-anatomia-de-una-calumnia-de-estado/",
+        "published_date": "2026-06-02 18:13:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ra\u00fal is living history",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260602/raul-es-historia-viva-2/",
+        "published_date": "2026-06-02 18:05:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic hurricane season starts \u201cdown\u201d",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32820-arranca-a-la-baja-temporada-de-huracanes-en-el-atlantico",
+        "published_date": "2026-06-02 17:35:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Memory is shaped like a dandelion",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32821-la-memoria-tiene-forma-de-diente-de-leon",
+        "published_date": "2026-06-02 17:34:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "L\u00e1zaro Junco Nen\u00ednger, the first Cuban to exceed 400 home runs in the National Series, dies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/fallece-lazaro-junco-neninger-primer_1_1127341.html",
+        "published_date": "2026-06-02 17:20:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The L\u00e1zaro Junco that I knew",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260602/el-lazaro-junco-que-conoci/",
+        "published_date": "2026-06-02 16:13:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Freedom between the sheets",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/libertad-sabanas_132_1127338.html",
+        "published_date": "2026-06-02 15:53:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Mayabeque sows for others,\" lament residents in San Jos\u00e9 de las Lajas",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/mayabeque-siembra-lamentan-residentes-san_1_1127336.html",
+        "published_date": "2026-06-02 15:34:37",
+        "category": "Local Events"
     },
     {
         "title": "A meeting, the happiest of his life",
@@ -469,101 +560,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Weekly summary: May 25-31",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260602/resumen-semanal-del-25-al-31-de-mayo/",
+        "published_date": "2026-06-02 12:40:12",
+        "category": "Local Events"
+    },
+    {
         "title": "Russia calls France's detention of tanker Tagor unfounded",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/rusia-tacha-de-infundada-detencion-por-francia-de-petrolero-tagor/",
         "published_date": "2026-06-02 12:27:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lebanon confirms Hezbollah's support for ceasefire proposal",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/libano-confirma-respaldo-de-hezbola-a-propuesta-de-alto-el-fuego/",
-        "published_date": "2026-06-02 12:22:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "T\u00fcrkiye and Iran examine the status of negotiations with Washington",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/turkiye-e-iran-examinan-estado-de-negociaciones-con-washington/",
-        "published_date": "2026-06-02 12:15:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presidential elections in Colombia: runoff and complaints of inconsistencies in the process",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidenciales-en-colombia-balotaje-y-denuncias-de-inconsistencias-en-el-proceso/",
-        "published_date": "2026-06-02 12:09:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba, the GAE and the United States: anatomy of a State slander",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-el-gae-y-estados-unidos-anatomia-de-una-calumnia-de-estado/",
-        "published_date": "2026-06-02 11:41:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans in Nicaragua sign for the homeland and support the Revolution",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cubanos-en-nicaragua-firman-por-la-patria-y-respaldan-a-la-revolucion/",
-        "published_date": "2026-06-02 11:39:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban pride in the International Mathematics Olympiad in Uzbekistan",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/orgullo-cubano-rumbo-a-uzbekistan/",
-        "published_date": "2026-06-02 11:37:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Enough already!",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/basta-ya/",
-        "published_date": "2026-06-02 11:26:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, June 2, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-2-junio_132_1127324.html",
-        "published_date": "2026-06-02 11:09:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, June 2, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-2-junio_7_1127326.html",
-        "published_date": "2026-06-02 11:08:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indigenous leader Brooklyn Rivera, the seventh opponent to die in custody in Nicaragua",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/lider-indigena-brooklyn-rivera-septimo_1_1127322.html",
-        "published_date": "2026-06-02 11:00:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Costa Rica announces regularization for thousands of Cuban asylum seekers",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/costa-rica-anuncia-regularizacion-miles_1_1127320.html",
-        "published_date": "2026-06-02 10:51:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least thirteen dead and one hundred injured in Russia's largest attack on Ukraine in months",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trece-muertos-cien-heridos-mayor_1_1127318.html",
-        "published_date": "2026-06-02 10:42:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chess was used to live a romance in Cuba and to endure captivity in a gulag",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/ajedrez-valio-vivir-romance-cuba_1_1127317.html",
-        "published_date": "2026-06-02 10:27:11",
         "category": "Local Events"
     }
 ]
