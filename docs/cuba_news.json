@@ -119,6 +119,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They confirm the 28-year sentence against \u00c1lvaro Uribe's brother for creating a paramilitary group",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/confirman-condena-28-anos-hermano_1_1127440.html",
+        "published_date": "2026-06-05 09:58:41",
+        "category": "Military"
+    },
+    {
         "title": "Selected works of Army General Ra\u00fal Castro: A compass for Cubans of today and the future",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/obras-escogidas-del-general-de-ejercito-raul-castro-una-brujula-para-los-cubanos-de-hoy-y-del-futuro/",
@@ -252,13 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Revolutionary through and through",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260531/revolucionario-a-toda-prueba/",
-        "published_date": "2026-05-31 23:51:01",
-        "category": "Military"
-    },
-    {
         "title": "News from the Camag\u00fcey Sports Panorama",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/deportes/32829-novedades-del-panorama-deportivo-camagueyano",
@@ -343,25 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "The ruling party describes the impact of US sanctions as \"devastating\" and places its hopes in China",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/oficialismo-califica-demoledor-impacto-sanciones_1_1127165.html",
-        "published_date": "2026-05-28 13:01:57",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201c100% Cuban\u201d products are sold in dollars in a new state store",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/productos-100-cubanos-venden-dolares_1_1127149.html",
-        "published_date": "2026-05-28 10:47:15",
-        "category": "Energy"
-    },
-    {
-        "title": "Zero oil: Ship with 240 thousand barrels of oil that was on its way to Cuba changes course",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cero-petroleo-barco-con-240-mil-barriles-de-petroleo-que-iba-camino-a-cuba-cambia-rumbo/",
-        "published_date": "2026-05-28 06:43:02",
-        "category": "Energy"
+        "title": "World Environment Day: protect the nature we have (+Gallery)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/dia-mundial-del-medio-ambiente-proteger-la-naturaleza-que-tenemos-galeria/",
+        "published_date": "2026-06-05 07:00:32",
+        "category": "Economy"
     },
     {
         "title": "The decision of the Central Bank is brought forward to this Thursday: you can no longer pay with Visa and Mastercard in Cuba",
@@ -420,11 +406,67 @@
         "category": "Economy"
     },
     {
-        "title": "Taoro products from Holgu\u00edn are now sold online and in TRD Caribe stores in foreign currency",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/productos-taoro-holguin-venden-internet-tiendas-trd-caribe-divisas/",
-        "published_date": "2026-05-28 13:05:00",
-        "category": "Economy"
+        "title": "Print edition of June 5, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-5-junio-2026_132_1127456.html",
+        "published_date": "2026-06-05 13:46:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, June 5, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-5-junio_132_1127442.html",
+        "published_date": "2026-06-05 11:08:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, June 5, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-5-junio_7_1127454.html",
+        "published_date": "2026-06-05 11:02:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cLook, we complained about the CUC, but now we miss it\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/mira-quejamos-cuc-ahora-extranamos_1_1127448.html",
+        "published_date": "2026-06-05 10:58:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peru decides between Keiko Fujimori and the political heir of Pedro Castillo",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/peru-decide-keiko-fujimori-heredero_1_1127447.html",
+        "published_date": "2026-06-05 10:43:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban regime promises to \"resist the imperial onslaught\" after the new sanctions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-primete-resistir-arremetida_1_1127444.html",
+        "published_date": "2026-06-05 10:20:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "No signs of a solution in the war between Russia and Ukraine, the bloodiest since World War II",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/visos-solucion-guerra-rusia-ucrania_1_1127441.html",
+        "published_date": "2026-06-05 10:14:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba reschedules the 2026 Havana International Book Fair for August",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura-y-ciencia/cuba-reprograma-feria-internacional-libro_1_1127437.html",
+        "published_date": "2026-06-05 07:49:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inspired by nature, indebted to it",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/inspirados-por-la-naturaleza-en-deuda-con-ella/",
+        "published_date": "2026-06-05 04:00:02",
+        "category": "Local Events"
     },
     {
         "title": "The US hits the family environment of D\u00edaz-Canel and Ra\u00fal Castro with new sanctions",
@@ -501,69 +543,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260604/un-verano-con-el-campismo-popular/",
         "published_date": "2026-06-04 14:55:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Total impact today on the service of the Havana Manufactured Gas network",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260604/afectacion-total-hoy-del-servicio-de-la-red-habana-de-gas-manufacturado/",
-        "published_date": "2026-06-04 14:53:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba describes US executive orders as genocide",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-califica-ordenes-ejecutivas-estadounidenses-como-genocidio/",
-        "published_date": "2026-06-04 14:38:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tourists and wealthy Cubans gather at the Meli\u00e1 Cohiba, one of the few hotels still open",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/turistas-cubanos-adinerados-concentran-melia_1_1127419.html",
-        "published_date": "2026-06-04 14:28:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia and China: Two brotherly countries that have demonstrated their support for Cuba",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-06-04/russia-and-china-two-brotherly-countries-that-have-demonstrated-their-support-for-cuba",
-        "published_date": "2026-06-04 11:06:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Thursday, June 4, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-4-junio_132_1127416.html",
-        "published_date": "2026-06-04 11:01:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holgu\u00edn celebrated Ra\u00fal's 95th birthday",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260604/holguin-celebro-los-95-anos-de-raul/",
-        "published_date": "2026-06-04 11:00:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Thursday, June 4, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-4-junio_7_1127418.html",
-        "published_date": "2026-06-04 10:57:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wake up with cramps",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260604/despertar-con-calambres/",
-        "published_date": "2026-06-04 10:49:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tiananmen Mothers demand China be accountable 37 years after massacre",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/madres-tiananmen-exigen-china-rendir_1_1127414.html",
-        "published_date": "2026-06-04 10:41:27",
         "category": "Local Events"
     }
 ]
