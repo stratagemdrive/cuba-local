@@ -1,5 +1,26 @@
 [
     {
+        "title": "Cuba reiterates global rejection of threats of military aggression",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-reitera-rechazo-mundial-ante-amenazas-de-agresion-militar/",
+        "published_date": "2026-06-04 20:27:07",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "In front of the British Parliament, solidarity responds to North American aggression",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/frente-al-parlamento-britanico-la-solidaridad-responde-a-la-agresion-norteamericana/",
+        "published_date": "2026-06-04 15:33:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Foreign Minister Bruno Rodr\u00edguez: Inclusion of Cuba on the list of State sponsors of terrorism lacks arguments",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/canciller-bruno-rodriguez-inclusion-de-cuba-en-lista-de-estados-patrocinadores-del-terrorismo-carece-de-argumentos/",
+        "published_date": "2026-06-04 14:35:06",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Raquel, a feisty clandestine fighter",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/a-fondo/25-entrevistas/32822-raquel-una-luchadora-clandestina-batalladora",
@@ -98,25 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "President of the National Assembly exercises parliamentary diplomacy initiative for the peace and sovereignty of the Cuban people",
+        "title": "Selected works of Army General Ra\u00fal Castro: A compass for Cubans of today and the future",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-de-asamblea-nacional-ejerce-iniciativa-de-diplomacia-parlamentaria-por-la-paz-y-soberania-del-pueblo-cubano/",
-        "published_date": "2026-05-27 23:21:51",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "What is sacred to the country cannot be sullied",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260527/lo-que-es-sagrado-para-la-patria-no-puede-ser-mancillado/",
-        "published_date": "2026-05-27 17:26:24",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuban Foreign Minister meets with UN Secretary General",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-cubano-se-reune-con-secretario-general-de-la-onu/",
-        "published_date": "2026-05-27 15:36:37",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/obras-escogidas-del-general-de-ejercito-raul-castro-una-brujula-para-los-cubanos-de-hoy-y-del-futuro/",
+        "published_date": "2026-06-04 15:08:54",
+        "category": "Military"
     },
     {
         "title": "Ra\u00fal in the heart of the town",
@@ -252,11 +259,18 @@
         "category": "Military"
     },
     {
-        "title": "The union within the Revolution",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260531/el-sindicato-dentro-de-la-revolucion/",
-        "published_date": "2026-05-31 21:46:53",
-        "category": "Military"
+        "title": "News from the Camag\u00fcey Sports Panorama",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/deportes/32829-novedades-del-panorama-deportivo-camagueyano",
+        "published_date": "2026-06-04 17:00:35",
+        "category": "Energy"
+    },
+    {
+        "title": "Uni\u00f3n El\u00e9ctrica predicts 1,975 MW of impact for today's peak demand hours",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/union-electrica-pronostica-1-975-mw-de-afectacion-para-horario-de-maxima-demanda-de-hoy/",
+        "published_date": "2026-06-04 14:31:15",
+        "category": "Energy"
     },
     {
         "title": "Cacerolazo in Guanabacoa in broad daylight and with the Police present",
@@ -350,6 +364,13 @@
         "category": "Energy"
     },
     {
+        "title": "The decision of the Central Bank is brought forward to this Thursday: you can no longer pay with Visa and Mastercard in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/adelantan-jueves-decision-banco-central_1_1127420.html",
+        "published_date": "2026-06-04 14:08:59",
+        "category": "Economy"
+    },
+    {
         "title": "Foreign bank suspends operations with Visa and Mastercard in Cuba",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32828-suspende-banco-extranjero-operaciones-con-visa-y-mastercard-en-cuba",
@@ -406,18 +427,109 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cThey are the same balitas, but in dollars\u201d: a new gas sales business emerges",
+        "title": "The US hits the family environment of D\u00edaz-Canel and Ra\u00fal Castro with new sanctions",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/son-balitas-dolares-surge-nuevo_1_1127143.html",
-        "published_date": "2026-05-27 21:07:03",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cuba/ee-uu-golpea-entorno-familiar_1_1127435.html",
+        "published_date": "2026-06-04 21:55:45",
+        "category": "Local Events"
     },
     {
-        "title": "Holgu\u00edn advances in its circular economy strategy",
+        "title": "Thousands of doses of drugs are found along with a stash of drugs at the headquarters of the Cuban-Galician Association Hayd\u00e9e Santamar\u00eda",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/hallan-miles-dosis-farmacos-alijo_1_1127432.html",
+        "published_date": "2026-06-04 21:06:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin admits that he spoke with the United States about Cuba due to the specter of an operation like the one in Venezuela",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/putin-admite-hablo-ee-uu_1_1127431.html",
+        "published_date": "2026-06-04 21:05:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Street gas\", sold as relief from blackouts, will be stopped in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gas-calle-vendido-alivio-apagones_1_1127429.html",
+        "published_date": "2026-06-04 19:48:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "How much time is left?",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/tiempo-falta-cambio-cuba_1_1127428.html",
+        "published_date": "2026-06-04 19:46:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's war powers against Iran stopped in Congress",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/frenan-en-congreso-de-eeuu-poderes-de-guerra-de-trump-contra-iran/",
+        "published_date": "2026-06-04 17:26:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "More music for Cienfuegos: Ariadna Cu\u00e9llar and her concerted serenade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mas-musica-para-cienfuegos-ariadna-cuellar-y-su-serenata-concertada/",
+        "published_date": "2026-06-04 17:24:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia and Cuba will jointly develop a cancer vaccine",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/rusia-y-cuba-desarrollaran-juntas-una-vacuna-contra-el-cancer/",
+        "published_date": "2026-06-04 16:42:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sancti Sp\u00edritus celebrates 512 years of history and roots",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260527/avanza-holguin-en-su-estrategia-de-economia-circular/",
-        "published_date": "2026-05-27 17:40:15",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260604/sancti-spiritus-celebra-512-anos-de-historia-y-arraigo/",
+        "published_date": "2026-06-04 15:17:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia and Cuba announce cancer vaccines while Havana lacks basic medicines",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/rusia-cuba-anuncian-vacunas-cancer_1_1127426.html",
+        "published_date": "2026-06-04 15:06:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "A summer with popular camping",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260604/un-verano-con-el-campismo-popular/",
+        "published_date": "2026-06-04 14:55:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Total impact today on the service of the Havana Manufactured Gas network",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260604/afectacion-total-hoy-del-servicio-de-la-red-habana-de-gas-manufacturado/",
+        "published_date": "2026-06-04 14:53:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba describes US executive orders as genocide",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-califica-ordenes-ejecutivas-estadounidenses-como-genocidio/",
+        "published_date": "2026-06-04 14:38:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tourists and wealthy Cubans gather at the Meli\u00e1 Cohiba, one of the few hotels still open",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/turistas-cubanos-adinerados-concentran-melia_1_1127419.html",
+        "published_date": "2026-06-04 14:28:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia and China: Two brotherly countries that have demonstrated their support for Cuba",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-06-04/russia-and-china-two-brotherly-countries-that-have-demonstrated-their-support-for-cuba",
+        "published_date": "2026-06-04 11:06:03",
+        "category": "Local Events"
     },
     {
         "title": "Informative coffee for Thursday, June 4, 2026",
@@ -452,111 +564,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/madres-tiananmen-exigen-china-rendir_1_1127414.html",
         "published_date": "2026-06-04 10:41:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Norwegian Prime Minister analyzes with Machado the political process that Venezuela is experiencing",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/primer-ministro-noruego-analiza-machado_1_1127412.html",
-        "published_date": "2026-06-04 10:26:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The tunnels of the \u201cwar of all the people\u201d, demolished and abandoned",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tuneles-guerra-pueblo-derruidos-abandonados_1_1127407.html",
-        "published_date": "2026-06-04 10:03:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marjane Satrapi, author of 'Persepolis' and symbol of the struggle of Iranian women, dies",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/muere-marjane-satrapi-autora-persepolis_1_1127405.html",
-        "published_date": "2026-06-04 09:49:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Employment opportunity at the French Alliance",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260604/oportunidad-de-empleo-en-la-alianza-francesa/",
-        "published_date": "2026-06-04 09:30:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rubio proposes the Czech or Polish model for a transition in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-tecnocratas-negociar-transicion-dice_1_1127404.html",
-        "published_date": "2026-06-04 09:02:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brushstrokes of Montevideo: the \u201cCentenario\u201d, soccer and the Uruguayan passion",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pinceladas-de-montevideo-el-centenario-el-futbol-y-la-pasion-charrua/",
-        "published_date": "2026-06-04 04:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Havana, even the water has to go out \u201cto fight it\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/habana-agua-hay-salir-lucharla_1_1127399.html",
-        "published_date": "2026-06-03 21:05:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "An exiled journalist denounces a \"rigged trial\" in Cuba to send his daughter to prison",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/periodista-exiliado-denuncia-juicio-amanado_1_1127397.html",
-        "published_date": "2026-06-03 20:29:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "They find the body of a young man missing at sea in Santiago de Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/hallan-cuerpo-joven-desaparecido-mar_1_1127395.html",
-        "published_date": "2026-06-03 19:23:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scientific Exhibition Fair will promote climate action in Cienfuegos (+Gallery)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/feria-cientifica-expositiva-promovera-la-accion-climatica-en-cienfuegos-galeria/",
-        "published_date": "2026-06-03 16:53:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ra\u00fal Castro, the executor that 'Time' saw born alongside the Revolution",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/raul-castro-ejecutor-time-vio_1_1127391.html",
-        "published_date": "2026-06-03 16:43:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Combatants and civilian workers of the Great Tank Unit honor Ra\u00fal",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/combatientes-y-trabajadores-civiles-de-gran-unidad-de-tanques-honran-a-raul/",
-        "published_date": "2026-06-03 15:37:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Simple, affable, brave and very human",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/sencillo-afable-valiente-y-muy-humano/",
-        "published_date": "2026-06-03 15:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The train that made the route between Santiago de Cuba and Havana derails in Las Tunas, with 900 people on board",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/descarrila-tunas-tren-ruta-santiago_1_1127387.html",
-        "published_date": "2026-06-03 14:53:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia: Voices of repudiation of Trump after supporting far-right extremists",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/colombia-voces-de-repudio-a-trump-tras-apoyo-a-ultraderechista/",
-        "published_date": "2026-06-03 14:52:33",
         "category": "Local Events"
     }
 ]
