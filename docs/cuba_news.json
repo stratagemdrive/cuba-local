@@ -119,6 +119,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "A Congress for the Defense of the Homeland and other rights",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260607/un-congreso-por-la-defensa-de-la-patria-y-otros-derechos/",
+        "published_date": "2026-06-07 22:11:53",
+        "category": "Military"
+    },
+    {
+        "title": "Ra\u00fal and D\u00edaz-Canel preside over promotions and decorations for Minint officers",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/raul-y-diaz-canel-presiden-actos-de-ascensos-y-condecoraciones-a-oficiales-del-minint/",
+        "published_date": "2026-06-07 15:29:28",
+        "category": "Military"
+    },
+    {
         "title": "Celebration in Cienfuegos for Legal Worker's Day",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/celebracion-en-cienfuegos-por-el-dia-del-trabajador-juridico/",
@@ -245,18 +259,18 @@
         "category": "Military"
     },
     {
-        "title": "Trust and example",
+        "title": "They recognize \u201cwatchdogs\u201d of the environment",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/la-confianza-y-el-ejemplo/",
-        "published_date": "2026-06-03 04:02:21",
-        "category": "Military"
+        "url": "https://www.trabajadores.cu/20260607/reconocen-a-veladores-del-medio-ambiente/",
+        "published_date": "2026-06-07 21:21:02",
+        "category": "Energy"
     },
     {
-        "title": "Ra\u00fal, a man of culture and ideas",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/raul-un-hombre-de-la-cultura-y-las-ideas/",
-        "published_date": "2026-06-02 11:50:04",
-        "category": "Military"
+        "title": "With 11 thermoelectric units out of service, Cuba will register a deficit of 66% today",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/11-termoelectricas-desconectadas-une-preve_1_1127541.html",
+        "published_date": "2026-06-07 19:39:31",
+        "category": "Energy"
     },
     {
         "title": "Despite the \u201cturbulent conditions,\u201d Russian companies say they are \u201cwilling to invest\u201d in Cuba",
@@ -326,27 +340,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/petroleo-cae-20-por-ciento-maximo-2026-alto-fuego-estados-unidos-iran/",
         "published_date": "2026-05-31 18:36:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Natural gas: Cuba uses national fuel as a strategic source against blackouts",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/gas-natural-cuba-fuente-estrategica-apagones/",
-        "published_date": "2026-05-31 00:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201cProvide energy, creativity and optimism from the young militancy\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aportar-energia-creatividad-y-optimismo-desde-la-joven-militancia/",
-        "published_date": "2026-05-30 23:08:22",
-        "category": "Energy"
-    },
-    {
-        "title": "That communications depend on sunlight",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260530/que-las-comunicaciones-dependan-de-la-luz-solar/",
-        "published_date": "2026-05-30 17:00:47",
         "category": "Energy"
     },
     {
@@ -420,143 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Chronicles from Spain: Granada, the firm that changed the world",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cronicas-desde-espana-granada-la-firma-que-cambio-el-mundo/",
-        "published_date": "2026-06-07 04:00:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attacked by her husband, Lisney C\u00e1rdenas agonized for eight hours in Camag\u00fcey",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/agredida-esposo-lisney-cardenas-agonizo_1_1127516.html",
-        "published_date": "2026-06-06 19:06:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia sends a humanitarian shipment of 100 tons to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/colombia-envia-cuba-cargamento-humanitario_1_1127514.html",
-        "published_date": "2026-06-06 18:36:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba was not a Spanish wasteland nor was it a North American miracle",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/cuba-no-erial-espanol-milagro_1_1127505.html",
-        "published_date": "2026-06-06 18:26:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Cuba is a patient with multiple organ failure\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-enfermo-fallo-multiorganico_1_1127494.html",
-        "published_date": "2026-06-06 17:43:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The main Canadian airlines leave Cuba indefinitely",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/principales-aerolineas-canadienses-abandonan-cuba_1_1127501.html",
-        "published_date": "2026-06-06 17:12:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Holy': Absolute premiere of the Rosario C\u00e1rdenas Company",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/ojala-estreno-absoluto-compania-rosario_1_1127502.html",
-        "published_date": "2026-06-06 17:10:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pinero artists committed to the Homeland",
+        "title": "\u201cWhat hurts me the most is the injustice\u201d",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260606/artistas-pineros-comprometidos-con-la-patria/",
-        "published_date": "2026-06-06 17:00:37",
+        "url": "https://www.trabajadores.cu/20260607/lo-que-mas-me-duele-es-la-injusticia/",
+        "published_date": "2026-06-08 00:19:06",
         "category": "Local Events"
     },
     {
-        "title": "Fire on Calle Ocho: Artivism for Freedom",
+        "title": "Delegates in the batter's box",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260607/delegados-en-el-cajon-de-bateo/",
+        "published_date": "2026-06-07 23:16:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leslie Amat: Life in three tests",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260607/leslie-amat-la-vida-en-tres-pruebas/",
+        "published_date": "2026-06-07 22:27:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Buena Vista of food sovereignty in Palmares, Sancti Spiritus",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260607/buena-vista-de-soberania-alimentaria-en-la-espirituana-palmares/",
+        "published_date": "2026-06-07 21:30:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "A decisive congress",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260607/un-congreso-resolutivo/",
+        "published_date": "2026-06-07 21:13:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Congress against the union bureaucracy",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260607/un-congreso-contra-la-burocracia-sindical/",
+        "published_date": "2026-06-07 21:10:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "From the 22nd Congress to union leadership",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260607/del-22-congreso-al-protagonismo-sindical/",
+        "published_date": "2026-06-07 21:06:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Union support in sanitation",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260607/apoyo-sindical-en-higienizacion/",
+        "published_date": "2026-06-07 21:00:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban jumper Juan Miguel Echevarr\u00eda returns after a knee injury and wins gold in Spain",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/fuego-calle-ocho-artivismo-libertad_1_1127497.html",
-        "published_date": "2026-06-06 16:56:35",
+        "url": "https://www.14ymedio.com/deportes/saltador-cubano-juan-miguel-echevarria_1_1127539.html",
+        "published_date": "2026-06-07 18:10:31",
         "category": "Local Events"
     },
     {
-        "title": "Audit Services Company S.A.offers specialist position",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260606/empresa-de-servicios-de-auditoria-s-a-ofrece-plaza-de-especialista/",
-        "published_date": "2026-06-06 15:33:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran denies deal to transfer enriched uranium",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-desmiente-acuerdo-para-transferir-uranio-enriquecido/",
-        "published_date": "2026-06-06 15:26:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leo XIV: culture of encounter and not confrontation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/leon-xiv-cultura-del-encuentro-y-no-del-enfrentamiento/",
-        "published_date": "2026-06-06 15:16:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "General elections, a historic week in Ethiopia",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/elecciones-generales-una-semana-historica-en-etiopia/",
-        "published_date": "2026-06-06 15:08:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Writing from the diaspora transforms Latin American authors into other characters",
+        "title": "Times of dreaming and fulfilling",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura-y-ciencia/escribir-diaspora-transforma-autores-latinoamericanos_1_1127492.html",
-        "published_date": "2026-06-06 14:59:14",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/tiempos-sonar-cumplir_132_1127537.html",
+        "published_date": "2026-06-07 17:23:15",
         "category": "Local Events"
     },
     {
-        "title": "Cuban president affirms that Ra\u00fal Castro is \u201cirreplaceable\u201d",
+        "title": "The two Koreas and the Cuban case",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/coreas-caso-cubano_1_1127535.html",
+        "published_date": "2026-06-07 16:40:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran collects millions of dollars for ships transiting Hormuz",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-cubano-afirma-que-raul-castro-es-insustituible/",
-        "published_date": "2026-06-06 14:58:49",
+        "url": "https://www.5septiembre.cu/iran-recauda-millones-de-dolares-por-barcos-que-transitan-ormuz/",
+        "published_date": "2026-06-07 16:07:57",
         "category": "Local Events"
     },
     {
-        "title": "President affirms that Cuba lives crucial hours and denounces genocide",
+        "title": "\u201cThey put me in front of the police car,\u201d denounces Yunaykis Linares after being arrested in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/metieron-carro-policia-cabeza-denuncia_1_1127532.html",
+        "published_date": "2026-06-07 16:02:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Niurka Paz to Pope Leo XIV: \"I arrived in Madrid alone, pregnant with my twins\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cubana-niurka-paz-papa-leon_1_1127531.html",
+        "published_date": "2026-06-07 16:02:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "They warn of an \u201cunusual increase in cases\u201d of hepatitis A in Pinar del R\u00edo",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/alertan-incremento-inusual-casos-hepatitis_1_1127529.html",
+        "published_date": "2026-06-07 15:49:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 200 startups at technology forum in Angola",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-afirma-que-cuba-vive-horas-cruciales-y-denuncia-genocidio/",
-        "published_date": "2026-06-06 14:53:03",
+        "url": "https://www.5septiembre.cu/mas-de-200-startups-en-foro-de-tecnologias-en-angola/",
+        "published_date": "2026-06-07 15:48:36",
         "category": "Local Events"
     },
     {
-        "title": "The vocation to serve the people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260606/la-vocacion-de-servir-al-pueblo-2/",
-        "published_date": "2026-06-06 14:50:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNE: Electricity deficit will reach 1,990 MW during peak hours this Saturday",
+        "title": "Peru: A runoff with doubts and without predictions about the result",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/une-deficit-electrico-alcanzara-1-990-mw-en-el-horario-pico-de-este-sabado/",
-        "published_date": "2026-06-06 14:31:40",
+        "url": "https://www.5septiembre.cu/peru-un-balotaje-con-dudas-y-sin-pronosticos-sobre-el-resultado/",
+        "published_date": "2026-06-07 15:43:07",
         "category": "Local Events"
     },
     {
-        "title": "Holgu\u00edn shows environmental achievements",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260606/muestra-holguin-logros-ambientales/",
-        "published_date": "2026-06-06 14:20:59",
+        "title": "Leo XIV reiterates messages of coexistence in mass mass",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/leon-xiv-reitera-mensajes-de-convivencia-en-misa-multitudinaria/",
+        "published_date": "2026-06-07 15:39:10",
         "category": "Local Events"
     },
     {
-        "title": "More generous arms",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260606/mas-brazos-generosos/",
-        "published_date": "2026-06-06 13:54:50",
+        "title": "Cuba achieved three medals at the Al Khwarizmi International Olympiad",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-logro-tres-medallas-en-olimpiada-internacional-al-khwarizmi/",
+        "published_date": "2026-06-07 15:11:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Promote reading among young people",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/promover-la-lectura-entre-los-jovenes/",
+        "published_date": "2026-06-07 14:55:17",
         "category": "Local Events"
     }
 ]
