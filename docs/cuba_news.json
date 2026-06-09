@@ -119,11 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "32nd Havana Poetry Festival closes",
+        "title": "Pinero jurists recognized",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260531/clausuran-32-festival-de-poesia-de-la-habana/",
-        "published_date": "2026-05-31 16:42:44",
-        "category": "Diplomacy"
+        "url": "https://www.trabajadores.cu/20260608/reconocen-a-juristas-pineros/",
+        "published_date": "2026-06-08 20:43:42",
+        "category": "Military"
     },
     {
         "title": "A Congress for the Defense of the Homeland and other rights",
@@ -259,11 +259,18 @@
         "category": "Military"
     },
     {
-        "title": "Cuba united today around Ra\u00fal's 95th birthday",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32824-unida-cuba-hoy-en-torno-al-cumpleanos-95-de-raul",
-        "published_date": "2026-06-03 09:27:15",
-        "category": "Military"
+        "title": "Arrested 18 months ago for protesting a blackout, three women will be sentenced on July 1",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/detenidas-18-meses-protestar-apagon_1_1127570.html",
+        "published_date": "2026-06-08 18:42:47",
+        "category": "Energy"
+    },
+    {
+        "title": "A train and two power plants are paralyzed due to fuel theft",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/tren-plantas-electricas-quedan-paralizados_1_1127559.html",
+        "published_date": "2026-06-08 17:30:36",
+        "category": "Energy"
     },
     {
         "title": "Neighbors cut off the V\u00eda Blanca in Havana after three days of blackout",
@@ -357,13 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "Oil falls 20% from 2026 peak on US-Iran ceasefire optimism",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/petroleo-cae-20-por-ciento-maximo-2026-alto-fuego-estados-unidos-iran/",
-        "published_date": "2026-05-31 18:36:00",
-        "category": "Energy"
-    },
-    {
         "title": "Raw materials company reduces environmental impact in Holgu\u00edn",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/empresa-de-materias-primas-reduce-impacto-ambiental-en-holguin/",
@@ -427,143 +427,143 @@
         "category": "Economy"
     },
     {
+        "title": "The Government of Venezuela says that a negotiation with Mar\u00eda Corina Machado is not planned",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/gobierno-venezuela-dice-no-planteada_1_1127584.html",
+        "published_date": "2026-06-08 22:42:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The body of Yohanka Acosta, murdered by her ex-partner, was abandoned in El Vedado",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuerpo-yohanka-acosta-asesinada-ex_1_1127582.html",
+        "published_date": "2026-06-08 21:24:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronicle of a Monday with a flavor of Wednesday",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cronica-lunes-sabor-miercoles_1_1127579.html",
+        "published_date": "2026-06-08 21:12:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquakes reported in western Cuba and Yucatan",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260608/reportan-sismos-en-occidente-de-cuba-y-en-yucatan/",
+        "published_date": "2026-06-08 20:28:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "We build, even if they deny us the resources",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260608/construimos-aunque-nos-nieguen-los-recursos/",
+        "published_date": "2026-06-08 19:16:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Creative fusions",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260608/fusiones-creativas/",
+        "published_date": "2026-06-08 19:15:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The state company asks: \u201cHow am I?\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260608/la-empresa-estatal-pregunta-como-quedo-yo/",
+        "published_date": "2026-06-08 19:01:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four players who left Cuba reach agreements with Major League teams",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cuatro-peloteros-abandonaron-cuba-logran_1_1127571.html",
+        "published_date": "2026-06-08 18:51:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The speech they could afford",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/desde-aqui/discurso-permitirse_132_1127573.html",
+        "published_date": "2026-06-08 18:49:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake reported in western Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reportan-sismo-en-occidente-de-cuba/",
+        "published_date": "2026-06-08 18:41:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 6.2 magnitude earthquake shakes western Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/temblor-6-5-grados-sacude_1_1127568.html",
+        "published_date": "2026-06-08 18:20:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "They buy the Progas balitas for 24 dollars and resell them for 50",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/compran-balitas-progas-24-dolares_1_1127565.html",
+        "published_date": "2026-06-08 17:42:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cienfuegos: legal workers for effective justice",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cienfuegos-trabajadores-juridicos-por-una-justicia-eficaz/",
+        "published_date": "2026-06-08 17:01:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four new bills available to the population (PDF)",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32842-disponibles-para-la-poblacion-cuatro-nuevos-proyectos-de-ley",
+        "published_date": "2026-06-08 16:49:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The heart of the avocado",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/lecturas/45-cronicas-sueltas/32841-el-corazon-del-aguacate",
+        "published_date": "2026-06-08 16:42:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Pasteur Institute is working on a new vaccine against chikungunya with EU funds",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cienciaytecnologia/instituto-pasteur-trabaja-nueva-vacuna_1_1127563.html",
+        "published_date": "2026-06-08 16:15:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US prohibits the entry of 100 Nicaraguan officials due to the death of Brooklyn Rivera",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-prohibe-entrada-100_1_1127561.html",
+        "published_date": "2026-06-08 15:53:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Local initiatives in Camag\u00fcey reinforce waste management and effective recycling",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32840-iniciativas-locales-en-camaguey-refuerzan-la-gestion-de-residuos-y-reciclaje-efectivo",
+        "published_date": "2026-06-08 15:46:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The best of May",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/2014-04-17-15-07-19/32839-los-mejores-de-mayo",
+        "published_date": "2026-06-08 15:37:22",
+        "category": "Local Events"
+    },
+    {
         "title": "Union of Journalists of Cuba among five continental groups that will lead the Latin American Federation of Journalists",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/union-de-periodistas-de-cuba-entre-cinco-agrupaciones-continentales-que-lideraran-la-federacion-latinoamericana-de-periodistas/",
         "published_date": "2026-06-08 14:40:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Biathlon races where the rifle mattered more than the fastest skis",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/biathlon-races-where-the-rifle_132_1127557.html",
-        "published_date": "2026-06-08 13:35:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wide international presence at the II Biennial of Political Humor",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/amplia-presencia-internacional-en-ii-bienal-de-humor-politico/",
-        "published_date": "2026-06-08 13:27:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "New opportunity promises Servicios de Auditor\u00eda S.A.",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260608/nueva-oportunidad-de-servicios-de-auditoria/",
-        "published_date": "2026-06-08 13:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tsunami waves in Indonesia and Japan after earthquake in the Philippines",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/olas-de-tsunami-en-indonesia-y-japon-tras-terremoto-en-filipinas/",
-        "published_date": "2026-06-08 12:51:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "War, debt and decline: the new face of US imperialism",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/guerra-deuda-y-decadencia-el-nuevo-rostro-del-imperialismo-estadounidense/",
-        "published_date": "2026-06-08 12:10:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violations of freedom of association in Panama are reported to the ILO",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncian-ante-la-oit-violaciones-a-la-libertad-sindical-en-panama/",
-        "published_date": "2026-06-08 12:05:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between the Pope and football, Spain begins to decide",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/entre-el-papa-y-el-futbol-espana-comienza-a-decantarse/",
-        "published_date": "2026-06-08 12:00:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pedicabs and tricycles provide relief, but\u2026",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260608/bicitaxis-y-triciclos-alivian-pero/",
-        "published_date": "2026-06-08 11:28:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Colombian leftist candidate recognizes unfavorable electoral results a week later",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/candidato-izquierda-colombiana-reconoce-resultados_1_1127553.html",
-        "published_date": "2026-06-08 11:10:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The EU celebrates that Armenia has chosen a \"European future\" despite \"pressure\" from Russia",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ue-celebra-armenia-haya-elegido_1_1127551.html",
-        "published_date": "2026-06-08 11:04:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Silvio Rodr\u00edguez regrets that no changes have been made in Cuba: \"Our model was no longer useful\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/silvio-rodriguez-lamenta-no-haya_1_1127547.html",
-        "published_date": "2026-06-08 10:40:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another donation of basic products arrives in Cuba from Mexico and Belize",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/llega-cuba-donativo-productos-basicos_1_1127545.html",
-        "published_date": "2026-06-08 10:33:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fujimori's advantage over S\u00e1nchez drops to 2.3 points in Peru with 85% counted",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ventaja-fujimori-sanchez-baja-2_1_1127543.html",
-        "published_date": "2026-06-08 10:16:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Meliponas with a woman's touch",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/meliponas-con-toque-de-mujer/",
-        "published_date": "2026-06-08 04:00:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sprint",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260607/sprint/",
-        "published_date": "2026-06-08 01:20:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fortune of being a union leader",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260607/la-fortuna-de-ser-dirigente-sindical/",
-        "published_date": "2026-06-08 01:09:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWhat hurts me the most is the injustice\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260607/lo-que-mas-me-duele-es-la-injusticia/",
-        "published_date": "2026-06-08 00:19:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delegates in the batter's box",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260607/delegados-en-el-cajon-de-bateo/",
-        "published_date": "2026-06-07 23:16:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leslie Amat: Life in three tests",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260607/leslie-amat-la-vida-en-tres-pruebas/",
-        "published_date": "2026-06-07 22:27:11",
         "category": "Local Events"
     }
 ]
