@@ -1,5 +1,19 @@
 [
     {
+        "title": "CTC denounces impact of the intensified blockade on the 114th International Labor Conference",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260610/ctc-denuncia-impacto-del-recrudecido-bloqueo-en-la-114a-conferencia-internacional-del-trabajo/",
+        "published_date": "2026-06-10 14:20:29",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Blockade of Cuba, the current face of the giant that Mart\u00ed denounced",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bloqueo-a-cuba-la-cara-actual-del-gigante-que-marti-denuncio/",
+        "published_date": "2026-06-10 07:00:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The leftist candidate overtakes Fujimori in Peru, but votes from abroad are still missing",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/candidato-izquierda-adelanta-fujimori-peru_1_1127593.html",
@@ -105,18 +119,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Army General Ra\u00fal Castro Ruz in the foreign policy and diplomacy of the Revolution",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-general-de-ejercito-raul-castro-ruz-en-la-politica-exterior-y-la-diplomacia-de-la-revolucion/",
-        "published_date": "2026-06-02 11:59:49",
-        "category": "Diplomacy"
+        "title": "Save the vital",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260610/ahorrar-lo-vital/",
+        "published_date": "2026-06-10 14:08:36",
+        "category": "Military"
     },
     {
-        "title": "Cuba questions Chilean president's support for military aggression",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32819-cuba-cuestiona-respaldo-de-presidente-chileno-a-agresion-militar",
-        "published_date": "2026-06-02 10:41:31",
-        "category": "Diplomacy"
+        "title": "The US Secretary of Defense travels to the Guant\u00e1namo base to meet with the troops",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/secretario-guerra-ee-uu-viaja_1_1127630.html",
+        "published_date": "2026-06-10 11:18:01",
+        "category": "Military"
     },
     {
         "title": "Trump announces US retaliation after Iran shoots down Apache helicopter",
@@ -245,18 +259,11 @@
         "category": "Military"
     },
     {
-        "title": "Open letter to Ra\u00fal Castro Ruz from Cultural workers",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/carta-abierta-a-raul-castro-ruz-de-los-trabajadores-de-la-cultura/",
-        "published_date": "2026-06-03 15:11:34",
-        "category": "Military"
-    },
-    {
-        "title": "Ra\u00fal, peace, unity, his legacy",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/raul-la-paz-la-unidad-su-legado/",
-        "published_date": "2026-06-03 14:08:14",
-        "category": "Military"
+        "title": "The US authorizes the shipment of 250,000 barrels of diesel and gasoline to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ee-uu-autoriza-envio-250_1_1127623.html",
+        "published_date": "2026-06-10 09:14:00",
+        "category": "Energy"
     },
     {
         "title": "Venezuela's oil exports reach their highest level in seven years",
@@ -350,13 +357,6 @@
         "category": "Energy"
     },
     {
-        "title": "They bring renewable energy to communities in Holgu\u00edn that are difficult to access",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260602/llevan-energia-renovable-hasta-comunidades-holguineras-de-dificil-acceso/",
-        "published_date": "2026-06-02 14:02:40",
-        "category": "Energy"
-    },
-    {
         "title": "The King arrives in Sancti Sp\u00edritus, but the pocket remains uncrowned",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/rey-llega-sancti-spiritus-bolsillo_1_1127602.html",
@@ -427,6 +427,90 @@
         "category": "Economy"
     },
     {
+        "title": "Declassified documents support Cuba's truth about February 24, 1996",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/documentos-desclasificados-respaldan-la-verdad-de-cuba-sobre-el-24-de-febrero-de-1996/",
+        "published_date": "2026-06-10 12:57:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iv\u00e1n Cepeda, Colombia's candidate for human rights defender",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ivan-cepeda-el-candidato-de-colombia-defensor-de-derechos-humanos/",
+        "published_date": "2026-06-10 12:46:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "S\u00e1nchez takes 41 thousand votes ahead of Fujimori with 95% counted",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sanchez-saca-41-mil-votos-de-ventaja-a-fujimori-con-el-95-escrutado/",
+        "published_date": "2026-06-10 12:16:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "President D\u00edaz-Canel visits units of the Recycling Business Group in Havana",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-diaz-canel-visita-unidades-del-grupo-empresarial-de-reciclaje-en-la-habana/",
+        "published_date": "2026-06-10 11:43:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil stage of the first Solinera in Holgu\u00edn ends",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/finaliza-etapa-civil-de-primera-solinera-de-holguin/",
+        "published_date": "2026-06-10 11:32:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US launches attacks against Iran in retaliation for the downing of a helicopter",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-lanza-ataques-iran_1_1127631.html",
+        "published_date": "2026-06-10 11:29:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "A transition in Cuba could imply unpopular decisions for exile in the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/transicion-cuba-implicar-decisiones-impopulares_1_1127628.html",
+        "published_date": "2026-06-10 10:59:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, June 10, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-10-junio_132_1127625.html",
+        "published_date": "2026-06-10 10:39:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, June 10, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-10-junio_7_1127627.html",
+        "published_date": "2026-06-10 10:36:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Ministry of Public Health blames the US energy fence for the delay of more than 100,000 surgeries in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/autoridades-cubanas-denuncian-impacto-bloqueo_1_1127624.html",
+        "published_date": "2026-06-10 10:23:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Know the history",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conocer-la-historia/",
+        "published_date": "2026-06-10 04:00:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cienfuegos will have its School Games",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cienfuegos-tendra-sus-juegos-escolares/",
+        "published_date": "2026-06-10 00:26:38",
+        "category": "Local Events"
+    },
+    {
         "title": "Call for voluntary blood donors reactivated in Cienfuegos",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/reactivan-convocatoria-para-donantes-voluntarios-de-sangre-en-cienfuegos/",
@@ -480,90 +564,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/transnacional-trafigura-suspende-envios-zinc_1_1127607.html",
         "published_date": "2026-06-09 19:24:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bill in Cuba proposes new ministries",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/proyecto-de-ley-en-cuba-propone-nuevos-ministerios/",
-        "published_date": "2026-06-09 18:22:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Israeli bombing damages World Heritage site in Lebanon",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/bombardeo-israeli-dana-sitio-patrimonio-de-la-humanidad-en-libano/",
-        "published_date": "2026-06-09 18:00:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba reaffirms its desire for well-being and health, despite pressure from the US",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-reafirma-voluntad-de-bienestar-y-salud-pese-a-presiones-de-eeuu/",
-        "published_date": "2026-06-09 17:50:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of Justice received president of the Japanese Foundation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ministra-de-justicia-recibio-a-presidente-de-fundacion-japonesa/",
-        "published_date": "2026-06-09 16:43:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bike Taxis and Tricycles Help, But\u2026",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260609/bike-taxis-and-tricycles-help-but/",
-        "published_date": "2026-06-09 15:51:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Puerto Rico will organize the XXVII Latin American and Caribbean Little League Series",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/puerto-rico-organizara-xxvii-serie_1_1127600.html",
-        "published_date": "2026-06-09 15:44:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico, a second chance for many Cubans with careers",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/mexico-segunda-oportunidad-cubanos-carrera_1_1127577.html",
-        "published_date": "2026-06-09 15:34:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "A new law protects socialist ownership of land, although it opens the door to foreigners as usufructuaries",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nueva-ley-blinda-propiedad-socialista_1_1127599.html",
-        "published_date": "2026-06-09 15:16:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The bow of Cerro Pelado was and is that of the Revolution",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-proa-del-cerro-pelado-fue-y-es-la-de-la-revolucion/",
-        "published_date": "2026-06-09 14:16:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "More blood donations and recognition of their authors",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32848-mas-donaciones-de-sangre-y-reconocimientos-a-sus-autores",
-        "published_date": "2026-06-09 13:36:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mariel Terminal denies false news",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32847-terminal-de-mariel-desmiente-falsa-noticia",
-        "published_date": "2026-06-09 13:02:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Milei's \"digital twin\"",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-gemelo-digital-de-milei/",
-        "published_date": "2026-06-09 12:31:58",
         "category": "Local Events"
     }
 ]
