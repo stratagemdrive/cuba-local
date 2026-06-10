@@ -7,6 +7,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They highlight Cuba's willingness to work for the well-being and health of the people",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32846-resaltan-voluntad-de-cuba-de-trabajar-por-bienestar-y-salud-del-pueblo",
+        "published_date": "2026-06-09 12:03:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "D\u00edaz-Canel: the blockade today is brutal, it is something criminal, it is something that the Cuban people do not deserve",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/diaz-canel-el-bloqueo-hoy-es-brutal-es-algo-criminal-es-algo-que-no-merece-el-pueblo-cubano/",
@@ -112,11 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Russia announces projects with Cuba on the eve of the Saint Petersburg Forum",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rusia-anuncia-proyectos-cuba-visperas_1_1127291.html",
-        "published_date": "2026-06-01 17:49:34",
-        "category": "Diplomacy"
+        "title": "Trump announces US retaliation after Iran shoots down Apache helicopter",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/trump-anuncia-represalias-de-ee-uu-tras-derribo-de-un-helicoptero-apache-por-iran/",
+        "published_date": "2026-06-09 21:20:12",
+        "category": "Military"
     },
     {
         "title": "Pinero jurists recognized",
@@ -252,13 +259,6 @@
         "category": "Military"
     },
     {
-        "title": "Ra\u00fal's 95",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/los-95-de-raul/",
-        "published_date": "2026-06-03 13:04:49",
-        "category": "Military"
-    },
-    {
         "title": "Venezuela's oil exports reach their highest level in seven years",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/exportaciones-petroleo-venezuela-alcanzan-mayor_1_1127597.html",
@@ -357,18 +357,11 @@
         "category": "Energy"
     },
     {
-        "title": "They bring renewable energy to communities in Holgu\u00edn that are difficult to access",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260601/llevan-energia-renovable-hasta-comunidades-holguineras-de-dificil-acceso/",
-        "published_date": "2026-06-01 18:52:40",
-        "category": "Energy"
-    },
-    {
-        "title": "The authorities recognize that 100,000 children do not receive milk due to lack of fuel",
+        "title": "The King arrives in Sancti Sp\u00edritus, but the pocket remains uncrowned",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/autoridades-reconocen-100-000-ninos_1_1127283.html",
-        "published_date": "2026-06-01 14:48:42",
-        "category": "Energy"
+        "url": "https://www.14ymedio.com/cuba/rey-llega-sancti-spiritus-bolsillo_1_1127602.html",
+        "published_date": "2026-06-09 17:59:48",
+        "category": "Economy"
     },
     {
         "title": "Raw materials company reduces environmental impact in Holgu\u00edn",
@@ -434,143 +427,143 @@
         "category": "Economy"
     },
     {
+        "title": "Call for voluntary blood donors reactivated in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reactivan-convocatoria-para-donantes-voluntarios-de-sangre-en-cienfuegos/",
+        "published_date": "2026-06-10 00:15:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Economic actors in the mango harvest in Jag\u00fcey Grande",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260609/en-cosecha-de-mango-actores-economicos-en-jaguey-grande/",
+        "published_date": "2026-06-09 21:48:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The workers of the luxury hotels in Varadero, the main victims of the collapse of tourism",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/trabajadores-hoteles-lujo-varadero-principales_1_1127616.html",
+        "published_date": "2026-06-09 21:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santiago de Cuba joins the event for World Blood Donor Day",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260609/santiago-de-cuba-se-suma-a-jornada-por-el-dia-mundial-del-donante-de-sangre/",
+        "published_date": "2026-06-09 20:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "They arrest two coyotes who charged migrants, including Cubans, up to 18,000 for transfer to the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/detienen-coyotes-cobraban-migrantes-cubanos_1_1127613.html",
+        "published_date": "2026-06-09 19:43:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The week starts with one confirmed feminicide per day, this Tuesday in Santiago de Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/semana-arranca-feminicidio-confirmado-dia_1_1127609.html",
+        "published_date": "2026-06-09 19:36:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Housing Bill eliminates confiscation by the State of emigrants' residences",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/proyecto-ley-vivienda-elimina-confiscacion_1_1127611.html",
+        "published_date": "2026-06-09 19:25:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The transnational Trafigura suspends shipments of Cuban zinc for fear of US sanctions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/transnacional-trafigura-suspende-envios-zinc_1_1127607.html",
+        "published_date": "2026-06-09 19:24:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bill in Cuba proposes new ministries",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/proyecto-de-ley-en-cuba-propone-nuevos-ministerios/",
+        "published_date": "2026-06-09 18:22:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli bombing damages World Heritage site in Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bombardeo-israeli-dana-sitio-patrimonio-de-la-humanidad-en-libano/",
+        "published_date": "2026-06-09 18:00:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba reaffirms its desire for well-being and health, despite pressure from the US",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-reafirma-voluntad-de-bienestar-y-salud-pese-a-presiones-de-eeuu/",
+        "published_date": "2026-06-09 17:50:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Justice received president of the Japanese Foundation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ministra-de-justicia-recibio-a-presidente-de-fundacion-japonesa/",
+        "published_date": "2026-06-09 16:43:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bike Taxis and Tricycles Help, But\u2026",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260609/bike-taxis-and-tricycles-help-but/",
+        "published_date": "2026-06-09 15:51:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Puerto Rico will organize the XXVII Latin American and Caribbean Little League Series",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/puerto-rico-organizara-xxvii-serie_1_1127600.html",
+        "published_date": "2026-06-09 15:44:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico, a second chance for many Cubans with careers",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/mexico-segunda-oportunidad-cubanos-carrera_1_1127577.html",
+        "published_date": "2026-06-09 15:34:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "A new law protects socialist ownership of land, although it opens the door to foreigners as usufructuaries",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nueva-ley-blinda-propiedad-socialista_1_1127599.html",
+        "published_date": "2026-06-09 15:16:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The bow of Cerro Pelado was and is that of the Revolution",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-proa-del-cerro-pelado-fue-y-es-la-de-la-revolucion/",
+        "published_date": "2026-06-09 14:16:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "More blood donations and recognition of their authors",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32848-mas-donaciones-de-sangre-y-reconocimientos-a-sus-autores",
+        "published_date": "2026-06-09 13:36:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mariel Terminal denies false news",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32847-terminal-de-mariel-desmiente-falsa-noticia",
+        "published_date": "2026-06-09 13:02:23",
+        "category": "Local Events"
+    },
+    {
         "title": "Milei's \"digital twin\"",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/el-gemelo-digital-de-milei/",
         "published_date": "2026-06-09 12:31:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Union unity strength",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260609/fortaleza-de-unidad-sindical/",
-        "published_date": "2026-06-09 12:28:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Xi leaves Pyongyang after visit that expands ties and omits denuclearization",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/xi-deja-pyongyang-visita-expande_1_1127595.html",
-        "published_date": "2026-06-09 12:25:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lawyer, an ethical professional",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260609/abogado-un-profesional-etico/",
-        "published_date": "2026-06-09 12:16:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "UN High Commissioner, Volker T\u00fcrk, called for an end to sanctions against Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/alto-comisionado-onu-volker-turk-pidio-fin-de-sanciones-contra-cuba/",
-        "published_date": "2026-06-09 12:10:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Don't lose your way",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260609/no-perder-el-camino/",
-        "published_date": "2026-06-09 11:39:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tribute to Amelia del Castillo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/homenaje-amelia-castillo_1_1127591.html",
-        "published_date": "2026-06-09 11:37:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, June 9, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-9-junio_132_1127587.html",
-        "published_date": "2026-06-09 11:23:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "the sin",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260609/el-pecado/",
-        "published_date": "2026-06-09 11:02:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "IN 500 CHARACTERS: To easily insert into ports",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260609/en-500-caracteres-para-insertar-facilmente-en-los-puertos/",
-        "published_date": "2026-06-09 10:00:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the absence of structural changes, the Cuban regime reduces the number of ministries from 27 to 20",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/falta-cambios-estructurales-regimen-cubano_1_1127586.html",
-        "published_date": "2026-06-09 09:30:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parataekwondo facing new commitments",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-parataekwondo-de-cara-a-nuevos-compromisos/",
-        "published_date": "2026-06-09 06:00:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos Electoral Council: seven years of achievements in pursuit of democratic processes",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/consejo-electoral-de-cienfuegos-siete-anos-de-realizaciones-en-pos-de-los-procesos-democraticos/",
-        "published_date": "2026-06-09 04:00:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Voice of educators in Congress",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260608/voz-de-los-educadores-en-el-congreso/",
-        "published_date": "2026-06-09 02:07:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Parliament published bills for citizen consultation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/publico-parlamento-cubano-proyectos-de-ley-para-consulta-ciudadana/",
-        "published_date": "2026-06-09 01:29:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Weekly summary: June 1-7",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260608/resumen-semanal-del-1-al-7-de-junio/",
-        "published_date": "2026-06-09 01:25:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delegates in the batter's box",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260608/delegados-en-el-cajon-de-bateo/",
-        "published_date": "2026-06-08 23:16:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Government of Venezuela says that a negotiation with Mar\u00eda Corina Machado is not planned",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/gobierno-venezuela-dice-no-planteada_1_1127584.html",
-        "published_date": "2026-06-08 22:42:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The body of Yohanka Acosta, murdered by her ex-partner, was abandoned in El Vedado",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuerpo-yohanka-acosta-asesinada-ex_1_1127582.html",
-        "published_date": "2026-06-08 21:24:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chronicle of a Monday with a flavor of Wednesday",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cronica-lunes-sabor-miercoles_1_1127579.html",
-        "published_date": "2026-06-08 21:12:26",
         "category": "Local Events"
     }
 ]
