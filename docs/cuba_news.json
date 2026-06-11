@@ -1,5 +1,26 @@
 [
     {
+        "title": "P\u00e9rez-Oliva talks about the \"critical situation\" of the Island with the Spanish Minister Albares",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/albares-aborda-perez-oliva-critica-cuba_1_1127678.html",
+        "published_date": "2026-06-11 14:03:54",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UNICEF appoints Lamine Yamal Goodwill Ambassador",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/unicef-nombra-a-lamine-yamal-embajador-de-buena-voluntad/",
+        "published_date": "2026-06-11 13:00:27",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The blockade also stops aid to Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-bloqueo-frena-tambien-la-ayuda-a-cuba/",
+        "published_date": "2026-06-11 01:46:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Etecsa for digital transformation in Camag\u00fcey",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32849-etecsa-por-la-transformacion-digital-en-camagueey",
@@ -116,13 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/frente-al-parlamento-britanico-la-solidaridad-responde-a-la-agresion-norteamericana/",
         "published_date": "2026-06-04 15:33:21",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Foreign Minister Bruno Rodr\u00edguez: Inclusion of Cuba on the list of State sponsors of terrorism lacks arguments",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-bruno-rodriguez-inclusion-de-cuba-en-lista-de-estados-patrocinadores-del-terrorismo-carece-de-argumentos/",
-        "published_date": "2026-06-04 14:35:06",
         "category": "Diplomacy"
     },
     {
@@ -264,6 +278,13 @@
         "url": "https://www.trabajadores.cu/20260603/raul-a-lo-largo-y-lo-ancho-de-su-vida-revolucionaria/",
         "published_date": "2026-06-03 17:33:29",
         "category": "Military"
+    },
+    {
+        "title": "\"Water and light\", the desperate cry of the women of Luyan\u00f3, overwhelmed by the constant blackouts",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/agua-luz-grito-desesperado-mujeres_1_1127658.html",
+        "published_date": "2026-06-11 08:45:07",
+        "category": "Energy"
     },
     {
         "title": "Up to 42 hours of blackout: the energy deficit gives no respite in Cuba",
@@ -427,11 +448,88 @@
         "category": "Economy"
     },
     {
-        "title": "Information from the Central Bank of Cuba",
+        "title": "Fujimori surpasses S\u00e1nchez in counting runoff votes in Peru",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fujimori-supera-a-sanchez-en-conteo-de-votos-de-balotaje-en-peru/",
+        "published_date": "2026-06-11 14:09:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Whoever Deserves it, Deserves it",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/informacion-del-banco-central-de-cuba/",
-        "published_date": "2026-06-03 14:45:44",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260611/whoever-deserves-it-deserves-it/",
+        "published_date": "2026-06-11 14:00:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of political prisoners in Cuba reaches a new record of 1,281 in May",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cifra-presos-politicos-cuba-alcanza_1_1127677.html",
+        "published_date": "2026-06-11 13:55:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Cup opening ceremony returns to the Azteca stadium for the third time",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ceremonia-inaugural-del-mundial-vuelve-al-estadio-azteca-por-tercera-vez/",
+        "published_date": "2026-06-11 13:28:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Material and moral support from Europe to Cuba multiplies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/multiplica-apoyo-material-moral-europa_1_1127674.html",
+        "published_date": "2026-06-11 12:57:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Axismel' at the West New York Farmers Market",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/axismel-west-new-york-farmers_1_1127671.html",
+        "published_date": "2026-06-11 12:15:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula and Sheinbaum reiterate their support for Bachelet's candidacy for the UN secretariat",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/lula-sheinbaum-reiteran-apoyo-candidatura_1_1127669.html",
+        "published_date": "2026-06-11 11:31:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The mural of a Chilean in Havana cannot hide the words \u201cdown with the dictatorship\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/mural-chileno-habana-no-ocultar_1_1127654.html",
+        "published_date": "2026-06-11 11:20:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran says it will turn the Middle East into \"hell\" for the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/iran-dice-convertira-oriente-medio_1_1127667.html",
+        "published_date": "2026-06-11 11:18:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fujimori is once again ahead of S\u00e1nchez in the final stretch of the scrutiny in Peru",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/fujimori-vuelve-situarse-delante-sanchez_1_1127663.html",
+        "published_date": "2026-06-11 11:02:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronicles from Spain: Mondo\u00f1edo, a past that resists, a present that prevails (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cronicas-desde-espana-mondonedo-pasado-que-se-resiste-presente-que-se-impone-fotos/",
+        "published_date": "2026-06-11 04:45:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "History, beauty and delights of passion fruit",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/historia-belleza-y-delicias-del-maracuya/",
+        "published_date": "2026-06-11 04:29:40",
+        "category": "Local Events"
     },
     {
         "title": "Whoever gets it gets it",
@@ -487,90 +585,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260610/cuba-buscara-primer-triunfo-en-liga-de-las-naciones-de-voleibol/",
         "published_date": "2026-06-10 18:06:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Midterm elections in the US on the way to the primaries",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/elecciones-intermedias-en-eeuu-en-el-camino-de-las-primarias/",
-        "published_date": "2026-06-10 17:48:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil intercepts 108 Cubans and arrests five human traffickers",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/brasil-intercepta-108-cubanos-detiene_1_1127636.html",
-        "published_date": "2026-06-10 17:20:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Azutecnia State Company requests commercial specialist",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260610/empresa-estatal-azutecnia-solicita-especialista-comercial/",
-        "published_date": "2026-06-10 16:24:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "A congresswoman from Petro's party orders his \"provisional suspension\" as president",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/congresista-partido-petro-ordena-suspension_1_1127634.html",
-        "published_date": "2026-06-10 14:59:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The eternal glory of Jos\u00e9 Antonio M\u00e9ndez",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-eterna-gloria-de-jose-antonio-mendez/",
-        "published_date": "2026-06-10 14:57:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Don't Lose the Path",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260610/dont-lose-the-path/",
-        "published_date": "2026-06-10 14:53:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Post chikungunya lymphangitis",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260610/linfangitis-pos-chicungunya/",
-        "published_date": "2026-06-10 13:20:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Declassified documents support Cuba's truth about February 24, 1996",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/documentos-desclasificados-respaldan-la-verdad-de-cuba-sobre-el-24-de-febrero-de-1996/",
-        "published_date": "2026-06-10 12:57:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Cepeda, Colombia's candidate for human rights defender",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ivan-cepeda-el-candidato-de-colombia-defensor-de-derechos-humanos/",
-        "published_date": "2026-06-10 12:46:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "S\u00e1nchez takes 41 thousand votes ahead of Fujimori with 95% counted",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/sanchez-saca-41-mil-votos-de-ventaja-a-fujimori-con-el-95-escrutado/",
-        "published_date": "2026-06-10 12:16:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "President D\u00edaz-Canel visits units of the Recycling Business Group in Havana",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-diaz-canel-visita-unidades-del-grupo-empresarial-de-reciclaje-en-la-habana/",
-        "published_date": "2026-06-10 11:43:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil stage of the first Solinera in Holgu\u00edn ends",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/finaliza-etapa-civil-de-primera-solinera-de-holguin/",
-        "published_date": "2026-06-10 11:32:05",
         "category": "Local Events"
     }
 ]
