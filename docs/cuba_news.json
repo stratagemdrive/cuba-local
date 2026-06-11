@@ -1,5 +1,19 @@
 [
     {
+        "title": "Etecsa for digital transformation in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32849-etecsa-por-la-transformacion-digital-en-camagueey",
+        "published_date": "2026-06-10 17:41:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "US blockade causes million-dollar losses to public health in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bloqueo-eeuu-provoca-perdidas-millonarias-a-la-salud-publica-en-cuba/",
+        "published_date": "2026-06-10 17:36:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "CTC denounces impact of the intensified blockade on the 114th International Labor Conference",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260610/ctc-denuncia-impacto-del-recrudecido-bloqueo-en-la-114a-conferencia-internacional-del-trabajo/",
@@ -112,11 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Raquel, a feisty clandestine fighter",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/a-fondo/25-entrevistas/32822-raquel-una-luchadora-clandestina-batalladora",
-        "published_date": "2026-06-02 17:44:04",
-        "category": "Diplomacy"
+        "title": "Cuban diplomat in the United States says that Trump's sanctions are a \u201cpretext\u201d for military action",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diplomatica-de-cuba-en-estados-unidos-dice-que-las-sanciones-de-trump-son-pretexto-para-una-accion-militar/",
+        "published_date": "2026-06-10 19:49:38",
+        "category": "Military"
     },
     {
         "title": "Save the vital",
@@ -252,11 +266,18 @@
         "category": "Military"
     },
     {
-        "title": "Matanceros highlight Ra\u00fal's career on his 95th birthday",
+        "title": "Up to 42 hours of blackout: the energy deficit gives no respite in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/42-horas-apagon-deficit-energetico_1_1127635.html",
+        "published_date": "2026-06-10 17:24:54",
+        "category": "Energy"
+    },
+    {
+        "title": "Somewhat in favor in the domain of renewable energies",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/matanceros-resaltan-legado-de-raul-en-su-cumpleanos-95/",
-        "published_date": "2026-06-03 16:58:51",
-        "category": "Military"
+        "url": "https://www.trabajadores.cu/20260610/un-tanto-a-favor-en-el-dominio-de-las-energias-renovables/",
+        "published_date": "2026-06-10 15:39:53",
+        "category": "Energy"
     },
     {
         "title": "The US authorizes the shipment of 250,000 barrels of diesel and gasoline to Cuba",
@@ -343,20 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "Cacerolazo in Guanabacoa in broad daylight and with the Police present",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cacerolazo-guanabacoa-plena-luz-dia_1_1127358.html",
-        "published_date": "2026-06-02 20:09:32",
-        "category": "Energy"
-    },
-    {
-        "title": "Rubio affirms that Cuba will continue to be a \u201cfailed state\u201d without a change in leadership",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/rubio-afirma-cuba-seguira-fallido_1_1127356.html",
-        "published_date": "2026-06-02 19:21:14",
-        "category": "Energy"
-    },
-    {
         "title": "The King arrives in Sancti Sp\u00edritus, but the pocket remains uncrowned",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/rey-llega-sancti-spiritus-bolsillo_1_1127602.html",
@@ -427,6 +434,111 @@
         "category": "Economy"
     },
     {
+        "title": "Whoever gets it gets it",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260610/al-que-le-toca-le-toca/",
+        "published_date": "2026-06-10 22:43:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leo XIV in Spain and the Cuba that crosses his path",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/leon-xiv-espana-cuba-cruza_1_1127651.html",
+        "published_date": "2026-06-10 21:13:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Inter-American Court of Human Rights orders the closure of El Helicoide",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/corte-interamericana-derechos-humanos-ordena_1_1127649.html",
+        "published_date": "2026-06-10 20:53:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Where are our children?Young Cubans in dungeons and silence from the authorities",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/hijos-jovenes-cubanos-calabozos-silencio_1_1127647.html",
+        "published_date": "2026-06-10 20:16:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "The probability of an Atlantic hurricane making landfall drops to 24% in 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cienciaytecnologia/probabilidad-huracan-atlantico-toque-tierra_1_1127645.html",
+        "published_date": "2026-06-10 19:45:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Guantanamo, the head of the Pentagon warns that the United States is prepared for \u201cany eventuality\u201d in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/guantanamo-jefe-pentagono-advierte-ee_1_1127643.html",
+        "published_date": "2026-06-10 19:14:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Only passengers \"in need\" due to health or death will be able to travel by bus.",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/podran-viajar-omnibus-pasajeros-necesitados_1_1127633.html",
+        "published_date": "2026-06-10 19:05:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba will seek first victory in the Volleyball Nations League",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260610/cuba-buscara-primer-triunfo-en-liga-de-las-naciones-de-voleibol/",
+        "published_date": "2026-06-10 18:06:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Midterm elections in the US on the way to the primaries",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/elecciones-intermedias-en-eeuu-en-el-camino-de-las-primarias/",
+        "published_date": "2026-06-10 17:48:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil intercepts 108 Cubans and arrests five human traffickers",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/brasil-intercepta-108-cubanos-detiene_1_1127636.html",
+        "published_date": "2026-06-10 17:20:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Azutecnia State Company requests commercial specialist",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260610/empresa-estatal-azutecnia-solicita-especialista-comercial/",
+        "published_date": "2026-06-10 16:24:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "A congresswoman from Petro's party orders his \"provisional suspension\" as president",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/congresista-partido-petro-ordena-suspension_1_1127634.html",
+        "published_date": "2026-06-10 14:59:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "The eternal glory of Jos\u00e9 Antonio M\u00e9ndez",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-eterna-gloria-de-jose-antonio-mendez/",
+        "published_date": "2026-06-10 14:57:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Don't Lose the Path",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260610/dont-lose-the-path/",
+        "published_date": "2026-06-10 14:53:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Post chikungunya lymphangitis",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260610/linfangitis-pos-chicungunya/",
+        "published_date": "2026-06-10 13:20:56",
+        "category": "Local Events"
+    },
+    {
         "title": "Declassified documents support Cuba's truth about February 24, 1996",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/documentos-desclasificados-respaldan-la-verdad-de-cuba-sobre-el-24-de-febrero-de-1996/",
@@ -459,111 +571,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/finaliza-etapa-civil-de-primera-solinera-de-holguin/",
         "published_date": "2026-06-10 11:32:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US launches attacks against Iran in retaliation for the downing of a helicopter",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-lanza-ataques-iran_1_1127631.html",
-        "published_date": "2026-06-10 11:29:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "A transition in Cuba could imply unpopular decisions for exile in the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/transicion-cuba-implicar-decisiones-impopulares_1_1127628.html",
-        "published_date": "2026-06-10 10:59:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, June 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-10-junio_132_1127625.html",
-        "published_date": "2026-06-10 10:39:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, June 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-10-junio_7_1127627.html",
-        "published_date": "2026-06-10 10:36:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Ministry of Public Health blames the US energy fence for the delay of more than 100,000 surgeries in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/autoridades-cubanas-denuncian-impacto-bloqueo_1_1127624.html",
-        "published_date": "2026-06-10 10:23:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Know the history",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conocer-la-historia/",
-        "published_date": "2026-06-10 04:00:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos will have its School Games",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-tendra-sus-juegos-escolares/",
-        "published_date": "2026-06-10 00:26:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Call for voluntary blood donors reactivated in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reactivan-convocatoria-para-donantes-voluntarios-de-sangre-en-cienfuegos/",
-        "published_date": "2026-06-10 00:15:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economic actors in the mango harvest in Jag\u00fcey Grande",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260609/en-cosecha-de-mango-actores-economicos-en-jaguey-grande/",
-        "published_date": "2026-06-09 21:48:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The workers of the luxury hotels in Varadero, the main victims of the collapse of tourism",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/trabajadores-hoteles-lujo-varadero-principales_1_1127616.html",
-        "published_date": "2026-06-09 21:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santiago de Cuba joins the event for World Blood Donor Day",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260609/santiago-de-cuba-se-suma-a-jornada-por-el-dia-mundial-del-donante-de-sangre/",
-        "published_date": "2026-06-09 20:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "They arrest two coyotes who charged migrants, including Cubans, up to 18,000 for transfer to the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/detienen-coyotes-cobraban-migrantes-cubanos_1_1127613.html",
-        "published_date": "2026-06-09 19:43:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The week starts with one confirmed feminicide per day, this Tuesday in Santiago de Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/semana-arranca-feminicidio-confirmado-dia_1_1127609.html",
-        "published_date": "2026-06-09 19:36:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Housing Bill eliminates confiscation by the State of emigrants' residences",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/proyecto-ley-vivienda-elimina-confiscacion_1_1127611.html",
-        "published_date": "2026-06-09 19:25:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The transnational Trafigura suspends shipments of Cuban zinc for fear of US sanctions",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/transnacional-trafigura-suspende-envios-zinc_1_1127607.html",
-        "published_date": "2026-06-09 19:24:53",
         "category": "Local Events"
     }
 ]
