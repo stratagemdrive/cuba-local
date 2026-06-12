@@ -1,5 +1,12 @@
 [
     {
+        "title": "D\u00edaz-Canel explains priorities designed to overcome the difficulties of the current moment (+ Video)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260612/explica-diaz-canel-prioridades-disenadas-para-superar-las-dificultades-del-momento-actual-video/",
+        "published_date": "2026-06-12 13:56:11",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Nobody is going to give up here",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260611/aqui-no-se-va-a-rendir-nadie/",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Marco Rubio offers medical aid and food to Bolivia in the face of the crisis due to the blockades",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/marco-rubio-ofrece-ayuda-medica_1_1127484.html",
-        "published_date": "2026-06-06 12:51:15",
-        "category": "Diplomacy"
-    },
-    {
         "title": "From the communities, My neighborhood for the Homeland",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260611/desde-las-comunidades-mi-barrio-por-la-patria/",
@@ -252,11 +252,11 @@
         "category": "Military"
     },
     {
-        "title": "Ra\u00fal in the heart of the town",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/raul-en-el-corazon-del-pueblo/",
-        "published_date": "2026-06-04 03:51:11",
-        "category": "Military"
+        "title": "Urban minibus service rescheduled in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32853-reprograman-servicio-de-microbuses-urbanos-en-camagueey",
+        "published_date": "2026-06-12 10:03:21",
+        "category": "Energy"
     },
     {
         "title": "Miami-Dade County revokes the license of the company that intended to export oil to Cuba",
@@ -413,11 +413,74 @@
         "category": "Economy"
     },
     {
-        "title": "The decision of the Central Bank is brought forward to this Thursday: you can no longer pay with Visa and Mastercard in Cuba",
+        "title": "D\u00edaz-Canel explains priorities designed to overcome the difficulties of the current moment (+ Video)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/explica-diaz-canel-prioridades-disenadas-para-superar-las-dificultades-del-momento-actual-video/",
+        "published_date": "2026-06-12 14:10:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Print edition of June 12, 2026",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/adelantan-jueves-decision-banco-central_1_1127420.html",
-        "published_date": "2026-06-04 14:08:59",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-12-junio-2026_132_1127705.html",
+        "published_date": "2026-06-12 13:50:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel creates false expectations about economic reforms",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/diaz-canel-crea-falsas-expectativas_1_1127702.html",
+        "published_date": "2026-06-12 13:35:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, June 12, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-12-junio_132_1127697.html",
+        "published_date": "2026-06-12 11:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, June 12, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-12-junio_7_1127701.html",
+        "published_date": "2026-06-12 11:34:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba leads world inflation, behind Venezuela, North Korea and Iran",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/economia/cuba-lidera-inflacion-mundial-detras_1_1127698.html",
+        "published_date": "2026-06-12 11:16:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Awards from the Academy of Sciences for research on Biomodulin T and Surfacen",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260612/premios-nacionales-de-la-academia-de-ciencias-para-investigaciones-sobre-biomodulina-t-y-surfacen/",
+        "published_date": "2026-06-12 07:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get to know our weekly edition in PDF from June 12",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-12-de-junio/",
+        "published_date": "2026-06-12 04:05:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Union of Jurists in Cienfuegos: training as a compass",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/union-de-juristas-en-cienfuegos-la-capacitacion-como-brujula/",
+        "published_date": "2026-06-12 04:04:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stories from the neighborhood: Mar\u00eda Antonia",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/historias-desde-el-barrio-maria-antonia/",
+        "published_date": "2026-06-12 04:03:01",
+        "category": "Local Events"
     },
     {
         "title": "Mexico experienced the inauguration of the 2026 Soccer World Cup",
@@ -487,76 +550,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260611/se-promueve-en-camaguey-las-donaciones-voluntarias-de-sangre/",
         "published_date": "2026-06-11 18:03:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alliances to build",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260611/alianzas-para-construir/",
-        "published_date": "2026-06-11 17:49:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lembranza & TRADIART, embracing culture and nature (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lembranza-tradiart-abrazando-la-cultura-y-la-naturaleza-fotos/",
-        "published_date": "2026-06-11 17:40:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Refining national crude oil: a path of great effort that continues to give results",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/refinar-el-crudo-nacional-un-camino-de-mucho-esfuerzo-que-sigue-dando-resultados/",
-        "published_date": "2026-06-11 17:20:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The necessary conversation",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32850-la-conversacion-necesaria",
-        "published_date": "2026-06-11 16:24:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Union mobilizes in Colombia against far-right program",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260611/sindicato-se-moviliza-en-colombia-contra-programa-de-ultraderechista/",
-        "published_date": "2026-06-11 15:22:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fujimori surpasses S\u00e1nchez in counting runoff votes in Peru",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fujimori-supera-a-sanchez-en-conteo-de-votos-de-balotaje-en-peru/",
-        "published_date": "2026-06-11 14:09:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Whoever Deserves it, Deserves it",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260611/whoever-deserves-it-deserves-it/",
-        "published_date": "2026-06-11 14:00:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The number of political prisoners in Cuba reaches a new record of 1,281 in May",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cifra-presos-politicos-cuba-alcanza_1_1127677.html",
-        "published_date": "2026-06-11 13:55:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup opening ceremony returns to the Azteca stadium for the third time",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ceremonia-inaugural-del-mundial-vuelve-al-estadio-azteca-por-tercera-vez/",
-        "published_date": "2026-06-11 13:28:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Material and moral support from Europe to Cuba multiplies",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/multiplica-apoyo-material-moral-europa_1_1127674.html",
-        "published_date": "2026-06-11 12:57:58",
         "category": "Local Events"
     }
 ]
