@@ -1,5 +1,40 @@
 [
     {
+        "title": "Nobody is going to give up here",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/aqui-no-se-va-a-rendir-nadie/",
+        "published_date": "2026-06-11 20:03:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "New professionals graduate from the Universidad de Oriente",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/nuevos-profesionales-egresan-de-la-universidad-de-oriente/",
+        "published_date": "2026-06-11 19:48:16",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban electrical system, victim of atrocious economic war",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32852-sistema-electrico-cubano-victima-de-guerra-economica-atroz",
+        "published_date": "2026-06-11 18:42:34",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba denounces effects of the US blockade at the International Labor Conference",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-denuncia-efectos-del-bloqueo-estadounidense-en-conferencia-internacional-del-trabajo/",
+        "published_date": "2026-06-11 17:14:42",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Europe beats for Cuba: Solidarity convoy that challenges the blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/europa-late-por-cuba-convoy-solidario-que-desafia-el-bloqueo/",
+        "published_date": "2026-06-11 16:53:16",
+        "category": "Diplomacy"
+    },
+    {
         "title": "P\u00e9rez-Oliva talks about the \"critical situation\" of the Island with the Spanish Minister Albares",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/albares-aborda-perez-oliva-critica-cuba_1_1127678.html",
@@ -105,39 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cTrump seeks the suffocation of Cuba so that there is a social outbreak and has the pretext to intervene\u201d (+Video)",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/a-fondo/25-entrevistas/32836-trump-busca-la-asfixia-de-cuba-para-que-haya-un-estallido-social-y-tenga-el-pretexto-para-intervenir",
-        "published_date": "2026-06-06 10:46:05",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuban Foreign Minister reveals Marco Rubio's ability to lie",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-de-cuba-desnuda-capacidad-de-mentir-de-marco-rubio/",
-        "published_date": "2026-06-05 15:15:31",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "US economic coercion blocks oil from entering Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32830-coercion-economica-de-ee-uu-bloquea-entrada-de-petroleo-a-cuba",
-        "published_date": "2026-06-05 10:08:03",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba reiterates global rejection of threats of military aggression",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-reitera-rechazo-mundial-ante-amenazas-de-agresion-militar/",
-        "published_date": "2026-06-04 20:27:07",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "In front of the British Parliament, solidarity responds to North American aggression",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/frente-al-parlamento-britanico-la-solidaridad-responde-a-la-agresion-norteamericana/",
-        "published_date": "2026-06-04 15:33:21",
-        "category": "Diplomacy"
+        "title": "From the communities, My neighborhood for the Homeland",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/desde-las-comunidades-mi-barrio-por-la-patria/",
+        "published_date": "2026-06-11 20:03:56",
+        "category": "Military"
     },
     {
         "title": "Cuban diplomat in the United States says that Trump's sanctions are a \u201cpretext\u201d for military action",
@@ -252,32 +259,25 @@
         "category": "Military"
     },
     {
-        "title": "Young people from Camag\u00fcey joined the tribute to Ra\u00fal",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32827-jovenes-agramontinos-se-sumaron-al-homenaje-a-raul",
-        "published_date": "2026-06-03 22:28:22",
-        "category": "Military"
+        "title": "Miami-Dade County revokes the license of the company that intended to export oil to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/condado-miami-dade-revoca-licencia_1_1127692.html",
+        "published_date": "2026-06-11 23:02:57",
+        "category": "Energy"
     },
     {
-        "title": "Ra\u00fal: \u201cvery Cuban Cuban, with all the strength that redundancy suggests\u201d",
+        "title": "The US sanctions Cupet and targets the heart of fuel in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ee-uu-sanciona-cupet-apunta_1_1127680.html",
+        "published_date": "2026-06-11 18:08:32",
+        "category": "Energy"
+    },
+    {
+        "title": "Generates electricity in Cuba mediCuba Europe solidarity project",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/raul-cubano-cubanisimo-con-toda-la-fuerza-que-esa-redundancia-sugiera/",
-        "published_date": "2026-06-03 18:08:35",
-        "category": "Military"
-    },
-    {
-        "title": "They honor the work and legacy of the Army General from various parts of the world",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/honran-obra-y-legado-del-general-de-ejercito-desde-diversas-partes-del-mundo/",
-        "published_date": "2026-06-03 17:34:12",
-        "category": "Military"
-    },
-    {
-        "title": "Ra\u00fal, throughout his revolutionary life",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260603/raul-a-lo-largo-y-lo-ancho-de-su-vida-revolucionaria/",
-        "published_date": "2026-06-03 17:33:29",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/genera-electricidad-en-cuba-proyecto-solidario-de-medicuba-europa/",
+        "published_date": "2026-06-11 14:52:20",
+        "category": "Energy"
     },
     {
         "title": "\"Water and light\", the desperate cry of the women of Luyan\u00f3, overwhelmed by the constant blackouts",
@@ -420,32 +420,109 @@
         "category": "Economy"
     },
     {
-        "title": "Foreign bank suspends operations with Visa and Mastercard in Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32828-suspende-banco-extranjero-operaciones-con-visa-y-mastercard-en-cuba",
-        "published_date": "2026-06-03 22:41:42",
-        "category": "Economy"
-    },
-    {
-        "title": "You will not be able to pay with Visa and Mastercard cards in Cuba starting Saturday",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/no-podra-pagar-tarjetas-visa_1_1127393.html",
-        "published_date": "2026-06-03 18:36:54",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuba suspends operations with VISA and Mastercard cards since June 6 due to United States measures",
+        "title": "Mexico experienced the inauguration of the 2026 Soccer World Cup",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-suspende-operaciones-con-tarjetas-visa-y-mastercard-desde-el-6-de-junio-por-medidas-de-estados-unidos/",
-        "published_date": "2026-06-03 18:02:43",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/mexico-vivio-la-inauguracion-de-la-copa-mundial-de-futbol-2026/",
+        "published_date": "2026-06-11 21:31:22",
+        "category": "Local Events"
     },
     {
-        "title": "The dollar reaches the record of 600 Cuban pesos in the informal currency market",
+        "title": "Triple jumper Davisleydi Velazco, sidelined by Cuba, wins gold in the Diamond League",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/dolar-alcanza-record-600-pesos_1_1127389.html",
-        "published_date": "2026-06-03 16:04:23",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/deportes/triplista-davisleydi-velazco-cuba-margino_1_1127687.html",
+        "published_date": "2026-06-11 21:23:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Injuries do not abandon Cuban Jordan D\u00edaz, who resigns from an event in Birmingham",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/lesiones-no-abandonan-cubano-jordan_1_1127689.html",
+        "published_date": "2026-06-11 21:22:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cultural Journalism Colloquium and the importance of saving culture",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/el-coloquio-de-periodismo-cultural-y-la-importancia-de-salvar-la-cultura/",
+        "published_date": "2026-06-11 20:33:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get your salary back on track",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/encarrilar-el-salario/",
+        "published_date": "2026-06-11 20:18:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Torre del Focsa, from luxury restaurant to social dining room",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/torre-focsa-restaurante-lujo-comedor_1_1127682.html",
+        "published_date": "2026-06-11 19:56:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Where there is always something to do",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/donde-siempre-hay-que-hacer/",
+        "published_date": "2026-06-11 19:44:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "CTC pinera willing to contribute more",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/ctc-pinera-dispuesta-a-aportar-mas/",
+        "published_date": "2026-06-11 18:19:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Award for Camag\u00fcey research in the treatment of chronic pain and healing",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32851-premio-nacional-para-investigacion-camagueeyana-en-el-tratamiento-del-dolor-cronico-y-la-cicatrizacion",
+        "published_date": "2026-06-11 18:12:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Voluntary blood donations are promoted in Camag\u00fcey",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/se-promueve-en-camaguey-las-donaciones-voluntarias-de-sangre/",
+        "published_date": "2026-06-11 18:03:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alliances to build",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/alianzas-para-construir/",
+        "published_date": "2026-06-11 17:49:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lembranza & TRADIART, embracing culture and nature (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/lembranza-tradiart-abrazando-la-cultura-y-la-naturaleza-fotos/",
+        "published_date": "2026-06-11 17:40:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Refining national crude oil: a path of great effort that continues to give results",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/refinar-el-crudo-nacional-un-camino-de-mucho-esfuerzo-que-sigue-dando-resultados/",
+        "published_date": "2026-06-11 17:20:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The necessary conversation",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32850-la-conversacion-necesaria",
+        "published_date": "2026-06-11 16:24:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Union mobilizes in Colombia against far-right program",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260611/sindicato-se-moviliza-en-colombia-contra-programa-de-ultraderechista/",
+        "published_date": "2026-06-11 15:22:54",
+        "category": "Local Events"
     },
     {
         "title": "Fujimori surpasses S\u00e1nchez in counting runoff votes in Peru",
@@ -480,111 +557,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/multiplica-apoyo-material-moral-europa_1_1127674.html",
         "published_date": "2026-06-11 12:57:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Axismel' at the West New York Farmers Market",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/axismel-west-new-york-farmers_1_1127671.html",
-        "published_date": "2026-06-11 12:15:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula and Sheinbaum reiterate their support for Bachelet's candidacy for the UN secretariat",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/lula-sheinbaum-reiteran-apoyo-candidatura_1_1127669.html",
-        "published_date": "2026-06-11 11:31:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The mural of a Chilean in Havana cannot hide the words \u201cdown with the dictatorship\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/mural-chileno-habana-no-ocultar_1_1127654.html",
-        "published_date": "2026-06-11 11:20:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran says it will turn the Middle East into \"hell\" for the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/iran-dice-convertira-oriente-medio_1_1127667.html",
-        "published_date": "2026-06-11 11:18:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fujimori is once again ahead of S\u00e1nchez in the final stretch of the scrutiny in Peru",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/fujimori-vuelve-situarse-delante-sanchez_1_1127663.html",
-        "published_date": "2026-06-11 11:02:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chronicles from Spain: Mondo\u00f1edo, a past that resists, a present that prevails (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cronicas-desde-espana-mondonedo-pasado-que-se-resiste-presente-que-se-impone-fotos/",
-        "published_date": "2026-06-11 04:45:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "History, beauty and delights of passion fruit",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/historia-belleza-y-delicias-del-maracuya/",
-        "published_date": "2026-06-11 04:29:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Whoever gets it gets it",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260610/al-que-le-toca-le-toca/",
-        "published_date": "2026-06-10 22:43:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leo XIV in Spain and the Cuba that crosses his path",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/leon-xiv-espana-cuba-cruza_1_1127651.html",
-        "published_date": "2026-06-10 21:13:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Inter-American Court of Human Rights orders the closure of El Helicoide",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/corte-interamericana-derechos-humanos-ordena_1_1127649.html",
-        "published_date": "2026-06-10 20:53:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Where are our children?Young Cubans in dungeons and silence from the authorities",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/hijos-jovenes-cubanos-calabozos-silencio_1_1127647.html",
-        "published_date": "2026-06-10 20:16:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "The probability of an Atlantic hurricane making landfall drops to 24% in 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/probabilidad-huracan-atlantico-toque-tierra_1_1127645.html",
-        "published_date": "2026-06-10 19:45:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Guantanamo, the head of the Pentagon warns that the United States is prepared for \u201cany eventuality\u201d in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/guantanamo-jefe-pentagono-advierte-ee_1_1127643.html",
-        "published_date": "2026-06-10 19:14:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Only passengers \"in need\" due to health or death will be able to travel by bus.",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/podran-viajar-omnibus-pasajeros-necesitados_1_1127633.html",
-        "published_date": "2026-06-10 19:05:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba will seek first victory in the Volleyball Nations League",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260610/cuba-buscara-primer-triunfo-en-liga-de-las-naciones-de-voleibol/",
-        "published_date": "2026-06-10 18:06:44",
         "category": "Local Events"
     }
 ]
