@@ -245,11 +245,11 @@
         "category": "Military"
     },
     {
-        "title": "They confirm the 28-year sentence against \u00c1lvaro Uribe's brother for creating a paramilitary group",
+        "title": "Vanguard suspends the shipment of 250,000 barrels of fuel to Cuba from the United States",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/confirman-condena-28-anos-hermano_1_1127440.html",
-        "published_date": "2026-06-05 09:58:41",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/vanguard-suspende-envio-cuba-250_1_1127729.html",
+        "published_date": "2026-06-13 12:16:47",
+        "category": "Energy"
     },
     {
         "title": "With the exception of Baracoa and Mais\u00ed, there has been no electricity in Guant\u00e1namo since Thursday",
@@ -413,11 +413,46 @@
         "category": "Economy"
     },
     {
-        "title": "World Environment Day: protect the nature we have (+Gallery)",
+        "title": "Puerto Rico raises its voice: More than 200 personalities sign urgent declaration for Cuba",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/dia-mundial-del-medio-ambiente-proteger-la-naturaleza-que-tenemos-galeria/",
-        "published_date": "2026-06-05 07:00:32",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/puerto-rico-levanta-la-voz-mas-de-200-personalidades-firman-declaracion-urgente-por-cuba/",
+        "published_date": "2026-06-13 11:13:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States eliminates the leader of the Aragua Train in Venezuela in an operation coordinated with Caracas",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/estados-unidos-elimina-venezuela-lider_1_1127726.html",
+        "published_date": "2026-06-13 11:03:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Computing at the edge (Edge AI)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/computacion-en-el-borde-edge-ai/",
+        "published_date": "2026-06-13 07:00:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Virgilio Regueira: Not very active Cyclone Season, yes;but without letting our guard down",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/virgilio-regueira-temporada-ciclonica-poco-activa-si-pero-sin-bajar-la-guardia/",
+        "published_date": "2026-06-13 04:00:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Joy and excitement in Cienfuegos: little pioneers receive their red scarf (+Gallery)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/alegria-y-emocion-en-cienfuegos-pequenos-pioneros-reciben-su-panoleta-roja-galeria/",
+        "published_date": "2026-06-13 01:07:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "From the plastic arts, children praise Jos\u00e9 Mart\u00ed in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/desde-las-artes-plasticas-los-ninos-enaltecen-a-jose-marti-en-cienfuegos/",
+        "published_date": "2026-06-13 00:51:43",
+        "category": "Local Events"
     },
     {
         "title": "\u201cMy Neighborhood for the Homeland\u201d: the daily battle from Castillo-CEN",
@@ -515,48 +550,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260612/hotel-royal-hicacos-gana-otro-premio-internacional/",
         "published_date": "2026-06-12 15:30:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "We continue to prepare quality leaders",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260612/seguimos-preparando-dirigentes-de-calidad/",
-        "published_date": "2026-06-12 14:54:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Granma's commitment to continue growing with new economic actors",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260612/la-apuesta-de-granma-por-continuar-creciendo-con-los-nuevos-actores-economicos/",
-        "published_date": "2026-06-12 14:46:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel explains priorities designed to overcome the difficulties of the current moment (+ Video)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/explica-diaz-canel-prioridades-disenadas-para-superar-las-dificultades-del-momento-actual-video/",
-        "published_date": "2026-06-12 14:10:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Print edition of June 12, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-12-junio-2026_132_1127705.html",
-        "published_date": "2026-06-12 13:50:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba does not accept the siege",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-no-acepta-el-asedio/",
-        "published_date": "2026-06-12 13:36:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel creates false expectations about economic reforms",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/diaz-canel-crea-falsas-expectativas_1_1127702.html",
-        "published_date": "2026-06-12 13:35:33",
         "category": "Local Events"
     }
 ]
