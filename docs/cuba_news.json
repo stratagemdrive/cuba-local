@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Tumba el Blockade youth expedition arrives in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32860-llega-hasta-camagueey-la-expedicion-juvenil-tumba-el-bloqueo",
+        "published_date": "2026-06-14 17:30:27",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Biocubafarma is going through its most complex stage due to the United States blockade",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/biocubafarma-atraviesa-su-etapa-mas-compleja-por-bloqueo-de-estados-unidos/",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "For Cuba and its workers: 22nd Congress of the CTC",
+        "title": "Pakistan announces agreement between Iran and the United States",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/por-cuba-y-sus-trabajadores-22-congreso-de-la-ctc/",
-        "published_date": "2026-06-08 14:22:11",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/pakistan-anuncia-acuerdo-entre-iran-y-estados-unidos/",
+        "published_date": "2026-06-14 21:53:34",
+        "category": "Military"
+    },
+    {
+        "title": "Israel does it again: Tel Aviv bombs Lebanon while an agreement is negotiated between Washington and Tehran",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/israel-lo-vuelve-a-hacer-tel-aviv-bombardea-el-libano-mientras-se-negocia-acuerdo-entre-washington-y-teheran/",
+        "published_date": "2026-06-14 12:10:29",
+        "category": "Military"
     },
     {
         "title": "\"A transition without negotiation with the military would be very difficult in Cuba\"",
@@ -221,20 +235,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/celebracion-en-cienfuegos-por-el-dia-del-trabajador-juridico/",
         "published_date": "2026-06-07 05:00:18",
-        "category": "Military"
-    },
-    {
-        "title": "Russian defense intercepted 376 Ukrainian drones on the day",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/defensa-rusa-intercepto-376-drones-ucranianos-en-la-jornada/",
-        "published_date": "2026-06-06 15:03:14",
-        "category": "Military"
-    },
-    {
-        "title": "Ra\u00fal Castro appears in public for the first time since his criminal indictment in the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/raul-castro-aparece-publico-primera_1_1127486.html",
-        "published_date": "2026-06-06 13:44:23",
         "category": "Military"
     },
     {
@@ -371,11 +371,18 @@
         "category": "Energy"
     },
     {
-        "title": "Despite the \u201cturbulent conditions,\u201d Russian companies say they are \u201cwilling to invest\u201d in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/pese-condiciones-turbulentas-empresas-rusas_1_1127490.html",
-        "published_date": "2026-06-06 14:23:58",
-        "category": "Energy"
+        "title": "A Congress of all for the common good",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260614/un-congreso-de-todos-por-el-bien-comun/",
+        "published_date": "2026-06-14 18:34:49",
+        "category": "Economy"
+    },
+    {
+        "title": "The lost veins of Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/a-fondo/60-reportajes/32858-las-venas-perdidas-del-camagueey",
+        "published_date": "2026-06-14 16:51:52",
+        "category": "Economy"
     },
     {
         "title": "Payment to retirees in Bandec Cienfuegos will begin on Tuesday the 16th",
@@ -413,143 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "Ukrainian attacks reach Yaroslavl and Tula in new long-range offensive",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ataques-ucranianos-alcanzan-yaroslavl-tula_1_1127760.html",
-        "published_date": "2026-06-14 12:44:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Machado thanks Trump for acting against crime in Venezuela",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/machado-agradece-trump-actuar-crimen_1_1127758.html",
-        "published_date": "2026-06-14 12:37:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Havana lives the World Cup and for 90 minutes Cubans forget the crisis",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/habana-vive-mundial-durante-90_1_1127756.html",
-        "published_date": "2026-06-14 12:23:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Going from state control to private management is not always a guarantee of an improvement in the service",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/pasar-control-estatal-gestion-privada_1_1127752.html",
-        "published_date": "2026-06-14 12:06:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ernesto Che Guevara and his love for animals",
+        "title": "When poetry brings together crowds",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260614/ernesto-che-guevara-y-su-amor-por-los-animales/",
-        "published_date": "2026-06-14 05:27:20",
+        "url": "https://www.trabajadores.cu/20260614/cuando-la-poesia-reune-a-multitudes/",
+        "published_date": "2026-06-15 00:12:25",
         "category": "Local Events"
     },
     {
-        "title": "champions of freedom",
+        "title": "Art multiplies in Granma communities this summer",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260614/paladines-de-la-libertad/",
-        "published_date": "2026-06-14 05:23:44",
+        "url": "https://www.trabajadores.cu/20260614/el-arte-se-multiplica-en-las-comunidades-granmenses-este-verano/",
+        "published_date": "2026-06-14 23:13:22",
         "category": "Local Events"
     },
     {
-        "title": "Maceo and Che: two titans twinned on June 14",
+        "title": "Workers\u2026 Palante",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260614/trabajadores-palante-23/",
+        "published_date": "2026-06-14 23:05:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia plans to send food to Cuba through the WFP",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/maceo-y-che-dos-titanes-hermanados-un-14-de-junio/",
-        "published_date": "2026-06-14 04:00:36",
+        "url": "https://www.5septiembre.cu/rusia-preve-enviar-alimentos-a-cuba-a-traves-del-pma/",
+        "published_date": "2026-06-14 22:10:26",
         "category": "Local Events"
     },
     {
-        "title": "D\u00edaz-Canel thanks Colombia for sending humanitarian aid",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/agradece-diaz-canel-a-colombia-por-envio-de-ayuda-humanitaria/",
-        "published_date": "2026-06-14 01:58:36",
+        "title": "The \u201cmagic\u201d of Jusvinza",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260614/la-magia-de-jusvinza/",
+        "published_date": "2026-06-14 20:41:48",
         "category": "Local Events"
     },
     {
-        "title": "President of Parliament exchanged with municipal counterparts",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/intercambio-presidente-del-parlamento-con-homologos-municipales/",
-        "published_date": "2026-06-13 19:56:14",
+        "title": "Digna Guerra: The best prize is the shared prize",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260614/digna-guerra-el-mejor-premio-es-el-premio-compartido/",
+        "published_date": "2026-06-14 20:29:13",
         "category": "Local Events"
     },
     {
-        "title": "The guava of discord",
+        "title": "The death of a lineman in C\u00e1rdenas points to the lack of security means for these professionals",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muerte-liniero-cardenas-apunta-falta_1_1127782.html",
+        "published_date": "2026-06-14 19:21:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "They sweep Cuba in the first week of the Volleyball Nations League",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/barren-cuba-primera-semana-liga_1_1127775.html",
+        "published_date": "2026-06-14 18:45:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "They promised baseball player Yadi\u00e1n Mart\u00ednez a home six years ago and the work remains abandoned in the weeds",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/pelotero-yadian-martinez-le-prometieron_1_1127777.html",
+        "published_date": "2026-06-14 18:39:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US authorizes the return of a Cuban deported to Cuba with an active immigration process",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/migracion/ee-uu-autoriza-regreso-cubano_1_1127780.html",
+        "published_date": "2026-06-14 18:25:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holgu\u00edn recognized its blood donors",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260614/reconocio-holguin-a-sus-donantes-de-sangre/",
+        "published_date": "2026-06-14 18:06:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camag\u00fcey teaching staff works for the closing of the school year",
         "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/lecturas/45-cronicas-sueltas/32857-la-guayaba-de-la-discordia",
-        "published_date": "2026-06-13 18:33:02",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32862-labora-personal-docente-de-camaguey-para-el-cierre-del-curso-escolar",
+        "published_date": "2026-06-14 17:51:23",
         "category": "Local Events"
     },
     {
-        "title": "Silvano Pedroso, the first black bishop of the Church in Cuba, dies",
+        "title": "Antonio Maceo and Ernesto Che Guevara: Titans of bronze and steel",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/historia-incio/personalidades-submenu/32859-antonio-maceo-y-ernesto-che-guevara-titanes-de-bronce-y-acero",
+        "published_date": "2026-06-14 17:32:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "If the neighborhood and the academy go together",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260614/si-van-juntos-el-barrio-y-la-academia/",
+        "published_date": "2026-06-14 17:09:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "How strategy games regained popularity among young users",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/fallece-silvano-pedroso-primer-obispo_1_1127742.html",
-        "published_date": "2026-06-13 17:50:48",
+        "url": "https://www.14ymedio.com/blogs/juegos/juegos-estrategia-recuperaron-popularidad-usuarios_132_1127773.html",
+        "published_date": "2026-06-14 16:49:23",
         "category": "Local Events"
     },
     {
-        "title": "A crime that is not forgotten",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-crimen-que-no-se-olvida/",
-        "published_date": "2026-06-13 17:39:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "France-Cuba Friendship Association celebrated its 65th anniversary with a solidarity demonstration in Paris (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/asociacion-de-amistad-francia-cuba-celebro-su-65-aniversario-con-manifestacion-de-solidaridad-en-paris-fotos/",
-        "published_date": "2026-06-13 17:09:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Electoral Council requests specialist",
+        "title": "What is known is not asked",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260613/consejo-electoral-nacional-solicita-especialista/",
-        "published_date": "2026-06-13 17:00:54",
+        "url": "https://www.trabajadores.cu/20260614/lo-que-se-sabe-no-se-pregunta/",
+        "published_date": "2026-06-14 16:13:20",
         "category": "Local Events"
     },
     {
-        "title": "The Cuban regime mobilizes its solidarity committees to send symbolic aid",
+        "title": "Remedios will celebrate its 511th anniversary",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260614/remedios-celebrara-su-aniversario-511/",
+        "published_date": "2026-06-14 16:00:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "A circus in the face of power and an increasingly lonely city",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/regimen-cubano-moviliza-comites-solidaridad_1_1127739.html",
-        "published_date": "2026-06-13 16:57:22",
+        "url": "https://www.14ymedio.com/cuba/circo-frente-ciudad-vez-sola_1_1127771.html",
+        "published_date": "2026-06-14 15:30:51",
         "category": "Local Events"
     },
     {
-        "title": "The imminent game: tame dispossession or garrote",
+        "title": "A dance premiere puts the concepts of power and responsibility to dance in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura/estreno-danza-pone-bailar-habana_1_1127768.html",
+        "published_date": "2026-06-14 13:55:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maceo and Che: the rebellion of not giving up",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-juego-a-las-inminencias-despojo-manso-o-garrote/",
-        "published_date": "2026-06-13 16:48:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran affirms that agreement with the US is close to being finalized",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-afirma-que-acuerdo-con-ee-uu-esta-proximo-a-concretarse/",
-        "published_date": "2026-06-13 16:19:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Always beat",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260613/latir-siempre/",
-        "published_date": "2026-06-13 15:35:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coalition demands ICE-free World Cup",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260613/una-coalicion-exige-una-copa-del-mundo-libre-de-ice/",
-        "published_date": "2026-06-13 15:20:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peru: coup plans of the reaction",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260613/peru-planes-golpistas-de-la-reaccion/",
-        "published_date": "2026-06-13 15:01:45",
+        "url": "https://www.5septiembre.cu/maceo-y-che-la-rebeldia-de-no-claudicar/",
+        "published_date": "2026-06-14 13:51:00",
         "category": "Local Events"
     }
 ]
