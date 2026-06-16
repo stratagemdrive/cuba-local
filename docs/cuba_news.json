@@ -1,5 +1,12 @@
 [
     {
+        "title": "First Iranian ship passes through US naval blockade zone",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/primer-buque-irani-atraviesa-la-zona-del-bloqueo-naval-estadounidense/",
+        "published_date": "2026-06-16 14:21:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuban Foreign Minister highlights scientific progress despite energy fence",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/canciller-cubano-destaca-avance-cientifico-pese-a-cerco-energetico/",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The leftist candidate overtakes Fujimori in Peru, but votes from abroad are still missing",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/candidato-izquierda-adelanta-fujimori-peru_1_1127593.html",
-        "published_date": "2026-06-09 12:12:27",
-        "category": "Diplomacy"
-    },
-    {
         "title": "The union movement changed his life",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260614/el-movimiento-sindical-cambio-su-vida/",
@@ -222,6 +222,13 @@
         "url": "https://www.trabajadores.cu/20260608/reconocen-a-juristas-pineros/",
         "published_date": "2026-06-08 20:43:42",
         "category": "Military"
+    },
+    {
+        "title": "Holgu\u00edn already has its first solinera",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260616/holguin-ya-tiene-su-primera-solinera/",
+        "published_date": "2026-06-16 14:49:55",
+        "category": "Energy"
     },
     {
         "title": "The dam that Che imagined today embraces Granma",
@@ -343,11 +350,11 @@
         "category": "Energy"
     },
     {
-        "title": "Neighbors cut off the V\u00eda Blanca in Havana after three days of blackout",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/vecinos-cortan-via-blanca-habana_1_1127555.html",
-        "published_date": "2026-06-08 12:14:52",
-        "category": "Energy"
+        "title": "Summer, a season to learn",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260616/el-verano-una-estacion-para-aprender/",
+        "published_date": "2026-06-16 15:07:34",
+        "category": "Economy"
     },
     {
         "title": "Regional entity present at conference on oceans in Kenya",
@@ -399,150 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Raw materials company reduces environmental impact in Holgu\u00edn",
+        "title": "Travelers without a ticket wait on the V\u00eda Blanca for transportation to the interior of Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/viajeros-pasaje-esperan-via-blanca_1_1127838.html",
+        "published_date": "2026-06-16 15:37:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Volleyball Nations League: Cuba tries to heal the wound",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260616/liga-de-las-naciones-de-voleibol-cuba-trata-de-sanar-la-herida/",
+        "published_date": "2026-06-16 15:19:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro warned of possible bombings if the extreme right wins",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/empresa-de-materias-primas-reduce-impacto-ambiental-en-holguin/",
-        "published_date": "2026-06-08 14:10:41",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/petro-alerto-sobre-eventuales-bombardeos-si-gana-la-ultraderecha/",
+        "published_date": "2026-06-16 15:01:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "What matches are being played today in the 2026 World Cup?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/que-partidos-se-juegan-hoy-en-la-copa-mundial-2026/",
+        "published_date": "2026-06-16 14:29:28",
+        "category": "Local Events"
     },
     {
         "title": "Extraordinary Plenary Session of the Central Committee of the Communist Party of Cuba is called",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/convocan-pleno-extraordinario-del-comite-central-del-partido-comunista-de-cuba/",
-        "published_date": "2026-06-16 01:38:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubacabana, new work that wins the Celestino",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260615/cubacabana-nueva-obra-ganadora-del-celestino/",
-        "published_date": "2026-06-15 22:41:46",
+        "url": "https://www.trabajadores.cu/20260616/convocan-pleno-extraordinario-del-comite-central-del-partido-comunista-de-cuba/",
+        "published_date": "2026-06-16 14:23:24",
         "category": "Local Events"
     },
     {
-        "title": "63,800 Cubans of the 295,590 who reside in Spain settle in the Canary Islands",
+        "title": "\"If it weren't for the private sector, many grandparents would be left with half a plate\"",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/establecen-canarias-63-800-cubanos_1_1127816.html",
-        "published_date": "2026-06-15 21:08:56",
+        "url": "https://www.14ymedio.com/cuba/si-no-fuera-privados-abuelitos_1_1127837.html",
+        "published_date": "2026-06-16 14:20:28",
         "category": "Local Events"
     },
     {
-        "title": "Lawyers and opponents in the US will work on a legal framework that helps a transition in Cuba",
+        "title": "Delegations from 14 nations will attend Russia Asean Summit",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/delegaciones-de-14-naciones-asistiran-a-cumbre-rusia-asean/",
+        "published_date": "2026-06-16 14:11:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "GAESA, target of opportunistic digital campaign against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/gaesa-blanco-de-campana-digital-oportunista-contra-cuba/",
+        "published_date": "2026-06-16 13:52:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two years in prison for a Yoruba godfather for appropriating money for a ceremony in Cuba",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/abogados-opositores-exilio-trabajaran-transicion_1_1127814.html",
-        "published_date": "2026-06-15 20:47:36",
+        "url": "https://www.14ymedio.com/internacional/anos-prision-padrino-yoruba-apropiarse_1_1127835.html",
+        "published_date": "2026-06-16 13:46:48",
         "category": "Local Events"
     },
     {
-        "title": "The University without entrance exams opens more doubts than doors in Matanzas",
+        "title": "Universidad de Oriente graduates 2,134 new professionals",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/universidad-de-oriente-gradua-a-2-134-nuevos-profesionales/",
+        "published_date": "2026-06-16 13:38:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Some surprises at the beginning of Capablanca in Memoriam",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/algunas-sorpresas-en-el-inicio-del-capablanca-in-memoriam/",
+        "published_date": "2026-06-16 13:29:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "NGO accused Israel of increasing repression against Palestinian women",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ong-acuso-a-israel-de-incrementar-represion-contra-mujeres-palestinas/",
+        "published_date": "2026-06-16 13:11:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prensa Latina, a pillar in the business environment of Cuban journalism",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/prensa-latina-puntal-en-el-entorno-empresarial-del-periodismo-cubano/",
+        "published_date": "2026-06-16 13:04:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, June 16, 2026",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/universidad-examenes-ingreso-abre-dudas_1_1127812.html",
-        "published_date": "2026-06-15 19:08:29",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-16-junio_7_1127834.html",
+        "published_date": "2026-06-16 11:35:45",
         "category": "Local Events"
     },
     {
-        "title": "Two reports on Havana syndrome revoked \"for not complying with analytical standards\"",
+        "title": "Informative coffee for Tuesday, June 16, 2026",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/revocados-informes-sindrome-habana-no_1_1127809.html",
-        "published_date": "2026-06-15 18:42:16",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-16-junio_132_1127832.html",
+        "published_date": "2026-06-16 11:04:58",
         "category": "Local Events"
     },
     {
-        "title": "Cuba mourns the death of Taty Almeida, Mother of Plaza de Mayo",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-lamenta-fallecimiento-de-taty-almeida-madre-de-plaza-de-mayo/",
-        "published_date": "2026-06-15 18:41:15",
+        "title": "The nakedness of wanting to be",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260616/la-desnudez-de-querer-ser/",
+        "published_date": "2026-06-16 11:04:14",
         "category": "Local Events"
     },
     {
-        "title": "Raped and murdered in Havana by a neighbor with a criminal record",
+        "title": "What fish are healthiest to eat?",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/violada-asesinada-habana-vecino-antecedentes_1_1127807.html",
-        "published_date": "2026-06-15 18:09:36",
+        "url": "https://www.14ymedio.com/internacional/pescados-son-sanos-comer_1_1127825.html",
+        "published_date": "2026-06-16 10:01:14",
         "category": "Local Events"
     },
     {
-        "title": "Arab states support US-Iran agreement",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/estados-arabes-respaldan-acuerdo-eeuu-iran/",
-        "published_date": "2026-06-15 17:20:24",
+        "title": "New earthquake reported in western Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32869-reportan-nuevo-sismo-en-occidente-de-cuba",
+        "published_date": "2026-06-16 09:58:30",
         "category": "Local Events"
     },
     {
-        "title": "Lebanon denounces Israeli use of banned herbicides to the UN",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/libano-denuncia-ante-la-onu-uso-israeli-de-herbicidas-prohibidos/",
-        "published_date": "2026-06-15 17:16:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Voting begins abroad in Colombia's presidential runoff",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/inicia-votacion-en-el-exterior-de-balotaje-presidencial-de-colombia/",
-        "published_date": "2026-06-15 17:11:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Soccer World Cup: Germany took out the roller",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/mundial-de-futbol-alemania-saco-el-rodillo/",
-        "published_date": "2026-06-15 17:04:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Spanish platform Dise\u00f1osCuba, linked to Gaesa, suspends its activities",
+        "title": "The skyrocketing dollar complicates the arithmetic of survival",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/suspende-actividades-plataforma-espanola-envioscuba_1_1127805.html",
-        "published_date": "2026-06-15 16:31:00",
+        "url": "https://www.14ymedio.com/cuba/subida-vertiginosa-dolar-complica-aritmetica_1_1127826.html",
+        "published_date": "2026-06-16 09:48:57",
         "category": "Local Events"
     },
     {
-        "title": "Unemployed, almost half of the active population in Sancti Sp\u00edritus",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/empleo-mitad-poblacion-activa-sancti_1_1127803.html",
-        "published_date": "2026-06-15 16:10:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban artist Lizt Alfonso received an international award in Mexico",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/artista-cubana-lizt-alfonso-recibio-premio-internacional-en-mexico/",
-        "published_date": "2026-06-15 16:00:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holgu\u00edn and Las Tunas secure postseason tickets for the IV Elite Cuban Baseball League",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/holguin-y-las-tunas-aseguran-boletos-a-postemporada-de-la-iv-liga-elite-del-beisbol-cubano/",
-        "published_date": "2026-06-15 15:51:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos: tribute to the Giralt sisters",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-homenaje-a-las-hermanas-giralt/",
-        "published_date": "2026-06-15 15:45:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guiteras stops again, the fifteenth time so far this year",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/vuelve-averiarse-guiteras-decimoquinta-vez_1_1127802.html",
-        "published_date": "2026-06-15 15:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jorge Hodel\u00edn becomes world record holder",
-        "source": "Granma",
-        "url": "http://en.granma.cu/deportes/2026-06-15/jorge-hodelin-becomes-world-record-holder",
-        "published_date": "2026-06-15 13:06:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maceo and Che Guevara: The rebellion of never surrendering",
-        "source": "Granma",
-        "url": "http://en.granma.cu/cuba/2026-06-15/maceo-and-che-guevara-the-rebellion-of-never-surrendering",
-        "published_date": "2026-06-15 13:06:55",
+        "title": "Prensa Latina: 67 years as the voice of the global South",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32868-prensa-latina-67-anos-como-la-voz-del-sur-global",
+        "published_date": "2026-06-16 09:45:58",
         "category": "Local Events"
     }
 ]
