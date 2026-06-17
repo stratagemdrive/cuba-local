@@ -217,17 +217,24 @@
         "category": "Military"
     },
     {
-        "title": "Pinero jurists recognized",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260608/reconocen-a-juristas-pineros/",
-        "published_date": "2026-06-08 20:43:42",
-        "category": "Military"
+        "title": "A 17-year-old teenager dies in Matanzas stabbed by another 14-year-old girl",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-adolescente-17-anos-matanzas_1_1127842.html",
+        "published_date": "2026-06-16 16:35:58",
+        "category": "Energy"
     },
     {
         "title": "Holgu\u00edn already has its first solinera",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260616/holguin-ya-tiene-su-primera-solinera/",
         "published_date": "2026-06-16 14:49:55",
+        "category": "Energy"
+    },
+    {
+        "title": "The dam that Che imagined embraces Granma today",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260615/la-presa-que-el-che-imagino-abraza-hoy-a-granma/",
+        "published_date": "2026-06-15 22:58:53",
         "category": "Energy"
     },
     {
@@ -336,18 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "Arrested 18 months ago for protesting a blackout, three women will be sentenced on July 1",
+        "title": "They rob a bank in Havana a few hours before the delivery of pensions",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/detenidas-18-meses-protestar-apagon_1_1127570.html",
-        "published_date": "2026-06-08 18:42:47",
-        "category": "Energy"
-    },
-    {
-        "title": "A train and two power plants are paralyzed due to fuel theft",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tren-plantas-electricas-quedan-paralizados_1_1127559.html",
-        "published_date": "2026-06-08 17:30:36",
-        "category": "Energy"
+        "url": "https://www.14ymedio.com/cuba/asaltan-banco-habana-horas-entrega_1_1127850.html",
+        "published_date": "2026-06-16 19:24:59",
+        "category": "Economy"
     },
     {
         "title": "Summer, a season to learn",
@@ -404,6 +404,55 @@
         "url": "https://www.14ymedio.com/cuba/rey-llega-sancti-spiritus-bolsillo_1_1127602.html",
         "published_date": "2026-06-09 17:59:48",
         "category": "Economy"
+    },
+    {
+        "title": "It won't be 54 anymore",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ya-no-seran-54/",
+        "published_date": "2026-06-17 00:09:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US issues a warning against a company for \"trafficking in confiscated properties\" in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-emite-advertencia-empresa_1_1127861.html",
+        "published_date": "2026-06-16 23:46:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cienfuegos faces social indiscipline, crimes, corruption and illegalities",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/enfrenta-cienfuegos-indisciplinas-sociales-delitos-corrupcion-e-ilegalidades/",
+        "published_date": "2026-06-16 23:32:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Repsol signs an agreement with Venezuela to explore a new oil zone in the country",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/repsol-firma-acuerdo-venezuela-explorar_1_1127859.html",
+        "published_date": "2026-06-16 21:08:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Archdioceses of Puerto Rico and Panama send 335,000 hosts to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/arquidiocesis-puerto-rico-panama-envian_1_1127854.html",
+        "published_date": "2026-06-16 20:27:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The daughter of former vice president Carlos Lage and her husband, sanctioned by the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/hija-ex-vicepresidente-carlos-lage_1_1127848.html",
+        "published_date": "2026-06-16 19:08:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The G7 gives a boost to Ukraine and agrees to more sanctions on Russia to push it to negotiate",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/g7-da-espaldarazo-ucrania-acuerda_1_1127846.html",
+        "published_date": "2026-06-16 18:44:36",
+        "category": "Local Events"
     },
     {
         "title": "Travelers without a ticket wait on the V\u00eda Blanca for transportation to the interior of Cuba",
@@ -490,59 +539,10 @@
         "category": "Local Events"
     },
     {
-        "title": "Prensa Latina, a pillar in the business environment of Cuban journalism",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/prensa-latina-puntal-en-el-entorno-empresarial-del-periodismo-cubano/",
-        "published_date": "2026-06-16 13:04:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, June 16, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-16-junio_7_1127834.html",
-        "published_date": "2026-06-16 11:35:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, June 16, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-16-junio_132_1127832.html",
-        "published_date": "2026-06-16 11:04:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The nakedness of wanting to be",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260616/la-desnudez-de-querer-ser/",
-        "published_date": "2026-06-16 11:04:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "What fish are healthiest to eat?",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/pescados-son-sanos-comer_1_1127825.html",
-        "published_date": "2026-06-16 10:01:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "New earthquake reported in western Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32869-reportan-nuevo-sismo-en-occidente-de-cuba",
-        "published_date": "2026-06-16 09:58:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The skyrocketing dollar complicates the arithmetic of survival",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/subida-vertiginosa-dolar-complica-aritmetica_1_1127826.html",
-        "published_date": "2026-06-16 09:48:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prensa Latina: 67 years as the voice of the global South",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32868-prensa-latina-67-anos-como-la-voz-del-sur-global",
-        "published_date": "2026-06-16 09:45:58",
+        "title": "The foreman of the Blockade Inc. Company: What Rubio owes to hatred",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-06-16/the-foreman-of-the-blockade-inc-company-what-rubio-owes-to-hatred",
+        "published_date": "2026-06-16 13:06:28",
         "category": "Local Events"
     }
 ]
