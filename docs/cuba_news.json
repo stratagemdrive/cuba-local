@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Cuba honors M\u00e1ximo G\u00f3mez B\u00e1ez",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260617/honra-cuba-a-maximo-gomez-baez/",
+        "published_date": "2026-06-17 21:07:06",
+        "category": "Military"
+    },
+    {
         "title": "The union movement changed his life",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260614/el-movimiento-sindical-cambio-su-vida/",
@@ -210,11 +217,25 @@
         "category": "Military"
     },
     {
-        "title": "Trump announces US retaliation after Iran shoots down Apache helicopter",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-anuncia-represalias-de-ee-uu-tras-derribo-de-un-helicoptero-apache-por-iran/",
-        "published_date": "2026-06-09 21:20:12",
-        "category": "Military"
+        "title": "The lack of fuel forces the Elite League calendar to be modified",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/falta-combustible-obliga-modificar-calendario_1_1127898.html",
+        "published_date": "2026-06-17 20:57:06",
+        "category": "Energy"
+    },
+    {
+        "title": "Surrounded by garbage, Miramar is no longer the glamorous neighborhood it once was.",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cercado-basura-miramar-no-barrio_1_1127895.html",
+        "published_date": "2026-06-17 19:59:57",
+        "category": "Energy"
+    },
+    {
+        "title": "Zapata Swamp in summer",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260617/cienaga-de-zapata-en-verano/",
+        "published_date": "2026-06-17 15:20:38",
+        "category": "Energy"
     },
     {
         "title": "Vehicles and fuel contribute to the strong increase in US sales to Cuba",
@@ -336,11 +357,18 @@
         "category": "Energy"
     },
     {
-        "title": "The US authorizes the shipment of 250,000 barrels of diesel and gasoline to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-autoriza-envio-250_1_1127623.html",
-        "published_date": "2026-06-10 09:14:00",
-        "category": "Energy"
+        "title": "Mipyme in Havana offers vacancies",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260617/mipyme-en-la-habana-ofrece-vacantes/",
+        "published_date": "2026-06-17 18:00:50",
+        "category": "Economy"
+    },
+    {
+        "title": "Business forum in Santiago de Cuba in favor of production and services",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260617/foro-de-negocios-en-santiago-de-cuba-a-favor-de-la-produccion-y-los-servicios/",
+        "published_date": "2026-06-17 17:10:16",
+        "category": "Economy"
     },
     {
         "title": "The slow agony of supermarkets in dollars",
@@ -406,11 +434,123 @@
         "category": "Economy"
     },
     {
-        "title": "The King arrives in Sancti Sp\u00edritus, but the pocket remains uncrowned",
+        "title": "La Guiteras will be out of the system for five days to repair more than 100 welds",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/rey-llega-sancti-spiritus-bolsillo_1_1127602.html",
-        "published_date": "2026-06-09 17:59:48",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cuba/guiteras-estara-cinco-dias-fuera_1_1127900.html",
+        "published_date": "2026-06-17 22:40:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US demands the \u201cimmediate release\u201d of minor Jonathan Muir",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ee-uu-exige-liberacion-inmediata_1_1127891.html",
+        "published_date": "2026-06-17 19:44:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Extraordinary Plenary Session of the Central Committee of the Communist Party of Cuba begins",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/inicia-pleno-extraordinario-del-comite-central-del-partido-comunista-de-cuba/",
+        "published_date": "2026-06-17 19:32:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The European Parliament will vote on whether to suspend the agreement with Cuba due to the lack of democratic progress",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/eurocamara-votara-si-exige-suspender_1_1127893.html",
+        "published_date": "2026-06-17 19:09:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holgu\u00edn reports its first birth of triplets in 2026",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260617/holguin-reporta-su-primer-alumbramiento-de-trillizos-en-2026/",
+        "published_date": "2026-06-17 19:00:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Day of the Cuban Historian begins in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/inicia-en-cienfuegos-jornada-por-el-dia-del-historiador-cubano/",
+        "published_date": "2026-06-17 18:05:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US and Honduras negotiate \u201ccombat operations\u201d against organized crime within the framework of the Anti-Cartel Coalition",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/eeuu-y-honduras-negocian-operaciones-de-combate-contra-el-crimen-organizado-en-el-marco-de-la-coalicion-anticarteles/",
+        "published_date": "2026-06-17 16:57:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Day to Fight Desertification, a day for life",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/dia-de-lucha-contra-la-desertificacion-una-jornada-por-la-vida/",
+        "published_date": "2026-06-17 16:47:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "T\u00fcrkiye reaffirms its support for the security and stability of Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/turkiye-reafirma-su-apoyo-a-la-seguridad-y-estabilidad-del-libano/",
+        "published_date": "2026-06-17 16:22:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The all-time goal record is about to fall",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-record-historico-de-goles-esta-a-punto-a-caer/",
+        "published_date": "2026-06-17 16:12:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Weekly summary from June 8 to 14",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260617/resumen-semanal-del-8-al-14-de-junio/",
+        "published_date": "2026-06-17 16:04:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Council of State calls an Extraordinary Session of the National Assembly of People's Power",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/convoca-consejo-de-estado-a-sesion-extraordinaria-de-la-asamblea-nacional-del-poder-popular/",
+        "published_date": "2026-06-17 15:34:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Spanish hotel company Barcel\u00f3 outlines its total departure from Cuba by 2027",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/barcelo-perfila-salida-total-cuba_1_1127889.html",
+        "published_date": "2026-06-17 15:31:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "M\u00e1ximo G\u00f3mez: Distinguished and endearing son of the Cuban people",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/maximo-gomez-hijo-insigne-y-entranable-del-pueblo-cubano/",
+        "published_date": "2026-06-17 15:29:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump's measures against Cuba in his second term: The total siege that punishes the Cuban people",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/medidas-de-trump-contra-cuba-en-su-segundo-mandato-el-cerco-total-que-castiga-al-pueblo-cubano/",
+        "published_date": "2026-06-17 15:24:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "A US court rules against Bacardi in the dispute over Havana Club",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/bacardi-pierde-tribunales-disputa-cubaexport_1_1127888.html",
+        "published_date": "2026-06-17 15:14:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Camag\u00fcey you breathe a little with the politics of cadres",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260617/en-camaguey-se-respira-un-poco-con-la-politica-de-cuadros/",
+        "published_date": "2026-06-17 14:56:11",
+        "category": "Local Events"
     },
     {
         "title": "Solidarity with Cuba against right-wing maneuver in the European Parliament",
@@ -431,125 +571,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/afectaciones-al-servicio-electrico-para-hoy-miercoles-3/",
         "published_date": "2026-06-17 13:44:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The work of historians stands out in the country",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260617/destacan-en-el-pais-labor-de-historiadores/",
-        "published_date": "2026-06-17 13:34:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel and Ra\u00fal on G\u00f3mez, the teacher of the Cubans who faced Spanish imperialism",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260617/fidel-y-raul-sobre-gomez-el-maestro-de-los-cubanos-que-enfrentaron-al-imperialismo-espanol/",
-        "published_date": "2026-06-17 13:20:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fujimori increases his lead and his left-wing opponent calls for a large protest in Peru",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/fujimori-incrementa-ventaja-adversario-izquierda_1_1127878.html",
-        "published_date": "2026-06-17 12:32:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "M\u00e1ximo G\u00f3mez: For Cuba free until the end",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260617/maximo-gomez-por-cuba-libre-hasta-el-final/",
-        "published_date": "2026-06-17 11:56:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The New York Historical reviews democracy in the United States and remembers that \"it was born from a protest\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura/new-york-historical-repasa-democracia_1_1127876.html",
-        "published_date": "2026-06-17 11:31:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE transfers immigrants from 'Alligator Alcatraz' due to the risk of hurricanes in the US",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ice-traslada-inmigrantes-alligator-alcatraz_1_1127875.html",
-        "published_date": "2026-06-17 11:16:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delta suspends its flights from Atlanta and reduces the frequency from Miami to Havana by 50%",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/delta-suspende-vuelos-atlanta-reduce_1_1127874.html",
-        "published_date": "2026-06-17 11:10:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mirta Ojito presents 'The memory of the waves' in Madrid, together with Mar\u00eda Due\u00f1as",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/mirta-ojito-presenta-madrid-memoria_1_1127870.html",
-        "published_date": "2026-06-17 11:00:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dramatized reading of 'The Empty House', by Dayana Contreras",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/lectura-dramatizada-casa-vacia-dayana_1_1127867.html",
-        "published_date": "2026-06-17 09:54:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The guarded party' by Leandro Feal",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/fiesta-vigilada-leandro-feal_1_1127864.html",
-        "published_date": "2026-06-17 09:41:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gema and Pavel return to the Miami stage with Diana Fuentes as a guest",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/gema-pavel-regresan-escenarios-miami_1_1127673.html",
-        "published_date": "2026-06-17 09:08:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fathers of the Cienfuegos Thermoelectric Plant: Genaro M\u00e1rquez G\u00f3mez",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/padres-de-la-termoelectrica-de-cienfuegos-genaro-marquez-gomez/",
-        "published_date": "2026-06-17 05:00:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fathers of the Cienfuegos Thermoelectric Plant: Eliester Fern\u00e1ndez Rodr\u00edguez",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/padres-de-la-termoelectrica-de-cienfuegos-eliester-fernandez-rodriguez/",
-        "published_date": "2026-06-17 04:00:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "It won't be 54 anymore",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ya-no-seran-54/",
-        "published_date": "2026-06-17 00:09:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US issues a warning against a company for \"trafficking in confiscated properties\" in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-emite-advertencia-empresa_1_1127861.html",
-        "published_date": "2026-06-16 23:46:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos faces social indiscipline, crimes, corruption and illegalities",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/enfrenta-cienfuegos-indisciplinas-sociales-delitos-corrupcion-e-ilegalidades/",
-        "published_date": "2026-06-16 23:32:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Repsol signs an agreement with Venezuela to explore a new oil zone in the country",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/repsol-firma-acuerdo-venezuela-explorar_1_1127859.html",
-        "published_date": "2026-06-16 21:08:28",
         "category": "Local Events"
     }
 ]
