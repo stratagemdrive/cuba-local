@@ -1,5 +1,12 @@
 [
     {
+        "title": "Unionists from the Hispanic region reaffirm their support for Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260619/sindicalistas-de-la-region-hispana-reafirman-su-apoyo-a-cuba/",
+        "published_date": "2026-06-19 20:57:24",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Italian Foreign Minister canceled visit to the US due to Trump's insult to Meloni",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cancelo-canciller-italiano-visita-a-eeuu-por-ofensa-de-trump-a-meloni/",
@@ -91,6 +98,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Oviedo: two passions and three conferences",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260619/oviedo-dos-pasiones-y-tres-congresos/",
+        "published_date": "2026-06-19 15:47:51",
+        "category": "Military"
+    },
+    {
         "title": "Cuba: the defense of the socialist homeland is a priority",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cuba-la-defensa-de-la-patria-socialista-es-prioridad/",
@@ -166,6 +180,13 @@
         "url": "https://www.trabajadores.cu/20260612/cuando-la-guerra-no-tiene-fronteras/",
         "published_date": "2026-06-12 15:44:32",
         "category": "Military"
+    },
+    {
+        "title": "Paradox of Innovation: technology for life, not war",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/paradoja-de-la-innovacion-tecnologia-para-la-vida-no-la-guerra/",
+        "published_date": "2026-06-20 04:00:29",
+        "category": "Energy"
     },
     {
         "title": "Expert from International Organization installs modern analyzer in Cienfuegos",
@@ -287,13 +308,6 @@
         "category": "Energy"
     },
     {
-        "title": "Urban minibus service rescheduled in Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32853-reprograman-servicio-de-microbuses-urbanos-en-camagueey",
-        "published_date": "2026-06-12 10:03:21",
-        "category": "Energy"
-    },
-    {
         "title": "A brave and bold proposal to advance the construction of socialism",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260618/una-propuesta-valiente-y-audaz-para-avanzar-en-la-construccion-del-socialismo/",
@@ -378,6 +392,34 @@
         "category": "Economy"
     },
     {
+        "title": "\"Superficial smoke signals,\" says the US about the economic reforms of the Cuban regime",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/senales-humo-superficiales-dice-ee_1_1127964.html",
+        "published_date": "2026-06-20 12:13:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fathers of the Cienfuegos Thermoelectric Plant: Miguel Fumero Rodr\u00edguez, the guajiro",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/padres-de-la-termoelectrica-de-cienfuegos-miguel-fumero-rodriguez-el-guajiro/",
+        "published_date": "2026-06-20 05:00:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Parents of Thermoelectric: For Yaiko, her children are her greatest treasure",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/padres-de-la-termoelectrica-para-yaiko-sus-hijos-son-su-mayor-tesoro/",
+        "published_date": "2026-06-20 04:00:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "at a conga pace",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260619/a-paso-de-conga/",
+        "published_date": "2026-06-19 21:10:12",
+        "category": "Local Events"
+    },
+    {
         "title": "Trump sees an operation like the one in Venezuela \"possible\": \"Cuba is one jump away from the US\"",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/trump-ve-posible-operacion-venezuela_1_1127962.html",
@@ -389,6 +431,13 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/air-europa-aumenta-vuelos-cuba_1_1127960.html",
         "published_date": "2026-06-19 20:12:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Provincial Conference of Havana: \u201cWe are not hostages of the moment\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260619/conferencia-provincial-de-la-habana-no-somos-rehenes-del-momento/",
+        "published_date": "2026-06-19 19:38:54",
         "category": "Local Events"
     },
     {
@@ -413,6 +462,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Productive greeting to the 22nd Congress of the CTC",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260619/saludo-productivo-al-22-congreso-de-la-ctc/",
+        "published_date": "2026-06-19 18:24:25",
+        "category": "Local Events"
+    },
+    {
         "title": "Colombian citizens are reminded of steps to follow on election day",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/recuerdan-a-ciudadania-colombiana-pasos-a-seguir-en-jornada-electoral/",
@@ -424,6 +480,13 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/mexico-se-convirtio-en-el-primer-clasificado-a-la-segunda-ronda-del-mundial/",
         "published_date": "2026-06-19 17:46:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "From the classrooms to the 22nd Congress",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260619/de-las-aulas-al-22-congreso/",
+        "published_date": "2026-06-19 16:39:09",
         "category": "Local Events"
     },
     {
@@ -441,6 +504,20 @@
         "category": "Local Events"
     },
     {
+        "title": "A scenario to strengthen unity",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260619/un-escenario-para-fortalecer-la-unidad/",
+        "published_date": "2026-06-19 15:15:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heirloom",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260619/reliquia-de-familia/",
+        "published_date": "2026-06-19 15:06:54",
+        "category": "Local Events"
+    },
+    {
         "title": "They present economic and social transformations before the Cuban Parliament (+ Special Coverage)",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/presentan-transformaciones-economicas-y-sociales-ante-el-parlamento-cubano-cobertura-especial/",
@@ -452,69 +529,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/suspendidas-las-reservaciones-mediante-la-aplicacion-viajando-y-en-agencias/",
         "published_date": "2026-06-19 14:34:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Print edition of June 19, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-19-junio-2026_132_1127947.html",
-        "published_date": "2026-06-19 14:32:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from June 19, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-19-junio-2026_7_1127945.html",
-        "published_date": "2026-06-19 11:57:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "When A Patchwork Of Free Icons Starts Costing More Than A Subscription",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/when-patchwork-of-free-icons_132_1127942.html",
-        "published_date": "2026-06-19 11:43:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from June 19, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-19-junio-2026_132_1127941.html",
-        "published_date": "2026-06-19 11:28:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The necessary fuss",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32886-el-alboroto-necesario",
-        "published_date": "2026-06-19 10:36:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US sits down to negotiate with the old and current Parliament to accelerate transition in Venezuela",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-sienta-negociar-viejo_1_1127936.html",
-        "published_date": "2026-06-19 10:22:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Multi-award winning in Concienci@Verde contest, Little Dreamers project",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32885-multipremiado-en-concurso-concienci-verde-proyecto-pequenos-sonadores",
-        "published_date": "2026-06-19 10:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dissident academic Alina L\u00f3pez detained again while Parliament was voting on economic reforms",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nuevo-detenida-academica-disidente-alina_1_1127934.html",
-        "published_date": "2026-06-19 10:08:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "They promote collective participation in problem solving",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32884-promueven-participacion-colectiva-en-solucion-de-problemas",
-        "published_date": "2026-06-19 10:01:23",
         "category": "Local Events"
     }
 ]
