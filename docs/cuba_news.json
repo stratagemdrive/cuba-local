@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuban Foreign Minister denounces tightening of the US blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/canciller-cubano-denuncia-recrudecimiento-del-bloqueo-de-eeuu/",
+        "published_date": "2026-06-20 15:30:59",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "State of emergency in Bolivia after seven weeks of road blockades by the forces of Evo Morales",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/excepcion-bolivia-siete-semanas-bloqueos_1_1127966.html",
+        "published_date": "2026-06-20 13:14:57",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Unionists from the Hispanic region reaffirm their support for Cuba",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260619/sindicalistas-de-la-region-hispana-reafirman-su-apoyo-a-cuba/",
@@ -84,18 +98,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Minrex denounces aggressive nature of anti-Cuban sectors in Florida",
+        "title": "China shows capabilities of its Dongfeng-17 missile in military exercise",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncia-minrex-naturaleza-agresiva-de-sectores-anticubanos-en-la-florida/",
-        "published_date": "2026-06-12 16:49:02",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/china-muestra-capacidad-de-su-misil-dongfeng-17-en-ejercicio-militar/",
+        "published_date": "2026-06-20 15:47:20",
+        "category": "Military"
     },
     {
-        "title": "D\u00edaz-Canel explains priorities designed to overcome the difficulties of the current moment (+ Video)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260612/explica-diaz-canel-prioridades-disenadas-para-superar-las-dificultades-del-momento-actual-video/",
-        "published_date": "2026-06-12 13:56:11",
-        "category": "Diplomacy"
+        "title": "Strait of Hormuz closes due to Israeli attacks in Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cierra-el-estrecho-de-ormuz-ante-ataques-de-israel-en-el-libano/",
+        "published_date": "2026-06-20 15:39:55",
+        "category": "Military"
     },
     {
         "title": "Oviedo: two passions and three conferences",
@@ -172,13 +186,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/el-adios-simbolico-a-hugo/",
         "published_date": "2026-06-14 09:00:53",
-        "category": "Military"
-    },
-    {
-        "title": "When war has no borders",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260612/cuando-la-guerra-no-tiene-fronteras/",
-        "published_date": "2026-06-12 15:44:32",
         "category": "Military"
     },
     {
@@ -294,18 +301,11 @@
         "category": "Energy"
     },
     {
-        "title": "With the exception of Baracoa and Mais\u00ed, there has been no electricity in Guant\u00e1namo since Thursday",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/excepcion-baracoa-maisi-no-hay_1_1127719.html",
-        "published_date": "2026-06-12 19:30:12",
-        "category": "Energy"
-    },
-    {
-        "title": "Cuba must close its old CTE and its refineries: \"Sugar cane is the energy of the future\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-debe-cerrar-viejas-cte_1_1127707.html",
-        "published_date": "2026-06-12 16:44:38",
-        "category": "Energy"
+        "title": "They establish automatic collection of tax debts",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32888-establecen-cobro-automatico-de-deudas-tributarias",
+        "published_date": "2026-06-20 09:03:49",
+        "category": "Economy"
     },
     {
         "title": "A brave and bold proposal to advance the construction of socialism",
@@ -385,150 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "Heart of the port: 60 years of Caribbean Navigation",
+        "title": "Jos\u00e9 Antonio M\u00e9ndez: The Ronco de Oro that marked the feeling",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260612/corazon-del-puerto-60-anos-de-navegacion-caribe/",
-        "published_date": "2026-06-12 18:24:29",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260620/jose-antonio-mendez-el-ronco-de-oro-que-marco-el-feeling/",
+        "published_date": "2026-06-20 22:55:21",
+        "category": "Local Events"
     },
     {
-        "title": "\"Superficial smoke signals,\" says the US about the economic reforms of the Cuban regime",
+        "title": "When is Father's Day celebrated?",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260620/cuando-se-celebra-el-dia-de-los-padres/",
+        "published_date": "2026-06-20 22:30:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camaquito: 25 years with those who know how to love",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260620/camaquito-25-anos-con-los-que-saben-querer/",
+        "published_date": "2026-06-20 20:18:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "State Security detains opposition member Manuel Cuesta Mor\u00faa",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/senales-humo-superficiales-dice-ee_1_1127964.html",
-        "published_date": "2026-06-20 12:13:14",
+        "url": "https://www.14ymedio.com/cuba/seguridad-detiene-opositor-manuel-cuesta_1_1127980.html",
+        "published_date": "2026-06-20 19:21:46",
         "category": "Local Events"
     },
     {
-        "title": "Fathers of the Cienfuegos Thermoelectric Plant: Miguel Fumero Rodr\u00edguez, the guajiro",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/padres-de-la-termoelectrica-de-cienfuegos-miguel-fumero-rodriguez-el-guajiro/",
-        "published_date": "2026-06-20 05:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parents of Thermoelectric: For Yaiko, her children are her greatest treasure",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/padres-de-la-termoelectrica-para-yaiko-sus-hijos-son-su-mayor-tesoro/",
-        "published_date": "2026-06-20 04:00:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "at a conga pace",
+        "title": "They need to hire a Communication Manager",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260619/a-paso-de-conga/",
-        "published_date": "2026-06-19 21:10:12",
+        "url": "https://www.trabajadores.cu/20260620/necesitan-contratar-gestor-de-comunicacion/",
+        "published_date": "2026-06-20 19:00:15",
         "category": "Local Events"
     },
     {
-        "title": "Trump sees an operation like the one in Venezuela \"possible\": \"Cuba is one jump away from the US\"",
+        "title": "Communists, to the opposition!",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/trump-ve-posible-operacion-venezuela_1_1127962.html",
-        "published_date": "2026-06-19 20:59:46",
+        "url": "https://www.14ymedio.com/blogs/desde-aqui/comunistas-oposicion_132_1127978.html",
+        "published_date": "2026-06-20 18:15:42",
         "category": "Local Events"
     },
     {
-        "title": "Air Europa increases its flights to Cuba amid the withdrawal of Spanish airlines",
+        "title": "Holgu\u00edn, host of the event for the Day of National Rebellion",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260620/municipio-de-holguin-anfitrion-del-acto-provincial-por-el-dia-de-la-rebeldia-nacional/",
+        "published_date": "2026-06-20 17:50:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The time for reforms has passed",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/air-europa-aumenta-vuelos-cuba_1_1127960.html",
-        "published_date": "2026-06-19 20:12:55",
+        "url": "https://www.14ymedio.com/cuba/tiempo-reformas-paso_1_1127976.html",
+        "published_date": "2026-06-20 16:45:42",
         "category": "Local Events"
     },
     {
-        "title": "Provincial Conference of Havana: \u201cWe are not hostages of the moment\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260619/conferencia-provincial-de-la-habana-no-somos-rehenes-del-momento/",
-        "published_date": "2026-06-19 19:38:54",
+        "title": "Ethiopia launched digital application that unifies state services",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-primer-ministro-de-etiopia-abiy-ahmed-inauguro-hoy-la-aplicacion-mesob-unificada-describiendola-como-la-primera-plataforma-digital-de-africa-que-integra-servicios-de-multiples-instituciones-gube/",
+        "published_date": "2026-06-20 16:21:15",
         "category": "Local Events"
     },
     {
-        "title": "Where the trains used to pass now only weeds grow",
+        "title": "Nepal, in uncertainty after the takeover of Generation Z",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/pasaban-trenes-ahora-crece-mala_1_1127957.html",
-        "published_date": "2026-06-19 19:26:25",
+        "url": "https://www.14ymedio.com/internacional/nepal-incertidumbre-toma-generacion-z_1_1127974.html",
+        "published_date": "2026-06-20 16:12:00",
         "category": "Local Events"
     },
     {
-        "title": "The United States deports former Cuban officer Rogelio Boluf\u00e9 to Ecuador amid rumors about his return to the Island",
+        "title": "Cuba receives new support at the Labor Notes Conference of Labor Activists",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260620/cuba-recibe-nuevo-apoyo-en-la-conferencia-labor-notes-de-activistas-obreros/",
+        "published_date": "2026-06-20 16:11:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "More workers to support the pine advance",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260620/mas-obreros-para-apoyar-el-avance-pinero/",
+        "published_date": "2026-06-20 16:00:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Restoration works on the fa\u00e7ade of the Parthenon in Athens are completed",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/concluyen-obras-de-restauracion-de-fachada-de-partenon-de-atenas/",
+        "published_date": "2026-06-20 16:00:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Semifinalists ready for the Elite Baseball League playoffs",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/semifinalistas-listos-para-los-playoffs-de-la-liga-elite-del-beisbol/",
+        "published_date": "2026-06-20 15:20:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe situation we are experiencing is unbearable\u201d: simultaneous protests in the capital",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-deporta-ecuador-ex_1_1127953.html",
-        "published_date": "2026-06-19 19:12:49",
+        "url": "https://www.14ymedio.com/cuba/insoportable-situacion-viviendo-protestas-simultaneas_1_1127970.html",
+        "published_date": "2026-06-20 15:19:10",
         "category": "Local Events"
     },
     {
-        "title": "For the memory of Vilma",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/por-el-recuerdo-de-vilma/",
-        "published_date": "2026-06-19 18:31:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Productive greeting to the 22nd Congress of the CTC",
+        "title": "Maida and the opportunity to go to the CTC Congress twice",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260619/saludo-productivo-al-22-congreso-de-la-ctc/",
-        "published_date": "2026-06-19 18:24:25",
+        "url": "https://www.trabajadores.cu/20260620/maida-y-la-oportunidad-de-ir-dos-veces-al-congreso-de-la-ctc/",
+        "published_date": "2026-06-20 15:18:05",
         "category": "Local Events"
     },
     {
-        "title": "Colombian citizens are reminded of steps to follow on election day",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/recuerdan-a-ciudadania-colombiana-pasos-a-seguir-en-jornada-electoral/",
-        "published_date": "2026-06-19 18:06:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico became the first to qualify for the second round of the World Cup",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/mexico-se-convirtio-en-el-primer-clasificado-a-la-segunda-ronda-del-mundial/",
-        "published_date": "2026-06-19 17:46:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the classrooms to the 22nd Congress",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260619/de-las-aulas-al-22-congreso/",
-        "published_date": "2026-06-19 16:39:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba changes to rise!Cuba changes to live better!",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-cambia-para-levantarse-cuba-cambia-para-vivir-mejor/",
-        "published_date": "2026-06-19 15:39:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dubai group suggests calling Trump Island a future luxury resort on Santa Maria Key",
+        "title": "'Echoes of Humanity' Exhibition",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/grupo-dubai-sugiere-llamar-trump_1_1127950.html",
-        "published_date": "2026-06-19 15:19:50",
+        "url": "https://www.14ymedio.com/cartelera/exposicion-echoes-of-humanity_1_1127972.html",
+        "published_date": "2026-06-20 15:16:53",
         "category": "Local Events"
     },
     {
-        "title": "A scenario to strengthen unity",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260619/un-escenario-para-fortalecer-la-unidad/",
-        "published_date": "2026-06-19 15:15:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heirloom",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260619/reliquia-de-familia/",
-        "published_date": "2026-06-19 15:06:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "They present economic and social transformations before the Cuban Parliament (+ Special Coverage)",
+        "title": "This Sunday in Cuadrando la Caja, \u201cEconomic and social transformations: is the Cuban model changing?\u201d",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presentan-transformaciones-economicas-y-sociales-ante-el-parlamento-cubano-cobertura-especial/",
-        "published_date": "2026-06-19 14:56:08",
+        "url": "https://www.5septiembre.cu/este-domingo-en-cuadrando-la-caja-transformaciones-economicas-y-sociales-cambia-el-modelo-cubano/",
+        "published_date": "2026-06-20 15:05:32",
         "category": "Local Events"
     },
     {
-        "title": "Reservations suspended through the Traveling application and in agencies",
+        "title": "Affects to the electrical service for today Saturday",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/suspendidas-las-reservaciones-mediante-la-aplicacion-viajando-y-en-agencias/",
-        "published_date": "2026-06-19 14:34:54",
+        "url": "https://www.5septiembre.cu/afectaciones-al-servicio-electrico-para-hoy-sabado/",
+        "published_date": "2026-06-20 14:50:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The pride of Dayalis",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260620/el-orgullo-de-dayalis/",
+        "published_date": "2026-06-20 14:35:10",
         "category": "Local Events"
     }
 ]
