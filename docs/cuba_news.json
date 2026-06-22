@@ -1,5 +1,12 @@
 [
     {
+        "title": "Minister of Foreign Affairs of Vietnam visits Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/visita-cuba-ministro-de-relaciones-exteriores-de-vietnam/",
+        "published_date": "2026-06-21 16:41:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The Cuban Foreign Minister accuses Marco Rubio of \"chronic lying and contradicting Trump\"",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/canciller-cubano-acusa-marco-rubio_1_1127985.html",
@@ -91,18 +98,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Biocubafarma is going through its most complex stage due to the United States blockade",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/biocubafarma-atraviesa-su-etapa-mas-compleja-por-bloqueo-de-estados-unidos/",
-        "published_date": "2026-06-13 19:29:08",
-        "category": "Diplomacy"
+        "title": "What do workers expect from their Congress?",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260621/que-esperan-los-trabajadores-de-su-congreso/",
+        "published_date": "2026-06-21 20:31:10",
+        "category": "Military"
     },
     {
-        "title": "Cuban Foreign Minister denounced US propaganda about aid",
+        "title": "Israel causes fifty casualties in the Lebanese army",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-cubano-denuncio-propaganda-de-ee-uu-sobre-ayudas/",
-        "published_date": "2026-06-13 17:18:14",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/israel-provoca-medio-centenar-de-bajas-en-el-ejercito-libanes/",
+        "published_date": "2026-06-21 17:18:23",
+        "category": "Military"
     },
     {
         "title": "China shows capabilities of its Dongfeng-17 missile in military exercise",
@@ -194,6 +201,20 @@
         "url": "https://www.5septiembre.cu/el-adios-simbolico-a-hugo/",
         "published_date": "2026-06-14 09:00:53",
         "category": "Military"
+    },
+    {
+        "title": "Blackout and crime conspire",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260621/apagon-y-delito-conspiran/",
+        "published_date": "2026-06-21 20:19:07",
+        "category": "Energy"
+    },
+    {
+        "title": "They foresee the impact of 1,970 MW during the night of this Sunday (+ Video)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/206095-2/",
+        "published_date": "2026-06-21 15:25:09",
+        "category": "Energy"
     },
     {
         "title": "Paradox of Innovation: technology for life, not war",
@@ -301,6 +322,20 @@
         "category": "Energy"
     },
     {
+        "title": "Vietnam ratifies its brotherhood with Cuba from the ZEDM",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260621/vietnam-ratifica-su-hermandad-con-cuba-desde-la-zedm/",
+        "published_date": "2026-06-21 17:27:40",
+        "category": "Economy"
+    },
+    {
+        "title": "Spirituans, always useful to the country",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260621/espirituanos-siempre-utiles-a-la-patria/",
+        "published_date": "2026-06-21 15:16:47",
+        "category": "Economy"
+    },
+    {
         "title": "They establish automatic collection of tax debts",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32888-establecen-cobro-automatico-de-deudas-tributarias",
@@ -378,150 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Port workers from Santiago de Cuba are recognized",
+        "title": "If the poetesses rule...",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260613/reconocen-a-portuarios-de-santiago-de-cuba/",
-        "published_date": "2026-06-13 23:22:19",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260621/si-mandan-las-poetisas/",
+        "published_date": "2026-06-21 23:36:57",
+        "category": "Local Events"
     },
     {
-        "title": "'Dreaming another Ithaca', by Sandra Ramos",
+        "title": "D\u00edaz-Canel: \"The physical departure of the Commander of the Revolution, Ramiro Vald\u00e9s Men\u00e9ndez, hurts deeply, like that of a father\"",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-la-partida-fisica-del-comandante-de-la-revolucion-ramiro-valdes-menendez-duele-profundamente-como-la-de-un-padre/",
+        "published_date": "2026-06-21 20:47:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are going to commit to Congress from the trenches\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260621/al-congreso-vamos-a-comprometernos-desde-la-trinchera/",
+        "published_date": "2026-06-21 19:47:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breaking the chains",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/sonando-itaca-sandra-ramos_1_1127982.html",
-        "published_date": "2026-06-21 12:22:26",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/rompiendo-cadenas_132_1128009.html",
+        "published_date": "2026-06-21 19:38:53",
         "category": "Local Events"
     },
     {
-        "title": "An investigation warns about the interference of the Cuban regime in Colombia during the Petro Government",
+        "title": "With the smile of Commander Ramiro, I stay",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260621/con-la-sonrisa-del-comandante-ramiro-me-quedo/",
+        "published_date": "2026-06-21 18:55:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE details the accusation against Alina Rosales Aguirreurreta, daughter of General Ulises Rosales del Toro",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/investigacion-alerta-injerencia-regimen-cubano_1_1127983.html",
-        "published_date": "2026-06-21 12:05:29",
+        "url": "https://www.14ymedio.com/cuba/ice-detalla-acusacion-alina-rosales_1_1128007.html",
+        "published_date": "2026-06-21 18:49:24",
         "category": "Local Events"
     },
     {
-        "title": "The fond memory of parents",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-memoria-grata-de-los-padres/",
-        "published_date": "2026-06-21 07:00:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Small word;immense connotation: Dad!",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/palabra-pequena-connotacion-inmensa-papa/",
-        "published_date": "2026-06-21 06:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parents of the Cienfuegos Thermoelectric Plant: Pepe, his own children and those from the workplace",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/padres-de-la-termoelectrica-de-cienfuegos-pepe-sus-hijos-propios-y-los-del-centro-laboral/",
-        "published_date": "2026-06-21 04:00:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Congratulations, my superhero: A kiss for you, today and always",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/felicidades-mi-superheroe-un-beso-para-ti-hoy-y-siempre/",
-        "published_date": "2026-06-21 04:00:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Antonio M\u00e9ndez: The Ronco de Oro that marked the feeling",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260620/jose-antonio-mendez-el-ronco-de-oro-que-marco-el-feeling/",
-        "published_date": "2026-06-20 22:55:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "When is Father's Day celebrated?",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260620/cuando-se-celebra-el-dia-de-los-padres/",
-        "published_date": "2026-06-20 22:30:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camaquito: 25 years with those who know how to love",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260620/camaquito-25-anos-con-los-que-saben-querer/",
-        "published_date": "2026-06-20 20:18:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "State Security detains opposition member Manuel Cuesta Mor\u00faa",
+        "title": "Price caps on chicken, oil and three other imported foods are eliminated",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/seguridad-detiene-opositor-manuel-cuesta_1_1127980.html",
-        "published_date": "2026-06-20 19:21:46",
+        "url": "https://www.14ymedio.com/cuba/eliminan-topes-precios-pollo-aceite_1_1128005.html",
+        "published_date": "2026-06-21 18:37:58",
         "category": "Local Events"
     },
     {
-        "title": "They need to hire a Communication Manager",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260620/necesitan-contratar-gestor-de-comunicacion/",
-        "published_date": "2026-06-20 19:00:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Communists, to the opposition!",
+        "title": "Cuesta Mor\u00faa is released after being beaten and threatened with death by State Security",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/comunistas-oposicion_132_1127978.html",
-        "published_date": "2026-06-20 18:15:42",
+        "url": "https://www.14ymedio.com/cuba/cuesta-morua-liberado-golpeado-amenazado_1_1128003.html",
+        "published_date": "2026-06-21 18:28:49",
         "category": "Local Events"
     },
     {
-        "title": "Holgu\u00edn, host of the event for the Day of National Rebellion",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260620/municipio-de-holguin-anfitrion-del-acto-provincial-por-el-dia-de-la-rebeldia-nacional/",
-        "published_date": "2026-06-20 17:50:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The time for reforms has passed",
+        "title": "Of the 900,000 deported by Trump to their countries of origin, only 2,000 went to Cuba",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tiempo-reformas-paso_1_1127976.html",
-        "published_date": "2026-06-20 16:45:42",
+        "url": "https://www.14ymedio.com/cuba/900-000-deportados-trump-paises_1_1127997.html",
+        "published_date": "2026-06-21 18:14:48",
         "category": "Local Events"
     },
     {
-        "title": "Ethiopia launched digital application that unifies state services",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-primer-ministro-de-etiopia-abiy-ahmed-inauguro-hoy-la-aplicacion-mesob-unificada-describiendola-como-la-primera-plataforma-digital-de-africa-que-integra-servicios-de-multiples-instituciones-gube/",
-        "published_date": "2026-06-20 16:21:15",
+        "title": "Fidel, the father of all",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/a-fondo/25-entrevistas/32893-fidel-el-padre-de-todos",
+        "published_date": "2026-06-21 18:13:53",
         "category": "Local Events"
     },
     {
-        "title": "Nepal, in uncertainty after the takeover of Generation Z",
+        "title": "The new history of Cuba: Shock therapy for a nation in ruins",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/nepal-incertidumbre-toma-generacion-z_1_1127974.html",
-        "published_date": "2026-06-20 16:12:00",
+        "url": "https://www.14ymedio.com/opinion/nueva-historia-cuba-terapia-choque_1_1128000.html",
+        "published_date": "2026-06-21 18:08:00",
         "category": "Local Events"
     },
     {
-        "title": "Cuba receives new support at the Labor Notes Conference of Labor Activists",
+        "title": "With less than five dollars a month, Cuba is among the countries with the lowest minimum wage in the world",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cinco-dolares-mes-cuba-situa_1_1127998.html",
+        "published_date": "2026-06-21 17:55:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ramiro Vald\u00e9s, historical executor of repression in Cuba, dies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-ramiro-valdes-ejecutor-historico_1_1123743.html",
+        "published_date": "2026-06-21 17:47:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Commander of the Revolution Ramiro Vald\u00e9s Men\u00e9ndez died",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260620/cuba-recibe-nuevo-apoyo-en-la-conferencia-labor-notes-de-activistas-obreros/",
-        "published_date": "2026-06-20 16:11:58",
+        "url": "https://www.trabajadores.cu/20260621/fallecio-el-comandante-de-la-revolucion-ramiro-valdes-menendez/",
+        "published_date": "2026-06-21 17:34:49",
         "category": "Local Events"
     },
     {
-        "title": "More workers to support the pine advance",
+        "title": "President of Colombia voted for candidate Iv\u00e1n Cepeda",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-de-colombia-voto-por-candidato-ivan-cepeda/",
+        "published_date": "2026-06-21 17:23:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Productive gift to the 22nd Congress of the CTC",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260620/mas-obreros-para-apoyar-el-avance-pinero/",
-        "published_date": "2026-06-20 16:00:57",
+        "url": "https://www.trabajadores.cu/20260621/regalo-productivo-al-22-congreso-de-la-ctc/",
+        "published_date": "2026-06-21 17:20:30",
         "category": "Local Events"
     },
     {
-        "title": "Restoration works on the fa\u00e7ade of the Parthenon in Athens are completed",
+        "title": "President of Iran highlights benefits of the agreement with the United States",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/concluyen-obras-de-restauracion-de-fachada-de-partenon-de-atenas/",
-        "published_date": "2026-06-20 16:00:29",
+        "url": "https://www.5septiembre.cu/presidente-de-iran-destaca-beneficios-del-acuerdo-con-estados-unidos/",
+        "published_date": "2026-06-21 17:14:28",
         "category": "Local Events"
     },
     {
-        "title": "Semifinalists ready for the Elite Baseball League playoffs",
+        "title": "D\u00edaz-Canel greets Cuban parents on their day",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/semifinalistas-listos-para-los-playoffs-de-la-liga-elite-del-beisbol/",
-        "published_date": "2026-06-20 15:20:17",
+        "url": "https://www.5septiembre.cu/diaz-canel-saluda-a-los-padres-cubanos-en-su-dia/",
+        "published_date": "2026-06-21 16:54:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The one who guides every step",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-que-guia-en-cada-paso/",
+        "published_date": "2026-06-21 16:48:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Istanbul hosts Summit of NATO Parliament Speakers",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/estambul-acoge-cumbre-de-presidentes-de-parlamentos-de-la-otan/",
+        "published_date": "2026-06-21 16:36:42",
         "category": "Local Events"
     }
 ]
