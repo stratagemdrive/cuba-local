@@ -1,5 +1,26 @@
 [
     {
+        "title": "Blockade affects Cienfuegos Pediatric Hospital",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/afecta-bloqueo-hospital/",
+        "published_date": "2026-06-22 22:55:13",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban Foreign Minister receives Vietnamese counterpart visiting the country",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/recibe-canciller-cubano-a-homologo-vietnamita-de-visita-en-el-pais/",
+        "published_date": "2026-06-22 17:54:36",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Vietnam and Cuba strengthen their relations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/vietnam-y-cuba-fortalecen-sus-relaciones/",
+        "published_date": "2026-06-22 16:00:57",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The German Foreign Minister points out that a \u201cregime of injustice\u201d prevails in Cuba",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/ministro-exteriores-aleman-senala-cuba_1_1128016.html",
@@ -105,11 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The Tumba el Blockade youth expedition arrives in Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32860-llega-hasta-camagueey-la-expedicion-juvenil-tumba-el-bloqueo",
-        "published_date": "2026-06-14 17:30:27",
-        "category": "Diplomacy"
+        "title": "Congress",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260622/congreso/",
+        "published_date": "2026-06-22 17:08:32",
+        "category": "Military"
     },
     {
         "title": "They militarize the streets of Regla after several days of protest over the blackouts",
@@ -210,11 +231,11 @@
         "category": "Military"
     },
     {
-        "title": "Pakistan announces agreement between Iran and the United States",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pakistan-anuncia-acuerdo-entre-iran-y-estados-unidos/",
-        "published_date": "2026-06-14 21:53:34",
-        "category": "Military"
+        "title": "Mexico will resume shipping oil to Cuba through \u201cprivate companies,\u201d advances Sheinbaum",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/mexico-reanudara-envio-petroleo-cuba_1_1128040.html",
+        "published_date": "2026-06-22 20:28:14",
+        "category": "Energy"
     },
     {
         "title": "Blackout and crime conspire",
@@ -406,18 +427,81 @@
         "category": "Economy"
     },
     {
-        "title": "A Congress of all for the common good",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260614/un-congreso-de-todos-por-el-bien-comun/",
-        "published_date": "2026-06-14 18:34:49",
-        "category": "Economy"
+        "title": "Colombia, a nation divided in two",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/colombia-nacion-partida_1_1128042.html",
+        "published_date": "2026-06-22 20:30:16",
+        "category": "Local Events"
     },
     {
-        "title": "The lost veins of Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/a-fondo/60-reportajes/32858-las-venas-perdidas-del-camagueey",
-        "published_date": "2026-06-14 16:51:52",
-        "category": "Economy"
+        "title": "Vietnam announces its intention to expand investments in Cuba after the new reforms",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/vietnam-anuncia-intencion-ampliar-inversiones_1_1128038.html",
+        "published_date": "2026-06-22 19:36:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentine journalists honor Cuban revolutionary",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/periodistas-argentinos-honran-a-revolucionario-cubano/",
+        "published_date": "2026-06-22 18:28:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Messi, top historical scorer in World Cups",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/messi-maximo-goleador-historico-en-mundiales/",
+        "published_date": "2026-06-22 18:06:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Affiliation of non-state workers in line with Congress",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260622/afiliacion-de-trabajadores-no-estatales-a-tono-con-el-congreso/",
+        "published_date": "2026-06-22 17:47:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stronger cooperation could strengthen the economic use of talent and knowledge",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/una-cooperacion-mas-solida-podria-robustecer-el-aprovechamiento-economico-del-talento-y-los-conocimientos/",
+        "published_date": "2026-06-22 17:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Noboa: impunity for murder",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/noboa-impunidad-para-asesinar/",
+        "published_date": "2026-06-22 17:33:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia: Two thousand 600 complaints of alleged electoral fraud received",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/colombia-reciben-dos-mil-600-denuncias-de-presunto-fraude-electoral/",
+        "published_date": "2026-06-22 17:17:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "With the precise scalpel",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260622/con-el-escalpelo-preciso/",
+        "published_date": "2026-06-22 17:01:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are going to commit to Congress from the trenches\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260622/al-congreso-vamos-a-comprometernos-desde-la-trinchera/",
+        "published_date": "2026-06-22 17:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ramiro: tall story told in a low voice",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ramiro-historia-alta-contada-en-voz-baja/",
+        "published_date": "2026-06-22 16:37:30",
+        "category": "Local Events"
     },
     {
         "title": "With the smile of Commander Ramiro, I stay",
@@ -480,83 +564,6 @@
         "source": "Granma",
         "url": "http://en.granma.cu/cuba/2026-06-22/vietnam-and-cuba-strengthen-relations",
         "published_date": "2026-06-22 11:06:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel: \"The passing of Commander of the Revolution, Ramiro Vald\u00e9s Men\u00e9ndez, is deeply painful, like the loss of a father\"",
-        "source": "Granma",
-        "url": "http://en.granma.cu/cuba/2026-06-22/diaz-canel-the-passing-of-commander-of-the-revolution-ramiro-valdes-menendez-is-deeply-painful-like-the-loss-of-a-father",
-        "published_date": "2026-06-22 11:06:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump threatens to sue 'The New York Times' for its coverage of Iran, which he considers \"treasonous\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-amenaza-demandar-the-new_1_1128020.html",
-        "published_date": "2026-06-22 09:27:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Right-wing candidate Abelardo de la Espriella wins the elections in Colombia by a narrow margin",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/candidato-derecha-abelardo-espriella-gana_1_1128014.html",
-        "published_date": "2026-06-22 08:37:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The right wing of the continent applauds the electoral result in Colombia: \"New times are blowing for Latin America\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/derecha-continente-aplaude-resultado-electoral_1_1128011.html",
-        "published_date": "2026-06-22 08:26:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Commander of the Revolution Ramiro Vald\u00e9s Men\u00e9ndez died",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/fallecio-el-comandante-de-la-revolucion-ramiro-valdes-menendez-2/",
-        "published_date": "2026-06-22 03:16:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "IV Elite Baseball League: Lumberjacks loose in the forest",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/iv-liga-elite-de-beisbol-lenadores-sueltos-en-el-bosque/",
-        "published_date": "2026-06-22 02:39:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world already revolves around the ball (II)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/el-mundo-ya-gira-en-torno-al-balon-ii/",
-        "published_date": "2026-06-22 02:37:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Solidarity: universal flag",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/solidaridad-bandera-universal/",
-        "published_date": "2026-06-22 02:33:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provincial Conference of Havana: Where is the union strength?",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/conferencia-provincial-de-la-habana-donde-esta-la-fortaleza-sindical/",
-        "published_date": "2026-06-22 02:18:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "With the precise scalpel",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/con-el-escalpelo-preciso/",
-        "published_date": "2026-06-22 01:01:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Axes of the transformations",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/ejes-de-las-transformaciones/",
-        "published_date": "2026-06-22 00:56:53",
         "category": "Local Events"
     }
 ]
