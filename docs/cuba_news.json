@@ -1,5 +1,19 @@
 [
     {
+        "title": "Vatican celebrates 91 years of ties with Cuba and Fidel's centenary",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/vaticano-celebra-91-anos-de-vinculos-con-cuba-y-centenario-de-fidel/",
+        "published_date": "2026-06-24 11:51:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Cuban Foreign Minister accuses Marco Rubio of promoting \u201ca crime from the greatest power in the world\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/canciller-cubano-acusa-marco-rubio_1_1128085.html",
+        "published_date": "2026-06-24 11:00:51",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba and Vietnam: a harmony of feelings, moral principles, and purposes (+Photos and Video)",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cuba-y-vietnam-una-sintonia-de-sentimientos-de-principios-morales-y-de-propositos-fotos-y-video/",
@@ -124,6 +138,20 @@
         "url": "https://www.5septiembre.cu/primer-buque-irani-atraviesa-la-zona-del-bloqueo-naval-estadounidense/",
         "published_date": "2026-06-16 14:21:53",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Trump accuses the Senate of \u201cgiving aid to the enemy\u201d after resolution to stop military actions against Iran",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/trump-acusa-al-senado-de-dar-ayuda-al-enemigo-tras-resolucion-para-frenar-acciones-militares-contra-iran/",
+        "published_date": "2026-06-24 12:00:24",
+        "category": "Military"
+    },
+    {
+        "title": "Commander Ramiro, protagonist of the extraordinary work that is the Revolution",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/comandante-ramiro-protagonista-de-la-obra-extraordinaria-que-es-la-revolucion/",
+        "published_date": "2026-06-24 03:31:15",
+        "category": "Military"
     },
     {
         "title": "Floral offerings by Ra\u00fal and D\u00edaz-Canel for Ramiro Vald\u00e9s (+Photos)",
@@ -434,6 +462,132 @@
         "category": "Economy"
     },
     {
+        "title": "Ask for help for his brother",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260624/pide-ayuda-para-su-hermano/",
+        "published_date": "2026-06-24 13:03:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "School Sports Festival, a proposal from INDER in the summer",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/festival-deportivo-escolar-una-propuesta-del-inder-en-el-verano/",
+        "published_date": "2026-06-24 12:51:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spirituans honor Ramiro's indelible mark in the province",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260624/espirituanos-honran-la-huella-imborrable-de-ramiro-en-la-provincia/",
+        "published_date": "2026-06-24 12:20:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Mexican deputy asks his Government to rescue 15 doctors in training affected by the crisis in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/diputado-mexicano-pide-gobierno-rescatar_1_1128088.html",
+        "published_date": "2026-06-24 11:12:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The \"corner war\" against garbage began in Havana, with custodians hired by neighbors",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/empezo-guerra-esquinas-basura-habana_1_1128081.html",
+        "published_date": "2026-06-24 11:06:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Face bad weather",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260624/al-mal-tiempo-dar-la-cara/",
+        "published_date": "2026-06-24 10:59:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, June 24, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-24-junio_132_1128080.html",
+        "published_date": "2026-06-24 10:47:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, June 24, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-24-junio_7_1128083.html",
+        "published_date": "2026-06-24 10:45:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US Senate votes for the first time in favor of stopping the war in Iran",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/senado-ee-uu-vota-primera_1_1128078.html",
+        "published_date": "2026-06-24 09:14:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Roly Berr\u00edo concert in Madrid",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/concierto-roly-berrio-madrid_1_1128077.html",
+        "published_date": "2026-06-24 09:00:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court authorizes Trump to resume expedited deportations nationwide",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/tribunal-autoriza-trump-reanudar-deportaciones_1_1128076.html",
+        "published_date": "2026-06-24 08:56:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fujimori confirms his victory in the Peruvian presidential elections, but S\u00e1nchez will not recognize it",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/fujimori-confirma-triunfo-presidenciales-peru_1_1128075.html",
+        "published_date": "2026-06-24 08:46:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The OAS recognizes the need to restore democracy in Cuba, Nicaragua and Venezuela",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/oea-reconoce-necesidad-restaurar-democracia_1_1128073.html",
+        "published_date": "2026-06-24 08:40:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ramiro, Santa Clara, Che and his fellow fighters: unbreakable bonds of love",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ramiro-santa-clara-el-che-y-sus-companeros-de-lucha-nexos-inquebrantables-de-amor/",
+        "published_date": "2026-06-24 06:21:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Historical Pact Party of Colombia announced the beginning of a new stage",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/partido-pacto-historico-de-colombia-anuncio-comienzo-de-nueva-etapa/",
+        "published_date": "2026-06-24 05:50:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gaby, an entertainer and five decades of work",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/gaby-un-animador-y-cinco-decadas-de-andares/",
+        "published_date": "2026-06-24 04:00:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nine decades after the novel Gone with the Wind",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/a-nueve-decadas-de-la-novela-lo-que-el-viento-se-llevo/",
+        "published_date": "2026-06-24 04:00:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "New sanctions on five entities intensify the United States' suffocation against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/nuevas-sanciones-a-cinco-entidades-intensifica-asfixia-de-estados-unidos-contra-cuba/",
+        "published_date": "2026-06-24 02:00:43",
+        "category": "Local Events"
+    },
+    {
         "title": "For a son of Artemis, in the Mausoleum of the Martyrs",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260623/para-un-hijo-de-artemisa-en-el-mausoleo-a-los-martires/",
@@ -445,132 +599,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260623/honores-para-un-hombre-leal/",
         "published_date": "2026-06-23 21:29:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Matanzas tribute to Commander Ramiro",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/tributo-matancero-al-comandante-ramiro/",
-        "published_date": "2026-06-23 20:51:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The IACHR demands that Cuba annul the conviction of Maykel 'Osorbo'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cidh-exige-cuba-anular-condena_1_1128071.html",
-        "published_date": "2026-06-23 20:28:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos bids farewell to a giant of the Revolution (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-despide-a-un-gigante-de-la-revolucion/",
-        "published_date": "2026-06-23 20:24:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ekaterina Gowen promoted to professional member of the Organizing Commission of the 22nd Congress of the CTC",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/promovida-ekaterina-gowen-a-miembro-profesional-de-la-comision-organizadora-del-22-congreso-de-la-ctc/",
-        "published_date": "2026-06-23 20:13:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Global trust in Trump falls and drags down the international image of the US, according to study",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-confianza-global-en-trump-cae-y-arrastra-la-imagen-internacional-de-eeuu-segun-estudio/",
-        "published_date": "2026-06-23 19:59:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos pays tribute to the Commander of the Revolution Ramiro Vald\u00e9s Men\u00e9ndez (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-rinde-tributo-al-comandante-de-la-revolucion-ramiro-valdes-menendez/",
-        "published_date": "2026-06-23 18:03:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "F\u00e9lix Navarro, Luis Manuel Otero and Maykel 'Osorbo' receive the 2026 Democracy Award",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/felix-navarro-luis-manuel-otero_1_1128067.html",
-        "published_date": "2026-06-23 15:43:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Trade Union Movement Changed His Life",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/the-trade-union-movement-changed-his-life/",
-        "published_date": "2026-06-23 15:20:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US Supreme Court rules in favor of Exxon Mobil and denies the immunity of the Cuban State",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tribunal-supremo-ee-uu-falla_1_1128065.html",
-        "published_date": "2026-06-23 15:16:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "An NGO reports 28 deaths of prisoners in Venezuela between April and June",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ong-reporta-28-muertes-presos_1_1128064.html",
-        "published_date": "2026-06-23 15:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "All fidelity",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/fallecio-el-comandante-de-la-revolucion-ramiro-valdes-menendez-2/",
-        "published_date": "2026-06-23 14:03:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe are going to commit to Congress from the trenches\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/al-congreso-vamos-a-comprometernos-desde-la-trinchera/",
-        "published_date": "2026-06-23 14:00:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "I have nothing as long as I don't have a country",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/nada-tengo-mientras-no-tenga-patria/",
-        "published_date": "2026-06-23 13:30:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonio Maceo's injury in a Tapia fight",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/la-herida-de-antonio-maceo-en-un-combate-de-tapia/",
-        "published_date": "2026-06-23 13:15:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Postal package at rest",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/paquete-postal-en-reposo/",
-        "published_date": "2026-06-23 13:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Posthumous tribute this Tuesday to Commander of the Revolution Ramiro Vald\u00e9s",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/tributo-postumo-este-martes-al-comandante-de-la-revolucion-ramiro-valdes/",
-        "published_date": "2026-06-23 12:53:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Jenry Hern\u00e1ndez will move to the Real Madrid Youth B team next season",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/cubano-jenry-hernandez-pasara-equipo_1_1128060.html",
-        "published_date": "2026-06-23 12:51:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "open couple",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260623/pareja-abierta/",
-        "published_date": "2026-06-23 11:41:23",
         "category": "Local Events"
     }
 ]
