@@ -1,5 +1,26 @@
 [
     {
+        "title": "Cuban doctors help those affected by the earthquakes in Venezuela",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/medicos-cubanos-ayudan-a-los-afectados-por-los-sismos-en-venezuela/",
+        "published_date": "2026-06-25 11:47:40",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "De la Espriella is proclaimed president-elect of Colombia and Cepeda will lead the opposition",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/espriella-proclamado-presidente-electo-colombia_1_1128121.html",
+        "published_date": "2026-06-25 10:10:42",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba is committed to renewable energies, says D\u00edaz-Canel in an interview",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-apuesta-por-energias-renovables-afirma-diaz-canel-en-entrevista/",
+        "published_date": "2026-06-25 07:02:36",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cIf Cuba does not implement radical change like Gorbachev in the USSR, then Washington will\u201d",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/entrevista/si-cuba-no-implementa-cambio_1_1128094.html",
@@ -116,27 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/estados-unidos-e-iran-cancelan-reunion-en-suiza/",
         "published_date": "2026-06-19 17:59:26",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cienfuegos: Despite the blockade, the \u201cTermo\u201d continues to generate (+ Video)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-a-pesar-del-bloqueo-la-termo-sigue-generando-video/",
-        "published_date": "2026-06-19 04:00:27",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Transformations in property relations and the economic planning system",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/transformaciones-en-las-relaciones-de-propiedad-y-el-sistema-de-planificacion-economica/",
-        "published_date": "2026-06-18 20:48:25",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "\"Not only resist, but also advance and develop\"",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/49-vi-congreso-del-pcc/32878-no-solo-resistir-tambien-avanzar-y-desarrollarnos",
-        "published_date": "2026-06-18 08:16:07",
         "category": "Diplomacy"
     },
     {
@@ -455,11 +455,95 @@
         "category": "Economy"
     },
     {
-        "title": "The slow agony of supermarkets in dollars",
+        "title": "Cuba requires a true capitalist 'shock'",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/lenta-agonia-supermercados-dolares_1_1127880.html",
-        "published_date": "2026-06-17 12:45:35",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/opinion/cuba-requiere-verdadero-shock-capitalista_1_1128127.html",
+        "published_date": "2026-06-25 11:44:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela's public health centers active in the face of emergency",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/activos-los-centros-de-salud-publicos-de-venezuela-ante-emergencia/",
+        "published_date": "2026-06-25 11:08:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "IOC will reform the Olympic Charter and announce the 2036 venue in 2029",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/coi-reformara-la-carta-olimpica-y-anunciara-en-2029-la-sede-de-2036/",
+        "published_date": "2026-06-25 11:00:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cTrump does not rule in Cuba,\u201d says Diaz-Canel in an interview with a Dominican media",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/trump-no-manda-cuba-dice_1_1128122.html",
+        "published_date": "2026-06-25 10:56:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Thursday, June 25, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-25-junio_132_1128124.html",
+        "published_date": "2026-06-25 10:47:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Thursday, June 25, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-25-junio_7_1128126.html",
+        "published_date": "2026-06-25 10:44:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "When the water arrives the waste begins",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/llega-agua-empieza-despilfarro_1_1128117.html",
+        "published_date": "2026-06-25 09:21:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Time only passes for mortals",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-tiempo-solo-pasa-para-los-mortales/",
+        "published_date": "2026-06-25 08:00:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death toll rises to 164 and injuries to 971 due to earthquakes in Venezuela",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/30-muertos-700-heridos-doble_1_1128114.html",
+        "published_date": "2026-06-25 07:16:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Let's talk about Eduardo Robre\u00f1o",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/hablemos-de-eduardo-robreno/",
+        "published_date": "2026-06-25 05:11:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cienfuegos Elephants stand out as reinforcements in the Elite Baseball League",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/elefantes-de-cienfuegos-destacan-como-refuerzos-en-liga-elite-del-beisbol/",
+        "published_date": "2026-06-25 04:00:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela declares a state of emergency and focuses on saving lives after two large earthquakes",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/venezuela-declara-estado-de-emergencia-y-se-aboca-a-salvar-vidas-tras-dos-sismos-de-gran-magnitud/",
+        "published_date": "2026-06-25 03:19:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "A powerful earthquake is recorded in Caracas, Venezuela (+ Photos and Video)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/se-registra-un-potente-sismo-en-caracas-venezuela-fotos-y-video/",
+        "published_date": "2026-06-25 02:47:58",
+        "category": "Local Events"
     },
     {
         "title": "Photovoltaic systems donated to the Ram\u00f3n Gonz\u00e1lez Coro hospital",
@@ -508,97 +592,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/opinion/discreta-despedida-ramiro-valdes-retrata_1_1128098.html",
         "published_date": "2026-06-24 18:42:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agreement between Iran and the US does not refer to ballistic missiles",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/acuerdo-entre-iran-y-eeuu-no-hace-referencia-a-los-misiles-balisticos/",
-        "published_date": "2026-06-24 18:15:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe are going to commit to Congress from the trenches\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/al-congreso-vamos-a-comprometernos-desde-la-trinchera/",
-        "published_date": "2026-06-24 17:45:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "UN Women proposes jobs",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/proyecto-onu-mujeres-propone-empleos/",
-        "published_date": "2026-06-24 17:19:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of Ministers will analyze economic and social transformations",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/analizara-consejo-de-ministros-transformaciones-economicas-y-sociales/",
-        "published_date": "2026-06-24 16:57:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The leftist Iv\u00e1n Cepeda recognizes the triumph of De la Espriella in Colombia",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/izquierdista-ivan-cepeda-reconoce-triunfo_1_1128096.html",
-        "published_date": "2026-06-24 16:45:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holgu\u00edn Already Has Its First \u201cSolinera\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/holguin-already-has-its-first-solinera/",
-        "published_date": "2026-06-24 15:30:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "They arrest the cameraman of the creator of 'Despingovery Channel'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/detienen-camarografo-creador-despingovery-channel_1_1128092.html",
-        "published_date": "2026-06-24 15:22:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Here comes the 22nd Workers' Congress",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/ahi-viene-el-22-congreso-obrero/",
-        "published_date": "2026-06-24 13:55:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Popular tribute in Las Tunas",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/homenaje-popular-a-ramiro-valdes-en-las-tunas/",
-        "published_date": "2026-06-24 13:32:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ask for help for his brother",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/pide-ayuda-para-su-hermano/",
-        "published_date": "2026-06-24 13:03:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "School Sports Festival, a proposal from INDER in the summer",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/festival-deportivo-escolar-una-propuesta-del-inder-en-el-verano/",
-        "published_date": "2026-06-24 12:51:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spirituans honor Ramiro's indelible mark in the province",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/espirituanos-honran-la-huella-imborrable-de-ramiro-en-la-provincia/",
-        "published_date": "2026-06-24 12:20:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba and Vietnam: A harmony of sentiments, moral principles, and purposes",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-06-24/cuba-and-vietnam-a-harmony-of-sentiments-moral-principles-and-purposes",
-        "published_date": "2026-06-24 12:06:14",
         "category": "Local Events"
     }
 ]
