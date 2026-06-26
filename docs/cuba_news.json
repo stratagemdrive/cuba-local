@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Cuban regime cannot stand criticism about its incompetence",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-no-soporta-criticas_1_1128135.html",
+        "published_date": "2026-06-25 20:09:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuban doctors help those affected by the earthquakes in Venezuela",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/medicos-cubanos-ayudan-a-los-afectados-por-los-sismos-en-venezuela/",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "United States and Iran cancel meeting in Switzerland",
+        "title": "\u201cIf we lose total control of power, they will annihilate us,\u201d is how the Cuban regime thinks",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/si-perdemos-control-total-aniquilan_1_1128133.html",
+        "published_date": "2026-06-25 19:19:30",
+        "category": "Military"
+    },
+    {
+        "title": "D\u00edaz Canel presides over the burial ceremony of Commander Ramiro Vald\u00e9s",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/estados-unidos-e-iran-cancelan-reunion-en-suiza/",
-        "published_date": "2026-06-19 17:59:26",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/preside-diaz-canel-ceremonia-de-inhumacion-del-comandante-ramiro-valdes/",
+        "published_date": "2026-06-25 14:26:24",
+        "category": "Military"
     },
     {
         "title": "Master's Degree in Political Direction: an inclusive defense in Cienfuegos",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Proposals for economic and social transformations are analyzed in an extraordinary session of the National Assembly",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260618/analizan-en-sesion-extraordinaria-de-la-asamblea-nacional-propuestas-de-transformaciones-economicas-y-sociales/",
-        "published_date": "2026-06-18 19:10:37",
-        "category": "Military"
-    },
-    {
-        "title": "\u201cNot only resist, but also advance and develop\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260618/convocan-pleno-extraordinario-del-comite-central-del-partido-comunista-de-cuba/",
-        "published_date": "2026-06-18 14:23:24",
-        "category": "Military"
-    },
-    {
         "title": "Former Project is about to close with a positive balance in renewable energies",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260624/proyecto-former-esta-por-cerrar-en-holguin-con-saldo-positivo-en-energias-renovables/",
@@ -350,32 +350,11 @@
         "category": "Energy"
     },
     {
-        "title": "The lack of fuel forces the Elite League calendar to be modified",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/falta-combustible-obliga-modificar-calendario_1_1127898.html",
-        "published_date": "2026-06-17 20:57:06",
-        "category": "Energy"
-    },
-    {
-        "title": "Surrounded by garbage, Miramar is no longer the glamorous neighborhood it once was.",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cercado-basura-miramar-no-barrio_1_1127895.html",
-        "published_date": "2026-06-17 19:59:57",
-        "category": "Energy"
-    },
-    {
-        "title": "Zapata Swamp in summer",
+        "title": "22nd Congress: \u201cValue the changes, for the results\u201d",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260617/cienaga-de-zapata-en-verano/",
-        "published_date": "2026-06-17 15:20:38",
-        "category": "Energy"
-    },
-    {
-        "title": "Vehicles and fuel contribute to the strong increase in US sales to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/vehiculos-combustible-contribuyen-fuerte-aumento_1_1127857.html",
-        "published_date": "2026-06-17 13:47:01",
-        "category": "Energy"
+        "url": "https://www.trabajadores.cu/20260625/22-congreso-valorar-los-cambios-por-los-resultados/",
+        "published_date": "2026-06-25 19:45:36",
+        "category": "Economy"
     },
     {
         "title": "Three days of commercial exchange in Santiago de Cuba",
@@ -441,18 +420,109 @@
         "category": "Economy"
     },
     {
-        "title": "Mipyme in Havana offers vacancies",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260617/mipyme-en-la-habana-ofrece-vacantes/",
-        "published_date": "2026-06-17 18:00:50",
-        "category": "Economy"
+        "title": "Under the shadow of a giant syringe, Cuba continues to be the country of waiting",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sombra-jeringuilla-gigante-cuba-sigue_1_1128141.html",
+        "published_date": "2026-06-25 22:10:02",
+        "category": "Local Events"
     },
     {
-        "title": "Business forum in Santiago de Cuba in favor of production and services",
+        "title": "Havana and the Swedish communists press for visas for Cuban under-16 soccer players",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/habana-comunistas-suecos-presionan-visados_1_1128139.html",
+        "published_date": "2026-06-25 21:18:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States deports another 96 Cubans to the Island and three remain under investigation",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/estados-unidos-deporta-96-cubanos_1_1128137.html",
+        "published_date": "2026-06-25 20:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Santa Clara: the eternal rest of Commander Ramiro",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260617/foro-de-negocios-en-santiago-de-cuba-a-favor-de-la-produccion-y-los-servicios/",
-        "published_date": "2026-06-17 17:10:16",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260625/en-santa-clara-el-descanso-eterno-del-comandante-ramiro/",
+        "published_date": "2026-06-25 20:19:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Demography in the media: communicating populations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-demografia-en-los-medios-comunicar-las-poblaciones/",
+        "published_date": "2026-06-25 20:08:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camag\u00fcey delegates at the doors of the 22nd Congress of the CTC",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260625/delegados-agramontinos-a-las-puertas-del-22-congreso-de-la-ctc/",
+        "published_date": "2026-06-25 20:07:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "For Innovation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/por-la-innovacion/",
+        "published_date": "2026-06-25 19:39:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Regla and its three congresses, in three different contexts",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260625/regla-y-sus-tres-congresos-en-tres-contextos-diferentes/",
+        "published_date": "2026-06-25 19:33:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "They ratify support for Cuba in the International Forum in greeting to the XXII Congress of the CTC",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260625/ratifican-apoyo-a-cuba-en-foro-internacional-en-saludo-al-xxii-congreso-de-la-ctc/",
+        "published_date": "2026-06-25 17:32:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel: \u201cThe exemplary life of Ramiro Vald\u00e9s teaches us that the Revolution is done with humility, with discipline and with infinite faith in victory\u201d",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-la-vida-ejemplar-de-ramiro-valdes-nos-ensena-que-la-revolucion-se-hace-con-humildad-con-disciplina-y-con-una-fe-infinita-en-la-victoria/",
+        "published_date": "2026-06-25 17:26:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are going to commit to Congress from the trenches\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260625/al-congreso-vamos-a-comprometernos-desde-la-trinchera/",
+        "published_date": "2026-06-25 17:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba's debt with the Paris Club is greater than that of Argentina or Mexico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/deuda-cuba-club-paris-mayor_1_1128130.html",
+        "published_date": "2026-06-25 16:23:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summer in Beautiful Landscapes",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260625/summer-in-beautiful-landscapes/",
+        "published_date": "2026-06-25 15:46:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US Supreme Court allows Trump to veto asylum seekers on the border with Mexico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/supremo-eeuu-permite-trump-vetar_1_1128129.html",
+        "published_date": "2026-06-25 15:42:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Here comes the 22nd Workers' Congress",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260625/ahi-viene-el-22-congreso-obrero/",
+        "published_date": "2026-06-25 13:55:46",
+        "category": "Local Events"
     },
     {
         "title": "Cuba requires a true capitalist 'shock'",
@@ -487,111 +557,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-25-junio_132_1128124.html",
         "published_date": "2026-06-25 10:47:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Thursday, June 25, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-25-junio_7_1128126.html",
-        "published_date": "2026-06-25 10:44:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "When the water arrives the waste begins",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/llega-agua-empieza-despilfarro_1_1128117.html",
-        "published_date": "2026-06-25 09:21:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Time only passes for mortals",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-tiempo-solo-pasa-para-los-mortales/",
-        "published_date": "2026-06-25 08:00:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death toll rises to 164 and injuries to 971 due to earthquakes in Venezuela",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/30-muertos-700-heridos-doble_1_1128114.html",
-        "published_date": "2026-06-25 07:16:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Let's talk about Eduardo Robre\u00f1o",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/hablemos-de-eduardo-robreno/",
-        "published_date": "2026-06-25 05:11:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos Elephants stand out as reinforcements in the Elite Baseball League",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/elefantes-de-cienfuegos-destacan-como-refuerzos-en-liga-elite-del-beisbol/",
-        "published_date": "2026-06-25 04:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela declares a state of emergency and focuses on saving lives after two large earthquakes",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/venezuela-declara-estado-de-emergencia-y-se-aboca-a-salvar-vidas-tras-dos-sismos-de-gran-magnitud/",
-        "published_date": "2026-06-25 03:19:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "A powerful earthquake is recorded in Caracas, Venezuela (+ Photos and Video)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/se-registra-un-potente-sismo-en-caracas-venezuela-fotos-y-video/",
-        "published_date": "2026-06-25 02:47:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Photovoltaic systems donated to the Ram\u00f3n Gonz\u00e1lez Coro hospital",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/donan-sistemas-fotovoltaicos-al-hospital-ramon-gonzalez-coro/",
-        "published_date": "2026-06-24 22:27:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Guiteras fails again two days after returning to the electrical system",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/guiteras-vuelve-fallar-dias-despues_1_1128112.html",
-        "published_date": "2026-06-24 22:22:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Cuban chef who emigrated to the United States wins a Michelin star for a restaurant in Florida",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/chef-cubano-emigro-ee-uu_1_1128107.html",
-        "published_date": "2026-06-24 21:06:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Teenager Jonathan Muir released after more than three months in adult prison",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/excarcelan-adolescente-jonathan-muir-despues_1_1128106.html",
-        "published_date": "2026-06-24 20:49:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Casalinda is no longer \"the best store for your family\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/casalinda-no-mejor-tienda-familia_1_1128100.html",
-        "published_date": "2026-06-24 19:46:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Union leaders express support for Cuba at International Forum",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/lideres-sindicales-expresan-apoyo-a-cuba-en-foro-internacional/",
-        "published_date": "2026-06-24 19:39:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ramiro Vald\u00e9s' discreet farewell portrays the decline of the historical generation",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/discreta-despedida-ramiro-valdes-retrata_1_1128098.html",
-        "published_date": "2026-06-24 18:42:33",
         "category": "Local Events"
     }
 ]
