@@ -336,13 +336,6 @@
         "category": "Energy"
     },
     {
-        "title": "Camag\u00fcey implements coal distribution strategy to the population",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32887-camagueey-implementa-estrategia-de-distribucion-de-carbon-a-la-poblacion",
-        "published_date": "2026-06-19 10:53:35",
-        "category": "Energy"
-    },
-    {
         "title": "Blood bank for the 22nd Congress of the CTC",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260626/banco-de-sangre-por-el-22-congreso-de-la-ctc/",
@@ -411,6 +404,41 @@
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32888-establecen-cobro-automatico-de-deudas-tributarias",
         "published_date": "2026-06-20 09:03:49",
         "category": "Economy"
+    },
+    {
+        "title": "The water also turns off in Sancti Sp\u00edritus",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/agua-apaga-sancti-spiritus_1_1128186.html",
+        "published_date": "2026-06-27 11:48:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stories from the neighborhood: Santiago",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/historias-desde-el-barrio-santiago/",
+        "published_date": "2026-06-27 04:55:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three channels towards digital infinity",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/tres-canales-hacia-el-infinito-digital/",
+        "published_date": "2026-06-27 04:00:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cienfuegos Butterflies Project thanks solidarity gesture from Italy",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/proyecto-mariposas-de-cienfuegos-agradece-gesto-solidario-desde-italia/",
+        "published_date": "2026-06-27 01:40:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pinar del R\u00edo, headquarters of the National Central Act for July 26",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260626/pinar-del-rio-sede-del-acto-central-nacional-por-el-26-de-julio/",
+        "published_date": "2026-06-27 00:24:07",
+        "category": "Local Events"
     },
     {
         "title": "Commemorative Seal given to Minint combatants",
@@ -515,41 +543,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260626/maida-and-the-opportunity-to-attend-the-ctc-congress-twice/",
         "published_date": "2026-06-26 15:52:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel Castro at the 22nd Congress of the CTC: present and future",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260626/fidel-castro-en-el-22-congreso-de-la-ctc-presente-y-futuro/",
-        "published_date": "2026-06-26 15:51:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "CTC Congress throughout the country",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260626/congreso-ctc-en-todo-el-pais/",
-        "published_date": "2026-06-26 14:57:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US Coast Guard deports 27 Cuban rafters intercepted in the Yucat\u00e1n Channel",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/guardia-costera-ee-uu-deporta_1_1128168.html",
-        "published_date": "2026-06-26 14:55:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pope Leo XIV inaugurated the Extraordinary Consistory in the Holy See",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/papa-leon-xiv-inauguro-el-consistorio-extraordinario-en-la-santa-sede/",
-        "published_date": "2026-06-26 14:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Print edition of June 26, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-26-junio-2026_132_1128166.html",
-        "published_date": "2026-06-26 13:50:39",
         "category": "Local Events"
     }
 ]
