@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuba's resounding victory over the US in the UN body",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/contundente-victoria-de-cuba-frente-a-eeuu-en-organo-de-onu/",
+        "published_date": "2026-06-26 19:01:04",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The OAS Secretariat should not be complicit in US aggression against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-secretaria-de-la-oea-no-deberia-ser-complice-de-las-agresiones-de-ee-uu-a-cuba/",
+        "published_date": "2026-06-26 14:46:36",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba and Uruguay celebrate IV migration round",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cuba-y-uruguay-celebran-iv-ronda-migratoria/",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuban Foreign Minister denounces tightening of the US blockade",
+        "title": "Cruces strengthens his defense (Photos)",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-cubano-denuncia-recrudecimiento-del-bloqueo-de-eeuu/",
-        "published_date": "2026-06-20 15:30:59",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/cruces-fortalece-su-defensa-fotos/",
+        "published_date": "2026-06-27 00:09:42",
+        "category": "Military"
     },
     {
-        "title": "State of emergency in Bolivia after seven weeks of road blockades by the forces of Evo Morales",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/excepcion-bolivia-siete-semanas-bloqueos_1_1127966.html",
-        "published_date": "2026-06-20 13:14:57",
-        "category": "Diplomacy"
+        "title": "The participation of workers is decisive in defending the economy (Special Coverage)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260626/se-impone-tratar-con-espiritu-critico-la-situacion-del-salario/",
+        "published_date": "2026-06-26 15:10:13",
+        "category": "Military"
     },
     {
         "title": "\u201cIf we lose total control of power, they will annihilate us,\u201d is how the Cuban regime thinks",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Oviedo: two passions and three conferences",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260619/oviedo-dos-pasiones-y-tres-congresos/",
-        "published_date": "2026-06-19 15:47:51",
-        "category": "Military"
-    },
-    {
-        "title": "Cuba: the defense of the socialist homeland is a priority",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-la-defensa-de-la-patria-socialista-es-prioridad/",
-        "published_date": "2026-06-18 23:31:14",
-        "category": "Military"
-    },
-    {
         "title": "Former Project is about to close with a positive balance in renewable energies",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260624/proyecto-former-esta-por-cerrar-en-holguin-con-saldo-positivo-en-energias-renovables/",
@@ -340,13 +340,6 @@
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32887-camagueey-implementa-estrategia-de-distribucion-de-carbon-a-la-poblacion",
         "published_date": "2026-06-19 10:53:35",
-        "category": "Energy"
-    },
-    {
-        "title": "Uni\u00f3n El\u00e9ctrica estimates 2075 MW of impact for today's maximum demand",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/union-electrica-estima-2075-mw-de-afectacion-para-la-maxima-demanda-de-hoy/",
-        "published_date": "2026-06-18 13:52:36",
         "category": "Energy"
     },
     {
@@ -420,150 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "A brave and bold proposal to advance the construction of socialism",
+        "title": "Commemorative Seal given to Minint combatants",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260618/una-propuesta-valiente-y-audaz-para-avanzar-en-la-construccion-del-socialismo/",
-        "published_date": "2026-06-18 15:55:34",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260626/entregan-sello-conmemorativo-a-combatientes-del-minint/",
+        "published_date": "2026-06-26 20:48:33",
+        "category": "Local Events"
     },
     {
-        "title": "22nd Congress of the CTC begins in Havana",
+        "title": "Celia Cruz, the \"first Latina artist\" with a voice recreated by artificial intelligence",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura/celia-cruz-primera-artista-latina_1_1128183.html",
+        "published_date": "2026-06-26 20:21:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government of Venezuela updates the number of deaths from earthquakes to 589",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/gobierno-de-venezuela-actualiza-a-589-la-cifra-de-fallecidos-por-terremotos/",
+        "published_date": "2026-06-26 19:30:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "The neighbors wonder who is the lucky one who, without bidding, has obtained the Verona pizzeria",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/vecinos-preguntan-afortunado-licitacion-obtenido_1_1128179.html",
+        "published_date": "2026-06-26 19:30:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Confusion in Cuba due to the yo-yo effect in the price of the dollar",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/desconcierto-cuba-efecto-yoyo-cotizacion_1_1128171.html",
+        "published_date": "2026-06-26 18:45:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela receives global solidarity in the face of the earthquake emergency",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/venezuela-recibe-solidaridad-mundial-ante-la-emergencia-por-sismos/",
+        "published_date": "2026-06-26 18:43:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Honey in the hands of an innovator",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260626/comienza-en-la-habana-22-congreso-de-la-ctc/",
-        "published_date": "2026-06-26 13:16:42",
+        "url": "https://www.trabajadores.cu/20260626/la-miel-en-las-manos-de-un-innovador/",
+        "published_date": "2026-06-26 18:39:33",
         "category": "Local Events"
     },
     {
-        "title": "\"How I felt\" from June 26, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-26-junio-2026_7_1128162.html",
-        "published_date": "2026-06-26 11:59:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The mourning for the death of Ramiro Vald\u00e9s delayed the celebration of San Juan in Matanzas for one day",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/duelo-muerte-ramiro-valdes-retraso_1_1128155.html",
-        "published_date": "2026-06-26 11:19:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, June 26, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-26-junio_132_1128154.html",
-        "published_date": "2026-06-26 11:08:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, June 26, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-26-junio_7_1128157.html",
-        "published_date": "2026-06-26 11:07:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from June 26, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-26-junio-2026_132_1128153.html",
-        "published_date": "2026-06-26 10:08:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the \u201cseismic double\u201d occurred in Venezuela that can cause aftershocks for weeks",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/produjo-doblete-sismico-venezuela-causar_1_1128150.html",
-        "published_date": "2026-06-26 09:58:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Doctors and businessmen from Miami prepare a health plan for a Cuba in transition",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/medicos-empresarios-miami-preparan-plan_1_1128148.html",
-        "published_date": "2026-06-26 09:49:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without giving the date of entry into force, the official press publishes the list of the 176 economic reforms",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/dar-fecha-entrada-vigor-prensa_1_1128146.html",
-        "published_date": "2026-06-26 09:35:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "After 24 hours of the earthquakes in Venezuela, there are at least 235 dead and 4,300 injured",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/24-horas-terremotos-venezuela-cuentan_1_1128143.html",
-        "published_date": "2026-06-26 08:04:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "By being famous, you lose your human category",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/al-ser-famoso-pierdes-tu-categoria-de-humano/",
-        "published_date": "2026-06-26 06:00:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela regains calm after earthquakes and deaths and injuries increase",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/venezuela-recobra-la-calma-tras-sismos-y-aumentan-muertos-y-heridos/",
-        "published_date": "2026-06-26 04:38:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "XXII Congress of the CTC begins today in Havana",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/inicia-hoy-en-la-habana-xxii-congreso-de-la-ctc/",
-        "published_date": "2026-06-26 04:25:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Get to know our weekly edition in PDF from June 26",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-26-de-junio/",
-        "published_date": "2026-06-26 04:06:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Cienfuegos: celebration for the seventh anniversary of the electoral bodies",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/en-cienfuegos-celebracion-por-septimo-aniversario-de-los-organos-electorales/",
-        "published_date": "2026-06-26 04:00:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "September 5 wins prize in the July 26 National Journalism Contest",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/obtiene-periodico-5-de-septiembre-reconocimiento-en-concurso-nacional-de-periodismo-26-de-julio/",
-        "published_date": "2026-06-26 03:15:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Under the shadow of a giant syringe, Cuba continues to be the country of waiting",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sombra-jeringuilla-gigante-cuba-sigue_1_1128141.html",
-        "published_date": "2026-06-25 22:10:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Havana and the Swedish communists press for visas for Cuban under-16 soccer players",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/habana-comunistas-suecos-presionan-visados_1_1128139.html",
-        "published_date": "2026-06-25 21:18:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States deports another 96 Cubans to the Island and three remain under investigation",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/estados-unidos-deporta-96-cubanos_1_1128137.html",
-        "published_date": "2026-06-25 20:52:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Santa Clara: the eternal rest of Commander Ramiro",
+        "title": "The voice of the working class",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260625/en-santa-clara-el-descanso-eterno-del-comandante-ramiro/",
-        "published_date": "2026-06-25 20:19:04",
+        "url": "https://www.trabajadores.cu/20260626/la-voz-de-la-clase-obrera/",
+        "published_date": "2026-06-26 18:21:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Food Program approves aid to Cuba despite strong pressure from the US",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aprueba-programa-mundial-de-alimentos-ayuda-a-cuba-pese-a-fuertes-presiones-de-ee-uu/",
+        "published_date": "2026-06-26 18:05:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The list of Cubans reported missing after the earthquakes in Venezuela grows",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/siete-cubanos-figuran-ahora-desaparecidos_1_1128176.html",
+        "published_date": "2026-06-26 17:37:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban workers to strengthen direct union dialogue (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/trabajadores-cubanos-por-fortalecer-el-dialogo-sindical-directo-fotos/",
+        "published_date": "2026-06-26 17:10:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "President D\u00edaz-Canel expresses unconditional support for Venezuela",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-diaz-canel-expresa-apoyo-incondicional-a-venezuela/",
+        "published_date": "2026-06-26 16:17:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Havana that millions played without having set foot in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/habana-millones-jugaron-haber-pisado_132_1128173.html",
+        "published_date": "2026-06-26 15:59:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "The UN values \u200b\u200b\u200b\u200bthe amnesty in Venezuela, but denounces that repression persists",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/onu-valora-amnistia-venezuela-denuncia_1_1128172.html",
+        "published_date": "2026-06-26 15:53:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maida and the Opportunity to Attend the CTC Congress Twice",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260626/maida-and-the-opportunity-to-attend-the-ctc-congress-twice/",
+        "published_date": "2026-06-26 15:52:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel Castro at the 22nd Congress of the CTC: present and future",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260626/fidel-castro-en-el-22-congreso-de-la-ctc-presente-y-futuro/",
+        "published_date": "2026-06-26 15:51:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "CTC Congress throughout the country",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260626/congreso-ctc-en-todo-el-pais/",
+        "published_date": "2026-06-26 14:57:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US Coast Guard deports 27 Cuban rafters intercepted in the Yucat\u00e1n Channel",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/guardia-costera-ee-uu-deporta_1_1128168.html",
+        "published_date": "2026-06-26 14:55:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pope Leo XIV inaugurated the Extraordinary Consistory in the Holy See",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/papa-leon-xiv-inauguro-el-consistorio-extraordinario-en-la-santa-sede/",
+        "published_date": "2026-06-26 14:15:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Print edition of June 26, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-26-junio-2026_132_1128166.html",
+        "published_date": "2026-06-26 13:50:39",
         "category": "Local Events"
     }
 ]
