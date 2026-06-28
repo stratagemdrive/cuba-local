@@ -280,6 +280,13 @@
         "category": "Military"
     },
     {
+        "title": "Fire at refinery in southern Russia after drone debris falls",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/incendio-en-refineria-del-sur-de-rusia-tras-caida-de-restos-de-dron/",
+        "published_date": "2026-06-28 11:51:44",
+        "category": "Energy"
+    },
+    {
         "title": "Guant\u00e1namo lives to the rhythm of blackouts",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/guantanamo-vive-ritmo-apagones_1_1128201.html",
@@ -333,13 +340,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/206095-2/",
         "published_date": "2026-06-21 15:25:09",
-        "category": "Energy"
-    },
-    {
-        "title": "Paradox of Innovation: technology for life, not war",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/paradoja-de-la-innovacion-tecnologia-para-la-vida-no-la-guerra/",
-        "published_date": "2026-06-20 04:00:29",
         "category": "Energy"
     },
     {
@@ -406,11 +406,25 @@
         "category": "Economy"
     },
     {
-        "title": "They establish automatic collection of tax debts",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32888-establecen-cobro-automatico-de-deudas-tributarias",
-        "published_date": "2026-06-20 09:03:49",
-        "category": "Economy"
+        "title": "Mothers, heroines of the tragedy in Venezuela",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/madres-heroinas-de-la-tragedia-en-venezuela/",
+        "published_date": "2026-06-28 04:19:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Creator of Toqui: \u201cFidel is unrepeatable\u201d",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/creadora-de-toqui-fidel-es-irrepetible/",
+        "published_date": "2026-06-28 04:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lady of the four Ms and the 10 decades",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/senora-de-las-cuatro-m-y-las-10-decadas/",
+        "published_date": "2026-06-28 04:00:37",
+        "category": "Local Events"
     },
     {
         "title": "Union and administrative unity to transform",
@@ -529,27 +543,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/diaz-canel-clausura-del-xxii-congreso-obrero/",
         "published_date": "2026-06-27 13:50:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 176 reforms are not \u201cthe return to capitalism,\u201d the Cuban Government tells the single union",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/176-reformas-no-son-retorno_1_1128193.html",
-        "published_date": "2026-06-27 13:30:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Castro's 'reforms': the Potemkin fa\u00e7ade",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/reformas-castristas-fachada-potemkin_132_1128189.html",
-        "published_date": "2026-06-27 12:23:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The water also turns off in Sancti Sp\u00edritus",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/agua-apaga-sancti-spiritus_1_1128186.html",
-        "published_date": "2026-06-27 11:48:28",
         "category": "Local Events"
     }
 ]
