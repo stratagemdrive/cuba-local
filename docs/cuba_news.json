@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Cuban Foreign Ministry reports late on two compatriots killed in the earthquakes in Venezuela",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cancilleria-cubana-informa-retraso-connacionales_1_1128247.html",
+        "published_date": "2026-06-29 20:10:52",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The 22nd Congress of the CTC multiplies energies",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260627/el-22-congreso-de-la-ctc-multiplica-energias/",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Fidel Castro: the imprint that still guides the course of the South",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fidel-castro-la-impronta-que-aun-guia-el-rumbo-del-sur/",
-        "published_date": "2026-06-22 04:00:36",
-        "category": "Diplomacy"
+        "title": "Given the discontent over the blackouts, militarization extends to Guanabacoa and Central Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/descontento-apagones-extiende-militarizacion-guanabacoa_1_1128241.html",
+        "published_date": "2026-06-29 15:54:04",
+        "category": "Military"
     },
     {
         "title": "What the 22nd Congress of the CTC left behind",
@@ -200,6 +207,13 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260626/se-impone-tratar-con-espiritu-critico-la-situacion-del-salario/",
         "published_date": "2026-06-26 15:10:13",
+        "category": "Military"
+    },
+    {
+        "title": "\"The exemplary life of Ramiro Vald\u00e9s teaches us that the Revolution is made with humility, discipline, and an infinite faith in victory\"",
+        "source": "Granma",
+        "url": "http://en.granma.cu/cuba/2026-06-26/the-exemplary-life-of-ramiro-valdes-teaches-us-that-the-revolution-is-made-with-humility-discipline-and-an-infinite-faith-in-victory",
+        "published_date": "2026-06-26 09:06:56",
         "category": "Military"
     },
     {
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "They decree a short mourning for Ramiro Vald\u00e9s, who will be buried next to the false remains of 'Che'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/decretan-corto-duelo-ramiro-valdes_1_1128058.html",
-        "published_date": "2026-06-23 11:37:43",
-        "category": "Military"
-    },
-    {
-        "title": "Congress",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260622/congreso/",
-        "published_date": "2026-06-22 17:08:32",
-        "category": "Military"
-    },
-    {
         "title": "The UN highlights that the Cuban private sector is \u201can important partner in the humanitarian response\u201d",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/onu-destaca-sector-privado-cubano_1_1128230.html",
@@ -333,20 +333,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/mexico-reanudara-envio-petroleo-cuba_1_1128040.html",
         "published_date": "2026-06-22 20:28:14",
-        "category": "Energy"
-    },
-    {
-        "title": "Blackout and crime conspire",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/apagon-y-delito-conspiran/",
-        "published_date": "2026-06-21 20:19:07",
-        "category": "Energy"
-    },
-    {
-        "title": "They foresee the impact of 1,970 MW during the night of this Sunday (+ Video)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/206095-2/",
-        "published_date": "2026-06-21 15:25:09",
         "category": "Energy"
     },
     {
@@ -420,18 +406,81 @@
         "category": "Economy"
     },
     {
-        "title": "Vietnam ratifies its brotherhood with Cuba from the ZEDM",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/vietnam-ratifica-su-hermandad-con-cuba-desde-la-zedm/",
-        "published_date": "2026-06-21 17:27:40",
-        "category": "Economy"
+        "title": "Keiko Fujimori wins elections in Peru with one hundred percent of the vote count",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/keiko-fujimori-gana-elecciones-en-peru-con-el-ciento-por-ciento-del-conteo-de-votos/",
+        "published_date": "2026-06-29 23:54:51",
+        "category": "Local Events"
     },
     {
-        "title": "Spirituans, always useful to the country",
+        "title": "US justice ratifies Trump's conviction for sexual abuse and defamation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/justicia-de-eeuu-ratifica-condena-a-trump-por-abuso-sexual-y-difamacion/",
+        "published_date": "2026-06-29 23:48:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba is left without internet again",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-vuelve-quedarse-internet_1_1128259.html",
+        "published_date": "2026-06-29 21:16:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Isla Mujeres police detain 10 Cuban rafters and hand them over to Immigration",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/policia-isla-mujeres-detiene-10_1_1128256.html",
+        "published_date": "2026-06-29 20:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "A political prisoner from 11J completes 13 days of hunger strike in Villa Clara",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/preso-politico-11j-cumple-13_1_1128251.html",
+        "published_date": "2026-06-29 20:01:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bandec Gelma proposes new opportunities",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260621/espirituanos-siempre-utiles-a-la-patria/",
-        "published_date": "2026-06-21 15:16:47",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260629/sucursal-bandec-gelma-propone-nuevas-oportunidades/",
+        "published_date": "2026-06-29 19:35:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dissatisfied",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260629/insatisfecho/",
+        "published_date": "2026-06-29 18:45:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "A quarter of pregnant women in Ciego de \u00c1vila are malnourished",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/embarazadas-ciego-avila-desnutridas_1_1128249.html",
+        "published_date": "2026-06-29 16:55:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Repeated but Fair Demand",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260629/a-repeated-but-fair-demand/",
+        "published_date": "2026-06-29 15:36:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "They use drones in Granma to plant rice, although the harvest is minimal",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/drones-granma-sembrar-arroz-cosecha_1_1128244.html",
+        "published_date": "2026-06-29 15:30:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran and Oman hold meeting to manage the Strait of Hormuz",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-y-oman-celebran-reunion-para-la-gestion-del-estrecho-de-ormuz/",
+        "published_date": "2026-06-29 14:54:02",
+        "category": "Local Events"
     },
     {
         "title": "Another group of rescuers from Cuba arrives in Venezuela for assistance",
@@ -483,94 +532,17 @@
         "category": "Local Events"
     },
     {
-        "title": "Mar\u00eda Corina Machado tries to return to Venezuela despite opposition from the United States, which considers her return \"inappropriate\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/maria-corina-machado-volver-venezuela_1_1128231.html",
-        "published_date": "2026-06-29 11:02:31",
+        "title": "Red card to child labor",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-06-29/red-card-to-child-labor",
+        "published_date": "2026-06-29 11:06:30",
         "category": "Local Events"
     },
     {
-        "title": "Bring Congress to the grassroots",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260629/llevar-el-congreso-a-la-base/",
-        "published_date": "2026-06-29 11:00:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spanish hotel companies have lost between 80 and 100 million in Cuba after years of prosperity",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/hoteleras-espanolas-han-perdido-80_1_1128232.html",
-        "published_date": "2026-06-29 10:42:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil hosts forum of rectors of Latin America and the Caribbean",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/brasil-acoge-foro-de-rectores-de-america-latina-y-el-caribe/",
-        "published_date": "2026-06-29 07:38:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba expands autonomy of its 168 municipalities",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-amplia-autonomia-de-sus-168-municipios/",
-        "published_date": "2026-06-29 07:22:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Viengsay Vald\u00e9s is a member of the Moscow Ballet Competition jury",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/viengsay-valdes-integra-jurado-de-concurso-de-ballet-de-moscu/",
-        "published_date": "2026-06-29 05:35:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Compass and engine of debates",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260629/brujula-y-motor-de-los-debates/",
-        "published_date": "2026-06-29 05:30:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "A different date",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260629/una-cita-diferente/",
-        "published_date": "2026-06-29 05:24:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "A green passenger to the final",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260629/un-pasajero-verde-a-la-final/",
-        "published_date": "2026-06-29 05:19:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world already revolves around the ball (III)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260629/el-mundo-ya-gira-en-torno-al-balon-iii/",
-        "published_date": "2026-06-29 05:16:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lumberjacks of Las Tunas advances to the final of the Elite League",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lenadores-de-las-tunas-avanza-a-la-final-de-la-liga-elite/",
-        "published_date": "2026-06-29 05:02:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "A headquarters for us",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260629/una-sede-para-nosotros/",
-        "published_date": "2026-06-29 04:42:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mothers, heroines of the tragedy in Venezuela",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260629/madres-heroinas-de-la-tragedia-en-venezuela/",
-        "published_date": "2026-06-29 04:41:42",
+        "title": "In Iran, calm has been shattered by gunfire and death",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-06-29/in-iran-calm-has-been-shattered-by-gunfire-and-death",
+        "published_date": "2026-06-29 11:06:26",
         "category": "Local Events"
     }
 ]
