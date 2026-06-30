@@ -133,13 +133,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The German Foreign Minister points out that a \u201cregime of injustice\u201d prevails in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ministro-exteriores-aleman-senala-cuba_1_1128016.html",
-        "published_date": "2026-06-22 08:57:34",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Given the discontent over the blackouts, militarization extends to Guanabacoa and Central Havana",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/descontento-apagones-extiende-militarizacion-guanabacoa_1_1128241.html",
@@ -280,6 +273,13 @@
         "category": "Military"
     },
     {
+        "title": "Chronicles from Spain: Liga Santaballesa, a bridge between Galicia and Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cronicas-desde-espana-liga-santaballesa-un-puente-entre-galicia-y-cuba/",
+        "published_date": "2026-06-30 04:00:42",
+        "category": "Energy"
+    },
+    {
         "title": "The UN highlights that the Cuban private sector is \u201can important partner in the humanitarian response\u201d",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/onu-destaca-sector-privado-cubano_1_1128230.html",
@@ -406,6 +406,97 @@
         "category": "Economy"
     },
     {
+        "title": "Uruguay will assume pro tempore presidency of Mercosur",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/uruguay-asumira-presidencia-pro-tempore-de-mercosur/",
+        "published_date": "2026-06-30 13:05:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Screening of the film \u201cCuba After Castro\u201d: a great success in Los Angeles",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260630/proyeccion-de-la-pelicula-cuba-after-castro-un-gran-exito-en-los-angeles/",
+        "published_date": "2026-06-30 13:02:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bachelet will present her program at the UN Security Council",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bachelet-presentara-su-programa-en-el-consejo-de-seguridad-de-la-onu/",
+        "published_date": "2026-06-30 12:52:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Havana neighborhood tries to solve the garbage plague with 30 electric tricycles",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/barrio-habana-solucionar-plaga-basura_1_1128274.html",
+        "published_date": "2026-06-30 12:41:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vietnam will fine up to $1,900 for those who deny \"revolutionary achievements\" online",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/vietnam-multara-1-900-dolares_1_1128273.html",
+        "published_date": "2026-06-30 11:44:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, June 30, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-30-junio_132_1128270.html",
+        "published_date": "2026-06-30 10:58:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, June 30, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-30-junio_7_1128272.html",
+        "published_date": "2026-06-30 10:54:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Venezuelans deported by the United States who ended up trapped under the rubble",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/venezolanos-deportados-estados-unidos-terminaron_1_1128265.html",
+        "published_date": "2026-06-30 09:28:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban regime formalizes an institute to reorganize and regulate state companies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-oficializa-instituto-reorganizar_1_1128267.html",
+        "published_date": "2026-06-30 09:19:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Machado assures that the Government closed Venezuelan airspace to prevent their entry",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/machado-asegura-gobierno-cerro-espacio_1_1128264.html",
+        "published_date": "2026-06-30 08:58:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Keiko Fujimori wins the presidency of Peru, at the close of the second round scrutiny",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/keiko-fujimori-gana-presidencia-peru_1_1128262.html",
+        "published_date": "2026-06-30 08:41:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "The documentary Our Land and the dispossession of indigenous peoples",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-documental-nuestra-tierra-y-el-despojo-de-los-pueblos-originarios/",
+        "published_date": "2026-06-30 04:30:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "No to cultural colonialism",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/no-al-colonialismo-cultural/",
+        "published_date": "2026-06-30 04:00:20",
+        "category": "Local Events"
+    },
+    {
         "title": "Keiko Fujimori wins elections in Peru with one hundred percent of the vote count",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/keiko-fujimori-gana-elecciones-en-peru-con-el-ciento-por-ciento-del-conteo-de-votos/",
@@ -452,97 +543,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260629/insatisfecho/",
         "published_date": "2026-06-29 18:45:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "A quarter of pregnant women in Ciego de \u00c1vila are malnourished",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/embarazadas-ciego-avila-desnutridas_1_1128249.html",
-        "published_date": "2026-06-29 16:55:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Repeated but Fair Demand",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260629/a-repeated-but-fair-demand/",
-        "published_date": "2026-06-29 15:36:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "They use drones in Granma to plant rice, although the harvest is minimal",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/drones-granma-sembrar-arroz-cosecha_1_1128244.html",
-        "published_date": "2026-06-29 15:30:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran and Oman hold meeting to manage the Strait of Hormuz",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-y-oman-celebran-reunion-para-la-gestion-del-estrecho-de-ormuz/",
-        "published_date": "2026-06-29 14:54:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another group of rescuers from Cuba arrives in Venezuela for assistance",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/otro-grupo-de-rescatistas-de-cuba-llega-a-venezuela-para-asistencia/",
-        "published_date": "2026-06-29 14:44:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "There will be no peace as long as Israel annexes territories, says Erdogan",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/no-habra-paz-mientras-israel-anexione-territorios-afirma-erdogan/",
-        "published_date": "2026-06-29 14:41:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba and Russia announce the creation of their first joint company in the biopharmaceutical sector",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-y-rusia-anuncian-la-creacion-de-su-primera-empresa-mixta-en-el-sector-biofarmaceutico/",
-        "published_date": "2026-06-29 14:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNE: An impact of 2080 MW is forecast for this Monday's peak",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/une-se-pronostica-una-afectacion-de-2080-mw-para-el-pico-de-este-lunes/",
-        "published_date": "2026-06-29 14:05:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Daym\u00e9 Arocena: 'Intimate concert'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/dayme-arocena-concierto-intimo_1_1128233.html",
-        "published_date": "2026-06-29 12:37:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, June 29, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-29-junio_132_1128229.html",
-        "published_date": "2026-06-29 11:49:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, June 29, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-lunes-29-junio_7_1128235.html",
-        "published_date": "2026-06-29 11:49:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Red card to child labor",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-06-29/red-card-to-child-labor",
-        "published_date": "2026-06-29 11:06:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Iran, calm has been shattered by gunfire and death",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-06-29/in-iran-calm-has-been-shattered-by-gunfire-and-death",
-        "published_date": "2026-06-29 11:06:26",
         "category": "Local Events"
     }
 ]
