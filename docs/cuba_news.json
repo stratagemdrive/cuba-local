@@ -252,25 +252,39 @@
         "category": "Military"
     },
     {
-        "title": "Master's Degree in Political Direction: an inclusive defense in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/maestria-en-direccion-politica-una-defensa-inclusiva-en-cienfuegos/",
-        "published_date": "2026-06-24 23:21:50",
-        "category": "Military"
-    },
-    {
-        "title": "A former Cuban pilot accused of shooting down Brothers to the Rescue planes pleads not guilty in Miami",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ex-piloto-cubano-acusado-derribo_1_1128102.html",
-        "published_date": "2026-06-24 20:25:56",
-        "category": "Military"
-    },
-    {
-        "title": "Congress",
+        "title": "Greater photovoltaic energy capacity installed in Artemisa",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/congreso/",
-        "published_date": "2026-06-24 17:30:32",
-        "category": "Military"
+        "url": "https://www.trabajadores.cu/20260702/mayor-capacidad-de-energia-fotovoltaica-instalada-en-artemisa/",
+        "published_date": "2026-07-02 18:27:42",
+        "category": "Energy"
+    },
+    {
+        "title": "Holgu\u00edn consolidates its commitment to solar energy with new photovoltaic parks under construction",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260702/holguin-consolida-su-apuesta-por-la-energia-solar-con-nuevos-parques-fotovoltaicos-en-ejecucion/",
+        "published_date": "2026-07-02 17:28:24",
+        "category": "Energy"
+    },
+    {
+        "title": "Oil forecasts cut for 2026-2027",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/recortan-previsiones-del-petroleo-para-2026-2027/",
+        "published_date": "2026-07-02 15:14:44",
+        "category": "Energy"
+    },
+    {
+        "title": "Thermal units must be incorporated into the SEN in July",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32915-unidades-termicas-deben-incorporarse-al-sen-en-julio",
+        "published_date": "2026-07-02 10:36:33",
+        "category": "Energy"
+    },
+    {
+        "title": "The difficult transportation panorama",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32914-el-dificil-panorama-del-transporte",
+        "published_date": "2026-07-02 10:16:29",
+        "category": "Energy"
     },
     {
         "title": "A MSME with foreign capital sells fuel from a Cupet warehouse in Havana",
@@ -329,11 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "Former Project is about to close with a positive balance in renewable energies",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/proyecto-former-esta-por-cerrar-en-holguin-con-saldo-positivo-en-energias-renovables/",
-        "published_date": "2026-06-24 15:14:15",
-        "category": "Energy"
+        "title": "The PedroCarr MSME sells Viazul tickets in euros from abroad",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/mipyme-pedrocarr-vende-euros-exterior_1_1128379.html",
+        "published_date": "2026-07-02 20:22:40",
+        "category": "Economy"
     },
     {
         "title": "The consulting firm Auge fears that many MSMEs will go bankrupt with the economic reforms",
@@ -392,157 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Three days of commercial exchange in Santiago de Cuba",
+        "title": "A man is rescued alive after 8 days trapped and world aid for Venezuela grows",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/rescatan-vida-hombre-8-dias_1_1128377.html",
+        "published_date": "2026-07-02 20:13:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba sent only three doctors to the Bahamas, the rest, 32, were technicians and nurses",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cuba-envio-tres-medicos-bahamas_1_1128376.html",
+        "published_date": "2026-07-02 20:13:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Great motivations for Cienfuegos for July 26",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/grandes-motivaciones-de-cienfuegos-conmemorando-el-26-de-julio/",
+        "published_date": "2026-07-02 19:32:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The regime increases repression on the day of the annual meeting at Mike Hammer's residence",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-aumenta-represion-dia-reunion_1_1128374.html",
+        "published_date": "2026-07-02 18:43:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Photovoltaic systems in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32911-sistemas-fotovoltaicos-en-camagueey",
+        "published_date": "2026-07-02 17:17:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "State passenger transportation in Camag\u00fcey plummeted from 350,000 to 15,000 daily users",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/transporte-estatal-pasajeros-camagueey-desplomo_1_1128372.html",
+        "published_date": "2026-07-02 17:10:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "When jazz wins the game over politics",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260624/tres-jornadas-de-intercambio-comercial-en-santiago-de-cuba/",
-        "published_date": "2026-06-24 20:10:48",
-        "category": "Economy"
-    },
-    {
-        "title": "Tourism from the US, a fast track to obtain the foreign currency necessary for the exchange",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/turismo-procedente-ee-uu-via_1_1128091.html",
-        "published_date": "2026-06-24 18:37:47",
-        "category": "Economy"
-    },
-    {
-        "title": "Two femicides in Sancti Sp\u00edritus bring the cases of June to 10, a black month for sexist violence",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/feminicidios-sancti-spiritus-elevan-10_1_1128364.html",
-        "published_date": "2026-07-02 12:55:53",
+        "url": "https://www.trabajadores.cu/20260702/cuando-el-jazz-le-gana-la-partida-a-la-politica/",
+        "published_date": "2026-07-02 16:01:25",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Thursday, July 2, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-2-julio_132_1128359.html",
-        "published_date": "2026-07-02 10:54:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Thursday, July 2, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-2-julio_7_1128362.html",
-        "published_date": "2026-07-02 10:53:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "European Justice confirms the record fine of 4,125 million to Google in an antitrust case",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/justicia-europea-confirma-multa-record_1_1128357.html",
-        "published_date": "2026-07-02 09:36:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE exceeds 10,000 arrests in five days after reinforcing operations, according to NYT",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ice-supera-10-000-detenciones_1_1128354.html",
-        "published_date": "2026-07-02 09:11:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The White House and the State Department differ on the return of Mar\u00eda Corina Machado",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/casa-blanca-departamento-difieren-regreso_1_1128353.html",
-        "published_date": "2026-07-02 09:04:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "International Sports Journalist Day",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/deportes/32908-dia-internacional-del-periodista-deportivo",
-        "published_date": "2026-07-02 05:50:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "A legacy that flies from Villa Clara to Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-legado-que-vuela-desde-villa-clara-hasta-cienfuegos/",
-        "published_date": "2026-07-02 04:00:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hostel for country birds (+ Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/hostal-para-aves-de-campina-fotos/",
-        "published_date": "2026-07-02 04:00:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "MexiPlus replaces the failed Nuevo Vedado state wholesale market",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/mexiplus-sustituye-fallido-mercado-mayorista_1_1128346.html",
-        "published_date": "2026-07-01 21:44:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 90s of Radio Ciudad del Mar: when the radio becomes a hug in the bay",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/los-90-de-radio-ciudad-del-mar-cuando-la-radio-se-vuelve-un-abrazo-en-la-bahia/",
-        "published_date": "2026-07-01 21:03:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US assumes a predominant role in Venezuela in the rescue after the earthquakes",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-asume-venezuela-papel_1_1128340.html",
-        "published_date": "2026-07-01 19:42:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba will go to the Central Americans without players from the United States Minor Leagues",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/cuba-ira-centroamericanos-peloteros-ligas_1_1128342.html",
-        "published_date": "2026-07-01 19:38:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heritage as the protagonist of Summer 2026",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32907-el-patrimonio-como-protagonista-del-verano-2026",
-        "published_date": "2026-07-01 17:50:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jenny arrived, and with her the golden scars",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32906-jenny-llego-y-con-ella-las-cicatrices-doradas",
-        "published_date": "2026-07-01 17:44:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Operation Garbage begins in El Vedado with only five of the 30 tricycles planned",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/operacion-basura-empieza-vedado-cinco_1_1128326.html",
-        "published_date": "2026-07-01 17:04:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel attends the event for the 40th anniversary of the CIGB",
+        "title": "Historians from Santiago are recognized",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260701/asiste-diaz-canel-al-acto-por-el-aniversario-40-del-cigb/",
-        "published_date": "2026-07-01 17:00:04",
+        "url": "https://www.trabajadores.cu/20260702/reconocen-a-historiadores-santiagueros/",
+        "published_date": "2026-07-02 15:49:25",
         "category": "Local Events"
     },
     {
-        "title": "China incorporates AI as the axis of student training",
+        "title": "Survey reveals drop in support for Noboa and pessimism in Ecuador",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/china-incorpora-la-ia-como-eje-de-la-formacion-estudiantil/",
-        "published_date": "2026-07-01 15:36:58",
+        "url": "https://www.5septiembre.cu/encuesta-revela-caida-del-respaldo-a-noboa-y-pesimismo-en-ecuador/",
+        "published_date": "2026-07-02 15:32:42",
         "category": "Local Events"
     },
     {
-        "title": "Cuban basketball signs its first sponsorship agreement with a foreign company",
+        "title": "The greatness of a sector\u2026",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260702/la-grandeza-de-un-sector/",
+        "published_date": "2026-07-02 15:31:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "A summer marked by difference",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260702/un-verano-marcado-por-la-diferencia/",
+        "published_date": "2026-07-02 15:11:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Empathy as a daily practice: a path to strengthen the social fabric",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32910-la-empatia-como-practica-diaria-un-camino-para-fortalecer-el-tejido-social",
+        "published_date": "2026-07-02 15:07:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Let the echoes of the 22nd Congress shake!",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260702/que-estremezcan-los-ecos-del-22-congreso/",
+        "published_date": "2026-07-02 14:54:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran promises firm response to any threat",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-promete-respuesta-firme-ante-cualquier-amenaza/",
+        "published_date": "2026-07-02 14:47:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"We have to unleash our productive forces\"",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/tenemos-que-desatar-nuestras-fuerzas-productivas/",
+        "published_date": "2026-07-02 14:40:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another summer to discover the Historic Center of Havana",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260702/otro-verano-para-descubrir-el-centro-historico-habanero/",
+        "published_date": "2026-07-02 14:40:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the rooftops of Cuba, hunting for a ray of internet",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/baloncesto-cubano-firma-primer-acuerdo_1_1128334.html",
-        "published_date": "2026-07-01 15:29:27",
+        "url": "https://www.14ymedio.com/cuba/tejados-cuba-caza-rayito-internet_1_1128367.html",
+        "published_date": "2026-07-02 14:36:18",
         "category": "Local Events"
     },
     {
-        "title": "Investment Forum in Dominican Republic seeks to strengthen regional cooperation",
+        "title": "Mitrans announces extra trains for the first half of July",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/foro-de-inversion-en-dominicana-busca-fortalecer-cooperacion-regional/",
-        "published_date": "2026-07-01 15:27:07",
+        "url": "https://www.5septiembre.cu/mitrans-anuncia-trenes-extras-para-la-primera-quincena-de-julio/",
+        "published_date": "2026-07-02 14:32:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "National event celebrated in Camag\u00fcey for Historian's Day",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260702/celebran-en-camaguey-acto-nacional-por-el-dia-del-historiador/",
+        "published_date": "2026-07-02 14:25:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italian airline NEOS expands flights to Cuba with the Rome-Holgu\u00edn route",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aerolinea-italiana-neos-amplia-vuelos-a-cuba-con-la-ruta-roma-holguin/",
+        "published_date": "2026-07-02 14:07:55",
         "category": "Local Events"
     }
 ]
