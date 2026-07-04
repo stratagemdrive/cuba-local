@@ -112,13 +112,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba and Uruguay celebrate IV migration round",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-y-uruguay-celebran-iv-ronda-migratoria/",
-        "published_date": "2026-06-26 00:46:13",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Thought and action dedicated to improving El Canal",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260703/pensamiento-y-accion-dedicados-a-mejorar-el-canal/",
@@ -235,13 +228,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260626/se-impone-tratar-con-espiritu-critico-la-situacion-del-salario/",
         "published_date": "2026-06-26 15:10:13",
-        "category": "Military"
-    },
-    {
-        "title": "\"The exemplary life of Ramiro Vald\u00e9s teaches us that the Revolution is made with humility, discipline, and an infinite faith in victory\"",
-        "source": "Granma",
-        "url": "http://en.granma.cu/cuba/2026-06-26/the-exemplary-life-of-ramiro-valdes-teaches-us-that-the-revolution-is-made-with-humility-discipline-and-an-infinite-faith-in-victory",
-        "published_date": "2026-06-26 09:06:56",
         "category": "Military"
     },
     {
@@ -399,11 +385,39 @@
         "category": "Economy"
     },
     {
-        "title": "Blood bank for the 22nd Congress of the CTC",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260626/banco-de-sangre-por-el-22-congreso-de-la-ctc/",
-        "published_date": "2026-06-26 11:51:08",
-        "category": "Economy"
+        "title": "A fire devastates 700 hectares in the Alejandro de Humboldt National Park",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/incendio-arrasa-700-hectareas-parque_1_1128423.html",
+        "published_date": "2026-07-04 11:59:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Japan warned Hugo Ch\u00e1vez 21 years ago of the high seismic risk of Caracas and La Guaira",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/japon-advirtio-21-anos-hugo_1_1128420.html",
+        "published_date": "2026-07-04 11:20:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tehran aspires to the largest funeral in its history amid cries and cries of revenge",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/teheran-aspira-mayor-funeral-historia_1_1128418.html",
+        "published_date": "2026-07-04 11:09:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "PAM in Cienfuegos: in search of more advances (+Multimedia)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pam-en-cienfuegos-en-busca-de-mas-avances-multimedia/",
+        "published_date": "2026-07-04 04:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The double side of the screen: between cognitive development and the crisis of attention",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-doble-cara-de-la-pantalla-entre-el-desarrollo-cognitivo-y-la-crisis-de-la-atencion/",
+        "published_date": "2026-07-04 04:00:17",
+        "category": "Local Events"
     },
     {
         "title": "Iran turns Khamenei's funeral into a show of force against the US and Israel",
@@ -508,41 +522,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/mesa-redonda-250-anos-de-ee-euu-de-la-independencia-al-imperio/",
         "published_date": "2026-07-03 16:22:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Neos Air airline inaugurates direct route between Rome and eastern Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aerolinea-neos-air-inaugura-ruta-directa-entre-roma-y-el-oriente-cubano/",
-        "published_date": "2026-07-03 16:16:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cAnd when did he come in?\u201dCubans receive another departure from Guiteras with ridicule",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/entro-cubanos-reciben-burlas-salida_1_1128403.html",
-        "published_date": "2026-07-03 15:33:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Earth in tension",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260703/la-tierra-en-tension/",
-        "published_date": "2026-07-03 14:38:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ciego de Avila will fight in the Central American Games",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260703/lidiaran-avilenos-en-juegos-centroamericanos/",
-        "published_date": "2026-07-03 14:19:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "In memory of the fighter Juan Manuel M\u00e1rquez",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260703/a-la-memoria-del-combatiente-juan-manuel-marquez/",
-        "published_date": "2026-07-03 14:12:20",
         "category": "Local Events"
     }
 ]
