@@ -1,5 +1,12 @@
 [
     {
+        "title": "Blockade under debate at the UN, Cuba denounces damage from the US siege",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bloqueo-a-debate-en-onu-cuba-denuncia-danos-del-cerco-de-eeuu/",
+        "published_date": "2026-07-05 14:22:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "XVIII Solidarity Meeting with Cuba in Gij\u00f3n: Resistance and brotherhood against the blockade",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/xviii-encuentro-solidario-con-cuba-en-gijon-resistencia-y-hermandad-contra-el-bloqueo/",
@@ -91,18 +98,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The 22nd Congress of the CTC multiplies energies",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260627/el-22-congreso-de-la-ctc-multiplica-energias/",
-        "published_date": "2026-06-27 19:00:27",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "MINREX: \u201cSo far there are no official reports of Cubans affected by the earthquakes in Venezuela\u201d",
+        "title": "The Internal Order Groups: Valuable force for the proper functioning of the Defense Zones",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/minrex-informa-que-hasta-el-momento-no-hay-reportes-oficiales-de-cubanos-afectados-por-los-sismos-en-venezuela/",
-        "published_date": "2026-06-27 16:00:02",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/los-grupos-de-orden-interior-fuerza-valiosa-para-el-buen-funcionamiento-de-las-zonas-de-defensa/",
+        "published_date": "2026-07-05 14:37:17",
+        "category": "Military"
     },
     {
         "title": "Thought and action dedicated to improving El Canal",
@@ -182,32 +182,25 @@
         "category": "Military"
     },
     {
-        "title": "This Congress multiplies our revolutionary energy",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260627/este-congreso-nos-multiplica-la-energia-revolucionaria/",
-        "published_date": "2026-06-27 23:01:02",
-        "category": "Military"
-    },
-    {
-        "title": "We will never renounce the majority aspiration of socialist construction",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260627/no-renunciaremos-nunca-a-la-aspiracion-mayoritaria-de-construccion-socialista/",
-        "published_date": "2026-06-27 23:01:02",
-        "category": "Military"
-    },
-    {
-        "title": "From understanding to action",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260627/del-entendimiento-a-la-accion/",
-        "published_date": "2026-06-27 19:40:26",
-        "category": "Military"
-    },
-    {
-        "title": "Venezuela searches for survivors amid looting, misinformation and 1,430 deaths",
+        "title": "They investigate the theft of fuel in three state entities in Trinidad",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/venezuela-busca-supervivientes-saqueos-desinformacion_1_1128191.html",
-        "published_date": "2026-06-27 12:53:46",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/investigan-trinidad-robo-combustible-tres_1_1128460.html",
+        "published_date": "2026-07-05 16:04:07",
+        "category": "Energy"
+    },
+    {
+        "title": "Havana watches the World Cup without lights and from the sidewalk",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/habana-mira-mundial-luz-acera_1_1128452.html",
+        "published_date": "2026-07-05 15:33:26",
+        "category": "Energy"
+    },
+    {
+        "title": "Uni\u00f3n El\u00e9ctrica estimates 2,230 MW of impact for the maximum demand this Sunday",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/union-electrica-estima-2230-mw-de-afectacion-para-la-maxima-demanda-de-este-domingo/",
+        "published_date": "2026-07-05 14:03:23",
+        "category": "Energy"
     },
     {
         "title": "They foresee the impact of 2,080 MW during the night of this Saturday",
@@ -301,25 +294,11 @@
         "category": "Energy"
     },
     {
-        "title": "Guant\u00e1namo lives to the rhythm of blackouts",
+        "title": "When a queue announces that there is still bread",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/guantanamo-vive-ritmo-apagones_1_1128201.html",
-        "published_date": "2026-06-27 18:08:44",
-        "category": "Energy"
-    },
-    {
-        "title": "Varadero airport auctions its fuel tanks to the private sector",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/aeropuerto-varadero-subasta-tanques-combustible_1_1128198.html",
-        "published_date": "2026-06-27 17:18:16",
-        "category": "Energy"
-    },
-    {
-        "title": "Sonic attacks again, be alert!",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/nuevamente-los-ataques-sonicos-estad-alerta/",
-        "published_date": "2026-06-27 16:25:21",
-        "category": "Energy"
+        "url": "https://www.14ymedio.com/cuba/cola-anuncia-todavia-queda-pan_1_1128462.html",
+        "published_date": "2026-07-05 17:17:28",
+        "category": "Economy"
     },
     {
         "title": "Banking entity Bandec alerts about rejection of low denomination money",
@@ -378,143 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "Fidel, the culture and soul of the nation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fidel-la-cultura-y-el-alma-de-la-nacion/",
-        "published_date": "2026-07-05 04:00:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aguada de Pasajeros Cuban municipality that grows in the face of difficulties",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aguada-de-pasajeros-municipio-cubano-que-se-crece-ante-las-dificultades/",
-        "published_date": "2026-07-04 22:36:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Letter from Uneac to American artists, writers and academics",
+        "title": "International brand scientist",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260704/carta-de-la-uneac-a-los-artistas-escritores-y-academicos-estadounidenses/",
-        "published_date": "2026-07-04 20:14:04",
+        "url": "https://www.trabajadores.cu/20260705/cientifico-de-marca-internacional/",
+        "published_date": "2026-07-05 23:39:56",
         "category": "Local Events"
     },
     {
-        "title": "In the summer: workshops for creativity and imagination",
+        "title": "What soap opera do we want?",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260704/en-el-verano-talleres-para-la-creatividad-y-la-imaginacion/",
-        "published_date": "2026-07-04 19:11:21",
+        "url": "https://www.trabajadores.cu/20260705/que-telenovela-queremos/",
+        "published_date": "2026-07-05 23:34:15",
         "category": "Local Events"
     },
     {
-        "title": "Community party in Pueblo Nuevo",
+        "title": "The most rugged route",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260704/fiesta-comunitaria-en-pueblo-nuevo/",
-        "published_date": "2026-07-04 18:42:31",
+        "url": "https://www.trabajadores.cu/20260705/la-ruta-mas-escabrosa/",
+        "published_date": "2026-07-05 22:28:45",
         "category": "Local Events"
     },
     {
-        "title": "Counterrevolutionaries or political prisoners?",
+        "title": "Cuban players Dennys Laza, Frederich Cepeda and Yordanis Sam\u00f3n are not called to the Central Americans",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/contrarrevolucionarios-presos-politicos_132_1128441.html",
-        "published_date": "2026-07-04 18:01:41",
+        "url": "https://www.14ymedio.com/deportes/peloteros-cubanos-dennys-laza-frederich_1_1128471.html",
+        "published_date": "2026-07-05 18:38:07",
         "category": "Local Events"
     },
     {
-        "title": "New doctors in Ciego de \u00c1vila",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260704/nuevos-doctores-en-ciego-de-avila/",
-        "published_date": "2026-07-04 17:28:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "New room for puerperal women from Pinar del R\u00edo",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260704/sala-nueva-para-puerperas-pinarenas/",
-        "published_date": "2026-07-04 16:51:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the Mariel eggs to the luxury egg",
+        "title": "Aroldis Chapman breaks 54-year-old record and becomes the reliever with the most strikeouts in the MLB",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/huevazos-mariel-huevo-lujo_1_1128439.html",
-        "published_date": "2026-07-04 16:11:31",
+        "url": "https://www.14ymedio.com/deportes/aroldis-chapman-rompe-record-54_1_1128469.html",
+        "published_date": "2026-07-05 18:29:30",
         "category": "Local Events"
     },
     {
-        "title": "Transporters with more commitment to the Homeland",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260704/transportistas-por-mas-compromiso-por-la-patria/",
-        "published_date": "2026-07-04 14:55:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Earth in tension",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260704/la-tierra-en-tension/",
-        "published_date": "2026-07-04 14:38:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNEAC reveals winners of scholarships for criticism, research and creation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/revela-la-uneac-ganadores-de-becas-de-critica-investigacion-y-creacion/",
-        "published_date": "2026-07-04 14:24:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Change of energy matrix advances in Etecsa",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260704/avanza-cambio-de-matriz-energetica-en-etecsa/",
-        "published_date": "2026-07-04 14:24:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rowers return from training in Mexico today with an eye on Santo Domingo",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/retornan-hoy-remeros-de-entrenamiento-en-mexico-con-mira-en-santo-domingo/",
-        "published_date": "2026-07-04 14:19:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba and the eternal search for freedom",
+        "title": "Artemisa recognizes that 225,000 inhabitants have difficulties receiving water",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-eterna-busqueda-libertad_1_1128436.html",
-        "published_date": "2026-07-04 14:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin highlights strategic importance of the seizure of Konstantinovka",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/putin-destaca-importancia-estrategica-de-la-toma-de-konstantinovka/",
-        "published_date": "2026-07-04 14:02:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Khamenei's public funeral processions begin in Tehran",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/comienzan-procesiones-funebres-publicas-de-jamenei-en-teheran/",
-        "published_date": "2026-07-04 13:58:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump monopolizes the 4th of July in an increasingly divided US",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-acapara-el-4-de-julio-en-unos-ee-uu-cada-vez-mas-divididos/",
-        "published_date": "2026-07-04 13:52:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opponent Roberto Veiga denounces pressure to leave Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/opositor-roberto-veiga-denuncia-presion_1_1128434.html",
-        "published_date": "2026-07-04 13:41:18",
+        "url": "https://www.14ymedio.com/cuba/artemisa-reconoce-225-000-habitantes_1_1128463.html",
+        "published_date": "2026-07-05 17:50:45",
         "category": "Local Events"
     },
     {
         "title": "Integration and opening in the Uruguayan presidency of Mercosur",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/integracion-y-apertura-en-presidencia-uruguaya-de-mercosur/",
-        "published_date": "2026-07-04 13:23:23",
+        "url": "https://www.5septiembre.cu/integracion-y-apertura-en-presidencia-uruguaya-de-mercosur-2/",
+        "published_date": "2026-07-05 15:56:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Books to rebuild a broken country",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura/libros-reconstruir-pais-roto_1_1128458.html",
+        "published_date": "2026-07-05 15:54:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Millions attend Ayatollah Ali Khamenei's funeral in Tehran",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/millones-de-personas-participan-en-funeral-del-ayatollah-ali-khamenei-en-teheran/",
+        "published_date": "2026-07-05 15:51:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "When a hotel gives everything",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260705/cuando-un-hotel-se-da-todo/",
+        "published_date": "2026-07-05 15:50:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "symbol of courage",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260705/simbolo-de-coraje/",
+        "published_date": "2026-07-05 15:41:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel violates framework agreement and leaves a civilian injured in southern Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/israel-viola-acuerdo-marco-y-deja-un-civil-herido-en-sur-del-libano/",
+        "published_date": "2026-07-05 15:38:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "T\u00fcrkiye appreciates Pakistan's role in mediation between the US and Tehran",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/turkiye-agradece-papel-de-pakistan-en-mediacion-entre-eeuu-y-teheran/",
+        "published_date": "2026-07-05 15:33:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Debates and performances at the Caribbean Festival",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260705/debates-y-puestas-en-escena-en-festival-del-caribe/",
+        "published_date": "2026-07-05 15:29:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Electric cars reinforce hemodialysis service in Matanzas",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260705/autos-electricos-refuerzan-servicio-de-hemodialisis-en-matanzas/",
+        "published_date": "2026-07-05 15:24:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Industriales beats Le\u00f1adores 3\u00d71 and takes a 2-1 lead in the final of the IV Elite League",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/industriales-vence-3x1-a-lenadores-y-toma-ventaja-de-2-1-en-final-de-la-iv-liga-elite/",
+        "published_date": "2026-07-05 14:15:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cDown with Batista!\u201d, the slogan with double meaning of the cacerolazos",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/abajo-batista-consigna-doble-sentido_1_1128450.html",
+        "published_date": "2026-07-05 14:11:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aitana Alberti, the daughter of the Spanish republican exile, is fired in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura/despiden-habana-aitana-alberti-hija_1_1128448.html",
+        "published_date": "2026-07-05 13:20:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Censors also write letters of solidarity",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/censores-escriben-cartas-solidaridad_1_1128446.html",
+        "published_date": "2026-07-05 12:49:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump celebrates 250 years of the United States with fireworks and a political rally",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-celebra-250-anos-ee_1_1128443.html",
+        "published_date": "2026-07-05 12:19:39",
         "category": "Local Events"
     }
 ]
