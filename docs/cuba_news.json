@@ -119,6 +119,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "What will happen this July 7 at the United Nations General Assembly?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/que-sucedera-este-7-de-julio-en-la-asamblea-general-de-las-naciones-unidas/",
+        "published_date": "2026-07-07 11:28:02",
+        "category": "Military"
+    },
+    {
         "title": "The Internal Order Groups: Valuable force for the proper functioning of the Defense Zones",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/los-grupos-de-orden-interior-fuerza-valiosa-para-el-buen-funcionamiento-de-las-zonas-de-defensa/",
@@ -182,11 +189,25 @@
         "category": "Military"
     },
     {
-        "title": "What the 22nd Congress of the CTC left behind",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260628/lo-que-dejo-el-22-congreso-de-la-ctc/",
-        "published_date": "2026-06-29 03:32:02",
-        "category": "Military"
+        "title": "63 Cuban initiatives are selected to receive international financing for their development",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/seleccionan-63-iniciativas-cubanas-para-recibir-financiamiento-internacional-para-su-desarrollo/",
+        "published_date": "2026-07-07 11:21:12",
+        "category": "Energy"
+    },
+    {
+        "title": "The reconnection of the system in Cuba is complicated by the lack of fuel",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/reconexion-sistema-cuba-complica-falta_1_1128512.html",
+        "published_date": "2026-07-07 08:59:04",
+        "category": "Energy"
+    },
+    {
+        "title": "The American press does know that Cuba is not a threat",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-prensa-estadounidense-si-sabe-que-cuba-no-es-una-amenaza/",
+        "published_date": "2026-07-07 04:44:45",
+        "category": "Energy"
     },
     {
         "title": "Total disconnection of the Electro-Energy System, gradual recovery",
@@ -308,13 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "The UN highlights that the Cuban private sector is \u201can important partner in the humanitarian response\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/onu-destaca-sector-privado-cubano_1_1128230.html",
-        "published_date": "2026-06-29 09:46:00",
-        "category": "Energy"
-    },
-    {
         "title": "When a queue announces that there is still bread",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/cola-anuncia-todavia-queda-pan_1_1128462.html",
@@ -357,6 +371,125 @@
         "category": "Economy"
     },
     {
+        "title": "Claim is declared with Place",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260707/reclamacion-se-declara-con-lugar/",
+        "published_date": "2026-07-07 13:23:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sentenced to 15 months of firm disqualification, Le Pen could run for president in 2027",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/condenada-15-meses-inhabilitacion-firme_1_1128529.html",
+        "published_date": "2026-07-07 13:11:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella suspends the transition with the Petro Government, which does not recognize his victory",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/espriella-suspende-transicion-gobierno-petro_1_1128528.html",
+        "published_date": "2026-07-07 13:03:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three young people detained in Contramaestre are released, but other minors remain imprisoned for sabotage",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/liberan-tres-jovenes-detenidos-contramaestre_1_1128524.html",
+        "published_date": "2026-07-07 12:45:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sovereignty",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/soberania/",
+        "published_date": "2026-07-07 11:48:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel signs book of condolences for earthquakes in Venezuela (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-firma-libro-de-condolencias-por-terremotos-en-venezuela-fotos/",
+        "published_date": "2026-07-07 11:32:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russian university will produce drug against hepatitis B",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/universidad-rusa-producira-farmaco-contra-la-hepatitis-b/",
+        "published_date": "2026-07-07 11:26:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lebanon confirms 15 new deaths from Israeli bombings",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/confirma-libano-15-nuevos-muertos-por-bombardeos-israelies/",
+        "published_date": "2026-07-07 11:13:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "No link can fail",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260707/no-puede-fallar-ningun-eslabon/",
+        "published_date": "2026-07-07 10:51:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, July 7, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-7-julio_132_1128521.html",
+        "published_date": "2026-07-07 10:42:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "'As long as the day does not close II'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/dia-no-cierre-ii_1_1128519.html",
+        "published_date": "2026-07-07 10:15:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hundreds of victims of the earthquakes in Venezuela are being buried without identifying",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/centenares-victimas-terremotos-enterradas-identificar-venezuela_1_1128515.html",
+        "published_date": "2026-07-07 09:43:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Cartographies of Cuban intellectual history before 1959'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/cartografias-historia-intelectual-cubana-anterior_1_1128516.html",
+        "published_date": "2026-07-07 09:40:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Connected Worlds' Exhibition",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/exposicion-mundos-conectados_1_1128500.html",
+        "published_date": "2026-07-07 09:11:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brazil: Fl\u00e1vio Bolsonaro's candidacy is made official on July 25",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/brasil-oficializaran-candidatura-de-flavio-bolsonaro-el-25-de-julio/",
+        "published_date": "2026-07-07 04:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The endless sunset",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-atardecer-interminable/",
+        "published_date": "2026-07-07 04:00:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "This Tuesday debate at the United Nations on US aggression against Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260706/este-martes-debate-en-naciones-unidas-sobre-agresion-de-ee-uu-contra-cuba/",
+        "published_date": "2026-07-07 00:14:22",
+        "category": "Local Events"
+    },
+    {
         "title": "Cuban swimmer Andrea Becali sets a record in Australia and is a favorite for the Central Americans",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/deportes/nadadora-cubana-andrea-becali-impone_1_1128510.html",
@@ -375,125 +508,6 @@
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/cultura/27-artes-visuales/32928-lili-entre-suenos-y-letras",
         "published_date": "2026-07-06 18:49:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 12-year-old boy dies on Isla de la Juventud during a paragliding flight",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nino-12-anos-muere-isla_1_1128506.html",
-        "published_date": "2026-07-06 18:13:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "happy birthday",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/cumpleanos-feliz_132_1128504.html",
-        "published_date": "2026-07-06 17:44:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Roughest Road",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260706/the-roughest-road/",
-        "published_date": "2026-07-06 17:33:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The national electrical system collapses again in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/colapsa-nuevo-sistema-electrico-nacional_1_1128502.html",
-        "published_date": "2026-07-06 16:49:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The prosecutor who never arrived",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/fiscal-llego_132_1128499.html",
-        "published_date": "2026-07-06 16:09:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new Cuban-American chamber prepares a plan for a \"radical change\" on the Island",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nueva-camara-cubano-americana-prepara_1_1128497.html",
-        "published_date": "2026-07-06 14:52:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Murdered in Central Havana by the father of her children, with a history of abuse",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/asesinada-centro-habana-padre-hijos_1_1128494.html",
-        "published_date": "2026-07-06 14:37:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ra\u00fal Castro's grandson sees himself as the ideal person to negotiate with the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nieto-raul-castro-ve-si_1_1128492.html",
-        "published_date": "2026-07-06 13:57:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Good sign for residents of Ayestar\u00e1n",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260706/buena-senal-para-vecinos-de-ayestaran/",
-        "published_date": "2026-07-06 13:20:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The child Day\u00e1n Mart\u00ednez is found dead and the number of Cubans who died in the earthquakes in Venezuela rises to 10",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/localizan-vida-nino-dayan-martinez_1_1128488.html",
-        "published_date": "2026-07-06 13:12:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cOne street, a thousand roads\u201d back on screens this summer",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/una-calle-mil-caminos-de-regreso-en-las-pantallas-este-verano/",
-        "published_date": "2026-07-06 12:03:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Half a thousand athletes, the pride of Cuban sport",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/medio-millar-de-atletas-el-orgullo-del-deporte-cubano/",
-        "published_date": "2026-07-06 11:49:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran says it is not at peace with the United States",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-afirma-que-no-esta-en-paz-con-estados-unidos/",
-        "published_date": "2026-07-06 11:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuelan government honors Cuban rescue brigade for their selfless work after the earthquakes",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/gobierno-venezolano-condecora-a-brigada-de-rescatistas-cubanos-por-su-abnegada-labor-tras-los-sismos/",
-        "published_date": "2026-07-06 11:28:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, July 6, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-6-julio_132_1128482.html",
-        "published_date": "2026-07-06 11:23:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, July 6, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-lunes-6-julio_7_1128487.html",
-        "published_date": "2026-07-06 11:23:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Some 50 Cuban nurses will return to Jamaica with individual contracts",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/50-enfermeras-cubanas-volveran-jamaica_1_1128484.html",
-        "published_date": "2026-07-06 11:06:42",
         "category": "Local Events"
     }
 ]
