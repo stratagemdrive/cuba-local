@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuban Foreign Minister announces UN session on the blockade of Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/anuncia-canciller-cubano-sesion-de-la-onu-sobre-el-bloqueo-a-cuba/",
+        "published_date": "2026-07-06 18:23:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "There will be debate at the UN over increased blockade measures against Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32927-habra-debate-en-la-onu-por-medidas-incrementadas-de-bloqueo-a-cuba",
+        "published_date": "2026-07-06 18:03:56",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Solidarity Day with Cuba in the Italian city of Milan",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/jornada-de-solidaridad-con-cuba-en-ciudad-italiana-de-milan/",
@@ -175,6 +189,27 @@
         "category": "Military"
     },
     {
+        "title": "Total disconnection of the Electro-Energy System, gradual recovery",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32929-desconeccion-total-del-sistema-electroenergetico-recuperacion-gradual",
+        "published_date": "2026-07-06 19:09:52",
+        "category": "Energy"
+    },
+    {
+        "title": "UNE reports: Total disconnection of the National Electroenergy System",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/une-informa-desconexion-total-del-sistema-electroenergetico-nacional/",
+        "published_date": "2026-07-06 18:19:15",
+        "category": "Energy"
+    },
+    {
+        "title": "Cuban guajiros try to sell land at a bargain price due to the energy crisis",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/guajiros-cubanos-vender-tierras-precio_1_1128495.html",
+        "published_date": "2026-07-06 14:35:41",
+        "category": "Energy"
+    },
+    {
         "title": "They investigate the theft of fuel in three state entities in Trinidad",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/investigan-trinidad-robo-combustible-tres_1_1128460.html",
@@ -322,25 +357,81 @@
         "category": "Economy"
     },
     {
-        "title": "Humberto P\u00e9rez Gonz\u00e1lez, architect of the centralized economy in Cuba, dies",
+        "title": "Cuban swimmer Andrea Becali sets a record in Australia and is a favorite for the Central Americans",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/fallece-humberto-perez-gonzalez-arquitecto_1_1128226.html",
-        "published_date": "2026-06-28 18:51:23",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/deportes/nadadora-cubana-andrea-becali-impone_1_1128510.html",
+        "published_date": "2026-07-06 20:34:30",
+        "category": "Local Events"
     },
     {
-        "title": "Inspectors and police \"assault\" private businesses to take their cash in national currency",
+        "title": "The Cuban regime reopens the case against Anna Bensi and her mother due to the complaint of an \u201coffended\u201d police officer",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/inspectores-policias-asaltan-negocios-privados_1_1128215.html",
-        "published_date": "2026-06-28 17:22:41",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-reabre-caso-anna_1_1128508.html",
+        "published_date": "2026-07-06 19:08:32",
+        "category": "Local Events"
     },
     {
-        "title": "Business Forum promoted economic alliances in Santiago de Cuba (+ Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/foro-de-negocios-impulso-alianzas-economicas-en-santiago-de-cuba-fotos/",
-        "published_date": "2026-06-28 17:19:42",
-        "category": "Economy"
+        "title": "Lili, between dreams and letters (+Photos)",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/27-artes-visuales/32928-lili-entre-suenos-y-letras",
+        "published_date": "2026-07-06 18:49:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 12-year-old boy dies on Isla de la Juventud during a paragliding flight",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nino-12-anos-muere-isla_1_1128506.html",
+        "published_date": "2026-07-06 18:13:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "happy birthday",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/cumpleanos-feliz_132_1128504.html",
+        "published_date": "2026-07-06 17:44:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Roughest Road",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260706/the-roughest-road/",
+        "published_date": "2026-07-06 17:33:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The national electrical system collapses again in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/colapsa-nuevo-sistema-electrico-nacional_1_1128502.html",
+        "published_date": "2026-07-06 16:49:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The prosecutor who never arrived",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/fiscal-llego_132_1128499.html",
+        "published_date": "2026-07-06 16:09:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new Cuban-American chamber prepares a plan for a \"radical change\" on the Island",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nueva-camara-cubano-americana-prepara_1_1128497.html",
+        "published_date": "2026-07-06 14:52:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Murdered in Central Havana by the father of her children, with a history of abuse",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/asesinada-centro-habana-padre-hijos_1_1128494.html",
+        "published_date": "2026-07-06 14:37:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ra\u00fal Castro's grandson sees himself as the ideal person to negotiate with the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nieto-raul-castro-ve-si_1_1128492.html",
+        "published_date": "2026-07-06 13:57:30",
+        "category": "Local Events"
     },
     {
         "title": "Good sign for residents of Ayestar\u00e1n",
@@ -403,83 +494,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/50-enfermeras-cubanas-volveran-jamaica_1_1128484.html",
         "published_date": "2026-07-06 11:06:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Every day a child is killed in Gaza",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cada-dia-es-asesinado-un-nino-en-gaza/",
-        "published_date": "2026-07-06 11:03:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro affirmed that progressivism in Colombia will turn into active resistance",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/afirmo-petro-que-progresismo-en-colombia-pasara-a-resistencia-activa/",
-        "published_date": "2026-07-06 10:53:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "An unusual surviving planet gives clues to the possible fate of the Solar System",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/inusual-planeta-superviviente-da-pistas_1_1128336.html",
-        "published_date": "2026-07-06 08:27:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuelans lead the search through the rubble for those missing in the earthquake",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/venezolanos-lideran-busqueda-escombros-desaparecidos_1_1128475.html",
-        "published_date": "2026-07-06 08:24:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Hamas Government in Gaza dissolves to pass the baton to the Palestinian technocratic committee",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/fuente-hamas-afirma-grupo-anunciara_1_1128473.html",
-        "published_date": "2026-07-06 08:13:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legume sprouts: source of incalculable nutritional value",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/brotes-de-legumbres-fuente-de-incalculable-valor-nutritivo/",
-        "published_date": "2026-07-06 04:00:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos Psychopedagogical Center: end of course from the heart (+ Gallery)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/centro-psicopedagogico-de-cienfuegos-fin-de-curso-desde-el-corazon-galeria/",
-        "published_date": "2026-07-06 04:00:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Intensity",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260705/intensidad/",
-        "published_date": "2026-07-06 01:44:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prize the tenth",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260705/premia-la-decima/",
-        "published_date": "2026-07-06 01:31:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Goldsmiths of the future",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260705/orfebres-de-futuro/",
-        "published_date": "2026-07-06 01:16:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world already revolves around the ball (IV)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260705/el-mundo-ya-gira-en-torno-al-balon-iv/",
-        "published_date": "2026-07-06 00:35:44",
         "category": "Local Events"
     }
 ]
