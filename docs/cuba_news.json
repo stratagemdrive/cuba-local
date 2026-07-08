@@ -1,5 +1,40 @@
 [
     {
+        "title": "International community rejects US motion of censure",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/rechaza-comunidad-internacional-mocion-de-censura-de-ee-uu/",
+        "published_date": "2026-07-07 18:51:59",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US unsuccessfully opposes the debate on the blockade of Cuba in the UN General Assembly",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ee-uu-opone-exito-debate_1_1128542.html",
+        "published_date": "2026-07-07 18:26:53",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba alerts the UN about worsening of the US blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-alerta-a-la-onu-sobre-agravamiento-del-bloqueo-estadounidense/",
+        "published_date": "2026-07-07 18:04:24",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN General Assembly approved by majority debate on the genocidal blockade against Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260707/asamblea-general-de-la-onu-aprueba-debate-solicitado-por-cuba/",
+        "published_date": "2026-07-07 15:39:23",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "More than 24 hours after the fall, the electrical system is linked from Havana to Ciego de \u00c1vila",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/24-horas-despues-caida-sistema_1_1128536.html",
+        "published_date": "2026-07-07 15:23:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuban Foreign Minister announces UN session on the blockade of Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/anuncia-canciller-cubano-sesion-de-la-onu-sobre-el-bloqueo-a-cuba/",
@@ -105,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuban Foreign Minister reaffirms the island's vocation for peace",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-cubano-reafirma-vocacion-de-paz-de-la-isla/",
-        "published_date": "2026-06-30 17:12:13",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Cuban Foreign Ministry reports late on two compatriots killed in the earthquakes in Venezuela",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cancilleria-cubana-informa-retraso-connacionales_1_1128247.html",
-        "published_date": "2026-06-29 20:10:52",
-        "category": "Diplomacy"
-    },
-    {
         "title": "What will happen this July 7 at the United Nations General Assembly?",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/que-sucedera-este-7-de-julio-en-la-asamblea-general-de-las-naciones-unidas/",
@@ -182,11 +203,11 @@
         "category": "Military"
     },
     {
-        "title": "Given the discontent over the blackouts, militarization extends to Guanabacoa and Central Havana",
+        "title": "The crazy people of the blackout",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/descontento-apagones-extiende-militarizacion-guanabacoa_1_1128241.html",
-        "published_date": "2026-06-29 15:54:04",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/locos-apagon_1_1128551.html",
+        "published_date": "2026-07-07 20:07:02",
+        "category": "Energy"
     },
     {
         "title": "63 Cuban initiatives are selected to receive international financing for their development",
@@ -322,13 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "Chronicles from Spain: Liga Santaballesa, a bridge between Galicia and Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cronicas-desde-espana-liga-santaballesa-un-puente-entre-galicia-y-cuba/",
-        "published_date": "2026-06-30 04:00:42",
-        "category": "Energy"
-    },
-    {
         "title": "When a queue announces that there is still bread",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/cola-anuncia-todavia-queda-pan_1_1128462.html",
@@ -369,6 +383,97 @@
         "url": "https://www.trabajadores.cu/20260701/mipyme-zafira-s-u-r-l-busca-personal-con-experiencia/",
         "published_date": "2026-07-01 16:20:53",
         "category": "Economy"
+    },
+    {
+        "title": "Otero Alc\u00e1ntara is taken from prison and his whereabouts are unknown",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/otero-alcantara-sacado-prision-encuentra_1_1127988.html",
+        "published_date": "2026-07-07 23:06:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire against fire",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260707/fuego-contra-fuego/",
+        "published_date": "2026-07-07 20:36:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The family of a Cuban who died in ICE custody demands more than a million dollars",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/familia-cubano-muerto-custodia-ice_1_1128549.html",
+        "published_date": "2026-07-07 19:30:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The political prisoner of 11J Nilo Abrahante Santiago is released",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/excarcelan-preso-politico-11j-nilo_1_1128547.html",
+        "published_date": "2026-07-07 18:37:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Experts predict another month for July with the dollar hovering around 700 Cuban pesos",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/economia/expertos-predicen-julio-mes-dolar_1_1128544.html",
+        "published_date": "2026-07-07 18:22:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paul Okon-Engstler Jr.: Cuban heritage with Australia in the Soccer World Cup",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/paul-okon-engstler-hijo-herencia_1_1128541.html",
+        "published_date": "2026-07-07 18:20:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Mariel to Sancti Sp\u00edritus the SEN is restored",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/desde-mariel-a-sancti-spiritus-restablecido-el-sen/",
+        "published_date": "2026-07-07 17:50:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "They restore service in water, telecommunications and hospitals circuits",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32930-restablecen-servicio-en-circuitos-de-agua-telecomunicaciones-y-hospitales-camagueeyanos",
+        "published_date": "2026-07-07 17:16:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "IOC lifts suspension of Russia and allows its participation in Los Angeles 2028 under its own flag",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/coi-levanta-suspension-a-rusia-y-permite-su-participacion-en-los-angeles-2028-bajo-bandera-propia/",
+        "published_date": "2026-07-07 16:40:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Cuban, wounded by gunshot in Tapachula, Mexico",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/joven-cubano-herido-bala-tapachula_1_1128539.html",
+        "published_date": "2026-07-07 16:02:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than a party",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260707/mas-que-parrandero/",
+        "published_date": "2026-07-07 15:40:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antilles Gold proposes that an American control its mines in Cuba to avoid sanctions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/antilles-gold-propone-estadounidense-controle_1_1128534.html",
+        "published_date": "2026-07-07 15:11:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Broken computer system and 'VIP' prices in the new dollar store at the Comodoro hotel",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sistema-informatico-averiado-precios-vip-habana_1_1128526.html",
+        "published_date": "2026-07-07 14:12:00",
+        "category": "Local Events"
     },
     {
         "title": "Claim is declared with Place",
@@ -417,97 +522,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/universidad-rusa-producira-farmaco-contra-la-hepatitis-b/",
         "published_date": "2026-07-07 11:26:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lebanon confirms 15 new deaths from Israeli bombings",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/confirma-libano-15-nuevos-muertos-por-bombardeos-israelies/",
-        "published_date": "2026-07-07 11:13:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "No link can fail",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260707/no-puede-fallar-ningun-eslabon/",
-        "published_date": "2026-07-07 10:51:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, July 7, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-7-julio_132_1128521.html",
-        "published_date": "2026-07-07 10:42:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "'As long as the day does not close II'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/dia-no-cierre-ii_1_1128519.html",
-        "published_date": "2026-07-07 10:15:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hundreds of victims of the earthquakes in Venezuela are being buried without identifying",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/centenares-victimas-terremotos-enterradas-identificar-venezuela_1_1128515.html",
-        "published_date": "2026-07-07 09:43:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Cartographies of Cuban intellectual history before 1959'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/cartografias-historia-intelectual-cubana-anterior_1_1128516.html",
-        "published_date": "2026-07-07 09:40:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Connected Worlds' Exhibition",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/exposicion-mundos-conectados_1_1128500.html",
-        "published_date": "2026-07-07 09:11:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil: Fl\u00e1vio Bolsonaro's candidacy is made official on July 25",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/brasil-oficializaran-candidatura-de-flavio-bolsonaro-el-25-de-julio/",
-        "published_date": "2026-07-07 04:00:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The endless sunset",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-atardecer-interminable/",
-        "published_date": "2026-07-07 04:00:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "This Tuesday debate at the United Nations on US aggression against Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260706/este-martes-debate-en-naciones-unidas-sobre-agresion-de-ee-uu-contra-cuba/",
-        "published_date": "2026-07-07 00:14:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban swimmer Andrea Becali sets a record in Australia and is a favorite for the Central Americans",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/nadadora-cubana-andrea-becali-impone_1_1128510.html",
-        "published_date": "2026-07-06 20:34:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban regime reopens the case against Anna Bensi and her mother due to the complaint of an \u201coffended\u201d police officer",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/regimen-cubano-reabre-caso-anna_1_1128508.html",
-        "published_date": "2026-07-06 19:08:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lili, between dreams and letters (+Photos)",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/27-artes-visuales/32928-lili-entre-suenos-y-letras",
-        "published_date": "2026-07-06 18:49:02",
         "category": "Local Events"
     }
 ]
