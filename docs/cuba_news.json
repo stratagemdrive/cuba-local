@@ -1,5 +1,12 @@
 [
     {
+        "title": "Syria welcomes US decision to remove it from terrorism list",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/siria-celebra-decision-de-eeuu-de-retirarla-de-lista-del-terrorismo/",
+        "published_date": "2026-07-09 11:58:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "D\u00edaz-Canel thanks international support for debate at the UN on the blockade against Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/agradece-diaz-canel-respaldo-internacional-a-debate-en-la-onu-sobre-el-bloqueo-contra-cuba/",
@@ -126,18 +133,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The Cuban Foreign Minister says that talks with the United States have stalled",
+        "title": "An Iranian drone exhibited in Miami rekindles alarm over military ties between Cuba and Tehran",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/canciller-cubano-dice-conversaciones-ee_1_1128307.html",
-        "published_date": "2026-07-01 10:27:26",
-        "category": "Diplomacy"
+        "url": "https://www.14ymedio.com/cuba/dron-irani-exhibido-miami-reaviva_1_1128602.html",
+        "published_date": "2026-07-09 12:24:05",
+        "category": "Military"
     },
     {
-        "title": "Once again Cuba with its cause to the UN General Assembly",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32903-una-vez-mas-cuba-con-su-causa-a-la-asamblea-general-de-la-onu",
-        "published_date": "2026-07-01 00:32:40",
-        "category": "Diplomacy"
+        "title": "Search for solutions, from the national industry, to the country's strategic problems and defense",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/buscar-salidas-desde-la-industria-nacional-a-problemas-estrategicos-del-pais-y-a-la-defensa/",
+        "published_date": "2026-07-09 12:13:03",
+        "category": "Military"
     },
     {
         "title": "What will happen this July 7 at the United Nations General Assembly?",
@@ -186,13 +193,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/rusia-mata-13-personas-kiev_1_1128355.html",
         "published_date": "2026-07-02 09:24:42",
-        "category": "Military"
-    },
-    {
-        "title": "The Chinese CP celebrates 105 years with the challenge of recovering \"purity\" and the \"historic task of reunifying\" Taiwan",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/pc-chino-cumple-105-anos_1_1128308.html",
-        "published_date": "2026-07-01 10:39:51",
         "category": "Military"
     },
     {
@@ -336,6 +336,20 @@
         "category": "Energy"
     },
     {
+        "title": "Economic transformations support a more dynamic business fabric",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/transformaciones-economicas-apuestan-por-un-tejido-empresarial-mas-dinamico/",
+        "published_date": "2026-07-09 12:04:30",
+        "category": "Economy"
+    },
+    {
+        "title": "Delcy Rodr\u00edguez asks Carlos III to release the Venezuelan gold in the Bank of England",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-pide-carlos-iii_1_1128595.html",
+        "published_date": "2026-07-09 08:59:18",
+        "category": "Economy"
+    },
+    {
         "title": "Public Administration for more challenges",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260708/administracion-publica-por-mas-retos/",
@@ -383,6 +397,83 @@
         "url": "https://www.trabajadores.cu/20260701/mipyme-zafira-s-u-r-l-busca-personal-con-experiencia/",
         "published_date": "2026-07-01 16:20:53",
         "category": "Economy"
+    },
+    {
+        "title": "Cuban doctors in Calabria admit that they give up to half their salary to the regime",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/medicos-cubanos-calabria-admiten-dan_1_1128606.html",
+        "published_date": "2026-07-09 13:40:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Exhibition of independent Cuban cinema in Madrid'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/muestra-cine-cubano-independiente-madrid_1_1128604.html",
+        "published_date": "2026-07-09 12:36:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Etecsa reports increase in mobile damages due to electrical failures",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reporta-etecsa-incremento-de-afectaciones-moviles-por-fallas-electricas/",
+        "published_date": "2026-07-09 11:53:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "The reforms are an opportunity for investors who are already in Cuba, but not for new ones",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/economia/reformas-son-oportunidad-inversores-cuba_1_1128600.html",
+        "published_date": "2026-07-09 11:50:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why did Egypt's coach make an X gesture in the match with Argentina?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/por-que-el-entrenador-de-egipto-hizo-un-gesto-de-x-en-el-partido-con-argentina/",
+        "published_date": "2026-07-09 11:47:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ethiopia calls for concrete actions in favor of medical training in Africa",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/etiopia-pide-acciones-concretas-a-favor-de-formacion-medica-en-africa/",
+        "published_date": "2026-07-09 11:41:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ali Khamenei's legacy",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-legado-de-ali-jamenei/",
+        "published_date": "2026-07-09 11:30:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Thursday, July 9, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-9-julio_132_1128597.html",
+        "published_date": "2026-07-09 11:07:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Otero Alc\u00e1ntara remains missing on the key day for his release",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/otero-alcantara-sigue-paradero-desconocido_1_1128594.html",
+        "published_date": "2026-07-09 08:40:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran warns US: 'Let's be clear: if you hit, they will hit you back'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/iran-advierte-estados-unidos-quede_1_1128592.html",
+        "published_date": "2026-07-09 08:12:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronicles from Spain: Archaeological Museum of Granada, between archeology and El Roc\u00edo",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cronicas-desde-espana-museo-arqueologico-de-granada-entre-la-arqueologia-y-el-rocio/",
+        "published_date": "2026-07-09 04:00:02",
+        "category": "Local Events"
     },
     {
         "title": "The United States resumes bombing against Iran after Trump ends the truce",
@@ -445,83 +536,6 @@
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/32934-balance-oficial-eleva-a-3-535-los-fallecidos-por-los-sismos-en-venezuela",
         "published_date": "2026-07-08 18:03:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia bans diesel exports to mitigate the impact of Ukrainian attacks on its refineries",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rusia-prohibe-exportar-diesel-mitigar_1_1128572.html",
-        "published_date": "2026-07-08 17:44:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three people from Camag\u00fcey in the international haiku selection",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32933-tres-camagueeyanos-en-seleccion-internacional-de-haiku",
-        "published_date": "2026-07-08 17:28:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Tula: When bronze captures the eternal passage of a pilgrim",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32932-la-tula-cuando-el-bronce-atrapa-el-paso-eterno-de-una-peregrina",
-        "published_date": "2026-07-08 17:24:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "F\u00e9lix Elmuza worker social circle is reborn",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260708/renace-circulo-social-obrero-felix-elmuza/",
-        "published_date": "2026-07-08 17:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ashes in the streets after another night of blackouts and protests in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cenizas-calles-noche-apagones-protestas_1_1128568.html",
-        "published_date": "2026-07-08 16:43:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Remittances from Mexico to Cuba come from one of the poorest states in the country",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/remesas-mexico-cuba-salen-estados_1_1128567.html",
-        "published_date": "2026-07-08 16:41:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump ends ceasefire with Iran and offers Ukraine to build Patriot missiles",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/trump-da-por-terminado-el-alto-el-fuego-con-iran-y-ofrece-a-ucrania-fabricar-misiles-patriot/",
-        "published_date": "2026-07-08 16:24:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The end of capped prices brings more inflation than liberalization in Matanzas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/precios-topados-trae-matanzas-inflacion_1_1128565.html",
-        "published_date": "2026-07-08 15:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "No Link Can Fail",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260708/no-link-can-fail/",
-        "published_date": "2026-07-08 15:43:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Creating High-Quality AI Images with News-aware Visuals",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/tecnologia/creating-high-quality-ai-images_132_1128476.html",
-        "published_date": "2026-07-08 15:34:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The WHO estimates that 20% of the population will develop cancer and 92% will be affected by the disease.",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/oms-estima-20-poblacion-desarrollara_1_1128564.html",
-        "published_date": "2026-07-08 14:32:45",
         "category": "Local Events"
     }
 ]
