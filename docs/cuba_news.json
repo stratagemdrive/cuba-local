@@ -119,27 +119,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The seven Panamanians arrested for graffiti in Cuba could serve their sentences in their country",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/siete-panamenos-detenidos-realizar-grafitis_1_1128363.html",
-        "published_date": "2026-07-02 11:38:30",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Trump celebrates that Cuba is \u201cgetting closer\u201d to the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/trump-celebra-cuba-acercando-estados_1_1128358.html",
-        "published_date": "2026-07-02 10:52:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba denounces US criminal blockade and persecution of doctors",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32912-cuba-denuncia-bloqueo-criminal-de-ee-uu-y-persecucion-a-medicos",
-        "published_date": "2026-07-02 09:36:40",
-        "category": "Diplomacy"
-    },
-    {
         "title": "An Iranian drone exhibited in Miami rekindles alarm over military ties between Cuba and Tehran",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/dron-irani-exhibido-miami-reaviva_1_1128602.html",
@@ -196,11 +175,11 @@
         "category": "Military"
     },
     {
-        "title": "Russia kills at least 17 people in kyiv in an attack with 496 drones and 74 missiles",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rusia-mata-13-personas-kiev_1_1128355.html",
-        "published_date": "2026-07-02 09:24:42",
-        "category": "Military"
+        "title": "Havana changes electrical management from blocks to circuits",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260710/la-habana-cambia-gestion-electrica-de-bloques-a-circuitos/",
+        "published_date": "2026-07-10 12:40:59",
+        "category": "Energy"
     },
     {
         "title": "Regla stands before the municipal government after several days without electricity or water",
@@ -336,13 +315,6 @@
         "category": "Energy"
     },
     {
-        "title": "Oil forecasts cut for 2026-2027",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/recortan-previsiones-del-petroleo-para-2026-2027/",
-        "published_date": "2026-07-02 15:14:44",
-        "category": "Energy"
-    },
-    {
         "title": "Economic transformations support a more dynamic business fabric",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/transformaciones-economicas-apuestan-por-un-tejido-empresarial-mas-dinamico/",
@@ -385,6 +357,125 @@
         "category": "Economy"
     },
     {
+        "title": "New regulations streamline and perfect foreign investment in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/nuevas-regulaciones-agilizan-y-perfeccionan-la-inversion-extranjera-en-cuba/",
+        "published_date": "2026-07-10 12:05:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "B\u00e1rbara Betancourt Abreu, National Radio Award 2026",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/barbara-betancourt-abreu-premio-nacional-de-radio-2026/",
+        "published_date": "2026-07-10 11:45:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"How I felt\" from July 10, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-10-julio-2026_7_1128644.html",
+        "published_date": "2026-07-10 11:31:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, July 10, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-10-julio_132_1128639.html",
+        "published_date": "2026-07-10 11:02:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, July 10, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-10-julio_7_1128642.html",
+        "published_date": "2026-07-10 11:01:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The human factor in online casino games",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/factor-humano-juegos-casino-online_132_1128638.html",
+        "published_date": "2026-07-10 10:51:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Everything for the Revolution'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/revolucion_1_1128631.html",
+        "published_date": "2026-07-10 10:15:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar is also in line",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/dolar-cola_1_1128635.html",
+        "published_date": "2026-07-10 10:14:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"How I felt\" from July 10, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-10-julio-2026_132_1128633.html",
+        "published_date": "2026-07-10 10:06:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban Government modifies the Foreign Investment regulations to speed up deadlines",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-modifica-reglamento-inversion_1_1128628.html",
+        "published_date": "2026-07-10 09:46:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five years of a wrong answer",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/generacion-y/cinco-anos-respuesta-equivocada_132_1128629.html",
+        "published_date": "2026-07-10 09:26:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The family of a Mexican migrant who was shot to death by ICE still has not received the body",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/familia-migrante-mexicano-murio-baleado_1_1128626.html",
+        "published_date": "2026-07-10 09:06:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The UN concludes that the detention of Pedro Castillo was arbitrary and calls for his release",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/onu-concluye-detencion-pedro-castillo_1_1128625.html",
+        "published_date": "2026-07-10 08:53:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brushstrokes of Montevideo: Zorrilla, encounter with the past (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/pinceladas-de-montevideo-zorrilla-encuentro-con-el-pasado/",
+        "published_date": "2026-07-10 04:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "They remember Guill\u00e9n in Camag\u00fcey",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/recuerdan-a-guillen-en-camaguey/",
+        "published_date": "2026-07-10 02:00:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Esteban Lazo calls for the Seventh Ordinary Period of Sessions of the National Assembly of People's Power, in its 10th Legislature",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/convoca-esteban-lazo-al-septimo-periodo-ordinario-de-sesiones-de-la-asamblea-nacional-del-poder-popular-en-su-x-legislatura/",
+        "published_date": "2026-07-10 01:14:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The CTC of Pinar at 26",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/la-ctc-de-pinar-en-26/",
+        "published_date": "2026-07-10 01:00:12",
+        "category": "Local Events"
+    },
+    {
         "title": "Little horses galloping with two riders",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260709/caballitos-que-galopan-con-dos-jinetes/",
@@ -403,125 +494,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260709/intensifican-reparaciones-en-termoelectrica-10-de-octubre/",
         "published_date": "2026-07-09 22:00:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five years later, the Cuban exile keeps the cry of July 11 alive in Madrid",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cinco-anos-despues-exilio-cubano_1_1128619.html",
-        "published_date": "2026-07-09 21:22:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bauta, July 26 between rejoicing and a lot of work",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/bauta-el-26-de-julio-entre-regocijos-y-mucho-trabajo/",
-        "published_date": "2026-07-09 21:00:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sighs for the old Cuban pesos, similar to dollars",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/suspiros-viejos-pesos-cubanos-parecidos_1_1128615.html",
-        "published_date": "2026-07-09 20:52:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Book on the lexicon of Nicol\u00e1s Guill\u00e9n is presented in Santiago de Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/presentan-en-santiago-de-cuba-libro-sobre-el-lexico-de-nicolas-guillen/",
-        "published_date": "2026-07-09 20:43:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "A US judge orders the release of a Cuban who hijacked a plane in 2003",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/juez-ee-uu-ordena-liberar_1_1128613.html",
-        "published_date": "2026-07-09 20:40:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ciego de \u00c1vila: Historians honored",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/ciego-de-avila-honran-a-historiadores/",
-        "published_date": "2026-07-09 20:16:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two stories in blue",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/dos-historias-en-azul/",
-        "published_date": "2026-07-09 20:06:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The epicenter is the neighborhood",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/el-epicentro-es-el-barrio/",
-        "published_date": "2026-07-09 19:51:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camag\u00fceyan journalists for strengthening their organization",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32938-periodistas-camagueeyanos-por-fortalecer-su-organizacion",
-        "published_date": "2026-07-09 18:58:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "New record of electricity deficit in Cuba, with more than 75%",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nuevo-record-deficit-electrico-cuba_1_1128611.html",
-        "published_date": "2026-07-09 18:57:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holgu\u00edn research provides high-value solutions for public health",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/investigaciones-holguineras-aportan-soluciones-de-alto-valor-para-la-salud-publica/",
-        "published_date": "2026-07-09 18:46:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "A tourist summer with my people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/un-verano-turistico-con-mi-gente/",
-        "published_date": "2026-07-09 18:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "They call for the VII Ordinary Period of Sessions of the Cuban Parliament",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32937-convocan-al-vii-periodo-ordinario-de-sesiones-del-parlamento-cubano",
-        "published_date": "2026-07-09 17:42:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba registers a record of political prisoners and minors in prisons on the eve of the anniversary of 11J",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-registra-record-presos-politicos_1_1128607.html",
-        "published_date": "2026-07-09 16:05:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban doctors in Calabria admit that they give up to half their salary to the regime",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/medicos-cubanos-calabria-admiten-dan_1_1128606.html",
-        "published_date": "2026-07-09 13:40:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Exhibition of independent Cuban cinema in Madrid'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/muestra-cine-cubano-independiente-madrid_1_1128604.html",
-        "published_date": "2026-07-09 12:36:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Etecsa reports increase in mobile damages due to electrical failures",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reporta-etecsa-incremento-de-afectaciones-moviles-por-fallas-electricas/",
-        "published_date": "2026-07-09 11:53:58",
         "category": "Local Events"
     }
 ]
