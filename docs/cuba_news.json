@@ -1,5 +1,26 @@
 [
     {
+        "title": "The new Government of Colombia will close its embassies in Cuba and Nicaragua",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/nuevo-gobierno-colombia-cerrara-embajadas_1_1128609.html",
+        "published_date": "2026-07-09 17:29:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "UN Secretary General receives Cuban Foreign Minister",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/recibe-secretario-general-de-la-onu-a-canciller-cubano/",
+        "published_date": "2026-07-09 16:32:37",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cienfuegos residents give their opinion on the effects of the criminal blockade of the US government",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/opinan-los-cienfuegueros-sobre-afectaciones-del-criminal-bloqueo-del-gobierno-estadounidense/",
+        "published_date": "2026-07-09 15:58:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Syria welcomes US decision to remove it from terrorism list",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/siria-celebra-decision-de-eeuu-de-retirarla-de-lista-del-terrorismo/",
@@ -116,20 +137,6 @@
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32912-cuba-denuncia-bloqueo-criminal-de-ee-uu-y-persecucion-a-medicos",
         "published_date": "2026-07-02 09:36:40",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "In Cienfuegos construction company strengthens relationships with the Private Sector",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/en-cienfuegos-empresa-constructora-fortalece-relaciones-con-el-sector-privado/",
-        "published_date": "2026-07-02 00:40:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The United States detains a former Icap worker and its \u201ctransnational network of communist subversion\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/migracion/ee-uu-detiene-ex-trabajador_1_1128338.html",
-        "published_date": "2026-07-01 16:30:22",
         "category": "Diplomacy"
     },
     {
@@ -378,25 +385,123 @@
         "category": "Economy"
     },
     {
-        "title": "The consulting firm Auge fears that many MSMEs will go bankrupt with the economic reforms",
+        "title": "Little horses galloping with two riders",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/caballitos-que-galopan-con-dos-jinetes/",
+        "published_date": "2026-07-10 00:00:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Change of energy matrix advances in Pinar del R\u00edo",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/avanza-cambio-de-matriz-energetica-en-pinar-del-rio/",
+        "published_date": "2026-07-09 23:00:42",
+        "category": "Local Events"
+    },
+    {
+        "title": ": Repairs intensify at Termoel\u00e9ctrica 10 de Octubre",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/intensifican-reparaciones-en-termoelectrica-10-de-octubre/",
+        "published_date": "2026-07-09 22:00:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five years later, the Cuban exile keeps the cry of July 11 alive in Madrid",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/consultora-auge-teme-mipymes-quiebren_1_1128343.html",
-        "published_date": "2026-07-01 19:42:30",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cuba/cinco-anos-despues-exilio-cubano_1_1128619.html",
+        "published_date": "2026-07-09 21:22:25",
+        "category": "Local Events"
     },
     {
-        "title": "Official Gazette publishes decree for the creation of the National Institute of State Assets",
+        "title": "Bauta, July 26 between rejoicing and a lot of work",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260701/gaceta-oficial-publica-decreto-para-creacion-del-instituto-nacional-de-activos-estatales/",
-        "published_date": "2026-07-01 18:30:55",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260709/bauta-el-26-de-julio-entre-regocijos-y-mucho-trabajo/",
+        "published_date": "2026-07-09 21:00:27",
+        "category": "Local Events"
     },
     {
-        "title": "Mipyme Zafira S.U.R.L is looking for experienced personnel",
+        "title": "Sighs for the old Cuban pesos, similar to dollars",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/suspiros-viejos-pesos-cubanos-parecidos_1_1128615.html",
+        "published_date": "2026-07-09 20:52:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Book on the lexicon of Nicol\u00e1s Guill\u00e9n is presented in Santiago de Cuba",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260701/mipyme-zafira-s-u-r-l-busca-personal-con-experiencia/",
-        "published_date": "2026-07-01 16:20:53",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260709/presentan-en-santiago-de-cuba-libro-sobre-el-lexico-de-nicolas-guillen/",
+        "published_date": "2026-07-09 20:43:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "A US judge orders the release of a Cuban who hijacked a plane in 2003",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/juez-ee-uu-ordena-liberar_1_1128613.html",
+        "published_date": "2026-07-09 20:40:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ciego de \u00c1vila: Historians honored",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/ciego-de-avila-honran-a-historiadores/",
+        "published_date": "2026-07-09 20:16:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two stories in blue",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/dos-historias-en-azul/",
+        "published_date": "2026-07-09 20:06:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The epicenter is the neighborhood",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/el-epicentro-es-el-barrio/",
+        "published_date": "2026-07-09 19:51:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camag\u00fceyan journalists for strengthening their organization",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32938-periodistas-camagueeyanos-por-fortalecer-su-organizacion",
+        "published_date": "2026-07-09 18:58:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "New record of electricity deficit in Cuba, with more than 75%",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nuevo-record-deficit-electrico-cuba_1_1128611.html",
+        "published_date": "2026-07-09 18:57:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holgu\u00edn research provides high-value solutions for public health",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/investigaciones-holguineras-aportan-soluciones-de-alto-valor-para-la-salud-publica/",
+        "published_date": "2026-07-09 18:46:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "A tourist summer with my people",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260709/un-verano-turistico-con-mi-gente/",
+        "published_date": "2026-07-09 18:36:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "They call for the VII Ordinary Period of Sessions of the Cuban Parliament",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32937-convocan-al-vii-periodo-ordinario-de-sesiones-del-parlamento-cubano",
+        "published_date": "2026-07-09 17:42:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba registers a record of political prisoners and minors in prisons on the eve of the anniversary of 11J",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-registra-record-presos-politicos_1_1128607.html",
+        "published_date": "2026-07-09 16:05:33",
+        "category": "Local Events"
     },
     {
         "title": "Cuban doctors in Calabria admit that they give up to half their salary to the regime",
@@ -417,125 +522,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/reporta-etecsa-incremento-de-afectaciones-moviles-por-fallas-electricas/",
         "published_date": "2026-07-09 11:53:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reforms are an opportunity for investors who are already in Cuba, but not for new ones",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/reformas-son-oportunidad-inversores-cuba_1_1128600.html",
-        "published_date": "2026-07-09 11:50:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why did Egypt's coach make an X gesture in the match with Argentina?",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/por-que-el-entrenador-de-egipto-hizo-un-gesto-de-x-en-el-partido-con-argentina/",
-        "published_date": "2026-07-09 11:47:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ethiopia calls for concrete actions in favor of medical training in Africa",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/etiopia-pide-acciones-concretas-a-favor-de-formacion-medica-en-africa/",
-        "published_date": "2026-07-09 11:41:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ali Khamenei's legacy",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-legado-de-ali-jamenei/",
-        "published_date": "2026-07-09 11:30:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Thursday, July 9, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-9-julio_132_1128597.html",
-        "published_date": "2026-07-09 11:07:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Otero Alc\u00e1ntara remains missing on the key day for his release",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/otero-alcantara-sigue-paradero-desconocido_1_1128594.html",
-        "published_date": "2026-07-09 08:40:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran warns US: 'Let's be clear: if you hit, they will hit you back'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/iran-advierte-estados-unidos-quede_1_1128592.html",
-        "published_date": "2026-07-09 08:12:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chronicles from Spain: Archaeological Museum of Granada, between archeology and El Roc\u00edo",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cronicas-desde-espana-museo-arqueologico-de-granada-entre-la-arqueologia-y-el-rocio/",
-        "published_date": "2026-07-09 04:00:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States resumes bombing against Iran after Trump ends the truce",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/estados-unidos-reanuda-bombardeos-iran_1_1128584.html",
-        "published_date": "2026-07-08 21:39:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "With the upcoming removal of Syria from the list of sponsors of terrorism, Cuba, Iran and North Korea remain",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/proxima-salida-siria-lista-patrocinadores-cuba_1_1128582.html",
-        "published_date": "2026-07-08 20:23:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Industriales conquers the Elite League and chooses its manager to lead Cuba in the U-23 World Cup",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/industriales-conquista-liga-elite-eligen_1_1128580.html",
-        "published_date": "2026-07-08 19:39:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos: recognition and commitment on the VII anniversary of the electoral body",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-reconocimiento-y-compromiso-en-el-vii-aniversario-del-organo-electoral/",
-        "published_date": "2026-07-08 19:35:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Corporate portal to optimize business management",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32936-portal-corporativo-para-optimizar-gestion-empresarial",
-        "published_date": "2026-07-08 19:10:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "A new Chinese business opens in Havana in pesos and with high prices",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/abre-nuevo-comercio-chino-habana_1_1128576.html",
-        "published_date": "2026-07-08 18:58:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The historic Cuban beer Crystal is reborn in Miami after a legal battle over the brand",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/historica-cerveza-cubana-crystal-renace_1_1128574.html",
-        "published_date": "2026-07-08 18:38:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Debate at the United Nations on US aggression against Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260708/manana-debate-en-naciones-unidas-sobre-agresion-de-eeuu-contra-cuba/",
-        "published_date": "2026-07-08 18:16:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official balance raises the death toll from the earthquakes in Venezuela to 3,535",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/32934-balance-oficial-eleva-a-3-535-los-fallecidos-por-los-sismos-en-venezuela",
-        "published_date": "2026-07-08 18:03:32",
         "category": "Local Events"
     }
 ]
