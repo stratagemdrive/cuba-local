@@ -175,6 +175,27 @@
         "category": "Military"
     },
     {
+        "title": "Second total blackout in Cuba in the same week",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/segundo-apagon-total-cuba-semana_1_1128674.html",
+        "published_date": "2026-07-10 21:17:52",
+        "category": "Energy"
+    },
+    {
+        "title": "OPEC+ increased its oil production by 2.1 million barrels per day during June",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/opep-aumento-su-produccion-petrolera-en-21-millones-de-barriles-diarios-durante-junio/",
+        "published_date": "2026-07-10 19:44:44",
+        "category": "Energy"
+    },
+    {
+        "title": "The blackout and shortages, weapons of social domination and political control in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/apagon-escasez-armas-dominacion-social_1_1128653.html",
+        "published_date": "2026-07-10 16:42:01",
+        "category": "Energy"
+    },
+    {
         "title": "Havana changes electrical management from blocks to circuits",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260710/la-habana-cambia-gestion-electrica-de-bloques-a-circuitos/",
@@ -294,27 +315,6 @@
         "category": "Energy"
     },
     {
-        "title": "The voices of Brothers to the Rescue come to light before the demolition",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/salen-luz-voces-hermanos-rescate_1_1128407.html",
-        "published_date": "2026-07-03 17:02:19",
-        "category": "Energy"
-    },
-    {
-        "title": "Greater photovoltaic energy capacity installed in Artemisa",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260702/mayor-capacidad-de-energia-fotovoltaica-instalada-en-artemisa/",
-        "published_date": "2026-07-02 18:27:42",
-        "category": "Energy"
-    },
-    {
-        "title": "Holgu\u00edn consolidates its commitment to solar energy with new photovoltaic parks under construction",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260702/holguin-consolida-su-apuesta-por-la-energia-solar-con-nuevos-parques-fotovoltaicos-en-ejecucion/",
-        "published_date": "2026-07-02 17:28:24",
-        "category": "Energy"
-    },
-    {
         "title": "Economic transformations support a more dynamic business fabric",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/transformaciones-economicas-apuestan-por-un-tejido-empresarial-mas-dinamico/",
@@ -350,150 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "The PedroCarr MSME sells Viazul tickets in euros from abroad",
+        "title": "Rigoberto Ferrera performs at the 'El Cabildo' Cultural Center",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/mipyme-pedrocarr-vende-euros-exterior_1_1128379.html",
-        "published_date": "2026-07-02 20:22:40",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cartelera/rigoberto-ferrera-cabildo-humor-cubano_1_1121772.html",
+        "published_date": "2026-07-11 03:59:00",
+        "category": "Local Events"
     },
     {
-        "title": "New regulations streamline and perfect foreign investment in Cuba",
+        "title": "Cuba reveals preselection for Santo Domingo 2026 baseball tournament",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/nuevas-regulaciones-agilizan-y-perfeccionan-la-inversion-extranjera-en-cuba/",
-        "published_date": "2026-07-10 12:05:36",
+        "url": "https://www.5septiembre.cu/cuba-revela-preseleccion-para-torneo-de-beisbol-de-santo-domingo-2026/",
+        "published_date": "2026-07-10 23:51:03",
         "category": "Local Events"
     },
     {
-        "title": "B\u00e1rbara Betancourt Abreu, National Radio Award 2026",
+        "title": "Spain has become one of the main supporters of Castroism, according to a report",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/espana-convertido-principales-sostenes-castrismo_1_1128676.html",
+        "published_date": "2026-07-10 22:23:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain and clogged sewers form a black and stinking river in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/lluvia-alcantarillas-tapadas-forman-rio_1_1128667.html",
+        "published_date": "2026-07-10 20:17:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "UCf Graduation: Tribute to Fidel's Centennial",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/barbara-betancourt-abreu-premio-nacional-de-radio-2026/",
-        "published_date": "2026-07-10 11:45:55",
+        "url": "https://www.5septiembre.cu/graduacion-de-la-ucf-tributo-al-centenario-de-fidel/",
+        "published_date": "2026-07-10 20:06:33",
         "category": "Local Events"
     },
     {
-        "title": "\"How I felt\" from July 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-10-julio-2026_7_1128644.html",
-        "published_date": "2026-07-10 11:31:27",
+        "title": "Police recover assets in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32943-policia-recupera-bienes-en-camagueey",
+        "published_date": "2026-07-10 19:36:34",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Friday, July 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-10-julio_132_1128639.html",
-        "published_date": "2026-07-10 11:02:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, July 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-10-julio_7_1128642.html",
-        "published_date": "2026-07-10 11:01:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The human factor in online casino games",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/factor-humano-juegos-casino-online_132_1128638.html",
-        "published_date": "2026-07-10 10:51:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Everything for the Revolution'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/revolucion_1_1128631.html",
-        "published_date": "2026-07-10 10:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dollar is also in line",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/dolar-cola_1_1128635.html",
-        "published_date": "2026-07-10 10:14:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from July 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-10-julio-2026_132_1128633.html",
-        "published_date": "2026-07-10 10:06:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban Government modifies the Foreign Investment regulations to speed up deadlines",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-modifica-reglamento-inversion_1_1128628.html",
-        "published_date": "2026-07-10 09:46:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five years of a wrong answer",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/generacion-y/cinco-anos-respuesta-equivocada_132_1128629.html",
-        "published_date": "2026-07-10 09:26:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The family of a Mexican migrant who was shot to death by ICE still has not received the body",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/familia-migrante-mexicano-murio-baleado_1_1128626.html",
-        "published_date": "2026-07-10 09:06:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The UN concludes that the detention of Pedro Castillo was arbitrary and calls for his release",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/onu-concluye-detencion-pedro-castillo_1_1128625.html",
-        "published_date": "2026-07-10 08:53:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brushstrokes of Montevideo: Zorrilla, encounter with the past (+Photos)",
+        "title": "Only Scaloni knows who will line up against Switzerland",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pinceladas-de-montevideo-zorrilla-encuentro-con-el-pasado/",
-        "published_date": "2026-07-10 04:00:39",
+        "url": "https://www.5septiembre.cu/solo-scaloni-sabe-quien-alineara-frente-a-suiza/",
+        "published_date": "2026-07-10 19:25:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "SEN fall interrupts Guiteras synchronization",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32942-caida-del-sen-interrumpe-sincronizacion-de-la-guiteras",
+        "published_date": "2026-07-10 19:13:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prime Minister: talks with the US seek solutions through dialogue",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/primer-ministro-conversaciones-con-ee-uu-buscan-soluciones-por-la-via-del-dialogo/",
+        "published_date": "2026-07-10 19:04:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban regime prevents critical priest Castor \u00c1lvarez from traveling to the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-impide-viajar-ee_1_1128664.html",
+        "published_date": "2026-07-10 19:01:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "A woman dies in Camag\u00fcey six days after being attacked by her partner",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-mujer-camagueey-seis-dias_1_1128662.html",
+        "published_date": "2026-07-10 19:00:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban president defends the autonomy of companies and the involvement of their workers in decision-making",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-cubano-defiende-autonomia-de-las-empresas-e-implicacion-de-sus-trabajadores-en-la-toma-de-decisiones/",
+        "published_date": "2026-07-10 18:41:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The State bets on the private sector to rescue tourism in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/apuesta-sector-privado-rescatar-turismo_1_1128657.html",
+        "published_date": "2026-07-10 18:34:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "In an operation similar to that of Otero Alc\u00e1ntara, the regime removes Maykel Osorbo from the Kilo 8 prison",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/operacion-similar-otero-alcantara-regimen_1_1128660.html",
+        "published_date": "2026-07-10 18:31:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Regulated Online Gambling Coming to Alberta on July 13: What Will Change",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/regulated-online-gambling-coming-to_132_1128651.html",
+        "published_date": "2026-07-10 15:58:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Xi Jinping talks with DPRK Prime Minister in Beijing",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/xi-jinping-dialoga-en-beijing-con-primer-ministro-de-rpdc/",
+        "published_date": "2026-07-10 15:06:38",
         "category": "Local Events"
     },
     {
         "title": "They remember Guill\u00e9n in Camag\u00fcey",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/recuerdan-a-guillen-en-camaguey/",
-        "published_date": "2026-07-10 02:00:04",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32941-recuerdan-a-guillen-en-camaguey",
+        "published_date": "2026-07-10 15:05:33",
         "category": "Local Events"
     },
     {
-        "title": "Esteban Lazo calls for the Seventh Ordinary Period of Sessions of the National Assembly of People's Power, in its 10th Legislature",
+        "title": "Cienfuegueros in the Canoeing World Cup",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/convoca-esteban-lazo-al-septimo-periodo-ordinario-de-sesiones-de-la-asamblea-nacional-del-poder-popular-en-su-x-legislatura/",
-        "published_date": "2026-07-10 01:14:24",
+        "url": "https://www.5septiembre.cu/cienfuegueros-en-copa-del-mundo-de-canotaje/",
+        "published_date": "2026-07-10 14:50:39",
         "category": "Local Events"
     },
     {
-        "title": "The CTC of Pinar at 26",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/la-ctc-de-pinar-en-26/",
-        "published_date": "2026-07-10 01:00:12",
+        "title": "World Skin Health Day",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/consultas-medicas/32935-dia-mundial-de-la-salud-de-la-piel",
+        "published_date": "2026-07-10 14:44:26",
         "category": "Local Events"
     },
     {
-        "title": "Little horses galloping with two riders",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/caballitos-que-galopan-con-dos-jinetes/",
-        "published_date": "2026-07-10 00:00:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Change of energy matrix advances in Pinar del R\u00edo",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/avanza-cambio-de-matriz-energetica-en-pinar-del-rio/",
-        "published_date": "2026-07-09 23:00:42",
-        "category": "Local Events"
-    },
-    {
-        "title": ": Repairs intensify at Termoel\u00e9ctrica 10 de Octubre",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260709/intensifican-reparaciones-en-termoelectrica-10-de-octubre/",
-        "published_date": "2026-07-09 22:00:50",
+        "title": "Ferm\u00edn Vald\u00e9s Dom\u00ednguez was more than Mart\u00ed's \u201csoul friend\u201d",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/historia-incio/personalidades-submenu/32939-consulte-ademas-fermin-valdes-dominguez-una-mirada-a-traves-de-inocencia",
+        "published_date": "2026-07-10 14:43:14",
         "category": "Local Events"
     }
 ]
