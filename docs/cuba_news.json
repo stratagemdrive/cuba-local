@@ -112,6 +112,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Russia hits Ukrainian military-industrial complex",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/rusia-golpea-complejo-militar-industrial-ucraniano/",
+        "published_date": "2026-07-11 16:26:32",
+        "category": "Military"
+    },
+    {
         "title": "Civil Defense: 60 years of persistent epic",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32940-defensa-civil-60-anos-de-persistente-epica",
@@ -147,18 +154,11 @@
         "category": "Military"
     },
     {
-        "title": "Thought and action dedicated to improving El Canal",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260703/pensamiento-y-accion-dedicados-a-mejorar-el-canal/",
-        "published_date": "2026-07-03 20:19:12",
-        "category": "Military"
-    },
-    {
-        "title": "For love: the little ones from Cienfuegos winners of the Friends of the FAR contest",
+        "title": "Huge efforts in Cuba to restore energy service",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/por-amor-los-pequenos-de-cienfuegos-ganadores-del-concurso-amigos-de-las-far/",
-        "published_date": "2026-07-03 17:31:43",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/ingentes-esfuerzos-en-cuba-por-restablecer-servicio-energetico/",
+        "published_date": "2026-07-11 13:51:39",
+        "category": "Energy"
     },
     {
         "title": "Second total blackout in Cuba in the same week",
@@ -294,11 +294,11 @@
         "category": "Energy"
     },
     {
-        "title": "A long-standing ambition",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/historia-incio/sucesos-submenu/32923-una-ambicion-de-larga-data",
-        "published_date": "2026-07-04 13:09:01",
-        "category": "Energy"
+        "title": "June, the month when everything seemed possible",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/junio-mes-parecia-posible_1_1128678.html",
+        "published_date": "2026-07-11 12:19:08",
+        "category": "Economy"
     },
     {
         "title": "Economic transformations support a more dynamic business fabric",
@@ -329,150 +329,143 @@
         "category": "Economy"
     },
     {
-        "title": "Banking entity Bandec alerts about rejection of low denomination money",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32922-alerta-entidad-bancaria-bandec-sobre-rechazo-a-dinero-de-baja-denominacion",
-        "published_date": "2026-07-03 17:05:47",
-        "category": "Economy"
+        "title": "New bread prices are made official in Havana after more than a week of increases",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/nuevos-precios-pan-la-habana-julio-2026/",
+        "published_date": "2026-07-11 22:22:04",
+        "category": "Local Events"
     },
     {
-        "title": "The end of autonomy anxiety",
+        "title": "Earthquakes in Venezuela leave 4,333 dead and more than 17,000 people homeless",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/terremotos-en-venezuela-dejan-4333-muertos-y-mas-de-17000-personas-sin-vivienda/",
+        "published_date": "2026-07-11 20:51:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump installed barbarism in the world, warns Brazilian politician",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-fin-de-la-ansiedad-de-autonomia/",
-        "published_date": "2026-07-11 10:18:26",
+        "url": "https://www.5septiembre.cu/trump-instalo-la-barbarie-en-el-mundo-advierte-politico-brasileno/",
+        "published_date": "2026-07-11 19:55:35",
         "category": "Local Events"
     },
     {
-        "title": "The possible purchase of Sherritt by a US investor gives hope to the expropriated owners",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/posible-compra-sherritt-inversor-ee_1_1128672.html",
-        "published_date": "2026-07-11 10:15:09",
+        "title": "A person dies after falling into the sea on the Malec\u00f3n in Havana: neighbors say he was collecting water",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/muere-persona-caer-mar-malecon-habana-recogia-agua/",
+        "published_date": "2026-07-11 19:48:07",
         "category": "Local Events"
     },
     {
-        "title": "Work of the political coordinator: good practices for transformation and development in La Barrera, Cienfuegos",
+        "title": "Unheard of!: FIFA wants to sell the grass for the final",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/labor-del-coordinador-politico-buenas-practicas-para-transformacion-y-desarrollo-en-la-barrera-cienfuegos/",
-        "published_date": "2026-07-11 04:00:49",
+        "url": "https://www.5septiembre.cu/inaudito-fifa-quiere-vender-el-cesped-de-la-final/",
+        "published_date": "2026-07-11 19:41:44",
         "category": "Local Events"
     },
     {
-        "title": "Rigoberto Ferrera performs at the 'El Cabildo' Cultural Center",
+        "title": "Between shots, blackouts, police and queues, Regla experiences 11J under tension",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/rigoberto-ferrera-cabildo-humor-cubano_1_1121772.html",
-        "published_date": "2026-07-11 03:59:00",
+        "url": "https://www.14ymedio.com/cuba/disparos-apagones-policias-colas-regla_1_1128696.html",
+        "published_date": "2026-07-11 19:21:49",
         "category": "Local Events"
     },
     {
-        "title": "Cuba reveals preselection for Santo Domingo 2026 baseball tournament",
+        "title": "The Cuban exile brings the spirit of 11J to Puerta del Sol with a demand for freedom for Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/migracion/exilio-cubano-lleva-espiritu-11j_1_1128691.html",
+        "published_date": "2026-07-11 18:40:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five years after 11J, the regime reinforces repression due to fear of a new social outbreak",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cinco-anos-despues-11j-regimen_1_1128687.html",
+        "published_date": "2026-07-11 17:50:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "V\u00edctor Manuel Dom\u00ednguez, one of the precursors of Cuban independent journalism, dies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-victor-manuel-dominguez-precursores_1_1128688.html",
+        "published_date": "2026-07-11 17:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Address, biometrics and digital identity: the scope of the new law that worries Cubans abroad",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/domicilio-biometria-e-identidad-digital-el-alcance-de-la-nueva-ley-que-preocupa-a-los-cubanos-en-el-exterior/",
+        "published_date": "2026-07-11 17:27:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nuevitas Thermoelectric Plant to strengthen the SEN today with unit six",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-revela-preseleccion-para-torneo-de-beisbol-de-santo-domingo-2026/",
-        "published_date": "2026-07-10 23:51:03",
+        "url": "https://www.5septiembre.cu/termoelectrica-de-nuevitas-por-fortalecer-hoy-el-sen-con-unidad-seis/",
+        "published_date": "2026-07-11 16:39:42",
         "category": "Local Events"
     },
     {
-        "title": "Spain has become one of the main supporters of Castroism, according to a report",
+        "title": "Regular gasoline rises to $2.50 without official announcement",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/espana-convertido-principales-sostenes-castrismo_1_1128676.html",
-        "published_date": "2026-07-10 22:23:53",
+        "url": "https://www.14ymedio.com/cuba/gasolina-regular-sube-2-50_1_1128684.html",
+        "published_date": "2026-07-11 16:33:33",
         "category": "Local Events"
     },
     {
-        "title": "Rain and clogged sewers form a black and stinking river in Havana",
+        "title": "Marco Rubio: The United States will maintain pressure until Cuba implements reforms",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/marco-rubio-estados-unidos-mantendra-la-presion-hasta-que-cuba-aplique-reformas/",
+        "published_date": "2026-07-11 15:41:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vigil in front of the Cuban Embassy in Washington for the fifth anniversary of 9/11",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/lluvia-alcantarillas-tapadas-forman-rio_1_1128667.html",
-        "published_date": "2026-07-10 20:17:44",
+        "url": "https://www.14ymedio.com/cartelera/vigilia-frente-embajada-cuba-washington_1_1128682.html",
+        "published_date": "2026-07-11 14:23:34",
         "category": "Local Events"
     },
     {
-        "title": "UCf Graduation: Tribute to Fidel's Centennial",
+        "title": "Large seizure of illicit merchandise in Operation Southern Cone in Chile",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/graduacion-de-la-ucf-tributo-al-centenario-de-fidel/",
-        "published_date": "2026-07-10 20:06:33",
+        "url": "https://www.5septiembre.cu/gran-decomiso-de-mercancias-ilicitas-en-operacion-cono-sur-en-chile/",
+        "published_date": "2026-07-11 14:08:36",
         "category": "Local Events"
     },
     {
-        "title": "Police recover assets in Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32943-policia-recupera-bienes-en-camagueey",
-        "published_date": "2026-07-10 19:36:34",
+        "title": "Will Cubans abroad have to report their address outside of Cuba?The doubts left by the new law",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/tendran-los-cubanos-en-el-exterior-que-informar-su-domicilio-fuera-de-cuba-las-dudas-que-deja-la-nueva-ley/",
+        "published_date": "2026-07-11 14:07:48",
         "category": "Local Events"
     },
     {
-        "title": "Only Scaloni knows who will line up against Switzerland",
+        "title": "The chaos equation: cognitive warfare and economic asphyxiation",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/solo-scaloni-sabe-quien-alineara-frente-a-suiza/",
-        "published_date": "2026-07-10 19:25:44",
+        "url": "https://www.5septiembre.cu/la-ecuacion-del-caos-guerra-cognitiva-y-asfixia-economica/",
+        "published_date": "2026-07-11 13:58:43",
         "category": "Local Events"
     },
     {
-        "title": "SEN fall interrupts Guiteras synchronization",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32942-caida-del-sen-interrumpe-sincronizacion-de-la-guiteras",
-        "published_date": "2026-07-10 19:13:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prime Minister: talks with the US seek solutions through dialogue",
+        "title": "National Assembly publishes bill \u201cOn the Personal Identity and Address System\u201d",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/primer-ministro-conversaciones-con-ee-uu-buscan-soluciones-por-la-via-del-dialogo/",
-        "published_date": "2026-07-10 19:04:19",
+        "url": "https://www.5septiembre.cu/publica-asamblea-nacional-proyecto-de-ley-del-sistema-de-identidad-personal-y-domicilio/",
+        "published_date": "2026-07-11 13:42:17",
         "category": "Local Events"
     },
     {
-        "title": "The Cuban regime prevents critical priest Castor \u00c1lvarez from traveling to the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/regimen-cubano-impide-viajar-ee_1_1128664.html",
-        "published_date": "2026-07-10 19:01:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "A woman dies in Camag\u00fcey six days after being attacked by her partner",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/muere-mujer-camagueey-seis-dias_1_1128662.html",
-        "published_date": "2026-07-10 19:00:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban president defends the autonomy of companies and the involvement of their workers in decision-making",
+        "title": "Triplist Leyanis P\u00e9rez celebrated his 15th at the Monaco Diamond",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-cubano-defiende-autonomia-de-las-empresas-e-implicacion-de-sus-trabajadores-en-la-toma-de-decisiones/",
-        "published_date": "2026-07-10 18:41:32",
+        "url": "https://www.5septiembre.cu/triplista-leyanis-perez-celebro-los-15-en-el-diamante-de-monaco/",
+        "published_date": "2026-07-11 13:22:38",
         "category": "Local Events"
     },
     {
-        "title": "The State bets on the private sector to rescue tourism in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/apuesta-sector-privado-rescatar-turismo_1_1128657.html",
-        "published_date": "2026-07-10 18:34:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "In an operation similar to that of Otero Alc\u00e1ntara, the regime removes Maykel Osorbo from the Kilo 8 prison",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/operacion-similar-otero-alcantara-regimen_1_1128660.html",
-        "published_date": "2026-07-10 18:31:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Regulated Online Gambling Coming to Alberta on July 13: What Will Change",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/regulated-online-gambling-coming-to_132_1128651.html",
-        "published_date": "2026-07-10 15:58:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Xi Jinping talks with DPRK Prime Minister in Beijing",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/xi-jinping-dialoga-en-beijing-con-primer-ministro-de-rpdc/",
-        "published_date": "2026-07-10 15:06:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "They remember Guill\u00e9n in Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/32941-recuerdan-a-guillen-en-camaguey",
-        "published_date": "2026-07-10 15:05:33",
+        "title": "Cuba will have a cloudy dawn in the west and little rain",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-tendra-un-amanecer-nublado-en-occidente-y-pocas-lluvias/",
+        "published_date": "2026-07-11 13:11:47",
         "category": "Local Events"
     }
 ]
