@@ -1,5 +1,19 @@
 [
     {
+        "title": "An official journalist denounces \"the internal blockade\" that has done so much \"damage\" to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/periodista-oficialista-denuncia-bloqueo-interno_1_1128808.html",
+        "published_date": "2026-07-14 11:48:10",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Delcy Rodr\u00edguez appoints her representative in the US, F\u00e9lix Plasencia, as chancellor",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-nombra-canciller-representante_1_1128784.html",
+        "published_date": "2026-07-14 08:56:21",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba condemns new round of US coercive measures",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cuba-condena-nueva-ronda-de-medidas-coercitivas-de-eeuu/",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "There will be debate at the UN over increased blockade measures against Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32927-habra-debate-en-la-onu-por-medidas-incrementadas-de-bloqueo-a-cuba",
-        "published_date": "2026-07-06 18:03:56",
-        "category": "Diplomacy"
+        "title": "Iran says it continues to sell crude oil despite US revoking sanctions exemption",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/iran-dice-sigue-vendiendo-crudo_1_1128788.html",
+        "published_date": "2026-07-14 09:24:54",
+        "category": "Military"
     },
     {
-        "title": "Solidarity Day with Cuba in the Italian city of Milan",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/jornada-de-solidaridad-con-cuba-en-ciudad-italiana-de-milan/",
-        "published_date": "2026-07-06 12:12:13",
-        "category": "Diplomacy"
+        "title": "Trump warns that he will act if the presence of Iranian drones in Cuba is confirmed",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/trump-actuara-drones-iranies-cuba/",
+        "published_date": "2026-07-13 23:21:20",
+        "category": "Military"
     },
     {
         "title": "Complicity or subversive protagonism in search of an explosion?",
@@ -322,6 +336,13 @@
         "category": "Energy"
     },
     {
+        "title": "Certificate and statement of accounts, two bank documents",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/certifico-y-estado-de-cuentas-dos-documentos-bancarios/",
+        "published_date": "2026-07-14 04:00:51",
+        "category": "Economy"
+    },
+    {
         "title": "Central Bank of Cuba will announce new measures in the coming days",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/ultima-hora-banco-central-de-cuba-anunciara-nuevas-medidas-en-los-proximos-dias/",
@@ -371,143 +392,143 @@
         "category": "Economy"
     },
     {
+        "title": "Brazil sends 48 tons of powdered milk to Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/brasil-envia-48-toneladas-de-leche-en-polvo-a-cuba/",
+        "published_date": "2026-07-14 11:33:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lobster fleet ready in Cuba: a kilo of tails costs 5,000 CUP in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/la-habana/flota-langostera-cuba-colas-langosta-5000-cup/",
+        "published_date": "2026-07-14 11:10:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Training Workshops 2026 for young filmmakers",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/talleres-formativos-2026-jovenes-cineastas_1_1128806.html",
+        "published_date": "2026-07-14 11:07:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Healthy recreation vs sick prices",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260714/recreacion-sana-vs-precios-enfermos/",
+        "published_date": "2026-07-14 11:00:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, July 14, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-14-julio_132_1128803.html",
+        "published_date": "2026-07-14 10:43:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, July 14, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-14-julio_7_1128805.html",
+        "published_date": "2026-07-14 10:42:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Croquettes at 1,500 pesos and chicken at 600: DiT\u00fa in Sancti Sp\u00edritus reopens with these prices",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/croquetas-a-1500-pesos-y-pollo-a-600-reabre-el-ditu-de-sancti-spiritus-con-estos-precios/",
+        "published_date": "2026-07-14 10:30:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the price of the dollar and the euro is today in Cuba: these are the rates of the informal market",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/146496/",
+        "published_date": "2026-07-14 10:30:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Ana Mendieta' exhibition in London",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/exposicion-ana-mendieta-londres_1_1128801.html",
+        "published_date": "2026-07-14 10:02:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exhibition 'Plots of Redemption'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/exposicion-tramas-redencion_1_1128799.html",
+        "published_date": "2026-07-14 10:00:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vocal Ensemble Luna and the Allegretto Children's Song",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/ensemble-vocal-luna-cantoria-infantil_1_1128797.html",
+        "published_date": "2026-07-14 09:54:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Concert by the National Concert Band and the Camerata Romeu",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/concierto-banda-nacional-conciertos-camerata_1_1128795.html",
+        "published_date": "2026-07-14 09:50:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "You can't breathe on the banks of the Yayabo River in Sancti Sp\u00edritus",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/no-respirar-orillas-rio-yayabo_1_1128791.html",
+        "published_date": "2026-07-14 09:35:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Concert by the Z-Saxos saxophone quartet",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/concierto-cuarteto-saxofones-z-saxos_1_1128789.html",
+        "published_date": "2026-07-14 09:25:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "A fault displaced the surface up to 60 centimeters after the earthquakes in Venezuela",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cienciaytecnologia/falla-desplazo-60-centimetros-superficie_1_1128786.html",
+        "published_date": "2026-07-14 09:06:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Puerto Esperanza nautical point, new tourist product in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/punto-nautico-puerto-esperanza-nuevo-producto-turistico-de-cuba/",
+        "published_date": "2026-07-14 06:59:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "The best among the excellent",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260713/el-mejor-entre-los-excelentes/",
+        "published_date": "2026-07-14 01:00:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 10 kilograms of liquid cocaine seized at Havana Airport",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/cocaina-liquida-aeropuerto-habana-champu-keratina/",
+        "published_date": "2026-07-14 00:18:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump says the US is investigating whether Iran has drones stored in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-dice-ee-uu-investiga_1_1128782.html",
+        "published_date": "2026-07-14 00:15:48",
+        "category": "Local Events"
+    },
+    {
         "title": "Dedicated to Fidel summer course organized by Palmares",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260713/dedicado-a-fidel-curso-de-verano-organizado-por-palmares/",
         "published_date": "2026-07-13 23:00:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil ships 48 tons of milk powder to alleviate shortages in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/brasil-despacha-48-toneladas-leche_1_1128781.html",
-        "published_date": "2026-07-13 22:47:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"I'm scared, but I say what I think\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/miedo-digo-pienso_1_1128777.html",
-        "published_date": "2026-07-13 22:38:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Extracting cash in Cuba: the official press refers to one of the biggest day-to-day problems",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/extraer-efectivo-en-cuba-la-prensa-oficial-se-refiere-a-uno-de-los-mayores-problemas-del-dia-a-dia/",
-        "published_date": "2026-07-13 22:35:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exhibition 'Archaic Heroes' by Marco A. Castillo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/exposicion-heroes-arcaicos-marco-castillo_1_1128778.html",
-        "published_date": "2026-07-13 22:32:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "The avocado also escaped from the poor's plate",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/aguacate-escapo-plato-pobres_1_1128775.html",
-        "published_date": "2026-07-13 22:18:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 700 entities fail their innovators",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260713/mas-de-700-entidades-les-fallan-a-sus-innovadores/",
-        "published_date": "2026-07-13 21:53:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "A state in Mexico offers 1,400 places to migrants and only four Cubans qualify",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/mexico-ofrece-1-400-plazas_1_1128773.html",
-        "published_date": "2026-07-13 21:03:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump's deportation leaves thousands of Cubans stranded in Mexico",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cubanos-deportados-estados-unidos-atrapados-mexico/",
-        "published_date": "2026-07-13 20:54:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula leads new poll heading into Brazilian elections",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lula-lidera-nuevo-sondeo-rumbo-a-elecciones-brasilenas/",
-        "published_date": "2026-07-13 20:48:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban President mourns death of Cuban diplomat and writer Ra\u00fal Roa Kour\u00ed",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lamenta-presidente-cubano-fallecimiento-del-diplomatico-y-escritor-cubano-raul-roa-kouri/",
-        "published_date": "2026-07-13 20:19:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States deported about 6,000 Cubans to Mexico in one year, according to a court document",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/ee-uu-deporto-mexico-6_1_1128769.html",
-        "published_date": "2026-07-13 19:58:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accident in San Antonio de los Ba\u00f1os leaves one dead and several injured",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/accidente-san-antonio-banos-fallecido-lesionados/",
-        "published_date": "2026-07-13 19:02:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquakes in Venezuela leave 4,561 dead and 16,740 injured",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/terremotos-venezuela-4561-muertos-16740-heridos/",
-        "published_date": "2026-07-13 18:23:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US announces new unilateral measures to the Cuban Ministry of Tourism and other entities",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ee-uu-anuncia-nuevas-medidas-unilaterales-al-ministerio-de-turismo-de-cuba-y-a-otras-entidades/",
-        "published_date": "2026-07-13 18:06:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubana increases domestic flights in July and August: new frequencies and schedules",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/aerolineas/cubana-aumenta-vuelos-nacionales-julio-agosto-2026/",
-        "published_date": "2026-07-13 17:58:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prominent diplomat Ra\u00fal Roa Kour\u00ed dies",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fallece-el-destacado-diplomatico-raul-roa-kouri/",
-        "published_date": "2026-07-13 17:56:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than three months without water force the residents of Alturas del Mirador to drink from wells and the Diezmero River",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tres-meses-agua-obligan-vecinos_1_1128766.html",
-        "published_date": "2026-07-13 17:36:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flights between Spain and Cuba: these are the cheapest dates to travel with Air Europa in July and August",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/vuelos-entre-espana-y-cuba-estas-son-las-fechas-mas-baratas-para-viajar-con-air-europa-en-julio-y-agosto/",
-        "published_date": "2026-07-13 17:11:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trips to Playa Anc\u00f3n for 6,600 pesos or 12 dollars: the new route for Cubans sparks criticism",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/viajes-a-playa-ancon-por-6600-pesos-o-12-dolares-la-nueva-ruta-para-cubanos-desata-criticas/",
-        "published_date": "2026-07-13 16:01:28",
         "category": "Local Events"
     }
 ]
