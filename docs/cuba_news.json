@@ -105,41 +105,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "International community rejects US motion of censure",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/rechaza-comunidad-internacional-mocion-de-censura-de-ee-uu/",
-        "published_date": "2026-07-07 18:51:59",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The US unsuccessfully opposes the debate on the blockade of Cuba in the UN General Assembly",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-opone-exito-debate_1_1128542.html",
-        "published_date": "2026-07-07 18:26:53",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba alerts the UN about worsening of the US blockade",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-alerta-a-la-onu-sobre-agravamiento-del-bloqueo-estadounidense/",
-        "published_date": "2026-07-07 18:04:24",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "UN General Assembly approved by majority debate on the genocidal blockade against Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260707/asamblea-general-de-la-onu-aprueba-debate-solicitado-por-cuba/",
-        "published_date": "2026-07-07 15:39:23",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "More than 24 hours after the fall, the electrical system is linked from Havana to Ciego de \u00c1vila",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/24-horas-despues-caida-sistema_1_1128536.html",
-        "published_date": "2026-07-07 15:23:18",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Israeli military court sentences soldier to five years in prison for spying for Iran",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/tribunal-militar-israeli-condena-soldado_1_1128829.html",
@@ -215,6 +180,20 @@
         "url": "https://www.5septiembre.cu/buscar-salidas-desde-la-industria-nacional-a-problemas-estrategicos-del-pais-y-a-la-defensa/",
         "published_date": "2026-07-09 12:13:03",
         "category": "Military"
+    },
+    {
+        "title": "Aguas de La Habana restores supply sources and pumping stations after the blackout",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/aguas-habana-restablece-fuentes-abasto-estaciones-bombeo-apagon/",
+        "published_date": "2026-07-15 15:59:07",
+        "category": "Energy"
+    },
+    {
+        "title": "The electro-energy system reestablished in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/restablecido-en-cuba-el-sistema-electroenergetico/",
+        "published_date": "2026-07-15 14:31:38",
+        "category": "Energy"
     },
     {
         "title": "Minister admits that Cuba operates without fuel or spare parts: \u201cwe are living with the old thermoelectric plants, the sun and gas\u201d",
@@ -343,20 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "OPEC+ increased its oil production by 2.1 million barrels per day during June",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/opep-aumento-su-produccion-petrolera-en-21-millones-de-barriles-diarios-durante-junio/",
-        "published_date": "2026-07-10 19:44:44",
-        "category": "Energy"
-    },
-    {
-        "title": "The blackout and shortages, weapons of social domination and political control in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/apagon-escasez-armas-dominacion-social_1_1128653.html",
-        "published_date": "2026-07-10 16:42:01",
-        "category": "Energy"
-    },
-    {
         "title": "Payment to retirees and pensioners in Cuba begins: dates by bank",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/noticias/pago-jubilados-pensionados-cuba-fechas-bancos-julio-2026/",
@@ -420,143 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "Interconnection of the Electrical System in Cuba advances",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/avanza-interconexion-del-sistema-electrico-en-cuba/",
-        "published_date": "2026-07-15 12:03:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Last group of Cuban doctors will return from Guatemala",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ultimo-grupo-de-medicos-de-cuba-regresara-desde-guatemala/",
-        "published_date": "2026-07-15 11:57:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The daughter of Cuban General Ulises Rosales awaits her immigration hearing at home",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/hija-general-cubano-ulises-rosales_1_1128836.html",
-        "published_date": "2026-07-15 11:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, July 15, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-15-julio_132_1128837.html",
-        "published_date": "2026-07-15 10:59:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, July 15, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-15-julio_7_1128839.html",
-        "published_date": "2026-07-15 10:57:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Value of the dollar and the euro today in Cuba: how much your family would receive for a cash remittance",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/valor-del-dolar-y-el-euro-en-cuba-cuanto-recibiria-tu-familia-por-una-remesa-en-efectivo/",
-        "published_date": "2026-07-15 10:51:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Havana recovers 25% of the electrical service after the fall of the SEN",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/la-habana-recupera-25-servicio-electrico-caida-sen/",
-        "published_date": "2026-07-15 10:29:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba could \u201cmake provinces independent\u201d with solar parks to reduce blackouts",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cuba-podria-independizar-provincias-con-parques-solares-para-reducir-los-apagones/",
-        "published_date": "2026-07-15 10:17:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nayib Bukele, seeking a third term, defends indefinite re-election in El Salvador",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/nayib-bukele-busca-tercer-mandato_1_1128832.html",
-        "published_date": "2026-07-15 09:46:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former leader of China's top propaganda apparatus investigated for corruption",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/investigan-corrupcion-ex-dirigente-maximo_1_1128833.html",
-        "published_date": "2026-07-15 09:29:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Visual Arts Workshop for Children",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/taller-artes-visuales-ninos_1_1128830.html",
-        "published_date": "2026-07-15 09:22:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "A migrant fleeing ICE is run over and killed in Florida, the third case in a week",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/muere-atropellado-florida-migrante-huia_1_1128827.html",
-        "published_date": "2026-07-15 09:11:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chavismo and an opposition sector open a path of dialogue while Machado evaluates his position",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/chavismo-sector-opositor-abren-via_1_1128826.html",
-        "published_date": "2026-07-15 08:51:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin congratulates Russian schoolchildren for gold in Physics Olympiad",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/putin-felicita-a-escolares-rusos-por-oro-en-olimpiada-de-fisica/",
-        "published_date": "2026-07-15 06:49:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "They warn in Panama about an uptick in malaria and dengue",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/alertan-en-panama-sobre-repunte-de-malaria-y-dengue/",
-        "published_date": "2026-07-15 05:24:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government of Mexico rejects statements by head of the DEA",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/gobierno-de-mexico-rechaza-declaraciones-de-titular-de-la-dea/",
-        "published_date": "2026-07-15 05:10:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Explosion reported at Miami Airport generated by an EcoFlow that a passenger was taking to Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/reportan-explosion-en-el-aeropuerto-de-miami-generada-por-un-ecoflow-que-un-pasajero-llevaba-a-cuba/",
-        "published_date": "2026-07-15 05:06:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil reiterates to the US its rejection of tariffs",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/brasil-le-reitera-a-eeuu-su-rechazo-a-los-aranceles/",
-        "published_date": "2026-07-15 04:48:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bellus ignitio (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/bellus-ignitio-fotos/",
-        "published_date": "2026-07-15 04:00:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Summer joy on the Island",
+        "title": "The goal of an Argentine tourist",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260714/alegria-de-verano-en-la-isla/",
-        "published_date": "2026-07-15 01:01:32",
+        "url": "https://www.trabajadores.cu/20260715/el-gol-de-un-turista-argentino/",
+        "published_date": "2026-07-15 23:28:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 23-year-old girl is murdered by an ex-partner in Las Tunas",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/asesinada-ex-pareja-tunas-joven_1_1128861.html",
+        "published_date": "2026-07-15 22:31:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dadeland Mall adds new stores and restaurants in Miami: these are the openings",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/dadeland-mall-nuevas-tiendas-restaurantes-miami-2026/",
+        "published_date": "2026-07-15 22:06:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina beats England and will play the 2026 World Cup final against Spain",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/deportes/argentina-remonta-inglaterra-final-mundial-2026-espana/",
+        "published_date": "2026-07-15 21:14:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba broke representation record in the 2026 MLB All-Star Game",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/cuba-rompio-record-de-representacion-en-el-juego-de-estrellas-de-la-mlb-2026/",
+        "published_date": "2026-07-15 21:09:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Cuban faces two life sentences in Guyana for two femicides",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/cubano-enfrenta-cadenas-perpetuas-guyana_1_1128859.html",
+        "published_date": "2026-07-15 21:05:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aguas de La Habana restores services in several areas of the east of the capital",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/aguas-habana-restablece-servicios-este-capital/",
+        "published_date": "2026-07-15 20:57:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "NuxGame And The Decision To Choose A Turnkey Online Casino Without Blind Spots",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/nuxgame-decision-elegir-turnkey-online_132_1128857.html",
+        "published_date": "2026-07-15 20:52:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana sells pity to four Democratic congressmen visiting Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/habana-vende-lastima-cuatro-congresistas_1_1128853.html",
+        "published_date": "2026-07-15 20:27:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 3.5 million syringes for Cuba are stranded in Jamaica",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/jeringuillas-cuba-varadas-jamaica-naviera-francesa/",
+        "published_date": "2026-07-15 20:04:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summer has arrived, but\u2026 (+Multimedia)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-verano-llego-pero-multimedia/",
+        "published_date": "2026-07-15 20:03:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three Cuban athletes leave the delegation in Canada, a few days before the Central American Games",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/tres-atletas-cubanos-abandonan-delegacion_1_1128851.html",
+        "published_date": "2026-07-15 19:13:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Where is it most expensive and cheapest to buy food in Cuba?These are the provinces with the highest and lowest prices",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/donde-es-mas-caro-y-mas-barato-comprar-alimentos-en-cuba-estas-son-las-provincias-con-los-precios-mas-altos-y-mas-bajos/",
+        "published_date": "2026-07-15 19:06:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manzanillo: workers as protagonists of the transformations.",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260715/manzanillo-los-trabajadores-como-protagonistas-de-las-transformaciones/",
+        "published_date": "2026-07-15 18:58:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official note from the MININT: Cuba confiscates two vessels found on its coasts",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-confisca-embarcaciones-camaguey-guantanamo/",
+        "published_date": "2026-07-15 17:21:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Oasis of cleanliness in L\u00ednea, mountains of garbage in neighboring streets",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/oasis-limpieza-linea-montanas-basura_1_1128847.html",
+        "published_date": "2026-07-15 17:17:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Goodbye to the time change in the United States: they approve a project that would change everything",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/adios-al-cambio-de-hora-en-estados-unidos-aprueban-un-proyecto-que-lo-cambiaria-todo/",
+        "published_date": "2026-07-15 17:09:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artemisa is committed to its tenth solar park",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260715/artemisa-apuesta-por-su-decimo-parque-solar/",
+        "published_date": "2026-07-15 16:44:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cubans in Spain: where is it cheaper to rent in the Canary Islands?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/cubanos-en-espana-donde-es-mas-barato-alquilar-en-canarias/",
+        "published_date": "2026-07-15 16:39:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The value of recovery: \u201cYour cans are going to shine\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260715/el-valor-de-recuperar-tus-latas-van-a-brillar/",
+        "published_date": "2026-07-15 16:35:20",
         "category": "Local Events"
     }
 ]
