@@ -168,6 +168,27 @@
         "category": "Military"
     },
     {
+        "title": "\"Here, surviving\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sobreviviendo_1_1128901.html",
+        "published_date": "2026-07-16 20:41:26",
+        "category": "Energy"
+    },
+    {
+        "title": "Retail price of Liquefied and Manufactured Gas, and mechanical services updated",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260716/actualizan-precio-minorista-de-gas-licuado-y-manufacturado-y-servicios-mecanicos/",
+        "published_date": "2026-07-16 20:03:54",
+        "category": "Energy"
+    },
+    {
+        "title": "Cuba foresees blackouts of up to 2,240 MW this July 16",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/cuba-apagones-afectacion-2240-mw-16-julio-2026/",
+        "published_date": "2026-07-16 11:22:07",
+        "category": "Energy"
+    },
+    {
         "title": "Aguas de La Habana restores supply sources and pumping stations after the blackout",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/noticias/aguas-habana-restablece-fuentes-abasto-estaciones-bombeo-apagon/",
@@ -287,25 +308,18 @@
         "category": "Energy"
     },
     {
-        "title": "Fuel price in Cuba: this is how gasoline and diesel are priced in the informal market today",
+        "title": "Prices of Liquefied Gas, Manufactured Gas and Mechanical Services Rates Updated",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32956-actualizan-precios-del-gas-licuado-gas-manufacturado-y-tarifas-de-servicios-mecanicos",
+        "published_date": "2026-07-16 17:41:15",
+        "category": "Economy"
+    },
+    {
+        "title": "New notice from Banco Metropolitano regarding the payment of retirees in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/precio-del-combustible-en-cuba-asi-se-cotiza-la-gasolina-y-el-diesel-en-el-mercado-informal-hoy/",
-        "published_date": "2026-07-12 15:07:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Huge efforts in Cuba to restore energy service",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ingentes-esfuerzos-en-cuba-por-restablecer-servicio-energetico/",
-        "published_date": "2026-07-11 13:51:39",
-        "category": "Energy"
-    },
-    {
-        "title": "Second total blackout in Cuba in the same week",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/segundo-apagon-total-cuba-semana_1_1128674.html",
-        "published_date": "2026-07-10 21:17:52",
-        "category": "Energy"
+        "url": "https://www.directoriocubano.info/actualidad/nuevo-aviso-del-banco-metropolitano-sobre-el-pago-de-jubilados-en-cuba/",
+        "published_date": "2026-07-16 11:03:12",
+        "category": "Economy"
     },
     {
         "title": "Payment to retirees and pensioners in Cuba begins: dates by bank",
@@ -364,150 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "Public Administration for more challenges",
+        "title": "Breaking news: Trump toughens the path to permanent residency in the United States with new restrictions",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/ultima-hora-trump-endurece-el-camino-hacia-la-residencia-permanente-en-estados-unidos-con-nuevas-restricciones/",
+        "published_date": "2026-07-16 21:26:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Of the 12 Cuban canoeists who traveled to Canada, nine do not return to the Island",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/12-piragueistas-cubanos-viajaron-canada_1_1128904.html",
+        "published_date": "2026-07-16 21:12:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba's plan to convert containers into homes does not take off",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/el-plan-de-cuba-para-convertir-contenedores-en-viviendas-no-despega/",
+        "published_date": "2026-07-16 19:29:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump warns that \u201cmany things are going to happen in Cuba\u201d during the next two months",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/trump-advierte-que-muchas-cosas-van-a-suceder-en-cuba-durante-los-proximos-dos-meses/",
+        "published_date": "2026-07-16 18:43:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nicol\u00e1s Guill\u00e9n chronicles contest and event awarded in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32958-premian-en-camagueey-concurso-y-evento-de-cronicas-nicolas-guillen",
+        "published_date": "2026-07-16 18:09:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Council of State approves decree laws on the business system and agricultural cooperatives",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32957-aprueba-consejo-de-estado-decretos-leyes-sobre-el-sistema-empresarial-y-las-cooperativas-agropecuarias",
+        "published_date": "2026-07-16 18:05:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "It's now official: the price of cooking gas goes from 2.50 to 4.97 pesos per cubic meter",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/oficial-precio-gas-cocina-pasa_1_1128899.html",
+        "published_date": "2026-07-16 17:47:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Healing the body and soul: the mission of a Cuban nurse in La Guaira",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/a-fondo/25-entrevistas/32955-sanar-el-cuerpo-y-el-alma-la-mision-de-una-enfermera-cubana-en-la-guaira",
+        "published_date": "2026-07-16 17:30:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holguin linemen will reinforce electrical work in Havana",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260708/administracion-publica-por-mas-retos/",
-        "published_date": "2026-07-08 17:05:00",
-        "category": "Economy"
-    },
-    {
-        "title": "Travel to Cuba in 2026: what no agency tells you about staying on the island today",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/viajar-cuba-2026-agencia-cuenta_132_1128879.html",
-        "published_date": "2026-07-16 11:39:25",
+        "url": "https://www.trabajadores.cu/20260716/linieros-holguineros-reforzaran-labores-electricas-en-la-habana/",
+        "published_date": "2026-07-16 17:30:27",
         "category": "Local Events"
     },
     {
-        "title": "Havana accuses CBS of \"beating the drums of war\" by suggesting a possible air assault against Cuba",
+        "title": "De la Espriella confirms reestablishment of \"the historic alliance with Israel\"",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/habana-acusa-cbs-batir-tambores_1_1128876.html",
-        "published_date": "2026-07-16 11:05:24",
+        "url": "https://www.14ymedio.com/internacional/espriella-confirma-restablecimiento-alianza-historica_1_1128893.html",
+        "published_date": "2026-07-16 17:08:43",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Thursday, July 16, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-16-julio_132_1128874.html",
-        "published_date": "2026-07-16 11:02:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Thursday, July 16, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-16-julio_7_1128878.html",
-        "published_date": "2026-07-16 11:00:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "What Is XDeleter?A Look at the New X Cleanup Tool in 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/look-at-the-new-x_132_1128871.html",
-        "published_date": "2026-07-16 10:54:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "North and south.The ideas behind destiny",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/norte-sur-ideas-detras-destino_1_1128868.html",
-        "published_date": "2026-07-16 10:40:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the dollar is today in Cuba: exchange rates in the informal market",
+        "title": "Government announces the sale of liquefied gas in dollars in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/dolar-cuba-hoy-tasas-cambio-mercado-informal-16-julio-2026/",
-        "published_date": "2026-07-16 10:37:48",
+        "url": "https://www.directoriocubano.info/cuba/gobierno-anuncia-la-venta-de-gas-licuado-en-dolares-en-cuba/",
+        "published_date": "2026-07-16 17:00:43",
         "category": "Local Events"
     },
     {
-        "title": "Vietnam detains three publishers for publishing a book \u201caimed at sabotaging the Socialist Republic\u201d",
+        "title": "Rubio says Cuba helped forge the extreme left in the US and the Western Hemisphere",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/vietnam-detiene-tres-editores-publicar_1_1128866.html",
-        "published_date": "2026-07-16 10:15:05",
+        "url": "https://www.14ymedio.com/cuba/rubio-dice-cuba-ayudo-forjar_1_1128891.html",
+        "published_date": "2026-07-16 16:50:53",
         "category": "Local Events"
     },
     {
-        "title": "\"Our flag had blood from the protesters injured on June 11\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/bandera-tenia-sangre-manifestantes-heridos_1_1128863.html",
-        "published_date": "2026-07-16 10:05:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert for travelers to Cuba from Miami: these batteries cannot go in checked luggage",
+        "title": "Official Gazette: changes in the sale of liquefied gas in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/alerta-para-viajeros-a-cuba-desde-miami-estas-baterias-no-pueden-ir-en-el-equipaje-facturado/",
-        "published_date": "2026-07-16 10:05:46",
+        "url": "https://www.directoriocubano.info/cuba/gaceta-oficial-cambios-en-la-venta-del-gas-licuado-en-cuba/",
+        "published_date": "2026-07-16 16:33:24",
         "category": "Local Events"
     },
     {
-        "title": "It is the amnesty law that prevents the return of Mar\u00eda Corina Machado to Venezuela, says the US",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ley-amnistia-impide-regreso-maria_1_1128864.html",
-        "published_date": "2026-07-16 10:03:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "CBS reveals that the Pentagon is analyzing an air attack against Cuba: this is what is known",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cbs-revela-que-el-pentagono-analiza-un-ataque-aereo-contra-cuba-esto-es-lo-que-se-sabe/",
-        "published_date": "2026-07-16 09:46:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between oaks and perfumed heroes (+Photos)",
+        "title": "New Zealand faces threat of endemic bird flu",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/entre-robles-y-heroes-perfumados-fotos/",
-        "published_date": "2026-07-16 04:00:20",
+        "url": "https://www.5septiembre.cu/nueva-zelanda-enfrenta-amenaza-de-influenza-aviar-endemica/",
+        "published_date": "2026-07-16 16:12:28",
         "category": "Local Events"
     },
     {
-        "title": "The \u201cBull\u201d attacked again, Argentina to the final of the 2026 World Cup",
+        "title": "Record number of Cubans in Brazil: this is how the \u201cnew Miami\u201d of emigration is born",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/record-de-cubanos-en-brasil-asi-nace-la-nueva-miami-de-la-emigracion/",
+        "published_date": "2026-07-16 16:09:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Symposium: Venezuela and democracy",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/simposio-venezuela-democracia_1_1128887.html",
+        "published_date": "2026-07-16 16:07:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russia tests new laser system capable of destroying drones",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-toro-volvio-a-embestir-argentina-a-la-final-del-mundial-2026/",
-        "published_date": "2026-07-16 00:17:20",
+        "url": "https://www.5septiembre.cu/rusia-prueba-nuevo-sistema-laser-capaz-de-destruir-drones/",
+        "published_date": "2026-07-16 16:03:59",
         "category": "Local Events"
     },
     {
-        "title": "The goal of an Argentine tourist",
+        "title": "Brazil repudiates US tariffs and announces reciprocity",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/brasil-repudia-aranceles-de-eeuu-y-anuncia-reciprocidad/",
+        "published_date": "2026-07-16 15:59:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pedro Luis Ferrer concert in Miami",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/concierto-pedro-luis-ferrer-miami_1_1128885.html",
+        "published_date": "2026-07-16 15:52:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "The heart in Bermejas",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260715/el-gol-de-un-turista-argentino/",
-        "published_date": "2026-07-15 23:28:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cyclospora outbreak in the United States puts lettuce under investigation",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/brote-cyclospora-estados-unidos-lechuga-investigacion/",
-        "published_date": "2026-07-15 23:08:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 23-year-old girl is murdered by an ex-partner in Las Tunas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/asesinada-ex-pareja-tunas-joven_1_1128861.html",
-        "published_date": "2026-07-15 22:31:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dadeland Mall adds new stores and restaurants in Miami: these are the openings",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/dadeland-mall-nuevas-tiendas-restaurantes-miami-2026/",
-        "published_date": "2026-07-15 22:06:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Argentina beats England and will play the 2026 World Cup final against Spain",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/deportes/argentina-remonta-inglaterra-final-mundial-2026-espana/",
-        "published_date": "2026-07-15 21:14:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba broke representation record in the 2026 MLB All-Star Game",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cuba-rompio-record-de-representacion-en-el-juego-de-estrellas-de-la-mlb-2026/",
-        "published_date": "2026-07-15 21:09:28",
+        "url": "https://www.trabajadores.cu/20260716/el-corazon-en-bermejas/",
+        "published_date": "2026-07-16 15:43:50",
         "category": "Local Events"
     }
 ]
