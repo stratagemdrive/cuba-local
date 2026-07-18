@@ -147,6 +147,13 @@
         "category": "Military"
     },
     {
+        "title": "8 people killed in Ukrainian drone attacks on e-commerce warehouses in Russia",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/mueren-8-personas-ataques-drones_1_1128950.html",
+        "published_date": "2026-07-18 11:19:59",
+        "category": "Energy"
+    },
+    {
         "title": "Mexico dismantles largest fuel smuggling network from the US",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/mexico-desarticula-mayor-red-de-contrabando-de-combustible-desde-eeuu/",
@@ -280,13 +287,6 @@
         "category": "Energy"
     },
     {
-        "title": "The US sanctions the Cuban Ministry of Tourism and entities dedicated to the import of fuels",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-sanciona-ministerio-turismo_1_1128762.html",
-        "published_date": "2026-07-13 16:10:34",
-        "category": "Energy"
-    },
-    {
         "title": "Central Bank announces measures to alleviate cash crisis",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260717/anuncia-banco-central-medidas-para-aliviar-crisis-de-efectivo/",
@@ -371,6 +371,97 @@
         "category": "Economy"
     },
     {
+        "title": "A blackboard is enough to understand inflation in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/generacion-y/pizarra-basta-entender-inflacion-cuba_132_1128953.html",
+        "published_date": "2026-07-18 11:47:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "What The Crab Can't Want",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/cangrejo-no_1_1128952.html",
+        "published_date": "2026-07-18 11:41:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "When the sentence ends at the airport: jail and exile for those who think differently in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gobierno-cubano-destierro-luis-manuel-otero-alcantara/",
+        "published_date": "2026-07-18 11:21:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The most difficult journey for doctors and nurses begins when the shift ends",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/viaje-dificil-medicos-enfermeras-comienza_1_1128947.html",
+        "published_date": "2026-07-18 11:04:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "What happens to the price of the dollar and the euro in Cuba today?Informal market exchange rates",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/precio-dolar-euro-cuba-hoy-18-julio-2026-mercado-informal/",
+        "published_date": "2026-07-18 10:57:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNE recognizes \u201creprehensible\u201d actions of two linemen after complaints of electricity sales in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/une-reconoce-actuacion-repudiable-de-dos-linieros-tras-denuncias-de-venta-de-electricidad-en-la-habana/",
+        "published_date": "2026-07-18 10:21:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Guiteras leaves the SEN just 26 minutes after coming into operation",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/la-guiteras-vuelve-a-salir-del-sen-apenas-26-minutos-despues-de-entrar-en-funcionamiento/",
+        "published_date": "2026-07-18 09:40:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Discovering invisible connections: the power of AI to map scientific knowledge",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/descubriendo-conexiones-invisibles-el-poder-de-la-ia-para-mapear-el-conocimiento-cientifico/",
+        "published_date": "2026-07-18 04:00:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Women of Cienfuegos and the solidarity of these times",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mujeres-de-cienfuegos-y-la-solidaridad-de-estos-tiempos/",
+        "published_date": "2026-07-18 04:00:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salary increase comes into force for the budgeted sector: these are the new figures (+ PDF)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/entra-en-vigor-aumento-salarial-para-el-sector-presupuestado-estas-son-las-nuevas-cifras-pdf/",
+        "published_date": "2026-07-18 00:23:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "These immigrants will not obtain a green card to reside in the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/inmigrantes-no-obtendran-green-card-estados-unidos-carga-publica/",
+        "published_date": "2026-07-18 00:03:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Orlando to Tampa in just 30 minutes: Florida is already testing flying taxis",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/florida-prueba-taxis-voladores-orlando-tampa-30-minutos/",
+        "published_date": "2026-07-18 00:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is going to cost you speeding in Miami from now on",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/multa-exceso-velocidad-miami-2026/",
+        "published_date": "2026-07-17 23:32:36",
+        "category": "Local Events"
+    },
+    {
         "title": "Miami is increasingly unlivable, according to report",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/estados-unidos/miami-cada-vez-mas-invivible-informe-vivienda/",
@@ -417,97 +508,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/mexico-sin-danos-hasta-el-momento-por-sismo-de-magnitud-74/",
         "published_date": "2026-07-17 18:57:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The death toll from the June 24 earthquakes in Venezuela rises to 4,930",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ascienden-a-4-930-los-fallecidos-por-los-terremotos-del-24-de-junio-en-venezuela/",
-        "published_date": "2026-07-17 18:52:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "US senator presents bill to expand sanctions against Russia",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/senador-estadounidense-presenta-proyecto-para-ampliar-sanciones-contra-rusia/",
-        "published_date": "2026-07-17 18:38:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Neighbors of Luyan\u00f3 block a street due to lack of water",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/vecinos-luyano-bloquean-calle-falta_1_1128935.html",
-        "published_date": "2026-07-17 18:34:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Etecsa announces new offer: these are the benefits and requirements for those interested",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/etecsa-anuncia-nueva-oferta-estos-son-los-beneficios-y-requisitos-para-los-interesados/",
-        "published_date": "2026-07-17 18:09:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "How simplicity became one of the key factors of Plinko's success",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/simplicidad-convirtio-factores-clave-exito_132_1128931.html",
-        "published_date": "2026-07-17 17:21:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Buy TikTok Followers Guide: Top Picks for 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/buy-tiktok-followers-guide-top_132_1128928.html",
-        "published_date": "2026-07-17 17:12:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guava candy, honey, fruits and charcoal leave Cuba for Europe while they are scarce on the island",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/dulce-de-guayaba-miel-frutas-y-carbon-salen-de-cuba-rumbo-a-europa-mientras-escasean-en-la-isla/",
-        "published_date": "2026-07-17 16:09:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from July 17, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-17-julio-2026_7_1128925.html",
-        "published_date": "2026-07-17 16:00:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "A day of happiness (Photoreport)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260717/un-dia-de-felicidad-fotorreportaje/",
-        "published_date": "2026-07-17 15:54:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel denounces the return of dangerous McCarthyism and the threat of the global extreme right",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/diaz-canel-denuncia-el-regreso-de-un-macartismo-peligroso-y-la-amenaza-de-la-ultraderecha-global/",
-        "published_date": "2026-07-17 15:28:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong earthquake of magnitude 7.4 shakes the coast of Mexico",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/mexico/fuerte-sismo-de-magnitud-74-sacude-la-costa-de-mexico/",
-        "published_date": "2026-07-17 15:16:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba will subsidize the increase in the price of gas for these vulnerable families",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cuba-subsidiara-el-aumento-del-precio-del-gas-para-estas-familias-vulnerables/",
-        "published_date": "2026-07-17 15:09:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Awards, recognition and applause for the Camag\u00fcey press",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260717/premios-reconocimientos-y-aplausos-para-la-prensa-camagueyana/",
-        "published_date": "2026-07-17 14:44:13",
         "category": "Local Events"
     }
 ]
