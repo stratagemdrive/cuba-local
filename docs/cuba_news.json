@@ -1,5 +1,26 @@
 [
     {
+        "title": "US report tries to justify aggression against Cuba, D\u00edaz-Canel warns",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/informe-de-eeuu-intenta-justificar-agresion-a-cuba-alerta-diaz-canel/",
+        "published_date": "2026-07-22 12:28:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Nicaragua begins reforms after Ortega's order to eliminate electoral competition",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/nicaragua-inicia-reformas-orden-ortega_1_1129071.html",
+        "published_date": "2026-07-22 08:52:19",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Medicuba S.A.denounces unjustified retention of medical supplies",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32981-medicuba-s-a-denuncia-retencion-injustificada-de-insumos-medicos",
+        "published_date": "2026-07-21 20:29:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cienfuegos dresses up as \u201c26\u201d",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cienfuegos-se-viste-de-26/",
@@ -25,27 +46,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-17-de-julio/",
         "published_date": "2026-07-17 13:22:09",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "An official journalist denounces \"the internal blockade\" that has done so much \"damage\" to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/periodista-oficialista-denuncia-bloqueo-interno_1_1128808.html",
-        "published_date": "2026-07-14 11:48:10",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "New US sanctions against Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32946-nuevas-sanciones-de-ee-uu-contra-cuba",
-        "published_date": "2026-07-14 09:36:35",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Delcy Rodr\u00edguez appoints her representative in the US, F\u00e9lix Plasencia, as chancellor",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-nombra-canciller-representante_1_1128784.html",
-        "published_date": "2026-07-14 08:56:21",
         "category": "Diplomacy"
     },
     {
@@ -102,13 +102,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/jovenes-ingresados-hospital-pediatrico-sufrir_1_1128809.html",
         "published_date": "2026-07-14 13:30:48",
-        "category": "Military"
-    },
-    {
-        "title": "Iran says it continues to sell crude oil despite US revoking sanctions exemption",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/iran-dice-sigue-vendiendo-crudo_1_1128788.html",
-        "published_date": "2026-07-14 09:24:54",
         "category": "Military"
     },
     {
@@ -252,6 +245,13 @@
         "category": "Energy"
     },
     {
+        "title": "Control is not negotiated (I)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-control-no-se-negocia-i/",
+        "published_date": "2026-07-22 04:00:37",
+        "category": "Economy"
+    },
+    {
         "title": "Central Bank explains why remittances to Cuba take longer and what happened with Visa and Mastercard",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/banco-central-explica-por-que-las-remesas-a-cuba-tardan-mas-y-que-ocurrio-con-visa-y-mastercard/",
@@ -357,11 +357,116 @@
         "category": "Economy"
     },
     {
-        "title": "Certificate and statement of accounts, two bank documents",
+        "title": "Great global march demands an end to US aggression against Cuba and Iran",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/certifico-y-estado-de-cuentas-dos-documentos-bancarios/",
-        "published_date": "2026-07-14 04:00:51",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/gran-marcha-mundial-exige-fin-a-agresiones-de-ee-uu-a-cuba-e-iran/",
+        "published_date": "2026-07-22 12:32:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba closed 2025 with 9,434,593 inhabitants and maintains a trend towards population decline",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-cerro-2025-con-9-434-593-habitantes-y-mantiene-tendencia-al-decrecimiento-poblacional/",
+        "published_date": "2026-07-22 12:20:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The return of McCarthyism: the farce of the report that makes Cuba the perfect enemy",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-regreso-del-macartismo-la-farsa-del-informe-que-hace-de-cuba-el-enemigo-perfecto/",
+        "published_date": "2026-07-22 12:08:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Panamanians disapprove of government management, according to survey",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/panamenos-desaprueban-gestion-del-gobierno-segun-sondeo/",
+        "published_date": "2026-07-22 12:02:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medicuba S.A. Complaintunjustified withholding of medical supplies",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/denuncia-medicuba-s-a-retencion-injustificada-de-insumos-medicos/",
+        "published_date": "2026-07-22 11:14:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ruling party admits complaints of corruption in the electricity sector in the midst of the blackout crisis",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/oficialismo-admite-denuncias-de-corrupcion-en-el-sector-electrico-en-plena-crisis-de-apagones/",
+        "published_date": "2026-07-22 11:07:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, July 22, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-22-julio_132_1129072.html",
+        "published_date": "2026-07-22 10:55:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The people demanded their leader",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260722/el-pueblo-reclamo-a-su-lider/",
+        "published_date": "2026-07-22 10:36:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price of the dollar and the euro in Cuba today: the euro soars again in the informal market",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/precio-del-dolar-y-el-euro-en-cuba-hoy-el-euro-vuelve-a-dispararse-en-el-mercado-informal/",
+        "published_date": "2026-07-22 10:18:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first shipment of US aid has already arrived in Cuba: these are the boxes sent from Miami",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/ya-llego-a-cuba-el-primer-cargamento-de-ayuda-de-ee-uu-esto-traen-las-cajas-enviadas-desde-miami/",
+        "published_date": "2026-07-22 09:31:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump has reached a nuclear agreement with Saudi Arabia, according to different media",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-llegado-acuerdo-nuclear-arabia_1_1129070.html",
+        "published_date": "2026-07-22 08:44:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Trump Government asks the Prosecutor's Office to give Delcy Rodr\u00edguez immunity from prosecution in the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/gobierno-trump-pide-fiscalia-dar_1_1129068.html",
+        "published_date": "2026-07-22 07:53:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The regent of San Fernando (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-regenta-de-san-fernando-fotos/",
+        "published_date": "2026-07-22 06:00:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong rejection of new slanderous campaign by the State Department",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/energico-rechazo-a-nueva-campana-calumniosa-del-departamento-de-estado/",
+        "published_date": "2026-07-22 01:04:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Important information about the restart of the school year in Florida: dates by county",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/reinicio-curso-escolar-florida-fechas-condados-2026-2027/",
+        "published_date": "2026-07-22 00:15:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami is already more expensive than New York according to a new report in the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/miami-mas-cara-que-nueva-york-costo-de-vida/",
+        "published_date": "2026-07-21 23:04:14",
+        "category": "Local Events"
     },
     {
         "title": "Important alert for Florida due to Tropical Storm Bertha",
@@ -389,118 +494,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/migracion/cubano-residente-vegas-declarado-culpable_1_1129062.html",
         "published_date": "2026-07-21 20:24:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "New changes to student loans in the US: what Cubans should know to avoid paying more",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/nuevos-cambios-en-los-prestamos-estudiantiles-en-ee-uu-lo-que-los-cubanos-deben-saber-para-evitar-pagar-mas/",
-        "published_date": "2026-07-21 20:09:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba Cancels This Year\u2019s Habano Cigar Festival",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/cuba-cancels-this-years-habano-cigar-festival/",
-        "published_date": "2026-07-21 20:01:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban population maintains decreasing trend",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32980-mantiene-poblacion-cubana-tendencia-decreciente",
-        "published_date": "2026-07-21 19:46:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The two main thermoelectric plants in the country leave the system again",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/vuelven-salir-sistema-principales-termoelectricas_1_1129060.html",
-        "published_date": "2026-07-21 19:45:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "United Nations Independent Expert begins academic visit to Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/experto-independiente-de-naciones-unidas-inicia-visita-academica-a-cuba/",
-        "published_date": "2026-07-21 19:35:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tribute to a University that has grown and has become a country",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260721/homenaje-a-una-universidad-que-ha-crecido-y-se-ha-vuelto-pais/",
-        "published_date": "2026-07-21 19:35:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marathon",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260721/maraton/",
-        "published_date": "2026-07-21 19:24:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deputies analyze bills \"Labor Code\" and \"Organization of the Central State Administration\"",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260721/analizan-diputados-proyectos-de-ley-codigo-de-trabajo-y-de-organizacion-de-la-administracion-central-del-estado/",
-        "published_date": "2026-07-21 19:16:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "From power plants to solar kits: the growing dollar bill that finances emigration",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/de-las-plantas-electricas-a-los-kits-solares-la-creciente-factura-en-dolares-que-financia-la-emigracion/",
-        "published_date": "2026-07-21 19:05:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "On The Outskirts of My City, Matanzas, Cuba",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/on-the-outskirts-of-my-city-matanzas-cuba/",
-        "published_date": "2026-07-21 18:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba definitively suspends the Habano Festival this year",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-suspende-definitivamente-festival-habano_1_1129058.html",
-        "published_date": "2026-07-21 18:34:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba: Brothers to the Rescue Trial in USA, a First Step",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/cuba-brothers-to-the-rescue-trial-a-first-step/",
-        "published_date": "2026-07-21 18:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba Between Pain and Longing",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/cuba-between-pain-and-longing/",
-        "published_date": "2026-07-21 18:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cadeca opens a new office inside a hospital in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cadeca-abre-una-nueva-oficina-dentro-de-un-hospital-en-cuba/",
-        "published_date": "2026-07-21 18:00:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel, books, life, the eternal battle",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/fidel-catg/32978-fidel-los-libros-la-vida-la-eterna-batalla",
-        "published_date": "2026-07-21 17:15:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iberostar confirms that it \u201cno longer operates\u201d any hotel in Cuba on the same day that Meli\u00e1 announces its withdrawal",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/iberostar-confirma-no-opera-hotel_1_1129055.html",
-        "published_date": "2026-07-21 17:02:00",
         "category": "Local Events"
     }
 ]
