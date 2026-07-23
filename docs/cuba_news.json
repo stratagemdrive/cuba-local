@@ -1,9 +1,23 @@
 [
     {
+        "title": "Cuba denounced blockade at the Ibero-American Cooperation Conference",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/denuncio-cuba-bloqueo-en-conferencia-de-cooperacion-iberoamericana/",
+        "published_date": "2026-07-22 18:38:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "US report tries to justify aggression against Cuba, D\u00edaz-Canel warns",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/informe-de-eeuu-intenta-justificar-agresion-a-cuba-alerta-diaz-canel/",
         "published_date": "2026-07-22 12:28:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Strong rejection of new slanderous campaign by the State Department",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32984-energico-rechazo-a-nueva-campana-calumniosa-del-departamento-de-estado",
+        "published_date": "2026-07-22 12:06:47",
         "category": "Diplomacy"
     },
     {
@@ -49,6 +63,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The judge in the Maduro case proposes the start of the trial for June 1, 2027",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/maduro-comparece-nueva-york-defensa_1_1129083.html",
+        "published_date": "2026-07-22 18:11:23",
+        "category": "Military"
+    },
+    {
+        "title": "Those convicted of drug trafficking or belonging to an armed gang will be able to sign contracts with the Russian Army",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/condenados-narcotrafico-pertenencia-banda-armada_1_1129081.html",
+        "published_date": "2026-07-22 17:53:38",
+        "category": "Military"
+    },
+    {
         "title": "D\u00edaz-Canel visits the municipalities of San Miguel del Padr\u00f3n and Diez de Octubre",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/diaz-canel-visita-los-municipios-de-san-miguel-del-padron-y-diez-de-octubre/",
@@ -91,18 +119,32 @@
         "category": "Military"
     },
     {
-        "title": "Iran launches new attacks against US targets in the Middle East",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-lanza-nuevos-ataques-contra-objetivos-de-eeuu-en-oriente-medio/",
-        "published_date": "2026-07-14 18:25:42",
-        "category": "Military"
+        "title": "New fuel supply options for individuals in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nuevas-opciones-de-suministro-de-combustible-para-particulares-en-cuba/",
+        "published_date": "2026-07-22 20:05:56",
+        "category": "Energy"
     },
     {
-        "title": "Several young people admitted to a pediatric hospital after suffering an accident on the way to their military unit",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/jovenes-ingresados-hospital-pediatrico-sufrir_1_1128809.html",
-        "published_date": "2026-07-14 13:30:48",
-        "category": "Military"
+        "title": "Solar energy for industrial processing in La Coloma",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260722/energia-solar-para-procesamiento-industrial-en-la-coloma/",
+        "published_date": "2026-07-22 19:41:10",
+        "category": "Energy"
+    },
+    {
+        "title": "Axess Marketing Company: Against all odds",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260722/empresa-comercializadora-axess-contra-viento-y-marea/",
+        "published_date": "2026-07-22 18:00:14",
+        "category": "Energy"
+    },
+    {
+        "title": "Meditate time",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/fidel-catg/32979-meditar-el-tiempo",
+        "published_date": "2026-07-22 09:20:45",
+        "category": "Energy"
     },
     {
         "title": "Alert for false fuel sales for Cuba: this is how digital scams operate",
@@ -217,32 +259,11 @@
         "category": "Energy"
     },
     {
-        "title": "Cuba foresees blackouts of up to 2,240 MW this July 16",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/cuba-apagones-afectacion-2240-mw-16-julio-2026/",
-        "published_date": "2026-07-16 11:22:07",
-        "category": "Energy"
-    },
-    {
-        "title": "Aguas de La Habana restores supply sources and pumping stations after the blackout",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/aguas-habana-restablece-fuentes-abasto-estaciones-bombeo-apagon/",
-        "published_date": "2026-07-15 15:59:07",
-        "category": "Energy"
-    },
-    {
-        "title": "The electro-energy system reestablished in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/restablecido-en-cuba-el-sistema-electroenergetico/",
-        "published_date": "2026-07-15 14:31:38",
-        "category": "Energy"
-    },
-    {
-        "title": "Minister admits that Cuba operates without fuel or spare parts: \u201cwe are living with the old thermoelectric plants, the sun and gas\u201d",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/ministro-admite-que-cuba-opera-sin-combustible-ni-repuestos-solo-estamos-viviendo-con-las-viejas-termoelectricas-el-sol-y-el-gas/",
-        "published_date": "2026-07-15 09:46:42",
-        "category": "Energy"
+        "title": "Central Bank of Cuba announces new actions to increase digital payments",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32983-banco-central-de-cuba-anuncia-nuevas-acciones-para-incrementar-los-pagos-digitales",
+        "published_date": "2026-07-22 12:09:23",
+        "category": "Economy"
     },
     {
         "title": "Control is not negotiated (I)",
@@ -350,150 +371,143 @@
         "category": "Economy"
     },
     {
-        "title": "Payment to retirees and pensioners in Cuba begins: dates by bank",
+        "title": "Tony in the Lake, Salamanca, Spain \u2013 Photo of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/tony-in-the-lake-salamanca-spain-photo-of-the-day/",
+        "published_date": "2026-07-22 22:44:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "How many have left in your neighborhood?This is the current population of Cuba, according to the ONEI",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/pago-jubilados-pensionados-cuba-fechas-bancos-julio-2026/",
-        "published_date": "2026-07-14 14:01:31",
-        "category": "Economy"
-    },
-    {
-        "title": "Great global march demands an end to US aggression against Cuba and Iran",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/gran-marcha-mundial-exige-fin-a-agresiones-de-ee-uu-a-cuba-e-iran/",
-        "published_date": "2026-07-22 12:32:49",
+        "url": "https://www.directoriocubano.info/cuba/cuantos-se-han-ido-en-tu-barrio-esta-es-la-actual-poblacion-de-cuba-segun-la-onei/",
+        "published_date": "2026-07-22 21:06:59",
         "category": "Local Events"
     },
     {
-        "title": "Cuba closed 2025 with 9,434,593 inhabitants and maintains a trend towards population decline",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-cerro-2025-con-9-434-593-habitantes-y-mantiene-tendencia-al-decrecimiento-poblacional/",
-        "published_date": "2026-07-22 12:20:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The return of McCarthyism: the farce of the report that makes Cuba the perfect enemy",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-regreso-del-macartismo-la-farsa-del-informe-que-hace-de-cuba-el-enemigo-perfecto/",
-        "published_date": "2026-07-22 12:08:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Panamanians disapprove of government management, according to survey",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/panamenos-desaprueban-gestion-del-gobierno-segun-sondeo/",
-        "published_date": "2026-07-22 12:02:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medicuba S.A. Complaintunjustified withholding of medical supplies",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncia-medicuba-s-a-retencion-injustificada-de-insumos-medicos/",
-        "published_date": "2026-07-22 11:14:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The ruling party admits complaints of corruption in the electricity sector in the midst of the blackout crisis",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/oficialismo-admite-denuncias-de-corrupcion-en-el-sector-electrico-en-plena-crisis-de-apagones/",
-        "published_date": "2026-07-22 11:07:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, July 22, 2026",
+        "title": "Cuba, the country that unlearns",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-22-julio_132_1129072.html",
-        "published_date": "2026-07-22 10:55:57",
+        "url": "https://www.14ymedio.com/cuba/cuba-pais-desaprende_1_1129087.html",
+        "published_date": "2026-07-22 20:38:24",
         "category": "Local Events"
     },
     {
-        "title": "The people demanded their leader",
+        "title": "\"I expected a little more support from the Cuban-American community,\" says the pilot who left the Island in 2022",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/esperaba-apoyo-comunidad-cubanoamericana-dice_1_1129085.html",
+        "published_date": "2026-07-22 20:04:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "They commemorate in Rhodes, Cienfuegos, the 73rd anniversary of July 26",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conmemoran-en-rodas-cienfuegos-aniversario-73-del-26-de-julio/",
+        "published_date": "2026-07-22 19:46:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Controversy over Cuban Artist Luis Manuel Otero",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/pedro-pablo-morejon/the-controversy-over-cuban-artist-luis-manuel-otero/",
+        "published_date": "2026-07-22 19:37:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marco Rubio clarifies that the United States did not set a date for a regime change in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/marco-rubio-aclara-que-estados-unidos-no-fijo-una-fecha-para-un-cambio-de-regimen-en-cuba/",
+        "published_date": "2026-07-22 19:09:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba advocates for inclusive governance at Digital Silk Road Forum",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aboga-cuba-en-foro-de-la-ruta-de-la-seda-digital-por-gobernanza-inclusiva/",
+        "published_date": "2026-07-22 18:54:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Save lives, break silences",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260722/el-pueblo-reclamo-a-su-lider/",
-        "published_date": "2026-07-22 10:36:11",
+        "url": "https://www.trabajadores.cu/20260722/salvar-vidas-romper-silencios/",
+        "published_date": "2026-07-22 18:39:26",
         "category": "Local Events"
     },
     {
-        "title": "Price of the dollar and the euro in Cuba today: the euro soars again in the informal market",
+        "title": "In Venezuela, There's a Day for Everything",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/yordanka/in-venezuela-theres-a-day-for-everything/",
+        "published_date": "2026-07-22 18:15:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thousands of Medicare beneficiaries could lose access to major hospitals in Florida",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/precio-del-dolar-y-el-euro-en-cuba-hoy-el-euro-vuelve-a-dispararse-en-el-mercado-informal/",
-        "published_date": "2026-07-22 10:18:43",
+        "url": "https://www.directoriocubano.info/usa/miles-de-beneficiarios-de-medicare-podrian-perder-el-acceso-a-importantes-hospitales-en-florida/",
+        "published_date": "2026-07-22 18:07:14",
         "category": "Local Events"
     },
     {
-        "title": "The first shipment of US aid has already arrived in Cuba: these are the boxes sent from Miami",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/ya-llego-a-cuba-el-primer-cargamento-de-ayuda-de-ee-uu-esto-traen-las-cajas-enviadas-desde-miami/",
-        "published_date": "2026-07-22 09:31:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump has reached a nuclear agreement with Saudi Arabia, according to different media",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-llegado-acuerdo-nuclear-arabia_1_1129070.html",
-        "published_date": "2026-07-22 08:44:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Trump Government asks the Prosecutor's Office to give Delcy Rodr\u00edguez immunity from prosecution in the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/gobierno-trump-pide-fiscalia-dar_1_1129068.html",
-        "published_date": "2026-07-22 07:53:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The regent of San Fernando (+Photos)",
+        "title": "National Afrofeminism Day articulates activities in Cienfuegos",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-regenta-de-san-fernando-fotos/",
-        "published_date": "2026-07-22 06:00:36",
+        "url": "https://www.5septiembre.cu/jornada-nacional-de-afrofeminismo-articula-actividades-en-cienfuegos/",
+        "published_date": "2026-07-22 17:36:09",
         "category": "Local Events"
     },
     {
-        "title": "Strong rejection of new slanderous campaign by the State Department",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/energico-rechazo-a-nueva-campana-calumniosa-del-departamento-de-estado/",
-        "published_date": "2026-07-22 01:04:10",
+        "title": "Chronicles of a Cuban Doctor Looking Back at the Island",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/chronicles-of-a-cuban-doctor-looking-back-at-the-island/",
+        "published_date": "2026-07-22 17:35:46",
         "category": "Local Events"
     },
     {
-        "title": "Important information about the restart of the school year in Florida: dates by county",
+        "title": "Marco Rubio's lucrative hate business",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/opinion/32986-el-lucrativo-negocio-del-odio-de-marco-rubio",
+        "published_date": "2026-07-22 17:34:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bertha approaches Florida with little impact as it moves through the Gulf of Mexico",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/reinicio-curso-escolar-florida-fechas-condados-2026-2027/",
-        "published_date": "2026-07-22 00:15:35",
+        "url": "https://www.directoriocubano.info/estados-unidos/bertha-se-acerca-a-florida-con-poco-impacto-mientras-avanza-por-el-golfo-de-mexico/",
+        "published_date": "2026-07-22 17:11:29",
         "category": "Local Events"
     },
     {
-        "title": "Miami is already more expensive than New York according to a new report in the United States",
+        "title": "For fear of sanctions, several containers of medicines do not arrive in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/temor-sanciones-contenedores-medicamentos-no_1_1129079.html",
+        "published_date": "2026-07-22 16:23:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Digital Scams in Cuba: Lurking on Your Phone",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/digital-scams-in-cuba-lurking-on-your-phone/",
+        "published_date": "2026-07-22 16:21:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you live in Hialeah?You can now sign up for rental assistance",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/miami-mas-cara-que-nueva-york-costo-de-vida/",
-        "published_date": "2026-07-21 23:04:14",
+        "url": "https://www.directoriocubano.info/actualidad/vives-en-hialeah-ya-puedes-inscribirte-para-recibir-ayuda-con-el-alquiler/",
+        "published_date": "2026-07-22 16:09:16",
         "category": "Local Events"
     },
     {
-        "title": "Important alert for Florida due to Tropical Storm Bertha",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/tormenta-tropical-bertha-golfo-florida-lluvias-oleaje/",
-        "published_date": "2026-07-21 22:06:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Live in small portions",
+        "title": "The Cuban regime threatens another political prisoner to make him accept exile",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/generacion-y/vivir-porciones-pequenas_132_1129066.html",
-        "published_date": "2026-07-21 20:59:54",
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-amenaza-preso-politico_1_1129077.html",
+        "published_date": "2026-07-22 16:08:40",
         "category": "Local Events"
     },
     {
-        "title": "The US sends the first flight of food and hygiene items to Cuba as part of the promised 100 million in aid",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ee-uu-envia-cuba-primer_1_1129064.html",
-        "published_date": "2026-07-21 20:53:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Cuban resident in Las Vegas, found guilty of the feminicide of his partner",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/cubano-residente-vegas-declarado-culpable_1_1129062.html",
-        "published_date": "2026-07-21 20:24:55",
+        "title": "International News Briefs for Wednesday, July 22, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-july-22-2026/",
+        "published_date": "2026-07-22 15:28:09",
         "category": "Local Events"
     }
 ]
