@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Ortega regime responds to Brazil: \"Our democracy, our elections\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/regimen-ortega-responde-brasil-democracia_1_1129114.html",
+        "published_date": "2026-07-24 08:33:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba denounces effects of blockade at BRICS meeting",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260723/denuncia-cuba-en-reunion-del-brics-efectos-del-bloqueo/",
@@ -266,6 +273,13 @@
         "category": "Energy"
     },
     {
+        "title": "Control is not negotiated (II)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-control-no-se-negocia-ii/",
+        "published_date": "2026-07-24 04:00:46",
+        "category": "Economy"
+    },
+    {
         "title": "The World Bank estimates the damage caused by the earthquakes in Venezuela at 19.6 billion dollars",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/banco-mundial-cifra-19-600_1_1129102.html",
@@ -392,11 +406,95 @@
         "category": "Economy"
     },
     {
-        "title": "New notice from Banco Metropolitano regarding the payment of retirees in Cuba",
+        "title": "Get to know our weekly PDF edition of July 24",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-24-de-julio/",
+        "published_date": "2026-07-24 12:04:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be more human",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260724/ser-mas-humanos/",
+        "published_date": "2026-07-24 12:01:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Santiago it is always 26",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260724/en-santiago-siempre-es-26/",
+        "published_date": "2026-07-24 11:46:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Customs reports new seizure at the Jos\u00e9 Mart\u00ed Airport in Havana",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/nuevo-aviso-del-banco-metropolitano-sobre-el-pago-de-jubilados-en-cuba/",
-        "published_date": "2026-07-16 11:03:12",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/cuba/aduana-de-cuba-informa-de-nuevo-decomiso-en-el-aeropuerto-jose-marti-de-la-habana/",
+        "published_date": "2026-07-24 11:10:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, July 24, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-24-julio_132_1129123.html",
+        "published_date": "2026-07-24 11:08:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, July 24, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-24-julio_7_1129125.html",
+        "published_date": "2026-07-24 11:05:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price of the dollar in Cuba today: this is how the informal market dawns",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/precio-del-dolar-en-cuba-hoy-asi-amanece-el-mercado-informal/",
+        "published_date": "2026-07-24 10:37:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gaesa puts its hand in the millions allocated to climate change",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gaesa-mete-mano-millones-destinados_1_1129121.html",
+        "published_date": "2026-07-24 10:34:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without electricity there is no chicken",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/electricidad-hay-pollo_1_1129119.html",
+        "published_date": "2026-07-24 08:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake shakes Santiago de Cuba: and there are already nine in 2026",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/sismo-sacude-santiago-de-cuba-y-ya-suman-nueve-en-2026/",
+        "published_date": "2026-07-24 08:47:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Cup fever rekindles passion for soccer in Matanzas",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/fiebre-mundialista-reaviva-pasion-futbol_1_1129092.html",
+        "published_date": "2026-07-24 08:40:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump threatens to use Iranian funds to pay for damage to ships and cargo",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-amenaza-fondos-iranies-pagar_1_1129112.html",
+        "published_date": "2026-07-24 08:08:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump maintains his global tariff war with a tax of between 10% and 12.5% \u200b\u200bon 80 countries",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-mantiene-guerra-arancelaria-global_1_1129111.html",
+        "published_date": "2026-07-24 07:49:01",
+        "category": "Local Events"
     },
     {
         "title": "More than 700 health professionals graduate in Pinar del R\u00edo",
@@ -410,6 +508,13 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260723/guerra-de-cuerdas/",
         "published_date": "2026-07-23 23:45:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "New price increases are coming in the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/vienen-nuevos-aumentos-de-precio-en-estados-unidos/",
+        "published_date": "2026-07-23 23:08:20",
         "category": "Local Events"
     },
     {
@@ -438,104 +543,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260723/las-73-conmemoraciones-del-26-de-julio-en-el-centenario-de-fidel/",
         "published_date": "2026-07-23 21:39:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Work activities recess on July 25, 26 and 27",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260723/recesan-actividades-laborales-los-dias-25-26-y-27-de-julio/",
-        "published_date": "2026-07-23 21:25:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Defend the health of the people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260723/defender-la-salud-del-pueblo/",
-        "published_date": "2026-07-23 21:12:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important information from the United States Embassy in Cuba on closure of services",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/informacion-importante-de-la-embajada-de-estados-unidos-en-cuba-sobre-cierre-de-servicios/",
-        "published_date": "2026-07-23 20:45:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "A fire in Guyana leaves 12 Cubans and 20 Venezuelans homeless",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/incendio-guyana-deja-casa-12_1_1129106.html",
-        "published_date": "2026-07-23 20:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Mariel terminal, the medical marketer and the Minister of Health, on the list of new US sanctions",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/terminal-mariel-comercializadora-medicos-ministro_1_1129109.html",
-        "published_date": "2026-07-23 20:34:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Steering wheel sensitivity",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260723/sensibilidad-al-volante/",
-        "published_date": "2026-07-23 20:19:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Health alert in Florida: cases of a parasite that causes diarrhea increase and affect dozens of counties",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/alerta-sanitaria-en-florida-aumentan-los-casos-de-un-parasito-que-provoca-diarrea-y-afecta-a-decenas-de-condados/",
-        "published_date": "2026-07-23 20:05:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "An Abandoned Pioneers\u2019 Palace on 5th Avenue in Miramar, Havana",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/an-abandoned-pioneers-palace-on-5th-avenue-in-miramar-havana/",
-        "published_date": "2026-07-23 19:07:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba clarifies what will happen to the doctors who abandoned missions after the new immigration laws",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cuba-aclara-que-pasara-con-los-medicos-que-abandonaron-misiones-tras-las-nuevas-leyes-migratorias/",
-        "published_date": "2026-07-23 19:05:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latest details of Storm Bertha in the United States",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/ultimos-detalles-de-la-tormenta-bertha-en-estados-unidos/",
-        "published_date": "2026-07-23 18:08:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel ratifies Cuba's support for the promotion and respect of Human Rights",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ratifica-diaz-canel-el-apoyo-de-cuba-a-la-promocion-y-el-respeto-a-los-derechos-humanos/",
-        "published_date": "2026-07-23 18:07:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State evaluates process of implementation of economic and social transformations",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/evalua-consejo-de-estado-proceso-de-implementacion-de-las-transformaciones-economicas-y-sociales/",
-        "published_date": "2026-07-23 18:00:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tired of utopia",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/generacion-y/cansados-utopia_132_1129104.html",
-        "published_date": "2026-07-23 17:39:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Patrimonial documents returned to Cuba from the United States",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/devueltos-documentos-patrimoniales-a-cuba-desde-estados-unidos/",
-        "published_date": "2026-07-23 17:36:16",
         "category": "Local Events"
     }
 ]
