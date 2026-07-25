@@ -1,5 +1,19 @@
 [
     {
+        "title": "Minrex denounces the impudence of the US Secretary of State.",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/denuncia-minrex-desfachatez-del-secretario-de-estado-de-ee-uu/",
+        "published_date": "2026-07-24 17:33:48",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran accuses US of trying to normalize war crimes",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-acusa-a-eeuu-de-intentar-normalizar-crimenes-de-guerra/",
+        "published_date": "2026-07-24 13:09:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The Ortega regime responds to Brazil: \"Our democracy, our elections\"",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/regimen-ortega-responde-brasil-democracia_1_1129114.html",
@@ -133,6 +147,20 @@
         "category": "Military"
     },
     {
+        "title": "Holgu\u00edn also moves to the rhythm of private gasoline",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/holguin-mueve-ritmo-gasolina-privada_1_1129151.html",
+        "published_date": "2026-07-24 19:29:55",
+        "category": "Energy"
+    },
+    {
+        "title": "The US imposes new measures against Cuban entities and officials",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/eeuu-impone-nuevas-medidas-contra-entidades-y-funcionarios-cubanos/",
+        "published_date": "2026-07-24 14:12:20",
+        "category": "Energy"
+    },
+    {
         "title": "Inhabitants, personal sample of Joel Oliva",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260723/el-26-de-julio-pasa-pero-debe-dejar-huellas-de-como-hacer-y-unirse-para-siempre-apelar-a-la-rebeldia-de-la-generacion-del-centenario/",
@@ -256,20 +284,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/energia-del-sol-fortalece-la-salud-hospital-faustino-perez-inicia-instalacion-de-sistema-fotovoltaico/",
         "published_date": "2026-07-17 15:11:13",
-        "category": "Energy"
-    },
-    {
-        "title": "After a brief flash of light, the power went out again and the cacerolazo of indignation arrived",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/generacion-y/breve-alumbron-volvio-luz-llego_132_1128921.html",
-        "published_date": "2026-07-17 15:08:36",
-        "category": "Energy"
-    },
-    {
-        "title": "Uni\u00f3n El\u00e9ctrica foresees a deficit of 2,290 MW during peak hours this Friday",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/union-electrica-preve-deficit-de-2-290-mw-durante-el-horario-pico-de-este-viernes/",
-        "published_date": "2026-07-17 15:05:51",
         "category": "Energy"
     },
     {
@@ -399,150 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Prices of Liquefied Gas, Manufactured Gas and Mechanical Services Rates Updated",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32956-actualizan-precios-del-gas-licuado-gas-manufacturado-y-tarifas-de-servicios-mecanicos",
-        "published_date": "2026-07-16 17:41:15",
-        "category": "Economy"
-    },
-    {
-        "title": "Get to know our weekly PDF edition of July 24",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-24-de-julio/",
-        "published_date": "2026-07-24 12:04:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be more human",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260724/ser-mas-humanos/",
-        "published_date": "2026-07-24 12:01:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Santiago it is always 26",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260724/en-santiago-siempre-es-26/",
-        "published_date": "2026-07-24 11:46:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Customs reports new seizure at the Jos\u00e9 Mart\u00ed Airport in Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/aduana-de-cuba-informa-de-nuevo-decomiso-en-el-aeropuerto-jose-marti-de-la-habana/",
-        "published_date": "2026-07-24 11:10:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, July 24, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-24-julio_132_1129123.html",
-        "published_date": "2026-07-24 11:08:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, July 24, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-24-julio_7_1129125.html",
-        "published_date": "2026-07-24 11:05:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Price of the dollar in Cuba today: this is how the informal market dawns",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/precio-del-dolar-en-cuba-hoy-asi-amanece-el-mercado-informal/",
-        "published_date": "2026-07-24 10:37:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gaesa puts its hand in the millions allocated to climate change",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gaesa-mete-mano-millones-destinados_1_1129121.html",
-        "published_date": "2026-07-24 10:34:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without electricity there is no chicken",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/electricidad-hay-pollo_1_1129119.html",
-        "published_date": "2026-07-24 08:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake shakes Santiago de Cuba: and there are already nine in 2026",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/sismo-sacude-santiago-de-cuba-y-ya-suman-nueve-en-2026/",
-        "published_date": "2026-07-24 08:47:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Cup fever rekindles passion for soccer in Matanzas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/fiebre-mundialista-reaviva-pasion-futbol_1_1129092.html",
-        "published_date": "2026-07-24 08:40:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump threatens to use Iranian funds to pay for damage to ships and cargo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-amenaza-fondos-iranies-pagar_1_1129112.html",
-        "published_date": "2026-07-24 08:08:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump maintains his global tariff war with a tax of between 10% and 12.5% \u200b\u200bon 80 countries",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-mantiene-guerra-arancelaria-global_1_1129111.html",
-        "published_date": "2026-07-24 07:49:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 700 health professionals graduate in Pinar del R\u00edo",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260723/egresan-mas-700-profesionales-de-la-salud-en-pinar-del-rio/",
-        "published_date": "2026-07-23 23:52:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "rope war",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260723/guerra-de-cuerdas/",
-        "published_date": "2026-07-23 23:45:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "New price increases are coming in the United States",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/vienen-nuevos-aumentos-de-precio-en-estados-unidos/",
-        "published_date": "2026-07-23 23:08:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Orwell and the Lesson Elites Still Don't Want to Understand",
+        "title": "La Guarida Restaurant, Havana, Cuba \u2013 Photo of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/orwell-and-the-lesson-elites-still-dont-want-to-understand/",
-        "published_date": "2026-07-23 22:25:56",
+        "url": "https://havanatimes.org/todays-song/la-guarida-restaurant-havana-cuba-photo-of-the-day/",
+        "published_date": "2026-07-24 22:50:10",
         "category": "Local Events"
     },
     {
-        "title": "On the Island a Moncada delivery",
+        "title": "Cashing In on Fuel Sales in Havana, Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/cashing-in-on-fuel-sales-in-havana-cuba/",
+        "published_date": "2026-07-24 22:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tyranny Without Masks in Nicaragua",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/tyranny-without-masks-in-nicaragua/",
+        "published_date": "2026-07-24 22:19:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cCockroach Democracy\u201d: India\u2019s Youth-Led Protest Movement",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/interviews/cockroach-democracy-indias-youth-led-protest-movement/",
+        "published_date": "2026-07-24 21:47:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "More solutions",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260723/en-la-isla-un-moncada-de-entrega/",
-        "published_date": "2026-07-23 22:16:35",
+        "url": "https://www.trabajadores.cu/20260724/mas-soluciones/",
+        "published_date": "2026-07-24 21:18:27",
         "category": "Local Events"
     },
     {
-        "title": "Cuban President highlights the leadership of the Havana Scientific and Technological Park",
+        "title": "Lawyers warn migrants: more than 800 ICE detentions at US airports set off alarms",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/abogados-advierten-a-migrantes-mas-de-800-detenciones-de-ice-en-aeropuertos-de-estados-unidos-encienden-las-alarmas/",
+        "published_date": "2026-07-24 21:12:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Specialists in Miami present a plan to rebuild Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/migracion/especialistas-miami-presentan-plan-reconstruir_1_1129154.html",
+        "published_date": "2026-07-24 19:51:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"The fight for freedom in Cuba has to be reconsidered in the face of new challenges\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/entrevista/lucha-libertad-cuba-replantearse-nuevos_1_1129152.html",
+        "published_date": "2026-07-24 19:46:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moncada lives in Cienfuegos",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/destaca-presidente-cubano-el-liderazgo-del-parque-cientifico-tecnologico-de-la-habana/",
-        "published_date": "2026-07-23 21:43:35",
+        "url": "https://www.5septiembre.cu/el-moncada-vive-en-cienfuegos/",
+        "published_date": "2026-07-24 19:42:27",
         "category": "Local Events"
     },
     {
-        "title": "The 73 commemorations of July 26, on Fidel's Centennial",
+        "title": "Finca La Vig\u00eda: more than the smell of coal and Pinar del R\u00edo tobacco",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/finca-la-vigia-mas-que-el-olor-a-carbon-y-a-tabaco-pinareno/",
+        "published_date": "2026-07-24 19:31:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mercabal retail point of sale opened in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32995-abierto-punto-de-venta-minorista-mercabal-en-camaguey",
+        "published_date": "2026-07-24 19:21:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drive responsibly and follow the law",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32994-conducir-con-responsabilidad-y-apego-a-la-ley",
+        "published_date": "2026-07-24 19:21:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The toy that mother is afraid of",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/32992-el-juguete-que-le-teme-a-la-madre",
+        "published_date": "2026-07-24 19:06:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "CTE of Nuevitas: List of unit six to return to the SEN today",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32993-cte-de-nuevitas-lista-unidad-seis-de-para-volver-hoy-al-sen",
+        "published_date": "2026-07-24 18:54:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Workers at a concert hall in Santiago de Cuba have been without pay for more than two months",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/trabajadores-sala-conciertos-santiago-cuba_1_1129149.html",
+        "published_date": "2026-07-24 18:46:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holgu\u00edn commemorated the Moncada feat",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260723/las-73-conmemoraciones-del-26-de-julio-en-el-centenario-de-fidel/",
-        "published_date": "2026-07-23 21:39:14",
+        "url": "https://www.trabajadores.cu/20260724/holguin-conmemoro-la-gesta-del-moncada/",
+        "published_date": "2026-07-24 18:46:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first Cuban escape in the Central American Games in Santo Domingo occurs before the inauguration",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/primera-fuga-cubana-centroamericanos-santo_1_1129146.html",
+        "published_date": "2026-07-24 18:28:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Day at the Gibara Low-Budget Film Festival",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/lien-estrada/a-day-at-the-gibara-low-budget-film-festival/",
+        "published_date": "2026-07-24 17:17:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jos\u00e9 Luis Barba in concert in Miami",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/jose-luis-barba-concierto-miami_1_1129144.html",
+        "published_date": "2026-07-24 16:45:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "City of Sancti Sp\u00edritus without electrical service due to severe local storm",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ciudad-de-sancti-spiritus-sin-servicio-electrico-por-tormenta-local-severa/",
+        "published_date": "2026-07-24 16:40:41",
         "category": "Local Events"
     }
 ]
