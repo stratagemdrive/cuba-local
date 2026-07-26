@@ -91,18 +91,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba denounces US media campaign to justify a \u201cmilitary adventure\u201d against the island",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-denuncia-campana-mediatica-de-ee-uu-para-justificar-una-aventura-militar-contra-la-isla/",
-        "published_date": "2026-07-17 15:21:40",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Get to know our weekly PDF edition of July 17",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-17-de-julio/",
-        "published_date": "2026-07-17 13:22:09",
-        "category": "Diplomacy"
+        "title": "Is Washington preparing public opinion for military action against Castroism?",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/washington-preparando-opinion-publica-accion_132_1129178.html",
+        "published_date": "2026-07-25 17:35:38",
+        "category": "Military"
     },
     {
         "title": "\"Stupid and biased\": congressman rejects Rubio's report against Cuba",
@@ -147,11 +140,11 @@
         "category": "Military"
     },
     {
-        "title": "An open letter from Ferm\u00edn Vald\u00e9s Dom\u00ednguez to the Spanish Tesifonte Gallego Garc\u00eda",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260717/una-carta-abierta-de-fermin-valdes-dominguez-al-espanol-tesifonte-gallego-garcia/",
-        "published_date": "2026-07-17 14:53:06",
-        "category": "Military"
+        "title": "Summer comes to life in Rhodes: paintbrushes, paper mache and children's stories",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-verano-cobra-vida-en-rodas-pinceles-papel-mache-y-cuentos-infantiles/",
+        "published_date": "2026-07-25 18:49:11",
+        "category": "Energy"
     },
     {
         "title": "Holgu\u00edn also moves to the rhythm of private gasoline",
@@ -280,20 +273,6 @@
         "category": "Energy"
     },
     {
-        "title": "Mexico dismantles largest fuel smuggling network from the US",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/mexico-desarticula-mayor-red-de-contrabando-de-combustible-desde-eeuu/",
-        "published_date": "2026-07-17 15:35:45",
-        "category": "Energy"
-    },
-    {
-        "title": "Energy from the sun strengthens health: Faustino P\u00e9rez Hospital begins installation of a photovoltaic system",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/energia-del-sol-fortalece-la-salud-hospital-faustino-perez-inicia-instalacion-de-sistema-fotovoltaico/",
-        "published_date": "2026-07-17 15:11:13",
-        "category": "Energy"
-    },
-    {
         "title": "Price of the dollar and the euro in Cuba today: both currencies rise in the informal market",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/precio-del-dolar-y-el-euro-en-cuba-hoy-ambas-divisas-suben-en-el-mercado-informal/",
@@ -399,171 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "Central Bank announces measures to alleviate cash crisis",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260717/anuncia-banco-central-medidas-para-aliviar-crisis-de-efectivo/",
-        "published_date": "2026-07-17 20:20:39",
-        "category": "Economy"
+        "title": "Cienfuegos renews its gastronomy in greeting to July 26",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cienfuegos-renueva-su-gastronomia-en-saludo-al-26-de-julio/",
+        "published_date": "2026-07-25 22:11:34",
+        "category": "Local Events"
     },
     {
-        "title": "Cuban banks implement \u201cnew facilities\u201d to withdraw cash",
+        "title": "To Make Matters Worse in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-feature/to-make-matters-worse-in-cuba/",
+        "published_date": "2026-07-25 21:56:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "In honor of the Rebellion",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/en-honor-a-la-rebeldia/",
+        "published_date": "2026-07-25 21:17:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "New setback for Cuba: global operator abandons the port of Mariel",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/bancos-cubanos-implementan-nuevas-facilidades-para-extraer-dinero-en-efectivo/",
-        "published_date": "2026-07-17 19:07:22",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/actualidad/nuevo-reves-para-cuba-operador-mundial-abandona-el-puerto-de-mariel/",
+        "published_date": "2026-07-25 21:12:45",
+        "category": "Local Events"
     },
     {
-        "title": "They eliminate the maximum of 5,000 pesos in cash in banks for a \u201cmore flexible scheme\u201d",
+        "title": "Hand in hand with Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260725/de-la-mano-con-cuba/",
+        "published_date": "2026-07-25 20:24:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Social Security announces changes to this program: these are the improvements for millions of beneficiaries",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/el-seguro-social-anuncia-cambios-en-este-programa-estas-son-las-mejoras-para-millones-de-beneficiarios/",
+        "published_date": "2026-07-25 20:09:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel visited centers of economic and social interest in Pinar del R\u00edo",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260725/recorrio-diaz-canel-centros-de-interes-economico-y-social-en-pinar-del-rio/",
+        "published_date": "2026-07-25 19:38:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami will eliminate free lunch in public schools: these families will pay again",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/miami-eliminara-el-almuerzo-gratuito-en-las-escuelas-publicas-estas-familias-volveran-a-pagar/",
+        "published_date": "2026-07-25 19:04:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in Madrid and \u00c1vila, Spain, destroys more than 25,000 hectares",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/incendio-en-madrid-y-avila-espana-arrasa-mas-de-25-000-hectareas/",
+        "published_date": "2026-07-25 18:19:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Are you going to process temporary residence in Mexico?These are the new INM costs",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/vas-a-tramitar-la-residencia-temporal-en-mexico-estos-son-los-nuevos-costos-del-inm/",
+        "published_date": "2026-07-25 18:03:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Traveler decorates his premises",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260725/viajero-engalana-sus-locales/",
+        "published_date": "2026-07-25 18:00:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Open call for Community Manager and Graphic Designer",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260725/convocatoria-abierta-para-community-manager-y-disenador-grafico/",
+        "published_date": "2026-07-25 17:47:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban cyclist Marlies Mej\u00edas wins gold in the Santo Domingo time trial",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/eliminan-maximo-5-000-pesos_1_1128926.html",
-        "published_date": "2026-07-17 16:56:23",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/cuba/ciclista-cubana-marlies-mejias-gana_1_1129179.html",
+        "published_date": "2026-07-25 17:38:59",
+        "category": "Local Events"
     },
     {
-        "title": "End of the limit of $5000 pesos in Cuban banks",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/fin-limite-5000-pesos-pagos-efectivo-cuba/",
-        "published_date": "2026-07-17 16:38:36",
-        "category": "Economy"
-    },
-    {
-        "title": "Guterres arrives in Syria on first visit by UN chief since 2009",
+        "title": "Pinar del R\u00edo: D\u00edaz-Canel attends solidarity meeting with Cuba",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/guterres-llega-a-siria-en-primera-visita-de-jefe-de-la-onu-desde-2009/",
-        "published_date": "2026-07-25 11:39:32",
+        "url": "https://www.5septiembre.cu/pinar-del-rio-asiste-diaz-canel-a-encuentro-de-solidaridad-con-cuba/",
+        "published_date": "2026-07-25 17:24:03",
         "category": "Local Events"
     },
     {
-        "title": "IT WAS THE MORNING OF SANTA ANA",
+        "title": "Marlies, Cuba's first gold in JCAC Santo Domingo 2026",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260725/era-la-manana-de-la-santa-ana/",
-        "published_date": "2026-07-25 04:02:11",
+        "url": "https://www.trabajadores.cu/20260725/marlies-primer-oro-de-cuba-en-jcac-santo-domingo-2026/",
+        "published_date": "2026-07-25 17:17:48",
         "category": "Local Events"
     },
     {
-        "title": "The digital transformation bill",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-factura-de-la-transformacion-digital/",
-        "published_date": "2026-07-25 04:00:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The eyes of F\u00e9lix S\u00e1nchez at the inauguration of drones",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260724/los-ojos-de-felix-sanchez-en-inauguracion-de-drones/",
-        "published_date": "2026-07-25 03:51:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "University graduations continue in Matanzas",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260724/graduaciones-universitarias-continuan-en-matanzas/",
-        "published_date": "2026-07-25 01:28:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dominican Republic sends eggs to Cuba again: almost 4 million arrive in the first shipment",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/republica-dominicana-reanuda-exportaciones-huevos-cuba/",
-        "published_date": "2026-07-24 23:33:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Guarida Restaurant, Havana, Cuba \u2013 Photo of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/la-guarida-restaurant-havana-cuba-photo-of-the-day/",
-        "published_date": "2026-07-24 22:50:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a large shark in Varadero and the images cause an impact",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/nacional/capturan-un-tiburon-de-gran-tamano-en-varadero-y-las-imagenes-causan-impacto/",
-        "published_date": "2026-07-24 22:34:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cashing In on Fuel Sales in Havana, Cuba",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/cashing-in-on-fuel-sales-in-havana-cuba/",
-        "published_date": "2026-07-24 22:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tyranny Without Masks in Nicaragua",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/tyranny-without-masks-in-nicaragua/",
-        "published_date": "2026-07-24 22:19:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cCockroach Democracy\u201d: India\u2019s Youth-Led Protest Movement",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/cockroach-democracy-indias-youth-led-protest-movement/",
-        "published_date": "2026-07-24 21:47:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "More solutions",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260724/mas-soluciones/",
-        "published_date": "2026-07-24 21:18:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lawyers warn migrants: more than 800 ICE detentions at US airports set off alarms",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/abogados-advierten-a-migrantes-mas-de-800-detenciones-de-ice-en-aeropuertos-de-estados-unidos-encienden-las-alarmas/",
-        "published_date": "2026-07-24 21:12:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Specialists in Miami present a plan to rebuild Cuba",
+        "title": "Bolsonaro's party proclaims his son Fl\u00e1vio as presidential candidate",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/migracion/especialistas-miami-presentan-plan-reconstruir_1_1129154.html",
-        "published_date": "2026-07-24 19:51:24",
+        "url": "https://www.14ymedio.com/internacional/partido-bolsonaro-proclama-hijo-flavio_1_1129176.html",
+        "published_date": "2026-07-25 17:15:57",
         "category": "Local Events"
     },
     {
-        "title": "\"The fight for freedom in Cuba has to be reconsidered in the face of new challenges\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/entrevista/lucha-libertad-cuba-replantearse-nuevos_1_1129152.html",
-        "published_date": "2026-07-24 19:46:37",
+        "title": "ETECSA launches new international recharge: multiplies the balance by six and offers unlimited data for 30 days",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/etecsa-lanza-nueva-recarga-internacional-multiplica-por-seis-el-saldo-y-ofrece-datos-ilimitados-por-30-dias/",
+        "published_date": "2026-07-25 17:09:08",
         "category": "Local Events"
     },
     {
-        "title": "A photo, judo and emotion",
+        "title": "Volunteer hands in Mariel Bay greet the 26th",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260724/una-foto-el-judo-y-la-emocion/",
-        "published_date": "2026-07-24 19:42:55",
+        "url": "https://www.trabajadores.cu/20260725/manos-voluntarias-en-la-bahia-de-mariel-saludan-el-26/",
+        "published_date": "2026-07-25 16:19:38",
         "category": "Local Events"
     },
     {
-        "title": "Moncada lives in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-moncada-vive-en-cienfuegos/",
-        "published_date": "2026-07-24 19:42:27",
+        "title": "Street closures in Miami this weekend: complicated traffic in the heart of downtown",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/cierres-de-calles-en-miami-este-fin-de-semana-trafico-complicado-en-pleno-downtown/",
+        "published_date": "2026-07-25 16:07:50",
         "category": "Local Events"
     },
     {
-        "title": "Finca La Vig\u00eda: more than the smell of coal and Pinar del R\u00edo tobacco",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/finca-la-vigia-mas-que-el-olor-a-carbon-y-a-tabaco-pinareno/",
-        "published_date": "2026-07-24 19:31:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mercabal retail point of sale opened in Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/32995-abierto-punto-de-venta-minorista-mercabal-en-camaguey",
-        "published_date": "2026-07-24 19:21:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drive responsibly and follow the law",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32994-conducir-con-responsabilidad-y-apego-a-la-ley",
-        "published_date": "2026-07-24 19:21:23",
+        "title": "One Hospital, Two Countries, and the Same Profession",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/dany-cesario/one-hospital-two-countries-and-the-same-profession/",
+        "published_date": "2026-07-25 16:06:49",
         "category": "Local Events"
     }
 ]
