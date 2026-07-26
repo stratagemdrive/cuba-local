@@ -1,5 +1,19 @@
 [
     {
+        "title": "The US attacks the noble Cuban medical service, denounces France Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/eeuu-ataca-el-noble-servicio-medico-cubano-denuncia-france-cuba/",
+        "published_date": "2026-07-26 11:42:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Pinar del R\u00edo, headquarters of July 26: \u201cIn the face of the blockade, we will respond with more work and more unity\u201d",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260726/pinar-del-rio-sede-del-26-de-julio-frente-al-bloqueo-responderemos-con-mas-trabajo-y-mas-unidad/",
+        "published_date": "2026-07-26 10:46:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Nicaragua withdraws its ambassador in Colombia after the announcement of the closure of the diplomatic headquarters",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/nicaragua-retira-embajador-colombia-anuncio_1_1129157.html",
@@ -91,6 +105,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "From Santiago, an assault of love on the history of the country and the present",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/desde-santiago-un-asalto-de-amor-a-la-historia-patria-y-al-presente/",
+        "published_date": "2026-07-26 11:52:05",
+        "category": "Military"
+    },
+    {
         "title": "Is Washington preparing public opinion for military action against Castroism?",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/washington-preparando-opinion-publica-accion_132_1129178.html",
@@ -138,6 +159,13 @@
         "url": "https://www.14ymedio.com/cuba/97-reclutas-han-muerto-durante_1_1129018.html",
         "published_date": "2026-07-20 13:53:01",
         "category": "Military"
+    },
+    {
+        "title": "Havana with light two days in a row, according to reports",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/la-habana-con-luz-dos-dias-seguidos-segun-reportes/",
+        "published_date": "2026-07-26 10:01:50",
+        "category": "Energy"
     },
     {
         "title": "Summer comes to life in Rhodes: paintbrushes, paper mache and children's stories",
@@ -266,13 +294,6 @@
         "category": "Energy"
     },
     {
-        "title": "8 people killed in Ukrainian drone attacks on e-commerce warehouses in Russia",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/mueren-8-personas-ataques-drones_1_1128950.html",
-        "published_date": "2026-07-18 11:19:59",
-        "category": "Energy"
-    },
-    {
         "title": "Price of the dollar and the euro in Cuba today: both currencies rise in the informal market",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/precio-del-dolar-y-el-euro-en-cuba-hoy-ambas-divisas-suben-en-el-mercado-informal/",
@@ -378,6 +399,76 @@
         "category": "Economy"
     },
     {
+        "title": "Farmatodo Inaugurated in Ciego de \u00c1vila",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260726/farmatodo-inaugurated-in-ciego-de-avila/",
+        "published_date": "2026-07-26 12:04:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fortieth anniversary of Cubavision International: another battle for Fidel",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuarenta-aniversario-de-cubavision-internacional-otra-batalla-de-fidel/",
+        "published_date": "2026-07-26 11:33:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Images of the event for July 26 in Pinar del R\u00edo (Photoreport)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260726/imagenes-del-acto-por-el-26-de-julio-en-pinar-del-rio-fotorreportaje/",
+        "published_date": "2026-07-26 11:16:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana and Tehran, a dangerous couple",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/habana-teheran-pareja-peligrosa_132_1129183.html",
+        "published_date": "2026-07-26 10:44:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cVoices of the people\u201d: History becomes art in Pinar del R\u00edo",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260726/voces-del-pueblo-la-historia-se-hace-arte-en-pinar-del-rio/",
+        "published_date": "2026-07-26 09:40:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moncada: Fidel's bravery that ignited the Homeland",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/moncada-la-valentia-de-fidel-que-encendio-la-patria/",
+        "published_date": "2026-07-26 06:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peace is justice, popular unity and struggle",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/paz-es-justicia-unidad-popular-y-lucha/",
+        "published_date": "2026-07-26 04:00:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "The gold of a bronze",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-oro-de-un-bronce/",
+        "published_date": "2026-07-26 01:40:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel in Pinar del R\u00edo: visit sites of economic and social interest",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-en-pinar-del-rio-visita-sitios-de-interes-economico-y-social/",
+        "published_date": "2026-07-26 01:06:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Farmatodo opens in Ciego de \u00c1vila",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260725/inauguran-farmatodo-en-ciego-de-avila/",
+        "published_date": "2026-07-26 00:36:33",
+        "category": "Local Events"
+    },
+    {
         "title": "Cienfuegos renews its gastronomy in greeting to July 26",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cienfuegos-renueva-su-gastronomia-en-saludo-al-26-de-julio/",
@@ -385,10 +476,24 @@
         "category": "Local Events"
     },
     {
+        "title": "They sell electric bicycles in Cuba from 439 dollars: payments from abroad",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/venden-bicicletas-electricas-en-cuba-desde-439-dolares-pagos-desde-el-exterior/",
+        "published_date": "2026-07-25 22:11:00",
+        "category": "Local Events"
+    },
+    {
         "title": "To Make Matters Worse in Cuba",
         "source": "Havana Times",
         "url": "https://havanatimes.org/photo-feature/to-make-matters-worse-in-cuba/",
         "published_date": "2026-07-25 21:56:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three golden ippones of Cuban judo to start",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260725/tres-ippones-dorados-del-judo-cubano-para-empezar/",
+        "published_date": "2026-07-25 21:51:43",
         "category": "Local Events"
     },
     {
@@ -431,90 +536,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/miami-eliminara-el-almuerzo-gratuito-en-las-escuelas-publicas-estas-familias-volveran-a-pagar/",
         "published_date": "2026-07-25 19:04:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fire in Madrid and \u00c1vila, Spain, destroys more than 25,000 hectares",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/incendio-en-madrid-y-avila-espana-arrasa-mas-de-25-000-hectareas/",
-        "published_date": "2026-07-25 18:19:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Are you going to process temporary residence in Mexico?These are the new INM costs",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/vas-a-tramitar-la-residencia-temporal-en-mexico-estos-son-los-nuevos-costos-del-inm/",
-        "published_date": "2026-07-25 18:03:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traveler decorates his premises",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260725/viajero-engalana-sus-locales/",
-        "published_date": "2026-07-25 18:00:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Open call for Community Manager and Graphic Designer",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260725/convocatoria-abierta-para-community-manager-y-disenador-grafico/",
-        "published_date": "2026-07-25 17:47:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban cyclist Marlies Mej\u00edas wins gold in the Santo Domingo time trial",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ciclista-cubana-marlies-mejias-gana_1_1129179.html",
-        "published_date": "2026-07-25 17:38:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pinar del R\u00edo: D\u00edaz-Canel attends solidarity meeting with Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pinar-del-rio-asiste-diaz-canel-a-encuentro-de-solidaridad-con-cuba/",
-        "published_date": "2026-07-25 17:24:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marlies, Cuba's first gold in JCAC Santo Domingo 2026",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260725/marlies-primer-oro-de-cuba-en-jcac-santo-domingo-2026/",
-        "published_date": "2026-07-25 17:17:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bolsonaro's party proclaims his son Fl\u00e1vio as presidential candidate",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/partido-bolsonaro-proclama-hijo-flavio_1_1129176.html",
-        "published_date": "2026-07-25 17:15:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "ETECSA launches new international recharge: multiplies the balance by six and offers unlimited data for 30 days",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/etecsa-lanza-nueva-recarga-internacional-multiplica-por-seis-el-saldo-y-ofrece-datos-ilimitados-por-30-dias/",
-        "published_date": "2026-07-25 17:09:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Volunteer hands in Mariel Bay greet the 26th",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260725/manos-voluntarias-en-la-bahia-de-mariel-saludan-el-26/",
-        "published_date": "2026-07-25 16:19:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Street closures in Miami this weekend: complicated traffic in the heart of downtown",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/cierres-de-calles-en-miami-este-fin-de-semana-trafico-complicado-en-pleno-downtown/",
-        "published_date": "2026-07-25 16:07:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "One Hospital, Two Countries, and the Same Profession",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/dany-cesario/one-hospital-two-countries-and-the-same-profession/",
-        "published_date": "2026-07-25 16:06:49",
         "category": "Local Events"
     }
 ]
