@@ -1,5 +1,12 @@
 [
     {
+        "title": "Brazil calls Ambassador to Argentina after statements by Milei",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/brasil-llama-a-embajador-en-argentina-tras-declaraciones-de-milei/",
+        "published_date": "2026-07-27 14:12:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombia confirms the closure of its embassy in Cuba and will break relations with Havana",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/colombia-confirma-el-cierre-de-su-embajada-en-cuba-y-rompera-relaciones-con-la-habana/",
@@ -131,6 +138,20 @@
         "url": "https://www.5septiembre.cu/congresista-estadounidense-mark-pocan-denuncia-el-impacto-del-bloqueo-en-cuba/",
         "published_date": "2026-07-20 11:18:17",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban brigade of rescuers returned after mission in Venezuela",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/regreso-brigada-cubana-de-rescatistas-tras-mision-en-venezuela/",
+        "published_date": "2026-07-27 16:20:16",
+        "category": "Military"
+    },
+    {
+        "title": "They capture in Chile a person convicted of the murder of V\u00edctor Jara",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/capturan-en-chile-a-condenado-por-asesinato-de-victor-jara/",
+        "published_date": "2026-07-27 15:36:39",
+        "category": "Military"
     },
     {
         "title": "From Santiago, an assault of love on the history of the country and the present",
@@ -287,25 +308,11 @@
         "category": "Energy"
     },
     {
-        "title": "Axess Marketing Company: Against all odds",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260719/empresa-comercializadora-axess-contra-viento-y-marea/",
-        "published_date": "2026-07-19 19:22:14",
-        "category": "Energy"
-    },
-    {
-        "title": "Lawton residents take to the streets for the second consecutive night shouting \"We want light!\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/vecinos-lawton-lanzan-calle-segunda_1_1128994.html",
-        "published_date": "2026-07-19 19:20:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Uni\u00f3n El\u00e9ctrica estimates the impact of 2,062 MW during the nighttime peak hours this Sunday",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/union-electrica-estima-afectacion-de-2-062-mw-en-el-horario-pico-nocturno-de-este-domingo/",
-        "published_date": "2026-07-19 14:32:05",
-        "category": "Energy"
+        "title": "Retirees in Cuba already collect their pension outside the bank: this is how the new system works",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/jubilados-en-cuba-ya-cobran-su-pension-fuera-del-banco-asi-funciona-el-nuevo-sistema/",
+        "published_date": "2026-07-27 21:09:54",
+        "category": "Economy"
     },
     {
         "title": "Banco Metropolitano announces the branches that will open this July 27 in Havana",
@@ -392,150 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Business system: Go up the hill (Separata Econom\u00eda)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260719/sistema-empresarial-subir-la-cuesta-separata-economia/",
-        "published_date": "2026-07-19 22:55:59",
-        "category": "Economy"
-    },
-    {
-        "title": "The spirit that unites us",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260727/el-espiritu-que-nos-une/",
-        "published_date": "2026-07-27 13:37:59",
+        "title": "Flights from Miami to Cuba in August: what you need to know about prices and dates",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/vuelos-de-miami-a-cuba-en-agosto-lo-que-tienes-que-saber-sobre-los-precios-y-las-fechas/",
+        "published_date": "2026-07-27 23:06:06",
         "category": "Local Events"
     },
     {
-        "title": "Today's Cubans are also winners of impossible things.",
+        "title": "Landmark \u201cUhuru 3\u201d First Amendment case in Federal Court",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260727/caso-historico-de-la-primera-enmienda-sobre-los-uhuru-3-en-el-tribunal-federal/",
+        "published_date": "2026-07-27 22:33:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Starting today: ETECSA launches recharge that six-folds the balance and gives away unlimited data",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/desde-hoy-etecsa-lanza-recarga-que-sextuplica-el-saldo-y-regala-datos-ilimitados/",
+        "published_date": "2026-07-27 22:00:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThere has never been so much lying in Public Health like now, everything is inflated, nothing is true\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ahora-mentido-salud-publica-inflado_1_1129240.html",
+        "published_date": "2026-07-27 21:28:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "They were evicted in Havana two weeks ago and they are sleeping on the street",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/desalojaron-habana-semanas-durmiendo-calle_1_1129237.html",
+        "published_date": "2026-07-27 21:11:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cruces, another rebellious town",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/los-cubanos-de-hoy-somos-tambien-vencedores-de-imposibles/",
-        "published_date": "2026-07-27 13:24:54",
+        "url": "https://www.5septiembre.cu/cruces-otro-pueblo-rebelde/",
+        "published_date": "2026-07-27 21:08:20",
         "category": "Local Events"
     },
     {
-        "title": "In Havana, up to 60 transformers break per day: the electricity crisis triggers breakdowns",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/en-la-habana-se-rompen-hasta-60-transformadores-al-dia-la-crisis-electrica-dispara-las-averias/",
-        "published_date": "2026-07-27 13:01:01",
+        "title": "Luis Manuel Otero: \u201cThe Fight for Cuba\u2019s Freedom Must be Creative\u201d",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/interviews/luis-manuel-otero-the-fight-for-cubas-freedom-must-be-creative/",
+        "published_date": "2026-07-27 20:51:52",
         "category": "Local Events"
     },
     {
-        "title": "Blackouts in Cuba will exceed 2,100 MW this July 27",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/apagones-en-cuba-superaran-los-2-100-mw-este-27-de-julio/",
-        "published_date": "2026-07-27 12:35:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Madrid-Havana flights in August: the cheapest dates and how to save more than 1,000 euros",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/vuelos-madrid-la-habana-en-agosto-las-fechas-mas-baratas-y-como-ahorrar-mas-de-1-000-euros/",
-        "published_date": "2026-07-27 12:01:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Cuba's solution is going to be real estate, because it can attract a lot of investment\"",
+        "title": "\"Listen to me, Trump\": with a song dedicated to the president, a Cuban couple asks not to be deported",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/solucion-cuba-inmobiliario-atraer-inversion_1_1129219.html",
-        "published_date": "2026-07-27 11:35:39",
+        "url": "https://www.14ymedio.com/cuba/oyeme-trump-cancion-dedicada-presidente_1_1129235.html",
+        "published_date": "2026-07-27 20:48:20",
         "category": "Local Events"
     },
     {
-        "title": "The ecosystems of most of the world's islands will be under threat by 2050",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/ecosistemas-mayoria-islas-mundo-estaran_1_1129220.html",
-        "published_date": "2026-07-27 11:18:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, July 27, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-27-julio_132_1129216.html",
-        "published_date": "2026-07-27 10:59:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Monday, July 27, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-lunes-27-julio_7_1129218.html",
-        "published_date": "2026-07-27 10:56:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Machado and Gonz\u00e1lez hope that the dialogue between Chavismo and an opposition group will achieve elections",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/machado-gonzalez-esperan-dialogo-chavismo_1_1129215.html",
-        "published_date": "2026-07-27 10:38:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "May every dawn find us fighting!",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32996-que-cada-amanecer-nos-encuentre-en-pie-de-lucha",
-        "published_date": "2026-07-27 09:39:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The disenchantment of curatorial laziness: visual sample Once again",
+        "title": "Trump suspends bombings against Iran due to exhaustion of targets",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-desencanto-de-la-pereza-curatorial-muestra-visual-una-vez-mas/",
-        "published_date": "2026-07-27 04:00:32",
+        "url": "https://www.5septiembre.cu/trump-suspende-bombardeos-contra-iran-por-agotamiento-de-objetivos/",
+        "published_date": "2026-07-27 20:42:51",
         "category": "Local Events"
     },
     {
-        "title": "XXV Central American and Caribbean Games: The spirit that unites us (Special Supplement)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260726/xxv-juegos-centroamericanos-y-del-caribe-el-espiritu-que-nos-une-suplemento-especial/",
-        "published_date": "2026-07-27 00:02:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yonarqui Martinez Survives Cancer and Ortega's Repression",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/yonarqui-martinez-survives-cancer-and-ortegas-repression/",
-        "published_date": "2026-07-26 23:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba: Diaz-Canel Appeals to the World for Help",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/cuba-diaz-canel-appeals-to-the-world-for-help/",
-        "published_date": "2026-07-26 23:49:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Space Needle, Seattle, USA \u2013 Photo of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/the-space-needle-seattle-usa-photo-of-the-day/",
-        "published_date": "2026-07-26 22:54:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manuel, with all the senses",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260726/manuel-con-todos-los-sentidos/",
-        "published_date": "2026-07-26 21:25:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel: \u201cCuba is fighting a historic battle today, a new Moncada\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260726/diaz-canel-cuba-libra-hoy-una-batalla-historica-un-nuevo-moncada/",
-        "published_date": "2026-07-26 21:20:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Corrupted Officials Won\u2019t Restore Venezuela\u2019s Institutions",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/corrupted-officials-wont-restore-venezuelas-institutions/",
-        "published_date": "2026-07-26 19:38:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Measles in Florida: the increase continues and it is already the fifth state with the most cases in the United States",
+        "title": "Remittances to Cuba take up to a month: clients report delays and lack of responses",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/sarampion-en-florida-sigue-el-aumento-y-ya-es-el-quinto-estado-con-mas-casos-de-estados-unidos/",
-        "published_date": "2026-07-26 19:26:51",
+        "url": "https://www.directoriocubano.info/panorama/remesas-a-cuba-tardan-hasta-un-mes-clientes-denuncian-demoras-y-falta-de-respuestas/",
+        "published_date": "2026-07-27 20:01:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another young pitcher leaves Cuba in search of playing in the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/joven-lanzador-deja-cuba-busca_1_1129233.html",
+        "published_date": "2026-07-27 19:17:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "More and more Cubans choose Galicia: emigration to Ourense grows and sets a new record",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/cada-vez-mas-cubanos-eligen-galicia-emigracion-hacia-ourense-crece-y-marca-un-nuevo-record/",
+        "published_date": "2026-07-27 19:04:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Mexican mayor denounces the release of Castro protesters who painted a historic building",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/alcaldesa-mexicana-denuncia-liberacion-manifestantes_1_1129230.html",
+        "published_date": "2026-07-27 18:28:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana Airport launches urgent call for works in Terminal 3",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/aeropuerto-de-la-habana-lanza-convocatoria-urgente-para-obras-en-la-terminal-3/",
+        "published_date": "2026-07-27 18:09:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Not even with inspectors present: Officials criticize the rejection of transfer payments in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/ni-con-inspectores-presentes-oficialismo-critica-rechazo-a-pagos-por-transferencia-en-cuba/",
+        "published_date": "2026-07-27 17:09:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cCockroach Protests\u201d in India led to a Minister\u2019s Resignation",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/cockroach-protests-in-india-led-to-a-ministers-resignation/",
+        "published_date": "2026-07-27 16:44:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana launches Chinese electric taxis with more than 300 kilometers of autonomy to transport hemodialysis patients",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/la-habana-estrena-taxis-electricos-chinos-con-mas-de-300-kilometros-de-autonomia-para-trasladar-pacientes-de-hemodialisis/",
+        "published_date": "2026-07-27 16:16:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Summary from July 20 to 26",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260727/resumen-del-20-al-26-de-julio/",
+        "published_date": "2026-07-27 16:08:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba: Kevin Frometa Freed After Serving Five-Year Sentence",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/cuba-kevin-frometa-freed-after-serving-five-year-sentence/",
+        "published_date": "2026-07-27 15:58:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba, in second place in the medal table in Santo Domingo thanks to judo and rowing",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cuba-segundo-lugar-medallero-santo_1_1129228.html",
+        "published_date": "2026-07-27 15:38:58",
         "category": "Local Events"
     }
 ]
