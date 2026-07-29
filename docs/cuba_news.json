@@ -1,9 +1,37 @@
 [
     {
+        "title": "Plenary of the Party in Cienfuegos analyzes new economic measures",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/analiza-pleno-del-partido-en-cienfuegos-nuevas-medidas-economicas/",
+        "published_date": "2026-07-28 23:43:12",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Havana attacks De la Espriella for breaking relations: \u201cHe subordinates himself to the United States\u201d",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/habana-arremete-espriella-romper-relaciones_1_1129260.html",
         "published_date": "2026-07-28 16:01:53",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "In an act of subordination to the US, the elected President of Colombia announces that he will cut ties with Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260728/en-acto-de-subordinacion-a-ee-uu-el-presidente-electo-de-colombia-anuncia-que-cortara-los-vinculos-con-cuba/",
+        "published_date": "2026-07-28 13:22:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "In an act of subordination to the US, the elected President of Colombia announces that he will cut ties with Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/en-acto-de-subordinacion-a-ee-uu-el-presidente-electo-de-colombia-anuncia-que-cortara-los-vinculos-con-cuba/",
+        "published_date": "2026-07-28 13:13:29",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban Foreign Ministry rejects announcement by Colombian president-elect",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33001-rechaza-cancilleria-cubana-anuncio-de-presidente-electo-de-colombia",
+        "published_date": "2026-07-28 10:17:49",
         "category": "Diplomacy"
     },
     {
@@ -112,32 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Strong rejection of new slanderous campaign by the State Department",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32984-energico-rechazo-a-nueva-campana-calumniosa-del-departamento-de-estado",
-        "published_date": "2026-07-22 12:06:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Nicaragua begins reforms after Ortega's order to eliminate electoral competition",
+        "title": "Fujimori begins his mandate in Peru focused on fighting crime and reducing inequalities",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/nicaragua-inicia-reformas-orden-ortega_1_1129071.html",
-        "published_date": "2026-07-22 08:52:19",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Medicuba S.A.denounces unjustified retention of medical supplies",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/32981-medicuba-s-a-denuncia-retencion-injustificada-de-insumos-medicos",
-        "published_date": "2026-07-21 20:29:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cienfuegos dresses up as \u201c26\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-se-viste-de-26/",
-        "published_date": "2026-07-21 04:16:37",
-        "category": "Diplomacy"
+        "url": "https://www.14ymedio.com/internacional/fujimori-inicia-mandato-peru-centrada_1_1129279.html",
+        "published_date": "2026-07-29 09:47:55",
+        "category": "Military"
     },
     {
         "title": "Yoenia and the story of a patio sown with goodness",
@@ -208,6 +215,13 @@
         "url": "https://www.adelante.cu/index.php/es/coberturas/48-26-de-julio-en-cuba/32977-revolucion",
         "published_date": "2026-07-21 16:47:56",
         "category": "Military"
+    },
+    {
+        "title": "There will be more sectors open to private sectors, such as pharmacy and energy, but the State remains the driving force",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/habra-sectores-abiertos-privados-farmacia_1_1129281.html",
+        "published_date": "2026-07-29 11:15:02",
+        "category": "Energy"
     },
     {
         "title": "Solineras: relief for the community",
@@ -308,6 +322,27 @@
         "category": "Energy"
     },
     {
+        "title": "Cuba changes the rules for MSMEs and self-employed workers: these are the activities that are prohibited or conditioned",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-reglas-mipymes-cuentapropistas-actividades-prohibidas-condicionadas/",
+        "published_date": "2026-07-29 12:00:32",
+        "category": "Economy"
+    },
+    {
+        "title": "MSMEs will be able to manage marinas, gas stations and terminals in Cuba under state concession",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/mipymes-gestionar-gasolineras-marinas-terminales-cuba/",
+        "published_date": "2026-07-29 09:50:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Cuba eliminates prohibitions on the private sector in dozens of economic activities",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260728/cuba-elimina-prohibiciones-al-sector-privado-en-decenas-de-actividades-economicas/",
+        "published_date": "2026-07-28 21:56:09",
+        "category": "Economy"
+    },
+    {
         "title": "Retirees in Cuba already collect their pension outside the bank: this is how the new system works",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/jubilados-en-cuba-ya-cobran-su-pension-fuera-del-banco-asi-funciona-el-nuevo-sistema/",
@@ -385,150 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "The euro rises again in Cuba: this is how currencies appear today in the informal market",
+        "title": "Official Gazette: This is what teachers and professors will now earn in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/el-euro-vuelve-a-subir-en-cuba-asi-amanecen-hoy-las-divisas-en-el-mercado-informal/",
-        "published_date": "2026-07-21 10:18:59",
-        "category": "Economy"
-    },
-    {
-        "title": "Hundreds of Venezuelans demand elections and the return of Mar\u00eda Corina Machado to her country",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/cientos-venezolanos-exigen-elecciones-regreso_1_1129277.html",
-        "published_date": "2026-07-28 21:05:54",
+        "url": "https://www.directoriocubano.info/cuba/cuba-salario-maestros-profesores-6130-7735-cup/",
+        "published_date": "2026-07-29 12:45:32",
         "category": "Local Events"
     },
     {
-        "title": "Cuban Rafael Andr\u00e9s sentenced to death for the murder of a waitress in Miami in 2005",
+        "title": "\u2018Imagined Landscapes: Honoring Humberto Calzada\u2019",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/condenan-muerte-cubano-rafael-andres_1_1129273.html",
-        "published_date": "2026-07-28 20:56:26",
+        "url": "https://www.14ymedio.com/cartelera/imagined-landscapes-honoring-humberto-calzada_1_1129289.html",
+        "published_date": "2026-07-29 12:30:01",
         "category": "Local Events"
     },
     {
-        "title": "They arrest a Cuban in an anti-drug operation in Mexico with doses that said \u201csilver or lead\u201d",
+        "title": "Blackouts prevent filling tanks in buildings in Matanzas",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/detienen-cubano-operativo-antidrogas-mexico_1_1129271.html",
-        "published_date": "2026-07-28 19:38:57",
+        "url": "https://www.14ymedio.com/cuba/apagones-impiden-llenar-tanques-edificios_1_1129287.html",
+        "published_date": "2026-07-29 12:26:41",
         "category": "Local Events"
     },
     {
-        "title": "A business lobby suggests that Washington support US investors in Cuba with 500 million",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/lobby-empresarial-sugiere-washington-apoye_1_1129269.html",
-        "published_date": "2026-07-28 18:44:42",
+        "title": "Cuba establishes new basic salary of the budgeted sector and corrects scale errors",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-salario-sector-presupuestado-3210-cup-escala-corregida/",
+        "published_date": "2026-07-29 12:25:12",
         "category": "Local Events"
     },
     {
-        "title": "Annual Health Grand Prize for clinical trial in regenerative medicine in temporomandibular joint",
+        "title": "Ruling in the US opens hope for Cubans with deportation orders: this is how they could reopen their cases",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/fallo-en-ee-uu-abre-esperanza-para-cubanos-con-orden-de-deportacion-asi-podrian-reabrir-sus-casos/",
+        "published_date": "2026-07-29 11:44:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba's economic challenges, up for debate starting today in the National Assembly",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/desafios-economicos-de-cuba-a-debate-en-asamblea-nacional/",
+        "published_date": "2026-07-29 11:31:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba authorizes the private sector to generate and market electricity",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-sector-privado-generar-comercializar-energia-renovable/",
+        "published_date": "2026-07-29 11:10:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, July 29, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-29-julio_132_1129286.html",
+        "published_date": "2026-07-29 11:03:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hostel owners in Cuba must inform the MININT of the data of guests residing abroad",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/hostales-cuba-informar-minint-datos-huespedes-exterior/",
+        "published_date": "2026-07-29 10:45:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Presentation of 'MONTE' and screening of 'LOTE 52', by Hanzer Gonz\u00e1lez Garriga",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/presentacion-monte-proyeccion-lote-52_1_1129282.html",
+        "published_date": "2026-07-29 10:32:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the price of the dollar and the euro in Cuba today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/este-es-el-precio-del-dolar-y-el-euro-en-cuba-hoy/",
+        "published_date": "2026-07-29 10:22:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official Gazette sets new salary scales in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/salarios-musicos-actores-bailarines-dj-cuba-2026/",
+        "published_date": "2026-07-29 10:10:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Doctor Ram\u00f3n Luis Miranda Torres, doctor and friend of Jos\u00e9 Mart\u00ed",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260728/gran-premio-anual-de-salud-para-ensayo-clinico-en-medicina-regenerativa-en-articulacion-temporomandibular/",
-        "published_date": "2026-07-28 18:14:01",
+        "url": "https://www.trabajadores.cu/20260729/doctor-ramon-luis-miranda-torres-medico-y-amigo-de-jose-marti/",
+        "published_date": "2026-07-29 09:05:39",
         "category": "Local Events"
     },
     {
-        "title": "The Cuban Government estimates that there are more than one million households in vulnerable situations",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-calcula-millon-hogares_1_1129267.html",
-        "published_date": "2026-07-28 17:30:58",
+        "title": "American Airlines system goes down and Miami Airport collapses",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/se-cae-el-sistema-de-american-airlines-y-el-aeropuerto-de-miami-colapsa/",
+        "published_date": "2026-07-29 09:01:36",
         "category": "Local Events"
     },
     {
-        "title": "The Cohiba hotel in Havana keeps the Meli\u00e1 sign, for the moment",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/hotel-cohiba-habana-queda-cartel_1_1129264.html",
-        "published_date": "2026-07-28 16:22:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "They denounce the arrest of a 13-year-old boy after the protests in Santiago de las Vegas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/denuncian-detencion-nino-13-anos_1_1129262.html",
-        "published_date": "2026-07-28 15:34:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Artemisa Popular Campsite with its doors open",
+        "title": "Ordinary Period of the Cuban Parliament meets today",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260728/campismo-popular-artemisa-con-sus-puertas-abiertas/",
-        "published_date": "2026-07-28 14:45:42",
+        "url": "https://www.trabajadores.cu/20260729/sesiona-hoy-periodo-ordinario-del-parlamento-cubano/",
+        "published_date": "2026-07-29 04:05:48",
         "category": "Local Events"
     },
     {
-        "title": "Ballet Laura Alonso will take classical to Central American tour",
+        "title": "The Overton Window: the art of normalizing the monstrous",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ballet-laura-alonso-llevara-clasico-a-gira-centroamericana/",
-        "published_date": "2026-07-28 12:51:43",
+        "url": "https://www.5septiembre.cu/la-ventana-de-overton-el-arte-de-normalizar-lo-monstruoso/",
+        "published_date": "2026-07-29 04:00:31",
         "category": "Local Events"
     },
     {
-        "title": "Tabacuba remains firm in its commitment to photovoltaic irrigation",
+        "title": "The Freedom of a Sunflower, Texas, USA \u2013 Photo of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/the-freedom-of-a-sunflower-texas-usa-photo-of-the-day/",
+        "published_date": "2026-07-29 00:28:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arlettys, three golds in taekwondo and makes history",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260728/tabacuba-mantiene-firme-su-apuesta-por-el-riego-fotovoltaico/",
-        "published_date": "2026-07-28 12:47:51",
+        "url": "https://www.trabajadores.cu/20260728/arlettys-tres-oros-en-taekwondo-y-hace-historia/",
+        "published_date": "2026-07-28 23:34:38",
         "category": "Local Events"
     },
     {
-        "title": "Isabella places Cuba on the rhythmic gymnastics podium",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/isabella-coloca-a-cuba-al-podio-de-la-gimnasia-ritmica/",
-        "published_date": "2026-07-28 12:44:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attacks in Lebanon could constitute war crimes, says UN",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ataques-en-libano-podrian-constituir-crimenes-de-guerra-afirma-onu/",
-        "published_date": "2026-07-28 12:36:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong 7.1 earthquake in Japan leaves at least 50 injured and a tsunami alert",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fuerte-sismo-de-7-1-en-japon-deja-al-menos-50-heridos-y-una-alerta-de-tsunami/",
-        "published_date": "2026-07-28 12:29:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "FIFA chooses the best goal of the 2026 World Cup",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fifa-elige-el-mejor-gol-del-mundial-2026/",
-        "published_date": "2026-07-28 12:19:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention Cubans: US modifies the asylum process with immediate effect",
+        "title": "This is the app that many are using and that pays you to record yourself while you do housework and chores",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/atencion-cubanos-ee-uu-modifica-el-tramite-de-asilo-con-efecto-inmediato/",
-        "published_date": "2026-07-28 12:15:13",
+        "url": "https://www.directoriocubano.info/usa/esta-es-la-app-que-estan-usando-muchos-y-que-te-paga-por-grabarte-mientras-haces-tareas-del-hogar-y-oficios/",
+        "published_date": "2026-07-28 23:25:45",
         "category": "Local Events"
     },
     {
-        "title": "Asylum seekers in the US may be sent to trial without the right to an interview",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/solicitantes-asilo-ee-uu-podran_1_1129258.html",
-        "published_date": "2026-07-28 12:09:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Every act of aggression by the U.S.government demonstrates that the objective is to impose collective punishment",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-07-28/every-act-of-aggression-by-the-us-government-demonstrates-that-the-objective-is-to-impose-collective-punishment",
-        "published_date": "2026-07-28 12:07:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Air China vs.Air Europa to travel to Cuba from Madrid: which one is better for price and luggage?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/air-china-vs-air-europa-para-viajar-a-cuba-desde-madrid-cual-conviene-mas-por-precio-y-equipaje/",
-        "published_date": "2026-07-28 11:31:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba foresees blackouts of up to 2,180 MW during the night of this Tuesday",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-preve-apagones-de-hasta-2-180-mw-durante-la-noche-de-este-martes/",
-        "published_date": "2026-07-28 11:21:14",
+        "title": "Keiko Fujimori Takes Office as Peru's President",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/keiko-fujimori-takes-office-as-perus-president/",
+        "published_date": "2026-07-28 23:18:30",
         "category": "Local Events"
     }
 ]
