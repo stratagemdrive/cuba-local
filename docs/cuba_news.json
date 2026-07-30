@@ -140,6 +140,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Open vindication of the military dictatorships of the 20th century and the Condor Plan",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reivindicacion-abierta-de-las-dictaduras-militares-del-siglo-xx-y-del-plan-condor/",
+        "published_date": "2026-07-30 04:00:21",
+        "category": "Military"
+    },
+    {
+        "title": "Cuba: A Tour Through Ruins of the Gaesa Military Empire",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/cuba-a-tour-through-ruins-of-the-gaesa-military-empire/",
+        "published_date": "2026-07-30 03:28:46",
+        "category": "Military"
+    },
+    {
         "title": "A tour of the ruins of the Gaesa empire",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/recorrido-ruinas-imperio-gaesa_1_1129320.html",
@@ -179,6 +193,13 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/fujimori-inicia-mandato-peru-centrada_1_1129279.html",
         "published_date": "2026-07-29 09:47:55",
+        "category": "Military"
+    },
+    {
+        "title": "Cuba advances in the implementation of transformations to boost the economy and serve the people",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260729/sesiona-hoy-periodo-ordinario-del-parlamento-cubano/",
+        "published_date": "2026-07-29 04:05:48",
         "category": "Military"
     },
     {
@@ -236,6 +257,13 @@
         "url": "https://www.14ymedio.com/internacional/condenados-narcotrafico-pertenencia-banda-armada_1_1129081.html",
         "published_date": "2026-07-22 17:53:38",
         "category": "Military"
+    },
+    {
+        "title": "More than one hundred private companies already have authorization to sell fuel wholesale",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cien-empresas-privadas-autorizacion-vender_1_1129326.html",
+        "published_date": "2026-07-30 10:07:55",
+        "category": "Energy"
     },
     {
         "title": "Havana, a dead city, faces an unprecedented blackout today",
@@ -336,11 +364,11 @@
         "category": "Energy"
     },
     {
-        "title": "Meditate time",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/fidel-catg/32979-meditar-el-tiempo",
-        "published_date": "2026-07-22 09:20:45",
-        "category": "Energy"
+        "title": "Euro and dollar in Cuba today: Increases in the exchange rate today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/euro-dolar-cuba-hoy-aumentos-tasa-cambio-30-julio-2026/",
+        "published_date": "2026-07-30 10:40:21",
+        "category": "Economy"
     },
     {
         "title": "Cuban government assures that pro-capitalist measures are for the well-being of the population",
@@ -441,18 +469,123 @@
         "category": "Economy"
     },
     {
-        "title": "Central Bank of Cuba announces new actions to increase digital payments",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/32983-banco-central-de-cuba-anuncia-nuevas-acciones-para-incrementar-los-pagos-digitales",
-        "published_date": "2026-07-22 12:09:23",
-        "category": "Economy"
+        "title": "The US and Uruguay are studying an agreement to welcome Cubans deported by Washington",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ee-uu-uruguay-estudian-acuerdo_1_1129334.html",
+        "published_date": "2026-07-30 12:01:37",
+        "category": "Local Events"
     },
     {
-        "title": "Control is not negotiated (I)",
+        "title": "Poland describes the fall of a probable Russian missile on its territory as a \"serious incident\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/polonia-califica-incidente-grave-caida_1_1129332.html",
+        "published_date": "2026-07-30 11:43:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba denounces the retention of more than 7,000 containers of merchandise due to US measures",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-denuncia-retencion-7-000_1_1129330.html",
+        "published_date": "2026-07-30 11:38:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Seventh Ordinary Period of Sessions of the Cuban Parliament concludes today",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-control-no-se-negocia-i/",
-        "published_date": "2026-07-22 04:00:37",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/concluye-hoy-septimo-periodo-ordinario-de-sesiones-del-parlamento-cubano/",
+        "published_date": "2026-07-30 11:38:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE seeks to add 5,500 detention beds for migrants in Miami and other US cities",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ice-busca-anadir-5-500_1_1129329.html",
+        "published_date": "2026-07-30 11:34:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prime Minister updates the Cuban Parliament on the implementation of the Economic and Social Transformations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/primer-ministro-actualiza-al-parlamento-cubano-sobre-la-implementacion-de-las-transformaciones-economicas-y-sociales/",
+        "published_date": "2026-07-30 11:32:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban academic participates in World Public Summit Africa",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/academico-cubano-participa-en-cumbre-publica-mundial-africa/",
+        "published_date": "2026-07-30 11:26:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Electric trash in Havana?The UNE clarifies on the issue",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/patana-llegada-habana-mantenimiento/",
+        "published_date": "2026-07-30 11:15:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "FIFA opens disciplinary proceedings against Paredes, Molina, Almada and Ayala for the incidents in the World Cup final",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fifa-abre-expediente-disciplinario-a-paredes-molina-almada-y-ayala-por-los-incidentes-en-la-final-del-mundial/",
+        "published_date": "2026-07-30 11:15:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Some 25,000 Cubans are left without work with the closure of 73% of hotels",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/25-000-cubanos-quedan-trabajo_1_1129327.html",
+        "published_date": "2026-07-30 10:36:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official Gazette of Cuba establishes new rules on prices and rates",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gaceta-oficial-cuba-modificar-precios-tarifas/",
+        "published_date": "2026-07-30 10:00:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Total gas stoppage in Havana: seven municipalities will be without service for six hours",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/parada-total-del-gas-en-la-habana-siete-municipios-quedaran-sin-servicio-durante-seis-horas/",
+        "published_date": "2026-07-30 09:45:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Understanding the Exact Score Bet",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/juegos/apuesta-marcador-exacto_132_1129324.html",
+        "published_date": "2026-07-30 09:33:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Baseball in Santo Domingo: cap, lineup and statements",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260729/beisbol-en-santo-domingo-tope-alineacion-y-declaraciones/",
+        "published_date": "2026-07-30 02:49:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "They report on execution of the State Budget",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/informan-sobre-ejecucion-del-presupuesto-del-estado/",
+        "published_date": "2026-07-30 02:34:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first medal in the swimming pools: silver from Andrea Becali",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260729/la-primera-presea-en-las-piscinas-plata-de-andrea-becali/",
+        "published_date": "2026-07-30 00:03:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "There will be no Social Security payments in the month of August",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/no-habra-pagos-de-la-seguridad-social-en-el-mes-de-agosto/",
+        "published_date": "2026-07-29 23:15:40",
+        "category": "Local Events"
     },
     {
         "title": "How much will the dollar cost?Cuban government announces first private \u201cCADECA\u201d in Cuba",
@@ -462,136 +595,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Unexpected medal: silver from Ricardo Delgado in the omnium",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260729/medalla-inesperada-plata-de-ricardo-delgado-en-el-omnium/",
+        "published_date": "2026-07-29 22:53:26",
+        "category": "Local Events"
+    },
+    {
         "title": "Havana Weather for July 30 to August 5",
         "source": "Havana Times",
         "url": "https://havanatimes.org/weather/havana-weather-for-july-30-to-august-5/",
         "published_date": "2026-07-29 22:51:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "New graduates in Social Sciences graduate from the Party Faculty in Cienfuegos (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/nuevos-licenciados-en-ciencias-sociales-gradua-facultad-del-partido-en-cienfuegos-fotos/",
-        "published_date": "2026-07-29 21:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Bolivian Prosecutor's Office orders the capture of Evo Morales for the May and June protests",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/fiscalia-bolivia-ordena-captura-evo_1_1129322.html",
-        "published_date": "2026-07-29 21:29:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula beats Fl\u00e1vio Bolsonaro by seven points in the runoff and leads the first round with 44.9%, according to polls",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lula-supera-a-flavio-bolsonaro-por-siete-puntos-en-el-balotaje-y-lidera-la-primera-vuelta-con-449-segun-encuestas/",
-        "published_date": "2026-07-29 20:59:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miami, Cancun and Guyana: these flights will continue from this Cuban airport in August",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/miami-cancun-y-guyana-estos-vuelos-seguiran-desde-este-aeropuerto-cubano-en-agosto/",
-        "published_date": "2026-07-29 20:05:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Yordan \u00c1lvarez achieves a record of 35 home runs in the US Major Leagues",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/cubano-yordan-alvarez-logra-record_1_1129317.html",
-        "published_date": "2026-07-29 20:04:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Declaration of the National Assembly: Cuba wants peace",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/declaracion-de-la-asamblea-nacional-cuba-quiere-paz/",
-        "published_date": "2026-07-29 19:40:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "IOM: Criminal groups increasingly attract more people to work in online scam centers",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/oim-grupos-criminales-cada-vez-atraen-a-mas-gente-a-trabajar-en-centros-de-estafas-en-linea/",
-        "published_date": "2026-07-29 19:13:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba maintains private journalism prohibited and reserves news agencies to the State",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/cuba-prohibe-periodismo-privado-agencias-noticias-decreto-160/",
-        "published_date": "2026-07-29 19:09:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Undocumented immigrants in the US will reach 16 million in 2024, according to a report",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/inmigrantes-indocumentados-ee-uu-rozaron_1_1129311.html",
-        "published_date": "2026-07-29 18:50:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "An obsolete Turkish 'patana' evicted by the Dominican Republic for polluting arrives in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/llega-cuba-obsoleta-patana-turca_1_1129309.html",
-        "published_date": "2026-07-29 18:49:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The man who knits so as not to stay still",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/33011-el-hombre-que-teje-para-no-quedarse-quieto",
-        "published_date": "2026-07-29 18:13:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Consulate of Mexico in Cuba publishes new appointments until August 7",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/consulado-de-mexico-en-cuba-publica-nuevas-citas-hasta-el-7-de-agosto/",
-        "published_date": "2026-07-29 18:01:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Natalia Lafourcade & El David Aguilar \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/natalia-lafourcade-el-david-aguilar-song-of-the-day/",
-        "published_date": "2026-07-29 18:00:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women of Coffee concludes its filming for Cuban television",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/mujeres-cafe-concluye-rodaje/",
-        "published_date": "2026-07-29 17:36:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peace of Mind Can Be Stolen Too",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/kamil-kenders/peace-of-mind-can-be-stolen-too/",
-        "published_date": "2026-07-29 17:16:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Writer Plinio Apuleyo Mendoza, friend of Garc\u00eda M\u00e1rquez and harsh critic of Fidel Castro, dies",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura/fallece-escritor-plinio-apuleyo-mendoza_1_1129307.html",
-        "published_date": "2026-07-29 17:15:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba prohibits these activities in the private sector",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-prohibe-guardaespaldas-seguridad-privada-decreto-160/",
-        "published_date": "2026-07-29 17:08:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camag\u00fcey maintains attention to the Maternal-Child Program",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33010-mantiene-camagueey-atencion-al-programa-materno-infantil",
-        "published_date": "2026-07-29 16:48:35",
         "category": "Local Events"
     }
 ]
