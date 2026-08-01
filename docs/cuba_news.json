@@ -1,5 +1,19 @@
 [
     {
+        "title": "Incredible: Cuban government opens the door to Trump's businesses on the island",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gobierno-cubano-negocios-trump-cuba/",
+        "published_date": "2026-08-01 00:01:23",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba intervened in Session 31 of the International Seabed Assembly",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/intervino-cuba-en-sesion-31-de-asamblea-internacional-de-fondos-marinos/",
+        "published_date": "2026-07-31 16:02:04",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Intervention of the Minister of Foreign Affairs at the Seventh Ordinary Period of Sessions",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260729/intervencion-del-ministro-de-relaciones-exteriores-en-el-septimo-periodo-ordinario-de-sesiones/",
@@ -123,20 +137,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/nicaragua-retira-embajador-colombia-anuncio_1_1129157.html",
         "published_date": "2026-07-25 11:58:34",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Minrex denounces the impudence of the US Secretary of State.",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncia-minrex-desfachatez-del-secretario-de-estado-de-ee-uu/",
-        "published_date": "2026-07-24 17:33:48",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Iran accuses US of trying to normalize war crimes",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-acusa-a-eeuu-de-intentar-normalizar-crimenes-de-guerra/",
-        "published_date": "2026-07-24 13:09:48",
         "category": "Diplomacy"
     },
     {
@@ -371,6 +371,13 @@
         "category": "Energy"
     },
     {
+        "title": "These are the 20 ministries that make up the new structure of the Government of Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/20-ministerios-nueva-estructura-gobierno-cuba/",
+        "published_date": "2026-07-31 11:31:24",
+        "category": "Economy"
+    },
+    {
         "title": "Banco Metropolitano explains how to book an appointment from your mobile phone to go to the bank",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/banco-metropolitano-explica-como-reservar-turno-desde-el-movil-para-ir-al-banco/",
@@ -455,11 +462,67 @@
         "category": "Economy"
     },
     {
-        "title": "Control is not negotiated (II)",
+        "title": "Dollar and Euro in Cuba: This is how August begins",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/dolar-euro-cuba-asi-comienzan-agosto-2026/",
+        "published_date": "2026-08-01 10:31:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The era of computers that solve the impossible: Quantum computing, a reality",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-control-no-se-negocia-ii/",
-        "published_date": "2026-07-24 04:00:46",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/la-era-de-los-ordenadores-que-resuelven-lo-imposible-computacion-cuantica-una-realidad/",
+        "published_date": "2026-08-01 05:00:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Uruguay warns about the sexual exploitation of 37 migrants, including several Cuban women",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/uruguay-alerta-explotacion-sexual-37_1_1129374.html",
+        "published_date": "2026-08-01 04:01:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Actions by peasants of Cienfuegos for Fidel's Centennial and First Congress in Arms",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/acciones-de-campesinos-de-cienfuegos-por-centenario-de-fidel-y-primer-congreso-en-armas/",
+        "published_date": "2026-08-01 04:00:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Silot and Garz\u00f3n, first golden gladiators\u2026 and more are coming",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260731/silot-y-garzon-primeros-gladiadores-dorados-y-vienen-mas/",
+        "published_date": "2026-08-01 03:22:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "President of Cuba receives his counterpart from Colombia",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-de-cuba-recibe-a-su-homologo-de-colombia/",
+        "published_date": "2026-08-01 03:07:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Official Gazette: who will earn more in Cuba now?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nueva-gaceta-oficial-quienes-cobraran-mas-cuba/",
+        "published_date": "2026-08-01 01:12:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Happy debutants in Santo Domingo: gold and silver in beach volleyball",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260731/debutantes-felices-en-santo-domingo-oro-y-plata-en-voli-de-playa/",
+        "published_date": "2026-08-01 00:36:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "New rule allows managers to earn up to six times the lowest salary in their company",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/directivos-cuba-seis-veces-salario-mas-bajo-empresa/",
+        "published_date": "2026-07-31 23:35:39",
+        "category": "Local Events"
     },
     {
         "title": "The Resistance Band Squeezing Salaried Immigrants",
@@ -469,10 +532,31 @@
         "category": "Local Events"
     },
     {
+        "title": "This is how you can apply for SNAP food stamps in the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/como-solicitar-cupones-alimentos-snap-estados-unidos/",
+        "published_date": "2026-07-31 23:05:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you have a house in Cuba?What does the new Housing Law mean for owners and emigrants?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nueva-ley-vivienda-cuba-propietarios-emigrados/",
+        "published_date": "2026-07-31 22:15:57",
+        "category": "Local Events"
+    },
+    {
         "title": "Ecuadorian Prosecutor Killed While Investigating US Boat Strikes",
         "source": "Havana Times",
         "url": "https://havanatimes.org/interviews/ecuadorian-prosecutor-killed-while-investigating-us-boat-strikes/",
         "published_date": "2026-07-31 21:31:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "FBI uncovers fraud of more than 19 million with food stamps in South Florida",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/fbi-fraude-food-stamps-sur-florida-19-millones/",
+        "published_date": "2026-07-31 21:25:46",
         "category": "Local Events"
     },
     {
@@ -490,6 +574,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Artemisa-Havana train resumes its trips on August 7",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/tren-artemisa-habana-agosto-2026/",
+        "published_date": "2026-07-31 20:30:23",
+        "category": "Local Events"
+    },
+    {
         "title": "The former Cuban Electricity Company sues UNE and Energas and refers to the Canadian Sherritt",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/antigua-compania-cubana-electricidad-demanda_1_1129378.html",
@@ -497,108 +588,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Faithful to Fidel",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fieles-a-fidel/",
+        "published_date": "2026-07-31 20:22:07",
+        "category": "Local Events"
+    },
+    {
         "title": "Cuba\u2019s Supreme Court Upholds Journalist\u2019s 6-year Sentence",
         "source": "Havana Times",
         "url": "https://havanatimes.org/news/cubas-supreme-court-upholds-journalists-6-year-sentence/",
         "published_date": "2026-07-31 20:08:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Out 27: Happy and difficult opening with Curacao (4-1)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/out-27-apertura-feliz-y-pasada-por-agua-con-curazao-4-1/",
-        "published_date": "2026-07-31 19:55:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "I knew Nabor\u00ed before I met him",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/a-nabori-lo-conoci-antes-de-conocerlo/",
-        "published_date": "2026-07-31 19:39:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from July 31, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-31-julio-2026_7_1129377.html",
-        "published_date": "2026-07-31 19:32:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Language of Flowers and a Street Flower Vendor",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/safie-m-gonzalez/the-language-of-flowers-and-a-street-flower-vendor/",
-        "published_date": "2026-07-31 18:37:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "New solidarity committee with Cuba in Atlanta",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/nuevo-comite-de-solidaridad-con-cuba-en-atlanta/",
-        "published_date": "2026-07-31 18:17:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"How I felt\" from July 31, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-31-julio-2026_132_1129371.html",
-        "published_date": "2026-07-31 18:11:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women and children from El Fanguito block 23rd Avenue and denounce retaliation",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/mujeres-ninos-fanguito-bloquean-avenida_1_1129372.html",
-        "published_date": "2026-07-31 16:50:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chico Cesar and Juliana Linhares \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/chico-cesar-y-juliana-linhares-song-of-the-day/",
-        "published_date": "2026-07-31 16:04:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Love as a life force",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/el-amor-como-fuerza-de-vida/",
-        "published_date": "2026-07-31 15:18:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Board in the middle decreasing imports",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/tablero-por-medio-disminuyendo-importaciones/",
-        "published_date": "2026-07-31 15:04:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "International News Briefs for Friday, July 31, 2026",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-friday-july-31-2026/",
-        "published_date": "2026-07-31 14:40:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba\u2019s Public Health System Deliberately Inflates Data",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/cubas-public-health-system-deliberately-inflates-data/",
-        "published_date": "2026-07-31 14:30:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Faithful to Fidel",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/fieles-a-fidel/",
-        "published_date": "2026-07-31 14:24:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00abThe will to win is unbreakable\u00bb",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/la-voluntad-de-vencer-es-inquebrantable/",
-        "published_date": "2026-07-31 14:03:01",
         "category": "Local Events"
     }
 ]
