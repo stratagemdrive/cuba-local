@@ -1,5 +1,12 @@
 [
     {
+        "title": "The US adds 43 Chinese companies to its list of entities sanctioned for forced labor",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-anade-43-empresas_1_1129394.html",
+        "published_date": "2026-08-01 14:25:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Incredible: Cuban government opens the door to Trump's businesses on the island",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/gobierno-cubano-negocios-trump-cuba/",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Nicaragua withdraws its ambassador in Colombia after the announcement of the closure of the diplomatic headquarters",
+        "title": "Russian attack on kyiv leaves nine dead and 30 injured, including four children",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/nicaragua-retira-embajador-colombia-anuncio_1_1129157.html",
-        "published_date": "2026-07-25 11:58:34",
-        "category": "Diplomacy"
+        "url": "https://www.14ymedio.com/internacional/ataque-ruso-kiev-deja-nueve_1_1129398.html",
+        "published_date": "2026-08-01 15:18:14",
+        "category": "Military"
+    },
+    {
+        "title": "Community leadership work is essential in the Municipal Defense Councils and their Defense Zones",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-trabajo-de-liderazgo-comunitario-es-esencial-en-los-consejos-de-defensa-municipal-y-sus-zonas-de-defensa/",
+        "published_date": "2026-08-01 15:07:08",
+        "category": "Military"
     },
     {
         "title": "FAES awards its freedom prize to Rosa Mar\u00eda Pay\u00e1, Masih Alinejad and Yulia Navalnaya",
@@ -357,18 +371,11 @@
         "category": "Energy"
     },
     {
-        "title": "Holgu\u00edn also moves to the rhythm of private gasoline",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/holguin-mueve-ritmo-gasolina-privada_1_1129151.html",
-        "published_date": "2026-07-24 19:29:55",
-        "category": "Energy"
-    },
-    {
-        "title": "The US imposes new measures against Cuban entities and officials",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/eeuu-impone-nuevas-medidas-contra-entidades-y-funcionarios-cubanos/",
-        "published_date": "2026-07-24 14:12:20",
-        "category": "Energy"
+        "title": "New salary system in the state business sector comes into effect",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/sistema-salarial-sector-empresarial-estatal/",
+        "published_date": "2026-08-01 18:28:14",
+        "category": "Economy"
     },
     {
         "title": "These are the 20 ministries that make up the new structure of the Government of Cuba",
@@ -462,143 +469,143 @@
         "category": "Economy"
     },
     {
-        "title": "Dollar and Euro in Cuba: This is how August begins",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/dolar-euro-cuba-asi-comienzan-agosto-2026/",
-        "published_date": "2026-08-01 10:31:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The era of computers that solve the impossible: Quantum computing, a reality",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-era-de-los-ordenadores-que-resuelven-lo-imposible-computacion-cuantica-una-realidad/",
-        "published_date": "2026-08-01 05:00:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uruguay warns about the sexual exploitation of 37 migrants, including several Cuban women",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/uruguay-alerta-explotacion-sexual-37_1_1129374.html",
-        "published_date": "2026-08-01 04:01:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Actions by peasants of Cienfuegos for Fidel's Centennial and First Congress in Arms",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/acciones-de-campesinos-de-cienfuegos-por-centenario-de-fidel-y-primer-congreso-en-armas/",
-        "published_date": "2026-08-01 04:00:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Silot and Garz\u00f3n, first golden gladiators\u2026 and more are coming",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/silot-y-garzon-primeros-gladiadores-dorados-y-vienen-mas/",
-        "published_date": "2026-08-01 03:22:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "President of Cuba receives his counterpart from Colombia",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-de-cuba-recibe-a-su-homologo-de-colombia/",
-        "published_date": "2026-08-01 03:07:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Official Gazette: who will earn more in Cuba now?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/nueva-gaceta-oficial-quienes-cobraran-mas-cuba/",
-        "published_date": "2026-08-01 01:12:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Happy debutants in Santo Domingo: gold and silver in beach volleyball",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/debutantes-felices-en-santo-domingo-oro-y-plata-en-voli-de-playa/",
-        "published_date": "2026-08-01 00:36:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "New rule allows managers to earn up to six times the lowest salary in their company",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/directivos-cuba-seis-veces-salario-mas-bajo-empresa/",
-        "published_date": "2026-07-31 23:35:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Resistance Band Squeezing Salaried Immigrants",
+        "title": "A Day at the Beach, Ometepe, Nicaragua \u2013 Photo of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/osmel-almaguer-diary/the-resistance-band-squeezing-salaried-immigrants/",
-        "published_date": "2026-07-31 23:19:31",
+        "url": "https://havanatimes.org/photo-of-the-day/a-day-at-the-beach-ometepe-nicaragua-photo-of-the-day/",
+        "published_date": "2026-08-01 23:04:13",
         "category": "Local Events"
     },
     {
-        "title": "This is how you can apply for SNAP food stamps in the United States",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/como-solicitar-cupones-alimentos-snap-estados-unidos/",
-        "published_date": "2026-07-31 23:05:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you have a house in Cuba?What does the new Housing Law mean for owners and emigrants?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/nueva-ley-vivienda-cuba-propietarios-emigrados/",
-        "published_date": "2026-07-31 22:15:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ecuadorian Prosecutor Killed While Investigating US Boat Strikes",
+        "title": "The Day I Stopped Looking for Cuba in Cubans",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/ecuadorian-prosecutor-killed-while-investigating-us-boat-strikes/",
-        "published_date": "2026-07-31 21:31:46",
+        "url": "https://havanatimes.org/diaries/dany-cesario/the-day-i-stopped-looking-for-cuba-in-cubans/",
+        "published_date": "2026-08-01 22:34:29",
         "category": "Local Events"
     },
     {
-        "title": "FBI uncovers fraud of more than 19 million with food stamps in South Florida",
+        "title": "The United States will make the bond for B-1/B-2 visas for Cubans permanent, with a limit of $20,000",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/fbi-fraude-food-stamps-sur-florida-19-millones/",
-        "published_date": "2026-07-31 21:25:46",
+        "url": "https://www.directoriocubano.info/acontecer/fianza-visa-b1-b2-cubanos-estados-unidos-20000-dolares/",
+        "published_date": "2026-08-01 22:01:34",
         "category": "Local Events"
     },
     {
-        "title": "The people of Cuba are ours",
+        "title": "Lawsuit in the United States claims 267.6 million dollars from UNE and Energas",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/demanda-estados-unidos-267-millones-une-energas/",
+        "published_date": "2026-08-01 21:34:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Customs authorities in Cuba report another important seizure at the Jos\u00e9 Mart\u00ed airport",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/aduana-cuba-decomiso-aeropuerto-jose-marti-cannabinoides/",
+        "published_date": "2026-08-01 21:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "ETECSA activates international summer recharge with unlimited data for 10 days",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/etecsa-recarga-internacional-verano-datos-ilimitados-10-dias/",
+        "published_date": "2026-08-01 20:45:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flights from Camag\u00fcey in August: Miami, Canc\u00fan, Paramaribo and Guyana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/vuelos-desde-camaguey-agosto-miami-cancun-paramaribo-guyana/",
+        "published_date": "2026-08-01 20:15:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another gift from Marlies Mej\u00edas: her cry for Cuba",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/el-pueblo-de-cuba-es-el-nuestro/",
-        "published_date": "2026-07-31 20:58:01",
+        "url": "https://www.trabajadores.cu/20260801/otro-regalo-de-marlies-mejias-su-grito-por-cuba/",
+        "published_date": "2026-08-01 20:12:16",
         "category": "Local Events"
     },
     {
-        "title": "The crisis expels the Book Fair from La Caba\u00f1a after 26 years",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura/crisis-expulsa-cabana-feria-libro_1_1129381.html",
-        "published_date": "2026-07-31 20:53:00",
+        "title": "New salary organization approved in the Cuban state business sector",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260801/aprueban-nueva-organizacion-salarial-en-el-sector-empresarial-estatal-cubano/",
+        "published_date": "2026-08-01 18:13:35",
         "category": "Local Events"
     },
     {
-        "title": "Artemisa-Havana train resumes its trips on August 7",
+        "title": "Radiocuba requires personnel to fill positions",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260801/radiocuba-requiere-personal-para-cubrir-plaza/",
+        "published_date": "2026-08-01 17:44:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bond for United States visas will be permanent: Cuba remains on the list",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/tren-artemisa-habana-agosto-2026/",
-        "published_date": "2026-07-31 20:30:23",
+        "url": "https://www.directoriocubano.info/acontecer/fianza-visas-estados-unidos-cuba/",
+        "published_date": "2026-08-01 17:30:43",
         "category": "Local Events"
     },
     {
-        "title": "The former Cuban Electricity Company sues UNE and Energas and refers to the Canadian Sherritt",
+        "title": "The days of fever",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/antigua-compania-cubana-electricidad-demanda_1_1129378.html",
-        "published_date": "2026-07-31 20:22:17",
+        "url": "https://www.14ymedio.com/cuba/dias-fiebre_1_1129402.html",
+        "published_date": "2026-08-01 17:25:02",
         "category": "Local Events"
     },
     {
-        "title": "Faithful to Fidel",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fieles-a-fidel/",
-        "published_date": "2026-07-31 20:22:07",
+        "title": "Petro: I came to call humanity to solidarity with Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260801/petro-vine-para-convocar-a-la-humanidad-a-la-solidaridad-con-cuba/",
+        "published_date": "2026-08-01 16:43:07",
         "category": "Local Events"
     },
     {
-        "title": "Cuba\u2019s Supreme Court Upholds Journalist\u2019s 6-year Sentence",
+        "title": "Official information on flights between Cuba, the United States and other destinations in August",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/vuelos-cuba-estados-unidos-destinos-agosto-2026/",
+        "published_date": "2026-08-01 16:32:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba loses 5-0 to the United States in the Concacaf U-20",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cuba-pierde-5-estados-unidos_1_1129400.html",
+        "published_date": "2026-08-01 16:04:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Walking the Streets of Matanzas, Cuba, Is a Danger to Life",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/cubas-supreme-court-upholds-journalists-6-year-sentence/",
-        "published_date": "2026-07-31 20:08:32",
+        "url": "https://havanatimes.org/features/walking-the-streets-of-matanzas-cuba-is-a-danger-to-life/",
+        "published_date": "2026-08-01 15:58:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba looks at wrestling, swimming and cycling today in Santo Domingo",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-mira-a-la-lucha-natacion-y-ciclismo-hoy-en-santo-domingo/",
+        "published_date": "2026-08-01 15:47:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flesh-eating bacteria in Florida leaves 12 cases and one death in 2026",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/bacteria-carnivora-florida-casos-2026/",
+        "published_date": "2026-08-01 15:34:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "When the pain of Palestine embraces the resistance of Cuba (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuando-el-dolor-de-palestina-abraza-la-resistencia-de-cuba-fotos/",
+        "published_date": "2026-08-01 15:30:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italian communists will celebrate the centenary of Fidel Castro in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/comunistas-italianos-celebraran-en-cuba-el-centenario-de-fidel-castro/",
+        "published_date": "2026-08-01 15:16:31",
         "category": "Local Events"
     }
 ]
