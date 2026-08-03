@@ -1,5 +1,12 @@
 [
     {
+        "title": "Blockade of containers to Cuba denounced in Spain",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/denuncian-en-espana-bloqueo-a-contenedores-hacia-cuba/",
+        "published_date": "2026-08-02 13:55:39",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The US adds 43 Chinese companies to its list of entities sanctioned for forced labor",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/ee-uu-anade-43-empresas_1_1129394.html",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Pinar del R\u00edo, headquarters of July 26: \u201cIn the face of the blockade, we will respond with more work and more unity\u201d",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260726/pinar-del-rio-sede-del-26-de-julio-frente-al-bloqueo-responderemos-con-mas-trabajo-y-mas-unidad/",
-        "published_date": "2026-07-26 10:46:25",
-        "category": "Diplomacy"
+        "title": "Prime Minister calls to produce food as defense of the homeland",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/primer-ministro-llama-a-producir-alimentos-como-defensa-de-la-patria/",
+        "published_date": "2026-08-02 15:07:33",
+        "category": "Military"
     },
     {
         "title": "Russian attack on kyiv leaves nine dead and 30 injured, including four children",
@@ -259,11 +266,25 @@
         "category": "Military"
     },
     {
-        "title": "Is Washington preparing public opinion for military action against Castroism?",
+        "title": "Russia extends fuel export ban until January 2027",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/rusia-prorroga-prohibicion-exportar-combustible-enero-2027/",
+        "published_date": "2026-08-02 21:43:01",
+        "category": "Energy"
+    },
+    {
+        "title": "Uni\u00f3n El\u00e9ctrica reports status of the SEN for this August 2",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/informa-union-electrica-estado-del-sen-para-este-2-de-agosto/",
+        "published_date": "2026-08-02 17:01:06",
+        "category": "Energy"
+    },
+    {
+        "title": "Another partial fall of the SEN leaves western Cuba without light for almost seven hours",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/washington-preparando-opinion-publica-accion_132_1129178.html",
-        "published_date": "2026-07-25 17:35:38",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/caida-parcial-sen-deja-luz_1_1129413.html",
+        "published_date": "2026-08-02 12:55:09",
+        "category": "Energy"
     },
     {
         "title": "Let's imitate a good example",
@@ -364,11 +385,18 @@
         "category": "Energy"
     },
     {
-        "title": "Summer comes to life in Rhodes: paintbrushes, paper mache and children's stories",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-verano-cobra-vida-en-rodas-pinceles-papel-mache-y-cuentos-infantiles/",
-        "published_date": "2026-07-25 18:49:11",
-        "category": "Energy"
+        "title": "They denounce closures of Quivic\u00e1n MSMEs after requiring them to pay pensions in cash",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/denuncian-cierres-mipymes-quivican-pagar-pensiones-efectivo/",
+        "published_date": "2026-08-02 16:01:23",
+        "category": "Economy"
+    },
+    {
+        "title": "Price of the dollar today in Cuba: exchange rates today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/economia/precio-dolar-hoy-cuba-tasas-cambio-2-agosto-2026/",
+        "published_date": "2026-08-02 12:27:52",
+        "category": "Economy"
     },
     {
         "title": "New salary system in the state business sector comes into effect",
@@ -462,143 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "The prisoner Miami was waiting to see",
+        "title": "Deportation orders in the United States almost double: 4,007 Cubans affected in Florida",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/ordenes-deportacion-estados-unidos-cubanos-florida/",
+        "published_date": "2026-08-02 23:11:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "43 stones of crack and cocaine are seized during an operation in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/incautacion-43-piedras-crack-cocaina-la-habana/",
+        "published_date": "2026-08-02 22:12:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "129 Cubans sue USCIS for delays of more than three years under the Cuban Adjustment Act",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/129-cubanos-demandan-uscis-demoras-ley-ajuste-cubano/",
+        "published_date": "2026-08-02 21:01:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holgu\u00edn: a missing person is found dead and buried near a river",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/holguin-hallan-sin-vida-persona-desaparecida-enterrada-cerca-rio/",
+        "published_date": "2026-08-02 20:02:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "USCIS will send pending asylum cases to judges without prior interview",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/uscis-enviara-casos-asilo-pendientes-jueces-sin-entrevista/",
+        "published_date": "2026-08-02 19:15:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The glory of Cuban basketball F\u00e9lix Morales survives by selling products",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/preso-miami-esperaba-ver_1_1129409.html",
-        "published_date": "2026-08-02 10:58:50",
+        "url": "https://www.14ymedio.com/deportes/gloria-baloncesto-cubano-felix-morales_1_1129435.html",
+        "published_date": "2026-08-02 18:28:46",
         "category": "Local Events"
     },
     {
-        "title": "Some glasses and ten tablets of pills unleash chaos in a church in Guanabacoa",
+        "title": "Trump administration establishes new obstacles for those seeking to reach the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/gobierno-trump-nuevos-obstaculos-llegar-estados-unidos-fianzas-visas/",
+        "published_date": "2026-08-02 17:43:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran denies agreement with Washington to reopen Strait of Hormuz",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-desmiente-acuerdo-con-washington-para-reabrir-estrecho-de-ormuz/",
+        "published_date": "2026-08-02 17:35:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three Minutes for My Mother\u2019s Birthday",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/three-minutes-for-my-mothers-birthday/",
+        "published_date": "2026-08-02 17:34:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "An attack in Moscow allegedly targeted the head of the Russian Aerospace Forces",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/espejuelos-diez-tabletas-pastillas-desatan_1_1129404.html",
-        "published_date": "2026-08-02 10:39:15",
+        "url": "https://www.14ymedio.com/internacional/atentado-moscu-tenia-presunto-objetivo_1_1129431.html",
+        "published_date": "2026-08-02 17:11:48",
         "category": "Local Events"
     },
     {
-        "title": "UNE announces the restoration of electricity in western Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/une-anuncia-el-restablecimiento-electrico-en-el-occidente-de-cuba/",
-        "published_date": "2026-08-02 09:45:39",
+        "title": "Cuban Wilfredo Le\u00f3n, champion with Poland in the 2026 Volleyball Nations League",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cubano-wilfredo-leon-campeon-polonia_1_1129432.html",
+        "published_date": "2026-08-02 17:11:31",
         "category": "Local Events"
     },
     {
-        "title": "The commitment to produce the land in Las Charcas",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-compromiso-de-producir-la-tierra-en-las-charcas/",
-        "published_date": "2026-08-02 04:00:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Cargo Dispatch reports partial disconnection of the SEN",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/despacho-nacional-de-carga-reporta-desconexion-parcial-del-sen/",
-        "published_date": "2026-08-02 00:35:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban wrestlers 4-4 in the final of the Centrocaribes 2026",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260801/luchadoras-cubanas-de-4-4-en-la-final-de-los-centrocaribes-2026/",
-        "published_date": "2026-08-02 00:17:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE records almost 6,000 admissions to Miami detention centers and seeks 5,500 additional beds",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/ice-registra-6000-ingresos-centros-detencion-miami/",
-        "published_date": "2026-08-01 23:44:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is said about flights from the United States to Cuba in August?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/que-se-dice-de-los-vuelos-de-estados-unidos-a-cuba-en-agosto/",
-        "published_date": "2026-08-01 23:05:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Day at the Beach, Ometepe, Nicaragua \u2013 Photo of the Day",
+        "title": "Jorge Drexler \u2013 Song of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/a-day-at-the-beach-ometepe-nicaragua-photo-of-the-day/",
-        "published_date": "2026-08-01 23:04:13",
+        "url": "https://havanatimes.org/todays-song/jorge-drexler-song-of-the-day/",
+        "published_date": "2026-08-02 16:35:19",
         "category": "Local Events"
     },
     {
-        "title": "Alert for Cubans with I-220A: they warn about notaries who falsify parole documents",
+        "title": "Hotel in Havana offers a card to use the pool during August for $30",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/alerta-cubanos-i-220a-notarios-falsifican-parole/",
-        "published_date": "2026-08-01 22:37:33",
+        "url": "https://www.directoriocubano.info/panorama/hotel-en-la-habana-ofrece-carne-para-usar-la-piscina-durante-agosto-por-30-dolares/",
+        "published_date": "2026-08-02 16:29:05",
         "category": "Local Events"
     },
     {
-        "title": "The Day I Stopped Looking for Cuba in Cubans",
+        "title": "A seven-month pregnant woman, among the two new victims of feminicide in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/embarazada-siete-meses-nuevas-victimas_1_1129429.html",
+        "published_date": "2026-08-02 16:26:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Decree 164 expands the salary autonomy of state companies",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/nuevo-decreto-164-amplia-la-autonomia-salarial-de-las-empresas-estatales/",
+        "published_date": "2026-08-02 16:21:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula formalizes his candidacy for a fourth term in Brazil",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/lula-formaliza-candidatura-cuarto-mandato_1_1129427.html",
+        "published_date": "2026-08-02 16:04:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rubio links Cuban influence to the rise of \u201cradical\u201d protests in the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/rubio-vincula-influencia-cubana-auge_1_1129425.html",
+        "published_date": "2026-08-02 15:35:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "What Lies Behind Cuba\u2019s Approval of Private Pharmacies?",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/dany-cesario/the-day-i-stopped-looking-for-cuba-in-cubans/",
-        "published_date": "2026-08-01 22:34:29",
+        "url": "https://havanatimes.org/features/what-lies-behind-cubas-approval-of-private-pharmacies/",
+        "published_date": "2026-08-02 15:30:17",
         "category": "Local Events"
     },
     {
-        "title": "The United States will make the bond for B-1/B-2 visas for Cubans permanent, with a limit of $20,000",
+        "title": "Ice cream in dollars sparks criticism in Cuba in the middle of summer",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/fianza-visa-b1-b2-cubanos-estados-unidos-20000-dolares/",
-        "published_date": "2026-08-01 22:01:34",
+        "url": "https://www.directoriocubano.info/cuba/helado-dolares-cuba-polemica-verano/",
+        "published_date": "2026-08-02 15:20:34",
         "category": "Local Events"
     },
     {
-        "title": "Lawsuit in the United States claims 267.6 million dollars from UNE and Energas",
+        "title": "Minister describes the new salary system in Cuba as \u201crevolutionary\u201d: who will earn more?",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/demanda-estados-unidos-267-millones-une-energas/",
-        "published_date": "2026-08-01 21:34:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Customs authorities in Cuba report another important seizure at the Jos\u00e9 Mart\u00ed airport",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/aduana-cuba-decomiso-aeropuerto-jose-marti-cannabinoides/",
-        "published_date": "2026-08-01 21:00:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "ETECSA activates international summer recharge with unlimited data for 10 days",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/etecsa-recarga-internacional-verano-datos-ilimitados-10-dias/",
-        "published_date": "2026-08-01 20:45:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flights from Camag\u00fcey in August: Miami, Canc\u00fan, Paramaribo and Guyana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/vuelos-desde-camaguey-agosto-miami-cancun-paramaribo-guyana/",
-        "published_date": "2026-08-01 20:15:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another gift from Marlies Mej\u00edas: her cry for Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260801/otro-regalo-de-marlies-mejias-su-grito-por-cuba/",
-        "published_date": "2026-08-01 20:12:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "New salary organization approved in the Cuban state business sector",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260801/aprueban-nueva-organizacion-salarial-en-el-sector-empresarial-estatal-cubano/",
-        "published_date": "2026-08-01 18:13:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Radiocuba requires personnel to fill positions",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260801/radiocuba-requiere-personal-para-cubrir-plaza/",
-        "published_date": "2026-08-01 17:44:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bond for United States visas will be permanent: Cuba remains on the list",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/fianza-visas-estados-unidos-cuba/",
-        "published_date": "2026-08-01 17:30:43",
+        "url": "https://www.directoriocubano.info/panorama/ministro-califica-de-revolucionario-el-nuevo-sistema-salarial-en-cuba-quienes-cobraran-mas/",
+        "published_date": "2026-08-02 14:42:51",
         "category": "Local Events"
     }
 ]
