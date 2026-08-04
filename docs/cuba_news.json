@@ -119,18 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Colombia confirms the closure of its embassy in Cuba and will break relations with Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/colombia-confirma-el-cierre-de-su-embajada-en-cuba-y-rompera-relaciones-con-la-habana/",
-        "published_date": "2026-07-27 09:01:23",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Reflection",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260726/reflejo/",
-        "published_date": "2026-07-27 02:20:19",
-        "category": "Diplomacy"
+        "title": "They celebrate the 53rd anniversary of the Youth Labor Army in Cienfuegos (+ Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/celebran-en-cienfuegos-aniversario-53-del-ejercito-juvenil-del-trabajo/",
+        "published_date": "2026-08-04 02:00:58",
+        "category": "Military"
     },
     {
         "title": "Henry Reeve in the heart of Cuba",
@@ -257,6 +250,13 @@
         "url": "https://www.5septiembre.cu/capturan-en-chile-a-condenado-por-asesinato-de-victor-jara/",
         "published_date": "2026-07-27 15:36:39",
         "category": "Military"
+    },
+    {
+        "title": "Blackout in Aguada de Pasajeros exceeds ten days after accident",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/apagon-aguada-pasajeros-subestacion-vietnam/",
+        "published_date": "2026-08-04 02:11:34",
+        "category": "Energy"
     },
     {
         "title": "Cuba suffers a new national blackout in less than 24 hours",
@@ -392,11 +392,11 @@
         "category": "Energy"
     },
     {
-        "title": "Cuba will allow private companies to extract oil and small mining",
+        "title": "Dollar and euro in Cuba: exchange rates today",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-participacion-privada-petroleo-mineria-decreto-160/",
-        "published_date": "2026-07-29 15:13:07",
-        "category": "Energy"
+        "url": "https://www.directoriocubano.info/cuba/dolar-y-euro-en-cuba-tasas-de-cambio-hoy/",
+        "published_date": "2026-08-04 10:35:05",
+        "category": "Economy"
     },
     {
         "title": "New banking implementations seek to strengthen digital payments",
@@ -497,24 +497,122 @@
         "category": "Economy"
     },
     {
-        "title": "Banco Metropolitano announces the branches that will open this July 27 in Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/banco-metropolitano-anuncia-las-sucursales-que-abriran-este-27-de-julio-en-la-habana/",
-        "published_date": "2026-07-27 11:11:13",
-        "category": "Economy"
+        "title": "The European Union exchanges on the migratory crisis in Ceuta",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/intercambia-la-union-europea-sobre-crisis-migratoria-en-ceuta/",
+        "published_date": "2026-08-04 13:09:44",
+        "category": "Local Events"
     },
     {
-        "title": "This is how the dollar, the euro and other currencies are in Cuba today.Exchange rates in the informal market",
+        "title": "Will Cuban Meli\u00e1 employees be able to claim money?This is what the experts say",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/asi-estan-hoy-el-dolar-el-euro-y-las-demas-divisas-en-cuba-tasas-de-cambio-en-el-mercado-informal/",
-        "published_date": "2026-07-27 10:36:32",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/actualidad/podran-reclamar-dinero-los-empleados-cubanos-de-melia-esto-dicen-los-expertos/",
+        "published_date": "2026-08-04 12:11:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Despite the 'Havana syndrome', the CIA sends more agents to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/pese-sindrome-habana-cia-manda_1_1129466.html",
+        "published_date": "2026-08-04 11:55:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Important information from the United States Embassy in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/informacion-embajada-estados-unidos-cuba-alerta-seguridad/",
+        "published_date": "2026-08-04 11:36:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "ETECSA shares important information for Nauta Hogar customers",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/etecsa-comparte-informacion-importante-para-los-clientes-de-nauta-hogar/",
+        "published_date": "2026-08-04 11:18:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least five dead in Moscow region after Ukrainian drone attack",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cinco-muertos-region-moscu-ataque_1_1129464.html",
+        "published_date": "2026-08-04 10:25:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Taiwan will not accept China's 'infiltration' or 'red terror', says its president",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/taiwan-no-aceptara-infiltracion-terror_1_1129462.html",
+        "published_date": "2026-08-04 10:18:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "One dead in an incident between clandestine gold miners in Villa Clara",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muerto-incidente-mineros-oro-clandestinos_1_1129461.html",
+        "published_date": "2026-08-04 10:02:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Discontent within a sector of the Cuban regime due to the 176 reforms and the prominence of 'El Cangrejo'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/malestar-sector-regimen-cubano-176_1_1129460.html",
+        "published_date": "2026-08-04 09:53:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba suffers its sixth collapse of the SEN in 2026: having electricity without depending on the network costs thousands of dollars",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/cuba-sufre-su-sexto-colapso-del-sen-en-2026-tener-corriente-sin-depender-de-la-red-cuesta-miles-de-dolares/",
+        "published_date": "2026-08-04 09:45:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leyanis P\u00e9rez consecrated the Cuban performance in Santo Domingo",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/leyanis-perez-consagro-la-actuacion-cubana-en-santo-domingo/",
+        "published_date": "2026-08-04 04:35:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "American neostatism",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-neoestatismo-estadounidense/",
+        "published_date": "2026-08-04 04:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba multiplies its egg purchases from the United States by six",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-compras-huevos-estados-unidos/",
+        "published_date": "2026-08-04 01:43:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami clinic owner arrested for fraud with deceased identities",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/dueno-clinica-miami-fraude-fallecidos/",
+        "published_date": "2026-08-04 01:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 28-year-old Cuban is stabbed to death in a boarding house in Montevideo",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/asesinan-cubano-28-anos-punaladas-pension-montevideo/",
+        "published_date": "2026-08-04 00:30:47",
+        "category": "Local Events"
     },
     {
         "title": "Cuban arrested in Honduras for alleged drug trafficking",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/cubano-detenido-honduras-trafico-drogas/",
         "published_date": "2026-08-03 23:46:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Field hockey: a fascinating and tearful gold",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260803/hockey-sobre-cesped-un-oro-fascinante-y-de-lagrimas/",
+        "published_date": "2026-08-03 22:53:45",
         "category": "Local Events"
     },
     {
@@ -536,118 +634,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/migracion/venezolanos-seran-deportados-motin-centro_1_1129456.html",
         "published_date": "2026-08-03 21:11:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Users report that Etecsa leaves C\u00e1rdenas without connection every morning",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/usuarios-denuncian-que-etecsa-deja-a-cardenas-sin-conexion-cada-madrugada/",
-        "published_date": "2026-08-03 21:07:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legazpi raises 12,332 euros for electricity in a children's hospital in Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/legazpi-electricidad-hospital-infantil-habana/",
-        "published_date": "2026-08-03 20:31:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vozinha is one signing away from playing with Chile's Colo Colo",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/vozinha-esta-a-una-firma-de-jugar-con-el-colo-colo-de-chile/",
-        "published_date": "2026-08-03 20:24:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flights to five international destinations from this Cuban airport in August",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/vuelos-a-cinco-destinos-internacionales-desde-este-aeropuerto-cubano-en-agosto/",
-        "published_date": "2026-08-03 20:09:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba's economic reforms open criticism from the ruling left",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/reformas-economicas-cuba-criticas-izquierda/",
-        "published_date": "2026-08-03 19:32:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unionists in Venezuela demand that presidential elections be held this year",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/sindicalistas-venezuela-exigen-celebren-elecciones_1_1129454.html",
-        "published_date": "2026-08-03 19:12:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba defeats the Dominican Republic in Santo Domingo 2026 and maintains third place in the medal table",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-vence-republica-dominicana-santo-domingo-2026-tercer-lugar-medallero/",
-        "published_date": "2026-08-03 19:02:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban scene in mourning, Paula Al\u00ed passed away",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/de-luto-la-escena-cubana-fallecio-paula-ali/",
-        "published_date": "2026-08-03 18:39:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba's fiscal deficit closed 2025 below the approved limit",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/deficit-fiscal-cuba-2025/",
-        "published_date": "2026-08-03 18:36:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "You Are Invited to Participate in our 15th HT Photo Contest",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/contest/you-are-invited-to-participate-in-our-15th-ht-photo-contest/",
-        "published_date": "2026-08-03 18:12:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "When the trade winds bring back the memory",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/33026-cuando-los-alisios-traen-la-memoria",
-        "published_date": "2026-08-03 18:10:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you live in Florida?You can now vote before August 18: know where and when",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/vives-en-florida-ya-puedes-votar-antes-del-18-de-agosto-conoce-donde-y-cuando/",
-        "published_date": "2026-08-03 18:05:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban riot in Tapachula after deportation announcement",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/motin-cubanos-tapachula-deportacion/",
-        "published_date": "2026-08-03 17:32:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Theft of dielectric oil leads crimes against the electrical system in Holgu\u00edn",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260803/robo-de-aceite-dielectrico-lidera-los-delitos-contra-el-sistema-electrico-en-holguin/",
-        "published_date": "2026-08-03 17:09:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "They mourn the death of Paula Ali",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/57-artes-escenicas/33024-cuba-lamenta-fallecimiento-de-paula-ali",
-        "published_date": "2026-08-03 17:06:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wineries in Cuba update food distribution: they announce beans, milk and rice",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/bodegas-en-cuba-actualizan-la-distribucion-de-alimentos-anuncian-frijoles-leche-y-arroz/",
-        "published_date": "2026-08-03 17:01:16",
         "category": "Local Events"
     }
 ]
