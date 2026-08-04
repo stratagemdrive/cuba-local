@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuba does not constitute a threat to the United States",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33025-cuba-no-constituye-amenaza-para-estados-unidos",
+        "published_date": "2026-08-03 17:24:10",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban Foreign Minister denounces lies by the US Secretary of State",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/denuncia-canciller-de-cuba-mentiras-del-secretario-de-estado-de-ee-uu/",
+        "published_date": "2026-08-03 14:44:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Blockade of containers to Cuba denounced in Spain",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/denuncian-en-espana-bloqueo-a-contenedores-hacia-cuba/",
@@ -116,13 +130,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260726/reflejo/",
         "published_date": "2026-07-27 02:20:19",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Israel: The great pending issue of Cuban diplomacy",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/israel-gran-asignatura-pendiente-diplomacia_1_1129198.html",
-        "published_date": "2026-07-26 14:33:53",
         "category": "Diplomacy"
     },
     {
@@ -252,6 +259,41 @@
         "category": "Military"
     },
     {
+        "title": "Cuba suffers a new national blackout in less than 24 hours",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-sufre-nuevo-apagon-nacional_1_1129458.html",
+        "published_date": "2026-08-03 23:21:38",
+        "category": "Energy"
+    },
+    {
+        "title": "Cuba once again suffers a total blackout after a new disconnection from the National Electrical System",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-vuelve-a-sufrir-un-apagon-total-tras-una-nueva-desconexion-del-sistema-electrico-nacional/",
+        "published_date": "2026-08-03 21:59:27",
+        "category": "Energy"
+    },
+    {
+        "title": "Information from ETECSA on the impact of service in Cuba due to the general blackout",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/informacion-de-etecsa-sobre-afectacion-del-servicio-en-cuba-a-causa-del-apagon-general/",
+        "published_date": "2026-08-03 19:37:25",
+        "category": "Energy"
+    },
+    {
+        "title": "Havana increases electricity recovery to 14.7% after the total blackout",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/la-une-informa-que-la-habana-solo-recupero-el-1427-del-servicio-electrico-tras-el-sexto-apagon-total/",
+        "published_date": "2026-08-03 15:12:08",
+        "category": "Energy"
+    },
+    {
+        "title": "They report a new disconnection from the National Electrical System (+ Update)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reportan-nueva-desconexion-del-sistema-electrico-nacional-actualizacion/",
+        "published_date": "2026-08-03 14:57:00",
+        "category": "Energy"
+    },
+    {
         "title": "Delcy Rodr\u00edguez asks the country to save electricity and water due to the \"Superni\u00f1o\" climate phenomenon",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-pide-pais-ahorrar_1_1129446.html",
@@ -357,18 +399,11 @@
         "category": "Energy"
     },
     {
-        "title": "There will be more sectors open to private sectors, such as pharmacy and energy, but the State remains the driving force",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/habra-sectores-abiertos-privados-farmacia_1_1129281.html",
-        "published_date": "2026-07-29 11:15:02",
-        "category": "Energy"
-    },
-    {
-        "title": "Solineras: relief for the community",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260726/solineras-alivio-para-la-comunidad/",
-        "published_date": "2026-07-26 23:53:18",
-        "category": "Energy"
+        "title": "New banking implementations seek to strengthen digital payments",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33027-nuevas-implementaciones-bancarias-buscan-reforzar-pagos-digitales",
+        "published_date": "2026-08-03 18:36:02",
+        "category": "Economy"
     },
     {
         "title": "They denounce closures of Quivic\u00e1n MSMEs after requiring them to pay pensions in cash",
@@ -476,143 +511,143 @@
         "category": "Economy"
     },
     {
-        "title": "Iran executes two men convicted of spying for Israel during war",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/iran-ejecuta-hombres-condenados-espiar_1_1129447.html",
-        "published_date": "2026-08-03 12:40:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia is experiencing the bloodiest summer of the entire war",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rusia-vive-verano-cruento-guerra_1_1129444.html",
-        "published_date": "2026-08-03 12:15:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Preventing \"a Russian-style pi\u00f1ata\", Washington's new objective to avoid the transfer of Gaesa into private hands",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/impedir-pinata-rusa-nuevo-objetivo_1_1129443.html",
-        "published_date": "2026-08-03 11:54:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "July rumors: 'El Cangrejo', unlikely president of the Republic, and an electric cable from Florida",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/rumores-julio-cangrejo-improbable-presidente_1_1129441.html",
-        "published_date": "2026-08-03 10:10:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The electrical system collapses for the sixth time this year",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sistema-electrico-colapsa-sexta-vez_1_1129438.html",
-        "published_date": "2026-08-03 07:53:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "What you didn't see",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/lo-que-usted-no-vio-2/",
-        "published_date": "2026-08-03 01:32:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medal table (2-08-2026)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/medallero-2-08-2026/",
-        "published_date": "2026-08-03 01:30:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "LUIS OSVALDO \u00c1VILA SANZANO: A respected and loved commissioner",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/luis-osvaldo-avila-sanzano-un-comisario-respetado-y-querido/",
-        "published_date": "2026-08-03 01:26:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "MILAIMYS MAR\u00cdN: The title I was missing",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/milaimys-marin-el-titulo-que-me-faltaba/",
-        "published_date": "2026-08-03 01:23:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "DAMI\u00c1N G\u00d3MEZ AND EBLIS VERANES: Towers of sand and gold",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/damian-gomez-y-eblis-veranes-torres-de-arena-y-oro/",
-        "published_date": "2026-08-03 01:21:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "GREILI BENCOSME: Dream and gift to my mother",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/greili-bencosme-sueno-y-regalo-a-mi-mama/",
-        "published_date": "2026-08-03 01:19:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bronze team in 10 meter air pistol",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/bronce-por-equipos-en-pistola-de-aire-a-10-metros/",
-        "published_date": "2026-08-03 01:16:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jes\u00fas and Bernaldo, synchronized with silver",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/jesus-y-bernaldo-sincronizados-con-plata/",
-        "published_date": "2026-08-03 01:13:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chronicle: Afternoon with Livia and Ana",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260802/cronica-tarde-con-livia-y-con-ana/",
-        "published_date": "2026-08-03 01:10:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deportation orders in the United States almost double: 4,007 Cubans affected in Florida",
+        "title": "Cuban arrested in Honduras for alleged drug trafficking",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/ordenes-deportacion-estados-unidos-cubanos-florida/",
-        "published_date": "2026-08-02 23:11:53",
+        "url": "https://www.directoriocubano.info/acontecer/cubano-detenido-honduras-trafico-drogas/",
+        "published_date": "2026-08-03 23:46:41",
         "category": "Local Events"
     },
     {
-        "title": "43 stones of crack and cocaine are seized during an operation in Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/incautacion-43-piedras-crack-cocaina-la-habana/",
-        "published_date": "2026-08-02 22:12:24",
+        "title": "A World of Music and Parrots, Lara, Venezuela \u2013 Photo of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/a-world-of-music-and-parrots-lara-venezuela-photo-of-the-day/",
+        "published_date": "2026-08-03 22:24:15",
         "category": "Local Events"
     },
     {
-        "title": "129 Cubans sue USCIS for delays of more than three years under the Cuban Adjustment Act",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/129-cubanos-demandan-uscis-demoras-ley-ajuste-cubano/",
-        "published_date": "2026-08-02 21:01:31",
+        "title": "Report Details Settler Killing of \u201cNo Other Land\u201d Producer",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/interviews/report-details-settler-killing-of-no-other-land-producer/",
+        "published_date": "2026-08-03 21:19:19",
         "category": "Local Events"
     },
     {
-        "title": "Holgu\u00edn: a missing person is found dead and buried near a river",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/holguin-hallan-sin-vida-persona-desaparecida-enterrada-cerca-rio/",
-        "published_date": "2026-08-02 20:02:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "USCIS will send pending asylum cases to judges without prior interview",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/uscis-enviara-casos-asilo-pendientes-jueces-sin-entrevista/",
-        "published_date": "2026-08-02 19:15:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The glory of Cuban basketball F\u00e9lix Morales survives by selling products",
+        "title": "Two Venezuelans will be deported for a riot in a center where 40 Cubans are detained",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/gloria-baloncesto-cubano-felix-morales_1_1129435.html",
-        "published_date": "2026-08-02 18:28:46",
+        "url": "https://www.14ymedio.com/migracion/venezolanos-seran-deportados-motin-centro_1_1129456.html",
+        "published_date": "2026-08-03 21:11:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Users report that Etecsa leaves C\u00e1rdenas without connection every morning",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/usuarios-denuncian-que-etecsa-deja-a-cardenas-sin-conexion-cada-madrugada/",
+        "published_date": "2026-08-03 21:07:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Legazpi raises 12,332 euros for electricity in a children's hospital in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/legazpi-electricidad-hospital-infantil-habana/",
+        "published_date": "2026-08-03 20:31:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vozinha is one signing away from playing with Chile's Colo Colo",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/vozinha-esta-a-una-firma-de-jugar-con-el-colo-colo-de-chile/",
+        "published_date": "2026-08-03 20:24:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flights to five international destinations from this Cuban airport in August",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/vuelos-a-cinco-destinos-internacionales-desde-este-aeropuerto-cubano-en-agosto/",
+        "published_date": "2026-08-03 20:09:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba's economic reforms open criticism from the ruling left",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/reformas-economicas-cuba-criticas-izquierda/",
+        "published_date": "2026-08-03 19:32:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unionists in Venezuela demand that presidential elections be held this year",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/sindicalistas-venezuela-exigen-celebren-elecciones_1_1129454.html",
+        "published_date": "2026-08-03 19:12:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba defeats the Dominican Republic in Santo Domingo 2026 and maintains third place in the medal table",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-vence-republica-dominicana-santo-domingo-2026-tercer-lugar-medallero/",
+        "published_date": "2026-08-03 19:02:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban scene in mourning, Paula Al\u00ed passed away",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/de-luto-la-escena-cubana-fallecio-paula-ali/",
+        "published_date": "2026-08-03 18:39:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba's fiscal deficit closed 2025 below the approved limit",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/deficit-fiscal-cuba-2025/",
+        "published_date": "2026-08-03 18:36:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "You Are Invited to Participate in our 15th HT Photo Contest",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/contest/you-are-invited-to-participate-in-our-15th-ht-photo-contest/",
+        "published_date": "2026-08-03 18:12:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "When the trade winds bring back the memory",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/33026-cuando-los-alisios-traen-la-memoria",
+        "published_date": "2026-08-03 18:10:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you live in Florida?You can now vote before August 18: know where and when",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/vives-en-florida-ya-puedes-votar-antes-del-18-de-agosto-conoce-donde-y-cuando/",
+        "published_date": "2026-08-03 18:05:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban riot in Tapachula after deportation announcement",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/motin-cubanos-tapachula-deportacion/",
+        "published_date": "2026-08-03 17:32:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Theft of dielectric oil leads crimes against the electrical system in Holgu\u00edn",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260803/robo-de-aceite-dielectrico-lidera-los-delitos-contra-el-sistema-electrico-en-holguin/",
+        "published_date": "2026-08-03 17:09:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "They mourn the death of Paula Ali",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/57-artes-escenicas/33024-cuba-lamenta-fallecimiento-de-paula-ali",
+        "published_date": "2026-08-03 17:06:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wineries in Cuba update food distribution: they announce beans, milk and rice",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/bodegas-en-cuba-actualizan-la-distribucion-de-alimentos-anuncian-frijoles-leche-y-arroz/",
+        "published_date": "2026-08-03 17:01:16",
         "category": "Local Events"
     }
 ]
