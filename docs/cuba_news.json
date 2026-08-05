@@ -1,5 +1,12 @@
 [
     {
+        "title": "Brazil accuses the US of canceling the visa of its ambassador to interfere in the elections",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/brasil-acusa-ee-uu-cancelar_1_1129488.html",
+        "published_date": "2026-08-05 11:20:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba does not constitute a threat to the United States",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33025-cuba-no-constituye-amenaza-para-estados-unidos",
@@ -102,13 +109,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/en-acto-de-subordinacion-a-ee-uu-el-presidente-electo-de-colombia-anuncia-que-cortara-los-vinculos-con-cuba/",
         "published_date": "2026-07-28 13:13:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuban Foreign Ministry rejects announcement by Colombian president-elect",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33001-rechaza-cancilleria-cubana-anuncio-de-presidente-electo-de-colombia",
-        "published_date": "2026-07-28 10:17:49",
         "category": "Diplomacy"
     },
     {
@@ -224,11 +224,11 @@
         "category": "Military"
     },
     {
-        "title": "Yoenia and the story of a patio sown with goodness",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/yoenia-y-la-historia-de-un-patio-sembrado-de-bondad/",
-        "published_date": "2026-07-28 04:00:15",
-        "category": "Military"
+        "title": "In Puerto Escondido, oil destroyed a paradisiacal place",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/multimedia/videos/video-ext-puerto-escondido-petroleo-destruyo-lugar_7_1129494.html",
+        "published_date": "2026-08-05 11:07:50",
+        "category": "Energy"
     },
     {
         "title": "The national electrical system is restored while Cubans continue waiting for the electricity to arrive",
@@ -364,11 +364,18 @@
         "category": "Energy"
     },
     {
-        "title": "Installation of photovoltaic systems is expanded to various sectors in Camag\u00fcey",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260730/se-amplia-a-diversos-sectores-en-camaguey-instalacion-de-sistemas-fotovoltaicos/",
-        "published_date": "2026-07-30 15:44:51",
-        "category": "Energy"
+        "title": "Exchange Rates: This is how the dollar and the euro are in Cuba today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/tasas-cambio-dolar-euro-cuba-hoy-5-agosto-2026/",
+        "published_date": "2026-08-05 10:40:46",
+        "category": "Economy"
+    },
+    {
+        "title": "Official Gazette: Cuban regime orders the creation of a new wholesale market",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gaceta-oficial-cuba-nuevo-mercado-mayorista-abasto/",
+        "published_date": "2026-08-04 23:40:40",
+        "category": "Economy"
     },
     {
         "title": "Dollar and euro in Cuba: exchange rates today",
@@ -469,143 +476,143 @@
         "category": "Economy"
     },
     {
+        "title": "More than 1,700 evacuated due to powerful eruption of the Fuego volcano in Guatemala",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mas-de-1-700-evacuados-por-potente-erupcion-del-volcan-de-fuego-en-guatemala/",
+        "published_date": "2026-08-05 12:50:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban hockey players win gold after sleeping in stands, training without breakfast and making their debut without specialized footwear",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/hockeistas-cubanas-ganan-el-oro-tras-dormir-en-gradas-entrenar-sin-desayunar-y-debutar-sin-calzado-especializado/",
+        "published_date": "2026-08-05 12:15:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chinese AI models occupy the top five positions in the global ranking of use",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/modelos-chinos-de-ia-ocupan-los-cinco-primeros-puestos-del-ranking-mundial-de-uso/",
+        "published_date": "2026-08-05 12:13:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNE suspends the digital payment of the electricity bill in Cuba until this day",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/une-suspende-el-pago-digital-de-la-factura-electrica-en-cuba-hasta-este-dia/",
+        "published_date": "2026-08-05 11:11:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "A special gift to Fidel",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260805/un-regalo-especial-a-fidel/",
+        "published_date": "2026-08-05 11:01:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"If there is a smell, we close the windows. If the flame increases, we pray\", this is how we live in Puerto Escondido",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/si-hay-olor-cerramos-ventanas_1_1129480.html",
+        "published_date": "2026-08-05 11:00:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 17 dead and 44 injured in Russian night attacks on kyiv region",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/17-muertos-44-heridos-ataques_1_1129489.html",
+        "published_date": "2026-08-05 10:51:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong victory of the people",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260805/contundente-victoria-del-pueblo-3/",
+        "published_date": "2026-08-05 10:46:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba will have supply markets for products marketed by state and private companies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-tendra-mercados-abastos-productos_1_1129483.html",
+        "published_date": "2026-08-05 10:41:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban Government makes the import of vehicles, especially electric, more flexible",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-flexibiliza-importacion-vehiculos_1_1129481.html",
+        "published_date": "2026-08-05 10:31:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThey could turn on the lights tomorrow\u201d: strong statement about Cuba released by the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/podrian-encender-las-luces-manana-fuerte-declaracion-sobre-cuba-difundida-por-estados-unidos/",
+        "published_date": "2026-08-05 09:45:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Know the virtues of onion",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260805/conozca-las-virtudes-de-la-cebolla/",
+        "published_date": "2026-08-05 09:00:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The double face of the climate emergency: when health hides the energy conflict",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-doble-cara-de-la-emergencia-climatica-cuando-la-salud-esconde-el-conflicto-energetico/",
+        "published_date": "2026-08-05 04:00:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Capital One reveals why it closed hundreds of bank accounts linked to Trump",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/capital-one-cuentas-trump-lavado-dinero-demanda/",
+        "published_date": "2026-08-05 01:32:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert in Miami-Dade for new types of scams",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/alerta-miami-dade-mensajes-falsos-multas-transito/",
+        "published_date": "2026-08-05 01:03:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Florida seeks to limit access to education for families with irregular immigration status",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/florida-restricciones-educativas-familias-estatus-migratorio-irregular/",
+        "published_date": "2026-08-05 00:34:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba raises minimum taxes on used vehicles: high-end cars will pay up to $5,000",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-aumenta-impuestos-minimos-vehiculos-usados-5000-dolares/",
+        "published_date": "2026-08-05 00:12:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you own a car in Cuba?The rules change to sell, donate or inherit it",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/propietario-auto-cuba-cambian-reglas-vender-donar-heredar/",
+        "published_date": "2026-08-04 23:53:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba redesigns its system of care for the vulnerable: these are the approved changes",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-redisena-atencion-vulnerables-cambios-aprobados/",
+        "published_date": "2026-08-04 23:20:29",
+        "category": "Local Events"
+    },
+    {
         "title": "These are the tariffs to import an electric car to Cuba",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/aranceles-importar-auto-electrico-cuba-500-2000-dolares/",
         "published_date": "2026-08-04 23:09:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Multidimensional commemorative program for Fidel's Centennial in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/multidimensional-programa-conmemorativo-por-centenario-de-fidel-en-cienfuegos/",
-        "published_date": "2026-08-04 23:07:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Car sellers in Cuba must offer guarantee and 24-hour roadside assistance",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/vendedores-autos-cuba-garantia-asistencia-carretera-24-horas/",
-        "published_date": "2026-08-04 22:26:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how taxes are for the purchase of vehicles in Cuba: rates of up to 35%",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/impuestos-compra-vehiculos-cuba-tasas-3-35-por-ciento/",
-        "published_date": "2026-08-04 22:00:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE detains a passenger after landing at Miami airport",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/ice-detiene-pasajero-aeropuerto-miami/",
-        "published_date": "2026-08-04 21:34:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The regularization of migrants in Spain boosts employment to a record of 22.5 million workers",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/la-regularizacion-de-migrantes-en-espana-impulsa-el-empleo-hasta-un-record-de-225-millones-de-trabajadores/",
-        "published_date": "2026-08-04 21:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Private companies will be able to assemble electric cars and motorcycles in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/empresas-privadas-ensamblar-autos-motos-electricas-cuba/",
-        "published_date": "2026-08-04 20:31:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "With borrowed shoes, the Cuban field hockey team wins gold",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/zapatillas-prestadas-equipo-hockey-cesped_1_1129475.html",
-        "published_date": "2026-08-04 20:31:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "150 years after his death, Cienfuegos remembers El Inglesito (+Galleries)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-recuerda-al-inglesito/",
-        "published_date": "2026-08-04 20:11:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tourist cars can be purchased in Cuba after two or three years of operation",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/autos-turismo-cuba-venta-dos-tres-anos-explotacion/",
-        "published_date": "2026-08-04 20:00:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eliseo Altunaga, screenwriter and teacher of several generations of filmmakers, dies",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/muere-eliseo-altunaga-guionista-maestro_1_1129472.html",
-        "published_date": "2026-08-04 19:53:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breaking news: Cuba eliminates tariffs for the import of electric cars",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-elimina-aranceles-autos-electricos-estacion-carga-renovable/",
-        "published_date": "2026-08-04 18:59:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Havana of Trash and Smoke",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/safie-m-gonzalez/a-havana-of-trash-and-smoke/",
-        "published_date": "2026-08-04 18:52:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official Gazette publishes regulations related to vehicles",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/gaceta-oficial-publica-normativas-relacionadas-con-los-vehiculos/",
-        "published_date": "2026-08-04 18:44:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba changes the policy for the import of combustion motorcycles",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-importar-motos-hasta-250-cc-requisitos-pagos/",
-        "published_date": "2026-08-04 18:21:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between April and July, at least 49 deaths in Venezuelan prisons",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/abril-julio-49-muertes-presos_1_1129470.html",
-        "published_date": "2026-08-04 18:16:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sale of cars in dollars in Cuba: payments between individuals are authorized, but with one condition",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-pagar-dolares-compraventa-autos-particulares-prohibe-efectivo/",
-        "published_date": "2026-08-04 18:11:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Only these people will be able to import gasoline and hybrid cars in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/personas-podran-importar-autos-gasolina-hibridos-cuba/",
-        "published_date": "2026-08-04 18:02:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "They denounce a new beating of a minor prisoner due to the protests in Mor\u00f3n",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/denuncian-nueva-golpiza-menor-preso_1_1129468.html",
-        "published_date": "2026-08-04 18:01:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the conditions to be able to import an electric car in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cubanos-residentes-importar-auto-electrico-una-vez-condiciones/",
-        "published_date": "2026-08-04 17:52:46",
         "category": "Local Events"
     }
 ]
