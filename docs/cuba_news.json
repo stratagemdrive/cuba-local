@@ -1,5 +1,26 @@
 [
     {
+        "title": "The US proposes to the OAS to convene the foreign ministers to \"take measures\" against Ortega's decisions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-propone-oea-convocar_1_1129528.html",
+        "published_date": "2026-08-06 10:27:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Dinorah Figuera arrives in Venezuela to continue the dialogue with Chavismo",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/llega-venezuela-dinorah-figuera-continuar_1_1129526.html",
+        "published_date": "2026-08-06 10:17:04",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Americans reject narrative of Cuba as a threat",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/33028-rechazan-estadounidenses-narrativa-de-cuba-como-amenaza",
+        "published_date": "2026-08-05 15:14:35",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Brazil accuses the US of canceling the visa of its ambassador to interfere in the elections",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/brasil-acusa-ee-uu-cancelar_1_1129488.html",
@@ -82,6 +103,13 @@
         "url": "https://www.5septiembre.cu/bruno-rodriguez-el-contexto-politico-internacional-en-el-que-cuba-defiende-su-revolucion-se-ha-agravado-significativamente/",
         "published_date": "2026-07-29 16:24:32",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Active military service ends for young people in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/culmina-servicio-militar-activo-para-jovenes-en-cienfuegos/",
+        "published_date": "2026-08-05 21:44:09",
+        "category": "Military"
     },
     {
         "title": "Bus bomb deactivated on road near Cali, where De la Espriella will be inaugurated",
@@ -186,20 +214,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/china-condena-sanciones-de-eeuu-contra-instituciones-cientificas/",
         "published_date": "2026-07-29 15:13:40",
-        "category": "Military"
-    },
-    {
-        "title": "Fujimori begins his mandate in Peru focused on fighting crime and reducing inequalities",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/fujimori-inicia-mandato-peru-centrada_1_1129279.html",
-        "published_date": "2026-07-29 09:47:55",
-        "category": "Military"
-    },
-    {
-        "title": "Cuba advances in the implementation of transformations to boost the economy and serve the people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260729/sesiona-hoy-periodo-ordinario-del-parlamento-cubano/",
-        "published_date": "2026-07-29 04:05:48",
         "category": "Military"
     },
     {
@@ -343,6 +357,13 @@
         "category": "Energy"
     },
     {
+        "title": "Queues in Havana banks complicate the withdrawal of cash and pensions",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/colas-bancos-habana-efectivo-pensiones/",
+        "published_date": "2026-08-05 23:22:49",
+        "category": "Economy"
+    },
+    {
         "title": "Cuban pesos and currencies: what are they going to sell in the new market in Cuba and who can buy?",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/pesos-cubanos-divisas-que-venderan-nuevo-mercado-cuba-quienes-comprar/",
@@ -441,18 +462,109 @@
         "category": "Economy"
     },
     {
-        "title": "Cuba changes the rules for MSMEs and self-employed workers: these are the activities that are prohibited or conditioned",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-reglas-mipymes-cuentapropistas-actividades-prohibidas-condicionadas/",
-        "published_date": "2026-07-29 12:00:32",
-        "category": "Economy"
+        "title": "Presidents of Ecuador and Argentina will meet in Quito",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidentes-de-ecuador-y-argentina-se-reuniran-en-quito/",
+        "published_date": "2026-08-06 12:23:13",
+        "category": "Local Events"
     },
     {
-        "title": "MSMEs will be able to manage marinas, gas stations and terminals in Cuba under state concession",
+        "title": "They denounce that tourists spent more than 12 hours stranded without transportation at Havana Airport",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/mipymes-gestionar-gasolineras-marinas-terminales-cuba/",
-        "published_date": "2026-07-29 09:50:00",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/actualidad/denuncian-que-turistas-pasaron-mas-de-12-horas-varados-sin-transporte-en-aeropuerto-de-la-habana/",
+        "published_date": "2026-08-06 12:01:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Concern grows among Cubans with I-220A after this new case in Miami",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/crece-la-preocupacion-entre-cubanos-con-i-220a-tras-este-nuevo-caso-en-miami/",
+        "published_date": "2026-08-06 11:11:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dollar and euro in Cuba remain high.This is how exchange rates are today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/dolar-euro-cuba-tasas-cambio-hoy-6-agosto-2026/",
+        "published_date": "2026-08-06 10:30:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Landless Movement of Brazil donates seven tons of medicines to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/movimiento-tierra-brasil-dona-siete_1_1129524.html",
+        "published_date": "2026-08-06 10:03:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Neighbors capture and tie up an alleged motorcycle thief in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/vecinos-capturan-hombre-intento-robo-moto-infanta-zanja-habana/",
+        "published_date": "2026-08-06 10:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The CIA acts in Cuba to create fissures in the leadership and unseat the hardline sector",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cia-actua-cuba-crear-fisuras_1_1129523.html",
+        "published_date": "2026-08-06 09:24:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two people are still trapped after the collapse of a building in Villa Clara",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/personas-siguen-atrapadas-derrumbe-edificio_1_1129519.html",
+        "published_date": "2026-08-06 08:26:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Total collapse of a school in Cuba leaves several people trapped",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/derrumbe-total-escuela-cuba-personas-atrapadas/",
+        "published_date": "2026-08-06 05:32:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gourmet neo-McCarthyism",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/neo-macartismo-gourmet/",
+        "published_date": "2026-08-06 04:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price of oil skyrockets in Cuba: up to 6,000 pesos for a liter",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/precio-aceite-cuba-6000-pesos/",
+        "published_date": "2026-08-06 01:10:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention drivers: 86 truck drivers and dozens of people arrested in the United States as part of a large operation",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/86-camioneros-arrestados-y-decenas-de-conductores-arrestados-en-estados-unidos-como-parte-de-un-gran-operativo/",
+        "published_date": "2026-08-06 00:44:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cooking Oil in Cuba is Now a Total Luxury Item",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/cooking-oil-in-cuba-is-now-a-total-luxury-item/",
+        "published_date": "2026-08-06 00:20:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price of oil in Guant\u00e1namo is set at 2,200 pesos",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/precio-aceite-guantanamo-2200-pesos/",
+        "published_date": "2026-08-06 00:11:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba opens new process to approve vehicles assembled by parts",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/homologacion-vehiculos-armados-partes-cuba/",
+        "published_date": "2026-08-05 22:49:38",
+        "category": "Local Events"
     },
     {
         "title": "Ciego de \u00c1vila faces a shortage of 457 medications",
@@ -487,111 +599,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/estados-unidos-espias-cuba/",
         "published_date": "2026-08-05 19:31:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Supertankers are again on the horizon of Matanzas, although without working",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/supertanqueros-nuevo-horizonte-matanzas-funcionar_1_1129505.html",
-        "published_date": "2026-08-05 19:08:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "State Security carries out operations on the anniversary of the Maleconazo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/seguridad-realiza-operativos-aniversario-maleconazo_1_1129503.html",
-        "published_date": "2026-08-05 18:30:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Gov.Privatizes Meal Services for Vulnerable People",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/cuban-gov-privatizes-meal-services-for-vulnerable-people/",
-        "published_date": "2026-08-05 18:24:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The daughter of a Castro diplomat expelled from the United States in 2003 is in ICE custody",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/hija-diplomatico-castrista-expulsado-ee_1_1129501.html",
-        "published_date": "2026-08-05 18:18:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Florida eliminates taxes on these purchases until August 20",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/florida-elimina-los-impuestos-en-estas-compras-hasta-el-20-de-agosto/",
-        "published_date": "2026-08-05 18:08:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans Living from Daily Blackouts to Total Blackouts",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/cubans-living-from-daily-blackouts-to-total-blackouts/",
-        "published_date": "2026-08-05 17:11:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why I Wrote \u201cThe Moonlit Vine\u201d",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/book-reviews-interviews/why-i-wrote-the-moonlit-vine/",
-        "published_date": "2026-08-05 17:10:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba activates request for social assistance online: family members and neighbors will be able to report cases",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cuba-activa-solicitud-de-asistencia-social-por-internet-familiares-y-vecinos-podran-reportar-casos/",
-        "published_date": "2026-08-05 17:01:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is going to happen to your car in Cuba?These are the new rules to sell, donate or inherit it",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/vehiculo-cuba-nuevas-reglas-vender-donar-heredar/",
-        "published_date": "2026-08-05 16:36:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flights from the United States to Cuba in August 2026: these are all confirmed routes",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/vuelos-de-estados-unidos-a-cuba-en-agosto-de-2026-estas-son-todas-las-rutas-confirmadas/",
-        "published_date": "2026-08-05 16:09:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Cuba, Relief Is Only for Those Who Can Afford It",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/kamil-kenders/in-cuba-relief-is-only-for-those-who-can-afford-it/",
-        "published_date": "2026-08-05 15:45:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "International News Briefs for Wednesday, August 5, 2026",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-august-5-2026/",
-        "published_date": "2026-08-05 15:29:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "There will be no quantity limits for the purchase of cars in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-elimina-limite-compra-seis-autos-cinco-anos/",
-        "published_date": "2026-08-05 15:18:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban from Miami sentenced to 27 years in prison for sexually exploiting a minor on the island",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cubano-de-miami-condenado-a-27-anos-de-prision-por-explotar-sexualmente-a-un-menor-en-la-isla/",
-        "published_date": "2026-08-05 15:01:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "If you want to import a car, now Cuba has changed the rules",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/importar-carro-cuba-nuevas-reglas-autos-electricos-hibridos/",
-        "published_date": "2026-08-05 14:34:06",
         "category": "Local Events"
     }
 ]
