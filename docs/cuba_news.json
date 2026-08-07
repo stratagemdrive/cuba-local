@@ -1,5 +1,12 @@
 [
     {
+        "title": "The solidarity of ALBA Movements on Fidel's Centennial",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33040-la-solidaridad-de-alba-movimientos-en-el-centenario-de-fidel",
+        "published_date": "2026-08-07 11:40:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Asela, a Cuban doctor who loves Stomatology, says NO to the blockade",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/asela-una-doctora-cubana-amante-de-la-estomatologia-dice-no-al-bloqueo/",
@@ -84,6 +91,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Ukraine attacks another Russian Amazon logistics center, this time in the Urals",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ucrania-ataca-centro-logistico-amazon_1_1129554.html",
+        "published_date": "2026-08-07 11:56:54",
+        "category": "Military"
+    },
+    {
         "title": "New US sanctions against those who \"facilitate arms shipments to the Cuban regime\"",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/nuevas-sanciones-ee-uu-facilitan_1_1129545.html",
@@ -152,6 +166,13 @@
         "url": "https://www.14ymedio.com/internacional/miles-migrantes-marroquies-entran-fuerza_1_1129358.html",
         "published_date": "2026-07-31 10:44:32",
         "category": "Military"
+    },
+    {
+        "title": "New Chinese donation of photovoltaic systems",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33043-nuevo-donativo-chino-de-sistemas-fotovoltaicos",
+        "published_date": "2026-08-07 17:25:53",
+        "category": "Energy"
     },
     {
         "title": "Will blackouts improve?The United States sells more fuel to Cuba than in 24 years",
@@ -287,11 +308,25 @@
         "category": "Energy"
     },
     {
-        "title": "Let's imitate a good example",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260731/imitemos-un-buen-ejemplo/",
-        "published_date": "2026-07-31 19:19:57",
-        "category": "Energy"
+        "title": "Banmet publishes the list of branches with service this Saturday in the Cuban capital",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/banmet-publica-el-listado-de-sucursales-con-servicio-este-sabado-en-la-capital-cubana/",
+        "published_date": "2026-08-07 20:00:23",
+        "category": "Economy"
+    },
+    {
+        "title": "The absence of a functioning foreign exchange market explains the shortage of cash in national currency",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/economia/ausencia-mercado-divisas-operativo-explica_1_1129564.html",
+        "published_date": "2026-08-07 17:29:27",
+        "category": "Economy"
+    },
+    {
+        "title": "Cuban bank reports on the Tropical card and Transferm\u00f3vil failures",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/banco-cubano-informa-sobre-la-tarjeta-tropical-y-fallos-de-transfermovil/",
+        "published_date": "2026-08-07 13:05:18",
+        "category": "Economy"
     },
     {
         "title": "Are the dollar and euro going up or down in Cuba today?These are the exchange rates",
@@ -392,150 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Banco Metropolitano explains how to book an appointment from your mobile phone to go to the bank",
+        "title": "How to buy a used tourism car in Cuba?What you should know before trying it",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/banco-metropolitano-explica-como-reservar-turno-desde-el-movil-para-ir-al-banco/",
-        "published_date": "2026-07-30 18:35:36",
-        "category": "Economy"
-    },
-    {
-        "title": "Tourist arrivals fall below the dismal data recorded in the covid pandemic",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/llegada-turistas-cae-debajo-pesimos_1_1129550.html",
-        "published_date": "2026-08-07 11:22:47",
+        "url": "https://www.directoriocubano.info/cuba/como-comprar-carro-usado-turismo-cuba-sasa-reposicion/",
+        "published_date": "2026-08-07 23:06:43",
         "category": "Local Events"
     },
     {
-        "title": "Young people from Camag\u00fcey remember Fidel",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260807/recuerdan-a-fidel-jovenes-camagueyanos/",
-        "published_date": "2026-08-07 11:03:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, August 7, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-7-agosto_132_1129547.html",
-        "published_date": "2026-08-07 10:48:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Friday, August 7, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-7-agosto_7_1129549.html",
-        "published_date": "2026-08-07 10:46:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "They advocate in Camag\u00fcey for greater business exchange",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260807/abogan-en-camaguey-por-un-mayor-intercambio-empresarial/",
-        "published_date": "2026-08-07 10:38:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Get to know our weekly edition in PDF from August 7",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-7-de-agosto/",
-        "published_date": "2026-08-07 04:01:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "For you, Fidel;for everyone (+ Multimedia)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/por-ti-fidel-por-todos/",
-        "published_date": "2026-08-07 04:00:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Welcome to Indian Country: 250 Years of Authoritarianism in the USA",
+        "title": "A Cuban Seamstress Gives a New Look to Fashion in Uruguay",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/features/welcome-to-indian-country-250-years-of-authoritarianism-in-the-usa/",
-        "published_date": "2026-08-07 01:48:10",
+        "url": "https://havanatimes.org/interviews/a-cuban-seamstress-gives-a-new-look-to-fashion-in-uruguay/",
+        "published_date": "2026-08-07 20:54:28",
         "category": "Local Events"
     },
     {
-        "title": "\u201cTogether with Fidel\u201d: In images the Cuban press pays tribute to the Commander (+ Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/junto-a-fidel-en-imagenes-la-prensa-cubana-rinde-tributo-al-comandante-fotos/",
-        "published_date": "2026-08-07 00:42:50",
+        "title": "Cuban baseball has gone 12 years without a gold medal",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/beisbol-cubano-suma-12-anos_1_1129574.html",
+        "published_date": "2026-08-07 20:38:44",
         "category": "Local Events"
     },
     {
-        "title": "Social Security payments could be reduced by up to 22% for millions of beneficiaries in the United States in the next decade",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/los-pagos-del-seguro-social-podrian-reducirse-hasta-22-para-millones-de-beneficiarios-en-estados-unidos-en-la-proxima-decada/",
-        "published_date": "2026-08-06 23:23:31",
+        "title": "I'm not alone anymore",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260807/ya-no-estoy-solo/",
+        "published_date": "2026-08-07 20:34:18",
         "category": "Local Events"
     },
     {
-        "title": "The Kjarkas \u2013 Song of the Day",
+        "title": "Let us dedicate this meeting to forging greater unity of the communist and workers parties",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260807/dediquemos-este-encuentro-a-forjar-una-mayor-unidad-de-los-partidos-comunistas-y-obreros/",
+        "published_date": "2026-08-07 20:05:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban President attends the inauguration of the International Meeting of Communist and Workers Parties",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260807/presidente-cubano-asiste-a-la-inauguracion-del-encuentro-internacional-de-partidos-comunistas-y-obreros/",
+        "published_date": "2026-08-07 19:31:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Horse in Campo Elias, Trujillo, Venezuela \u2013 Photo of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/los-kjarkas-song-of-the-day/",
-        "published_date": "2026-08-06 22:40:36",
+        "url": "https://havanatimes.org/photo-of-the-day/a-horse-in-campo-elias-trujillo-venezuela-photo-of-the-day/",
+        "published_date": "2026-08-07 19:18:52",
         "category": "Local Events"
     },
     {
-        "title": "Rescue work ends, two dead and one injured in Remedios",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33039-finalizan-labores-de-rescate-dos-fallecidos-y-un-lesionado-en-remedios",
-        "published_date": "2026-08-06 21:55:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "OUT 27: A different face, but the golden baseball debt continues",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260806/out-27-una-cara-diferente-pero-sigue-la-deuda-dorada-beisbolera/",
-        "published_date": "2026-08-06 21:20:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Freemasons call for a rally against the Government's interference in their internal affairs",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/masones-convocan-concentracion-injerencia-gobierno_1_1129543.html",
-        "published_date": "2026-08-06 21:14:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deliver modules with lycras, lipsticks and glasses to mothers with three or more children in Havana: \u201cAnd what do the children eat?\u201d",
+        "title": "Cubans recount the drama they live after being sent to Africa by ICE",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/entregan-modulos-con-licras-creyones-de-labios-y-gafas-a-madres-con-tres-o-mas-hijos-en-la-habana-y-que-comen-los-ninos/",
-        "published_date": "2026-08-06 21:01:39",
+        "url": "https://www.directoriocubano.info/actualidad/cubanos-relatan-el-drama-que-viven-tras-ser-enviados-a-africa-por-ice/",
+        "published_date": "2026-08-07 19:06:20",
         "category": "Local Events"
     },
     {
-        "title": "Summer of writing at Oficio de Isla",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260806/verano-de-escritura-en-oficio-de-isla/",
-        "published_date": "2026-08-06 20:25:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Asian porcelain in Decorative Arts",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260806/porcelana-asiatica-en-artes-decorativas/",
-        "published_date": "2026-08-06 20:20:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vietnam delivers the first batch of rice produced in Cuba: more than 470 tons",
+        "title": "Florida closes three public pools in Hialeah for operating without permits",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/vietnam-entrega-el-primer-lote-de-arroz-producido-en-cuba-mas-de-470-toneladas/",
-        "published_date": "2026-08-06 20:05:08",
+        "url": "https://www.directoriocubano.info/estados-unidos/florida-cierra-piscinas-bucky-dent-hialeah-sin-permisos/",
+        "published_date": "2026-08-07 18:32:25",
         "category": "Local Events"
     },
     {
-        "title": "Alba Movements Continental Assembly began in Havana",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260806/comenzo-en-la-habana-asamblea-continental-alba-movimientos/",
-        "published_date": "2026-08-06 20:04:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US sentences a Cuban to 30 months in prison for entering compatriots with fraudulent visas",
+        "title": "A hundred Freemasons thwart the Government's attempt to remove the leader of the Supreme Council",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/ee-uu-condena-30-meses_1_1129540.html",
-        "published_date": "2026-08-06 19:56:29",
+        "url": "https://www.14ymedio.com/cuba/centenar-masones-frustran-gobierno-apartar_1_1129568.html",
+        "published_date": "2026-08-07 18:14:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The creators of El4tico serve six months in prison without a trial date",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/creadores-el4tico-cumplen-seis-meses_1_1129567.html",
+        "published_date": "2026-08-07 18:08:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the new international recharge of ETECSA from August 13 to 16",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/asi-sera-la-nueva-recarga-internacional-de-etecsa-del-13-al-16-de-agosto/",
+        "published_date": "2026-08-07 18:06:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tesla or BYD?If you want to import an electric car to Cuba, these are the steps and costs",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/importar-carro-electrico-cuba-pasos-requisitos-pagos-aduana/",
+        "published_date": "2026-08-07 17:32:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel toured the Havana Electric Company and other facilities",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/recorrio-diaz-canel-empresa-electrica-de-la-habana-y-otras-instalaciones/",
+        "published_date": "2026-08-07 17:31:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hialeah water park closes just days after reopening",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/cierran-parque-acuatico-en-hialeah-apenas-dias-despues-de-reabrir/",
+        "published_date": "2026-08-07 17:09:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marco Rubio warns that Havana \"will have no escape\" and that the US will be implacable",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/marco-rubio-advierte-habana-no_1_1129565.html",
+        "published_date": "2026-08-07 16:50:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Are you traveling to Cuba?Airlines increase controls due to new policies",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/viajas-cuba-aerolineas-aumentan-controles-nuevas-politicas/",
+        "published_date": "2026-08-07 16:03:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel, the Book Fair and the Cuban publishing legacy",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fidel-la-feria-del-libro-y-el-legado-editorial-cubano/",
+        "published_date": "2026-08-07 16:03:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban students awarded in ballet competition in South Africa",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/premian-a-estudiantes-cubanos-en-certamen-de-ballet-en-sudafrica/",
+        "published_date": "2026-08-07 15:29:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "More options to import a car in Cuba: the number of agencies that can process vehicles increases",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/mas-opciones-importar-carro-cuba-agencias-comercializadoras/",
+        "published_date": "2026-08-07 15:26:05",
         "category": "Local Events"
     }
 ]
