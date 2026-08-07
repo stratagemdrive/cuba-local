@@ -84,6 +84,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "New US sanctions against those who \"facilitate arms shipments to the Cuban regime\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nuevas-sanciones-ee-uu-facilitan_1_1129545.html",
+        "published_date": "2026-08-07 09:08:18",
+        "category": "Military"
+    },
+    {
         "title": "Active military service ends for young people in Cienfuegos",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/culmina-servicio-militar-activo-para-jovenes-en-cienfuegos/",
@@ -144,20 +151,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/miles-migrantes-marroquies-entran-fuerza_1_1129358.html",
         "published_date": "2026-07-31 10:44:32",
-        "category": "Military"
-    },
-    {
-        "title": "Open vindication of the military dictatorships of the 20th century and the Condor Plan",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reivindicacion-abierta-de-las-dictaduras-militares-del-siglo-xx-y-del-plan-condor/",
-        "published_date": "2026-07-30 04:00:21",
-        "category": "Military"
-    },
-    {
-        "title": "Cuba: A Tour Through Ruins of the Gaesa Military Empire",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/cuba-a-tour-through-ruins-of-the-gaesa-military-empire/",
-        "published_date": "2026-07-30 03:28:46",
         "category": "Military"
     },
     {
@@ -301,6 +294,13 @@
         "category": "Energy"
     },
     {
+        "title": "Are the dollar and euro going up or down in Cuba today?These are the exchange rates",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/suben-bajan-dolar-euro-cuba-hoy-tasas-cambio-7-agosto-2026/",
+        "published_date": "2026-08-07 10:40:13",
+        "category": "Economy"
+    },
+    {
         "title": "Government warns MSMEs of fines, confiscations and closures for violations and abusive prices",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/atencion-mipymes-la-habana-controles-precios-pagos-electronicos/",
@@ -399,11 +399,60 @@
         "category": "Economy"
     },
     {
-        "title": "Euro and dollar in Cuba today: Increases in the exchange rate today",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/euro-dolar-cuba-hoy-aumentos-tasa-cambio-30-julio-2026/",
-        "published_date": "2026-07-30 10:40:21",
-        "category": "Economy"
+        "title": "Tourist arrivals fall below the dismal data recorded in the covid pandemic",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/economia/llegada-turistas-cae-debajo-pesimos_1_1129550.html",
+        "published_date": "2026-08-07 11:22:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young people from Camag\u00fcey remember Fidel",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260807/recuerdan-a-fidel-jovenes-camagueyanos/",
+        "published_date": "2026-08-07 11:03:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, August 7, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-7-agosto_132_1129547.html",
+        "published_date": "2026-08-07 10:48:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, August 7, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-7-agosto_7_1129549.html",
+        "published_date": "2026-08-07 10:46:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "They advocate in Camag\u00fcey for greater business exchange",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260807/abogan-en-camaguey-por-un-mayor-intercambio-empresarial/",
+        "published_date": "2026-08-07 10:38:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get to know our weekly edition in PDF from August 7",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-7-de-agosto/",
+        "published_date": "2026-08-07 04:01:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "For you, Fidel;for everyone (+ Multimedia)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/por-ti-fidel-por-todos/",
+        "published_date": "2026-08-07 04:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Welcome to Indian Country: 250 Years of Authoritarianism in the USA",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/welcome-to-indian-country-250-years-of-authoritarianism-in-the-usa/",
+        "published_date": "2026-08-07 01:48:10",
+        "category": "Local Events"
     },
     {
         "title": "\u201cTogether with Fidel\u201d: In images the Cuban press pays tribute to the Commander (+ Photos)",
@@ -424,6 +473,20 @@
         "source": "Havana Times",
         "url": "https://havanatimes.org/todays-song/los-kjarkas-song-of-the-day/",
         "published_date": "2026-08-06 22:40:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rescue work ends, two dead and one injured in Remedios",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33039-finalizan-labores-de-rescate-dos-fallecidos-y-un-lesionado-en-remedios",
+        "published_date": "2026-08-06 21:55:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "OUT 27: A different face, but the golden baseball debt continues",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260806/out-27-una-cara-diferente-pero-sigue-la-deuda-dorada-beisbolera/",
+        "published_date": "2026-08-06 21:20:36",
         "category": "Local Events"
     },
     {
@@ -473,76 +536,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/migracion/ee-uu-condena-30-meses_1_1129540.html",
         "published_date": "2026-08-06 19:56:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Municipal autonomy: thinking about collective well-being",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260806/autonomia-municipal-pensando-el-bienestar-colectivo/",
-        "published_date": "2026-08-06 19:55:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Solidarity without borders: Chilean brigade travels to Cuba with donations for Fidel's centenary",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/solidaridad-sin-fronteras-brigada-chilena-viaja-a-cuba-con-donativos-por-el-centenario-de-fidel/",
-        "published_date": "2026-08-06 19:43:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miami, Santo Domingo, Jamaica and Venezuela: flights confirmed in August from Santiago de Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/miami-santo-domingo-jamaica-y-venezuela-los-vuelos-confirmados-en-agosto-desde-santiago-de-cuba/",
-        "published_date": "2026-08-06 19:39:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rain to drink, contaminated water for everyday life",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/lluvia-beber-agua-contaminada-dia_1_1129538.html",
-        "published_date": "2026-08-06 19:23:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "What to Send to Cuba: The Universe in a Box",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/what-to-send-to-cuba-the-universe-in-a-box/",
-        "published_date": "2026-08-06 18:57:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important information from Cupet to customers with gas service",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/informacion-importante-cupet-clientes-servicio-gas-manufacturado/",
-        "published_date": "2026-08-06 18:54:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former CIA chief assures that Trump is preparing a decisive turn towards Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/exjefe-de-la-cia-asegura-que-trump-prepara-un-giro-decisivo-hacia-cuba/",
-        "published_date": "2026-08-06 18:09:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Operation Cuba Va: one hundred years, one hundred schools",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/operacion-cuba-va-cien-anos-cien-escuelas/",
-        "published_date": "2026-08-06 18:00:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel decorated the Cuban brigade that assisted in Venezuela",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/condecoro-diaz-canel-a-brigada-cubana-que-asistio-en-venezuela/",
-        "published_date": "2026-08-06 17:44:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Now you can buy tourist cars in Cuba: these are the requirements",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/comprar-carros-turismo-cuba-requisitos-venta-transtur/",
-        "published_date": "2026-08-06 17:06:34",
         "category": "Local Events"
     }
 ]
