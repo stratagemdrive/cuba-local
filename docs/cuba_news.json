@@ -91,13 +91,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba intervened in Session 31 of the International Seabed Assembly",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/intervino-cuba-en-sesion-31-de-asamblea-internacional-de-fondos-marinos/",
-        "published_date": "2026-07-31 16:02:04",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Ukraine attacks another Russian Amazon logistics center, this time in the Urals",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/ucrania-ataca-centro-logistico-amazon_1_1129554.html",
@@ -161,11 +154,18 @@
         "category": "Military"
     },
     {
-        "title": "FAES awards its freedom prize to Rosa Mar\u00eda Pay\u00e1, Masih Alinejad and Yulia Navalnaya",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura/faes-concede-premio-libertad-rosa_1_1129364.html",
-        "published_date": "2026-07-31 12:56:25",
-        "category": "Military"
+        "title": "Cuba: Tax incentives to promote renewable energies",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-incentivos-fiscales-para-impulsar-las-energias-renovables/",
+        "published_date": "2026-08-08 20:46:30",
+        "category": "Energy"
+    },
+    {
+        "title": "Official Gazette: Cuban Customs expands tariff-free imports",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/aduana-cuba-amplia-importaciones-libres-aranceles/",
+        "published_date": "2026-08-08 15:05:43",
+        "category": "Energy"
     },
     {
         "title": "Blackout in Cuba could affect 72% of the country this Friday",
@@ -294,18 +294,18 @@
         "category": "Energy"
     },
     {
-        "title": "Russia extends fuel export ban until January 2027",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/rusia-prorroga-prohibicion-exportar-combustible-enero-2027/",
-        "published_date": "2026-08-02 21:43:01",
-        "category": "Energy"
+        "title": "ProGas points close again in Havana after running out of gas bales in dollars",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/puntos-progas-vuelven-cerrar-habana_1_1129597.html",
+        "published_date": "2026-08-08 18:27:42",
+        "category": "Economy"
     },
     {
-        "title": "Uni\u00f3n El\u00e9ctrica reports status of the SEN for this August 2",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/informa-union-electrica-estado-del-sen-para-este-2-de-agosto/",
-        "published_date": "2026-08-02 17:01:06",
-        "category": "Energy"
+        "title": "The dollar and the euro rise in Cuba: this is how exchange rates dawn today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/suben-dolar-euro-cuba-tasas-cambio-hoy-8-agosto-2026/",
+        "published_date": "2026-08-08 11:21:10",
+        "category": "Economy"
     },
     {
         "title": "They establish new price caps in Cuba and warn MSMEs of confiscations and fines",
@@ -427,143 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "The pulse of the night overshadowed by alcohol",
+        "title": "D\u00edaz-Canel receives delegates from the IV Continental Assembly ALBA Movements at the Palace of the Revolution",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-pulso-de-la-noche-opacado-por-el-alcohol/",
-        "published_date": "2026-08-08 04:00:47",
+        "url": "https://www.5septiembre.cu/recibe-diaz-canel-en-el-palacio-de-la-revolucion-a-delegados-de-la-iv-asamblea-continental-alba-movimientos/",
+        "published_date": "2026-08-08 22:07:09",
         "category": "Local Events"
     },
     {
-        "title": "D\u00edaz-Canel proposes using artificial intelligence to distribute blackouts in Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/inteligencia-artificial-apagones-habana/",
-        "published_date": "2026-08-08 02:06:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opa-Locka plans new supermarket, 1,500 homes and hotel in a $532 million renovation",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/opa-locka-proyecto-1500-viviendas-supermercado-hotel-renovacion-532-millones/",
-        "published_date": "2026-08-08 00:01:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to buy a used tourism car in Cuba?What you should know before trying it",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/como-comprar-carro-usado-turismo-cuba-sasa-reposicion/",
-        "published_date": "2026-08-07 23:06:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Cuban Seamstress Gives a New Look to Fashion in Uruguay",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/a-cuban-seamstress-gives-a-new-look-to-fashion-in-uruguay/",
-        "published_date": "2026-08-07 20:54:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban baseball has gone 12 years without a gold medal",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/beisbol-cubano-suma-12-anos_1_1129574.html",
-        "published_date": "2026-08-07 20:38:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "I'm not alone anymore",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260807/ya-no-estoy-solo/",
-        "published_date": "2026-08-07 20:34:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Let us dedicate this meeting to forging greater unity of the communist and workers parties",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260807/dediquemos-este-encuentro-a-forjar-una-mayor-unidad-de-los-partidos-comunistas-y-obreros/",
-        "published_date": "2026-08-07 20:05:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban President attends the inauguration of the International Meeting of Communist and Workers Parties",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260807/presidente-cubano-asiste-a-la-inauguracion-del-encuentro-internacional-de-partidos-comunistas-y-obreros/",
-        "published_date": "2026-08-07 19:31:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Horse in Campo Elias, Trujillo, Venezuela \u2013 Photo of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/a-horse-in-campo-elias-trujillo-venezuela-photo-of-the-day/",
-        "published_date": "2026-08-07 19:18:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans recount the drama they live after being sent to Africa by ICE",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cubanos-relatan-el-drama-que-viven-tras-ser-enviados-a-africa-por-ice/",
-        "published_date": "2026-08-07 19:06:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Florida closes three public pools in Hialeah for operating without permits",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/florida-cierra-piscinas-bucky-dent-hialeah-sin-permisos/",
-        "published_date": "2026-08-07 18:32:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "A hundred Freemasons thwart the Government's attempt to remove the leader of the Supreme Council",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/centenar-masones-frustran-gobierno-apartar_1_1129568.html",
-        "published_date": "2026-08-07 18:14:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The creators of El4tico serve six months in prison without a trial date",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/creadores-el4tico-cumplen-seis-meses_1_1129567.html",
-        "published_date": "2026-08-07 18:08:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "This will be the new international recharge of ETECSA from August 13 to 16",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/asi-sera-la-nueva-recarga-internacional-de-etecsa-del-13-al-16-de-agosto/",
-        "published_date": "2026-08-07 18:06:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tesla or BYD?If you want to import an electric car to Cuba, these are the steps and costs",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/importar-carro-electrico-cuba-pasos-requisitos-pagos-aduana/",
-        "published_date": "2026-08-07 17:32:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel toured the Havana Electric Company and other facilities",
+        "title": "Dominican Broad Front claims Fidel Castro's legacy",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/recorrio-diaz-canel-empresa-electrica-de-la-habana-y-otras-instalaciones/",
-        "published_date": "2026-08-07 17:31:05",
+        "url": "https://www.5septiembre.cu/frente-amplio-de-dominicana-reivindica-legado-de-fidel-castro/",
+        "published_date": "2026-08-08 22:00:47",
         "category": "Local Events"
     },
     {
-        "title": "Hialeah water park closes just days after reopening",
+        "title": "The Latin American right courts the shield",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-derecha-de-america-latina-corteja-al-escudo/",
+        "published_date": "2026-08-08 21:31:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "MLB: Dodgers in the mirror of their seventh fall",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mlb-dodgers-ante-el-espejo-de-su-septima-caida/",
+        "published_date": "2026-08-08 21:21:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wikipedia has been edited by the CIA, says co-founder",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/wikipedia-ha-sido-editada-por-la-cia-asegura-cofundador/",
+        "published_date": "2026-08-08 20:30:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba and Namibia reaffirm unbreakable brotherhood",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-y-namibia-reafirman-hermandad-inquebrantable/",
+        "published_date": "2026-08-08 20:13:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "In eastern Cuba they also set capped food prices",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cierran-parque-acuatico-en-hialeah-apenas-dias-despues-de-reabrir/",
-        "published_date": "2026-08-07 17:09:44",
+        "url": "https://www.directoriocubano.info/cuba/precios-alimentos-holguin-moa-banes/",
+        "published_date": "2026-08-08 20:05:40",
         "category": "Local Events"
     },
     {
-        "title": "Marco Rubio warns that Havana \"will have no escape\" and that the US will be implacable",
+        "title": "Political and mass organizations will celebrate Fidel's centenary",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/organizaciones-politicas-y-de-masas-celebraran-centenario-de-fidel/",
+        "published_date": "2026-08-08 19:36:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States explores figures for a political transition in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/estados-unidos-transicion-politica-cuba/",
+        "published_date": "2026-08-08 19:03:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Villa Clara and Guant\u00e1namo authorities act against abusive prices",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/autoridades-de-villa-clara-y-guantanamo-actuan-ante-precios-abusivos/",
+        "published_date": "2026-08-08 18:49:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"We are living among strangers\": emigration empties the neighborhoods of Matanzas",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/marco-rubio-advierte-habana-no_1_1129565.html",
-        "published_date": "2026-08-07 16:50:05",
+        "url": "https://www.14ymedio.com/cuba/viviendo-desconocidos-emigracion-vacia-barrios_1_1129593.html",
+        "published_date": "2026-08-08 18:19:18",
         "category": "Local Events"
     },
     {
-        "title": "Are you traveling to Cuba?Airlines increase controls due to new policies",
+        "title": "USCIS may request DNA tests in family immigration procedures",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/viajas-cuba-aerolineas-aumentan-controles-nuevas-politicas/",
-        "published_date": "2026-08-07 16:03:26",
+        "url": "https://www.directoriocubano.info/acontecer/uscis-pruebas-adn-tramites-familiares/",
+        "published_date": "2026-08-08 18:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "A colossus between cartoons: Fidel also fits in a comic",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/33044-un-coloso-entre-vinetas-fidel-tambien-cabe-en-un-comic",
+        "published_date": "2026-08-08 17:54:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maximum prices for oil, eggs, milk, sugar and sausages in another Cuban province",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/villa-clara-precios-maximos-aceite-huevos-leche-azucar-salchichas/",
+        "published_date": "2026-08-08 17:33:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camag\u00fcey on the Cuban tourism route",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33042-camagueey-en-la-ruta-del-turismo-de-cuba",
+        "published_date": "2026-08-08 17:29:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "New payments and tax benefits for electricity generation in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-90-pesos-kwh-beneficios-fiscales-energia-renovable/",
+        "published_date": "2026-08-08 17:08:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "They tie him up and force him to eat corn after catching him stealing in Ceballos",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/robo-maiz-ceballos-campesinos/",
+        "published_date": "2026-08-08 16:33:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula accuses Marco Rubio of being \"anti-Latin American\" and of encouraging the trade conflict with the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/lula-acusa-marco-rubio-antilatinoamericano_1_1129591.html",
+        "published_date": "2026-08-08 16:13:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Food prices in Cuba: eggs reach 300 pesos and oil 4,500",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/precios-alimentos-cuba-huevo-aceite/",
+        "published_date": "2026-08-08 16:08:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Not Even the Tips for the Cuban Government",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/lien-estrada/not-even-the-tips-for-the-cuban-government/",
+        "published_date": "2026-08-08 15:24:43",
         "category": "Local Events"
     }
 ]
