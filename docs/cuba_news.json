@@ -84,13 +84,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Incredible: Cuban government opens the door to Trump's businesses on the island",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/gobierno-cubano-negocios-trump-cuba/",
-        "published_date": "2026-08-01 00:01:23",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Ukraine attacks another Russian Amazon logistics center, this time in the Urals",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/ucrania-ataca-centro-logistico-amazon_1_1129554.html",
@@ -158,6 +151,13 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cuba-incentivos-fiscales-para-impulsar-las-energias-renovables/",
         "published_date": "2026-08-08 20:46:30",
+        "category": "Energy"
+    },
+    {
+        "title": "Tax benefits for renewable energies in state and non-state sectors are updated",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260808/actualizan-beneficios-fiscales-para-energias-renovables-en-sectores-estatal-y-no-estatal/",
+        "published_date": "2026-08-08 15:45:26",
         "category": "Energy"
     },
     {
@@ -287,17 +287,45 @@
         "category": "Energy"
     },
     {
-        "title": "Delcy Rodr\u00edguez asks the country to save electricity and water due to the \"Superni\u00f1o\" climate phenomenon",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-pide-pais-ahorrar_1_1129446.html",
-        "published_date": "2026-08-03 12:30:47",
-        "category": "Energy"
+        "title": "About the increase in the limit for transferring from the Red card",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sobre-el-aumento-del-limite-para-trasferir-desde-la-tarjeta-red/",
+        "published_date": "2026-08-09 04:00:16",
+        "category": "Economy"
+    },
+    {
+        "title": "Government creates WhatsApp channel and enables telephones to report MSMEs and other businesses",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gobierno-crea-canal-de-whatsapp-y-habilita-telefonos-para-denunciar-a-mipymes-y-otros-negocios/",
+        "published_date": "2026-08-08 22:46:57",
+        "category": "Economy"
+    },
+    {
+        "title": "National offensive against MSMEs and private businesses to stop the escalation of prices in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/ofensiva-nacional-contra-las-mipymes-y-negocios-privados-para-frenar-la-escalada-de-precios-en-cuba/",
+        "published_date": "2026-08-08 22:21:30",
+        "category": "Economy"
+    },
+    {
+        "title": "Havana reinforces offensive against MSMEs and issues an important warning",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/la-habana-refuerza-controles-precios-abusivos-alimentos/",
+        "published_date": "2026-08-08 22:06:02",
+        "category": "Economy"
     },
     {
         "title": "ProGas points close again in Havana after running out of gas bales in dollars",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/puntos-progas-vuelven-cerrar-habana_1_1129597.html",
         "published_date": "2026-08-08 18:27:42",
+        "category": "Economy"
+    },
+    {
+        "title": "Gise and her loves",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260808/gise-y-sus-amores/",
+        "published_date": "2026-08-08 16:20:18",
         "category": "Economy"
     },
     {
@@ -399,32 +427,95 @@
         "category": "Economy"
     },
     {
-        "title": "New banking implementations seek to strengthen digital payments",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33027-nuevas-implementaciones-bancarias-buscan-reforzar-pagos-digitales",
-        "published_date": "2026-08-03 18:36:02",
-        "category": "Economy"
+        "title": "Julio puts Lezama, Gloria Rolando and Cuban totalitarianism in bookstores",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura/julio-pone-lezama-gloria-rolando_1_1129601.html",
+        "published_date": "2026-08-09 11:26:52",
+        "category": "Local Events"
     },
     {
-        "title": "They denounce closures of Quivic\u00e1n MSMEs after requiring them to pay pensions in cash",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/denuncian-cierres-mipymes-quivican-pagar-pensiones-efectivo/",
-        "published_date": "2026-08-02 16:01:23",
-        "category": "Economy"
+        "title": "The sun is also quoted in dollars in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sol-cotiza-dolares-cuba_1_1129599.html",
+        "published_date": "2026-08-09 11:10:23",
+        "category": "Local Events"
     },
     {
-        "title": "Price of the dollar today in Cuba: exchange rates today",
+        "title": "Decreases in exchange rates: this is how the dollar and the euro are in Cuba today",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/economia/precio-dolar-hoy-cuba-tasas-cambio-2-agosto-2026/",
-        "published_date": "2026-08-02 12:27:52",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/cuba/descensos-en-las-tasas-de-cambio-asi-esta-el-dolar-y-el-euro-en-cuba-hoy/",
+        "published_date": "2026-08-09 10:54:15",
+        "category": "Local Events"
     },
     {
-        "title": "New salary system in the state business sector comes into effect",
+        "title": "USCIS may deny applications without first submitting an RFE or NOID",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/sistema-salarial-sector-empresarial-estatal/",
-        "published_date": "2026-08-01 18:28:14",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/acontecer/uscis-denegar-solicitudes-sin-rfe-noid/",
+        "published_date": "2026-08-09 02:54:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban deported from the United States after fraud of more than 340 thousand dollars",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cubano-deportado-fraude-ayudas-federales/",
+        "published_date": "2026-08-09 02:21:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert for leprosy cases in Florida",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/alerta-por-casos-de-lepra-en-florida/",
+        "published_date": "2026-08-09 01:35:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Egg at 200 pesos in Placetas after selling for 40 the day before",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/huevo-200-pesos-placetas/",
+        "published_date": "2026-08-09 01:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tourism in Cuba falls 60.7% and loses almost 600,000 visitors",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/turismo-cuba-cae-607-primer-semestre-2026/",
+        "published_date": "2026-08-09 00:36:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Critical Minerals & Water: Diverging Paths in Latin America",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/critical-minerals-water-diverging-paths-in-latin-america/",
+        "published_date": "2026-08-09 00:24:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "New manufactured gas rates: this is how the September bill will change",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/nuevas-tarifas-gas-manufacturado-septiembre/",
+        "published_date": "2026-08-09 00:01:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Oil at 2,500, rice at 300, eggs at 110 and chicken at 500: complete list with the new prices set by the Government in another province of Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/aceite-a-2500-el-arroz-a-300-huevos-a-110-y-pollo-a-500-lista-completa-con-los-nuevos-precios-fijados-por-el-gobierno-en-otra-provincia-de-cuba/",
+        "published_date": "2026-08-08 23:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santiago de Cuba sets reference prices for rice, chicken, eggs and oil",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/precios-referencia-san-luis-alimentos/",
+        "published_date": "2026-08-08 23:02:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Communist and Workers Parties: anti-imperialist unity and validity of Fidel's legacy",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260808/partidos-comunistas-y-obreros-unidad-antiimperialista-y-vigencia-del-legado-de-fidel/",
+        "published_date": "2026-08-08 22:34:37",
+        "category": "Local Events"
     },
     {
         "title": "D\u00edaz-Canel receives delegates from the IV Continental Assembly ALBA Movements at the Palace of the Revolution",
@@ -473,97 +564,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/precios-alimentos-holguin-moa-banes/",
         "published_date": "2026-08-08 20:05:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Political and mass organizations will celebrate Fidel's centenary",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/organizaciones-politicas-y-de-masas-celebraran-centenario-de-fidel/",
-        "published_date": "2026-08-08 19:36:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States explores figures for a political transition in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/estados-unidos-transicion-politica-cuba/",
-        "published_date": "2026-08-08 19:03:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Villa Clara and Guant\u00e1namo authorities act against abusive prices",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/autoridades-de-villa-clara-y-guantanamo-actuan-ante-precios-abusivos/",
-        "published_date": "2026-08-08 18:49:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"We are living among strangers\": emigration empties the neighborhoods of Matanzas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/viviendo-desconocidos-emigracion-vacia-barrios_1_1129593.html",
-        "published_date": "2026-08-08 18:19:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "USCIS may request DNA tests in family immigration procedures",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/uscis-pruebas-adn-tramites-familiares/",
-        "published_date": "2026-08-08 18:06:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "A colossus between cartoons: Fidel also fits in a comic",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/33044-un-coloso-entre-vinetas-fidel-tambien-cabe-en-un-comic",
-        "published_date": "2026-08-08 17:54:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maximum prices for oil, eggs, milk, sugar and sausages in another Cuban province",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/villa-clara-precios-maximos-aceite-huevos-leche-azucar-salchichas/",
-        "published_date": "2026-08-08 17:33:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camag\u00fcey on the Cuban tourism route",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33042-camagueey-en-la-ruta-del-turismo-de-cuba",
-        "published_date": "2026-08-08 17:29:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "New payments and tax benefits for electricity generation in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-90-pesos-kwh-beneficios-fiscales-energia-renovable/",
-        "published_date": "2026-08-08 17:08:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They tie him up and force him to eat corn after catching him stealing in Ceballos",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/robo-maiz-ceballos-campesinos/",
-        "published_date": "2026-08-08 16:33:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula accuses Marco Rubio of being \"anti-Latin American\" and of encouraging the trade conflict with the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/lula-acusa-marco-rubio-antilatinoamericano_1_1129591.html",
-        "published_date": "2026-08-08 16:13:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Food prices in Cuba: eggs reach 300 pesos and oil 4,500",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/precios-alimentos-cuba-huevo-aceite/",
-        "published_date": "2026-08-08 16:08:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Not Even the Tips for the Cuban Government",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/lien-estrada/not-even-the-tips-for-the-cuban-government/",
-        "published_date": "2026-08-08 15:24:43",
         "category": "Local Events"
     }
 ]
