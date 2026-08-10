@@ -77,11 +77,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Blockade of containers to Cuba denounced in Spain",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncian-en-espana-bloqueo-a-contenedores-hacia-cuba/",
-        "published_date": "2026-08-02 13:55:39",
-        "category": "Diplomacy"
+        "title": "They deploy the military at the points indicated by the assaults on motorcyclists in Guanabacoa",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/despliegan-militares-puntos-senalados-asaltos_1_1129646.html",
+        "published_date": "2026-08-10 15:31:07",
+        "category": "Military"
     },
     {
         "title": "Ukraine attacks another Russian Amazon logistics center, this time in the Urals",
@@ -126,11 +126,11 @@
         "category": "Military"
     },
     {
-        "title": "Prime Minister calls to produce food as defense of the homeland",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/primer-ministro-llama-a-producir-alimentos-como-defensa-de-la-patria/",
-        "published_date": "2026-08-02 15:07:33",
-        "category": "Military"
+        "title": "In Lawton, 137 hours of blackout in one week: \u201cMore than five days in the dark\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/lawton-137-horas-apagon-semana_1_1129650.html",
+        "published_date": "2026-08-10 18:36:01",
+        "category": "Energy"
     },
     {
         "title": "The National Series will have fewer games due to blackouts and fuel shortages",
@@ -266,11 +266,18 @@
         "category": "Energy"
     },
     {
-        "title": "Cuba once again suffers a total blackout after a new disconnection from the National Electrical System",
+        "title": "Havana intensifies controls on MSMEs: fines, forced sales and temporary closures",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-vuelve-a-sufrir-un-apagon-total-tras-una-nueva-desconexion-del-sistema-electrico-nacional/",
-        "published_date": "2026-08-03 21:59:27",
-        "category": "Energy"
+        "url": "https://www.directoriocubano.info/cuba/la-habana-intensifica-controles-de-precios-multas-ventas-forzosas-y-cierres-temporales-a-negocios/",
+        "published_date": "2026-08-10 20:09:13",
+        "category": "Economy"
+    },
+    {
+        "title": "ETECSA limits its supply in foreign currency: these are the only equipment it sells in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/etecsa-limita-su-oferta-en-divisas-estos-son-los-unicos-equipos-que-vende-en-cuba/",
+        "published_date": "2026-08-10 15:09:25",
+        "category": "Economy"
     },
     {
         "title": "The Government asks the private sector for help to produce electricity in exchange for tax exemptions",
@@ -399,157 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Exchange Rates: This is how the dollar and the euro are in Cuba today",
+        "title": "Look how much the dollar and the euro have fallen today in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/tasas-cambio-dolar-euro-cuba-hoy-5-agosto-2026/",
-        "published_date": "2026-08-05 10:40:46",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/cuba/mira-cuanto-ha-bajado-el-dolar-y-el-euro-hoy-en-cuba/",
+        "published_date": "2026-08-10 22:57:47",
+        "category": "Local Events"
     },
     {
-        "title": "Official Gazette: Cuban regime orders the creation of a new wholesale market",
+        "title": "Cuban asylum in Brazil exceeds 20,000 applications in six months",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/gaceta-oficial-cuba-nuevo-mercado-mayorista-abasto/",
-        "published_date": "2026-08-04 23:40:40",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/acontecer/asilo-cubanos-brasil-2026/",
+        "published_date": "2026-08-10 22:28:56",
+        "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Monday, August 10, 2026",
+        "title": "India delivers donation of medicines to hospitals in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/india-donacion-medicamentos-hospitales/",
+        "published_date": "2026-08-10 22:01:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "CONABI denies effects on the legalization of documents in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/conabi-legalizacion-documentos-cuba/",
+        "published_date": "2026-08-10 21:38:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Earthquake in Colombia Leaves at Least 111 Dead",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/the-earthquake-in-colombia-leaves-at-least-111-dead/",
+        "published_date": "2026-08-10 21:31:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "You have 30 days to complete these procedures if you changed the engine, color or body of your vehicle in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cambiaste-motor-color-o-carroceria-de-tu-vehiculo-en-cuba-estos-tramites-debes-hacer-en-30-dias/",
+        "published_date": "2026-08-10 21:10:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic under surveillance: cyclonic potential increases and NOAA anticipates a very strong El Ni\u00f1o",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/atlantico-vigilancia-potencial-ciclonico-el-nino-2026/",
+        "published_date": "2026-08-10 19:34:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 20,000 Cubans requested asylum in Brazil in the first six months of this year",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-10-agosto_132_1129633.html",
-        "published_date": "2026-08-10 10:54:09",
+        "url": "https://www.14ymedio.com/migracion/20-000-cubanos-solicitaron-asilo_1_1129652.html",
+        "published_date": "2026-08-10 19:27:59",
         "category": "Local Events"
     },
     {
-        "title": "Yadier del Valle: victory in the UFC, rebirth and message to D\u00edaz-Canel",
+        "title": "A breakdown leaves seven municipalities in Havana without gas or low pressure",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/yadier-valle-victoria-ufc-renacimiento_1_1129634.html",
-        "published_date": "2026-08-10 10:46:39",
+        "url": "https://www.14ymedio.com/cuba/averia-deja-gas-presion-siete_1_1129654.html",
+        "published_date": "2026-08-10 19:08:11",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Monday, August 10, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-lunes-10-agosto_7_1129636.html",
-        "published_date": "2026-08-10 10:42:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is a crypto wallet for business and what tasks does it solve",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/economia/what-is-crypto-wallet-for_132_1129631.html",
-        "published_date": "2026-08-10 10:16:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "I International Colloquium dedicated to Fidel begins today",
+        "title": "WEEKLY SUMMARY from August 3 to 9",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260810/comienza-hoy-i-coloquio-internacional-dedicado-a-fidel/",
-        "published_date": "2026-08-10 10:13:17",
+        "url": "https://www.trabajadores.cu/20260810/resumen-semanal-del-3-al-9-de-agosto/",
+        "published_date": "2026-08-10 19:07:30",
         "category": "Local Events"
     },
     {
-        "title": "Smart traps and mint: the formula for Beijing's first mosquito-free park",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/trampas-inteligentes-menta-formula-primer_1_1129628.html",
-        "published_date": "2026-08-10 09:32:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella presents his first report of results against illegal armed groups",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/espriella-presenta-primer-parte-resultados_1_1129626.html",
-        "published_date": "2026-08-10 09:03:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "North Korean group develops AI tools to automate cyber attacks",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/grupo-norcoreano-desarrolla-herramientas-ia_1_1129624.html",
-        "published_date": "2026-08-10 08:53:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Honors to the invincible Commander in Chief",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260809/honores-al-invencible-comandante-en-jefe/",
-        "published_date": "2026-08-10 03:19:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Centenary",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260809/centenario/",
-        "published_date": "2026-08-10 02:00:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "XXV Central American and Caribbean Games: The love that fills us (Special Supplement)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260809/xxv-juegos-centroamericanos-y-del-caribe-el-amor-que-nos-llena-suplemento-especial/",
-        "published_date": "2026-08-10 01:05:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Morales Ojeda exchanges with Chinese partisan delegation",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260809/intercambia-morales-ojeda-con-delegacion-partidista-china/",
-        "published_date": "2026-08-10 00:36:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Here is Fidel!(Separate)",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260809/aqui-esta-fidel-separata/",
-        "published_date": "2026-08-10 00:26:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blackouts in Cuba increase expenses for family members in Florida",
+        "title": "Assemble a vehicle in parts in Cuba?Today new regulations have been published in the Official Gazette on Road Safety",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/apagones-cuba-gastos-familiares-florida/",
-        "published_date": "2026-08-10 00:11:47",
+        "url": "https://www.directoriocubano.info/cuba/armaste-un-vehiculo-por-piezas-en-cuba-asi-queda-ahora-el-codigo-de-seguridad-vial/",
+        "published_date": "2026-08-10 19:02:23",
         "category": "Local Events"
     },
     {
-        "title": "Cuba would have a transition more similar to Iran than to Venezuela",
+        "title": "\u201cFidel left us that dreams are achieved by defending ideas\u201d",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33050-fidel-nos-lego-que-los-suenos-se-conquistan-defendiendo-las-ideas",
+        "published_date": "2026-08-10 18:53:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official information about important changes in transportation in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/transicion-cuba-iran-venezuela/",
-        "published_date": "2026-08-09 23:35:39",
+        "url": "https://www.directoriocubano.info/cuba/informacion-oficial-sobre-importantes-cambios-en-la-transportacion-en-cuba/",
+        "published_date": "2026-08-10 18:22:35",
         "category": "Local Events"
     },
     {
-        "title": "Important information from the Cuban Ministry of Transportation on ticket sales",
+        "title": "Earthquake in Colombia leaves at least 80 dead and forces a national disaster to be declared",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/informacion-importante-del-ministerio-de-transporte-de-cuba-sobre-venta-de-pasajes/",
-        "published_date": "2026-08-09 23:13:41",
+        "url": "https://www.directoriocubano.info/colombia/terremoto-colombia-80-muertos-desastre-nacional/",
+        "published_date": "2026-08-10 18:05:32",
         "category": "Local Events"
     },
     {
-        "title": "Proletarian celebration for Fidel's centenary",
+        "title": "Autism spectrum disorder and its early diagnosis",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/consultas-medicas/33049-el-trastorno-del-espectro-de-autismo-y-su-diagnostico-temprano",
+        "published_date": "2026-08-10 18:04:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "One Hundred Times Fidel exhibition opens in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33048-inauguran-en-camagueey-exposicion-cien-veces-fidel",
+        "published_date": "2026-08-10 17:56:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakdown affects gas service in 7 municipalities of Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/la-habana/averia-afecta-servicio-gas-municipios-la-habana/",
+        "published_date": "2026-08-10 17:44:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANCI de Pina consolidates leadership",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260809/celebracion-proletaria-por-centenario-de-fidel/",
-        "published_date": "2026-08-09 23:04:05",
+        "url": "https://www.trabajadores.cu/20260810/anci-de-pina-consolida-liderazgo/",
+        "published_date": "2026-08-10 17:39:02",
         "category": "Local Events"
     },
     {
-        "title": "Garbage in Old Havana reappears two hours after cleaning a street",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/basura-habana-vieja-calle-obrapia/",
-        "published_date": "2026-08-09 23:01:47",
+        "title": "Less Cash, Less Civility",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260810/less-cash-less-civility/",
+        "published_date": "2026-08-10 17:28:16",
         "category": "Local Events"
     },
     {
-        "title": "Cuban with I-220A begins hunger strike against deportations",
+        "title": "China delivers another 5,000 solar panels to Cuba for homes in these communities",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cubano-i-220a-huelga-hambre-deportaciones/",
-        "published_date": "2026-08-09 22:34:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "They reinforce security for Ra\u00fal Castro and D\u00edaz-Canel, according to the NYT",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/seguridad-raul-castro-diaz-canel/",
-        "published_date": "2026-08-09 22:02:38",
+        "url": "https://www.directoriocubano.info/actualidad/china-entrega-a-cuba-otros-5-000-paneles-solares-para-viviendas-en-estas-comunidades/",
+        "published_date": "2026-08-10 17:01:29",
         "category": "Local Events"
     }
 ]
