@@ -1,5 +1,26 @@
 [
     {
+        "title": "Peru summons the Russian ambassador to request information about Peruvians in the war with Ukraine",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/peru-convoca-embajador-ruso-pedir_1_1129662.html",
+        "published_date": "2026-08-11 09:18:53",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "European Brigade: solidarity that does not give truce to the blockade (+Photos and video)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/brigada-europea-solidaridad-que-no-da-tregua-al-bloqueo-fotos/",
+        "published_date": "2026-08-10 13:58:21",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "China urges the US not to defame relations with Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-urge-a-eeuu-a-no-difamar-relaciones-con-cuba/",
+        "published_date": "2026-08-10 11:03:21",
+        "category": "Diplomacy"
+    },
+    {
         "title": "They announce the death of 11 Peruvians who fought in the Russian Army against Ukraine",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/anuncian-muerte-11-peruanos-luchaban_1_1129622.html",
@@ -116,13 +137,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/celebran-en-cienfuegos-aniversario-53-del-ejercito-juvenil-del-trabajo/",
         "published_date": "2026-08-04 02:00:58",
-        "category": "Military"
-    },
-    {
-        "title": "Henry Reeve in the heart of Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260803/henry-reeve-en-el-corazon-de-cuba/",
-        "published_date": "2026-08-03 10:00:23",
         "category": "Military"
     },
     {
@@ -266,6 +280,13 @@
         "category": "Energy"
     },
     {
+        "title": "More than 130 dead, overflowing hospitals and curfews due to the earthquake in Colombia",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/130-muertos-hospitales-desbordados-toques_1_1129656.html",
+        "published_date": "2026-08-11 08:08:31",
+        "category": "Economy"
+    },
+    {
         "title": "Havana intensifies controls on MSMEs: fines, forced sales and temporary closures",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/la-habana-intensifica-controles-de-precios-multas-ventas-forzosas-y-cierres-temporales-a-negocios/",
@@ -399,11 +420,102 @@
         "category": "Economy"
     },
     {
-        "title": "Cuban pesos and currencies: what are they going to sell in the new market in Cuba and who can buy?",
+        "title": "The dollar and the euro fall in Cuba today: general drop in exchange rates",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/pesos-cubanos-divisas-que-venderan-nuevo-mercado-cuba-quienes-comprar/",
-        "published_date": "2026-08-05 14:36:51",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/cuba/caen-el-dolar-y-el-euro-en-cuba-hoy-bajon-general-en-las-tasas-de-cambio/",
+        "published_date": "2026-08-11 10:34:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, August 11, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-11-agosto_132_1129667.html",
+        "published_date": "2026-08-11 10:33:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Cuban activist on hunger strike, hospitalized after fainting",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/activista-cubano-huelga-hambre-hospitalizado_1_1129666.html",
+        "published_date": "2026-08-11 10:33:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Tuesday, August 11, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-martes-11-agosto_7_1129669.html",
+        "published_date": "2026-08-11 10:29:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Syrian dictator Bashar al-Assad and eight others linked to the regime sentenced to death",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/condenan-muerte-ex-dictador-sirio_1_1129664.html",
+        "published_date": "2026-08-11 10:20:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump hid in a luggage cart and used a decoy plane for fear of an attack from Iran",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/trump-se-escondio-en-un-carrito-de-equipajes-y-uso-un-avion-senuelo-ante-por-temor-a-un-ataque-de-iran/",
+        "published_date": "2026-08-11 10:01:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "China defends that its cooperation with Cuba is \"open and legitimate\" after the US sanctions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/china-defiende-cooperacion-cuba-abierta_1_1129660.html",
+        "published_date": "2026-08-11 09:08:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel links \u201cthe economic siege\u201d and the \u201cpsychological war\u201d of the United States with the centenary of Fidel Castro",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/diaz-canel-vincula-cerco-economico_1_1129658.html",
+        "published_date": "2026-08-11 08:40:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel: Martiano Raigal",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fidel-martiano-raigal/",
+        "published_date": "2026-08-11 04:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Lawton, Havana, 137 Hours of Blackout in One Week",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/cuba/in-lawton-havana-137-hours-of-blackout-in-one-week/",
+        "published_date": "2026-08-11 02:26:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States promotes submarine cables for the Caribbean without including Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cables-submarinos-caribe-cuba/",
+        "published_date": "2026-08-11 01:02:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pramila Jayapal calls for real negotiations with Cuba after meeting with D\u00edaz-Canel",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/jayapal-negociaciones-reales-cuba/",
+        "published_date": "2026-08-11 00:35:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Resolution 74/2026 changes cash management for businesses in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/resolucion-74-2026-efectivo-cuba/",
+        "published_date": "2026-08-11 00:02:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Florida confirms second death from \u201cflesh-eating\u201d bacteria in 2026",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/segunda-muerte-bacteria-come-carne-florida/",
+        "published_date": "2026-08-10 23:33:57",
+        "category": "Local Events"
     },
     {
         "title": "Look how much the dollar and the euro have fallen today in Cuba",
@@ -445,104 +557,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/cambiaste-motor-color-o-carroceria-de-tu-vehiculo-en-cuba-estos-tramites-debes-hacer-en-30-dias/",
         "published_date": "2026-08-10 21:10:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic under surveillance: cyclonic potential increases and NOAA anticipates a very strong El Ni\u00f1o",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/atlantico-vigilancia-potencial-ciclonico-el-nino-2026/",
-        "published_date": "2026-08-10 19:34:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 20,000 Cubans requested asylum in Brazil in the first six months of this year",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/20-000-cubanos-solicitaron-asilo_1_1129652.html",
-        "published_date": "2026-08-10 19:27:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "A breakdown leaves seven municipalities in Havana without gas or low pressure",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/averia-deja-gas-presion-siete_1_1129654.html",
-        "published_date": "2026-08-10 19:08:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "WEEKLY SUMMARY from August 3 to 9",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260810/resumen-semanal-del-3-al-9-de-agosto/",
-        "published_date": "2026-08-10 19:07:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Assemble a vehicle in parts in Cuba?Today new regulations have been published in the Official Gazette on Road Safety",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/armaste-un-vehiculo-por-piezas-en-cuba-asi-queda-ahora-el-codigo-de-seguridad-vial/",
-        "published_date": "2026-08-10 19:02:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cFidel left us that dreams are achieved by defending ideas\u201d",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33050-fidel-nos-lego-que-los-suenos-se-conquistan-defendiendo-las-ideas",
-        "published_date": "2026-08-10 18:53:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official information about important changes in transportation in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/informacion-oficial-sobre-importantes-cambios-en-la-transportacion-en-cuba/",
-        "published_date": "2026-08-10 18:22:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in Colombia leaves at least 80 dead and forces a national disaster to be declared",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/colombia/terremoto-colombia-80-muertos-desastre-nacional/",
-        "published_date": "2026-08-10 18:05:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Autism spectrum disorder and its early diagnosis",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/consultas-medicas/33049-el-trastorno-del-espectro-de-autismo-y-su-diagnostico-temprano",
-        "published_date": "2026-08-10 18:04:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "One Hundred Times Fidel exhibition opens in Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33048-inauguran-en-camagueey-exposicion-cien-veces-fidel",
-        "published_date": "2026-08-10 17:56:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakdown affects gas service in 7 municipalities of Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/la-habana/averia-afecta-servicio-gas-municipios-la-habana/",
-        "published_date": "2026-08-10 17:44:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANCI de Pina consolidates leadership",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260810/anci-de-pina-consolida-liderazgo/",
-        "published_date": "2026-08-10 17:39:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Less Cash, Less Civility",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260810/less-cash-less-civility/",
-        "published_date": "2026-08-10 17:28:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "China delivers another 5,000 solar panels to Cuba for homes in these communities",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/china-entrega-a-cuba-otros-5-000-paneles-solares-para-viviendas-en-estas-comunidades/",
-        "published_date": "2026-08-10 17:01:29",
         "category": "Local Events"
     }
 ]
