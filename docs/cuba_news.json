@@ -84,6 +84,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The US military industry is interested in Cuban cobalt",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/industria-militar-ee-uu-interesa_1_1129705.html",
+        "published_date": "2026-08-12 12:53:47",
+        "category": "Military"
+    },
+    {
         "title": "They deploy the military at the points indicated by the assaults on motorcyclists in Guanabacoa",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/despliegan-militares-puntos-senalados-asaltos_1_1129646.html",
@@ -117,6 +124,20 @@
         "url": "https://www.14ymedio.com/internacional/desactivan-autobus-bomba-carretera-cercana_1_1129507.html",
         "published_date": "2026-08-05 19:39:42",
         "category": "Military"
+    },
+    {
+        "title": "Guanabacoa explodes after more than 40 hours without electricity with protests in front of the municipal government",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/guanabacoa-estalla-40-horas-luz_1_1129737.html",
+        "published_date": "2026-08-12 21:38:19",
+        "category": "Energy"
+    },
+    {
+        "title": "Fuel from the United States to Cuba sells for up to $3 per liter",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/combustible-estados-unidos-cuba-reventa/",
+        "published_date": "2026-08-12 13:02:46",
+        "category": "Energy"
     },
     {
         "title": "Theft of dielectric oil leaves more than 20,000 people without electricity in Mayar\u00ed",
@@ -242,20 +263,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/multimedia/videos/video-ext-puerto-escondido-petroleo-destruyo-lugar_7_1129494.html",
         "published_date": "2026-08-05 11:07:50",
-        "category": "Energy"
-    },
-    {
-        "title": "The national electrical system is restored while Cubans continue waiting for the electricity to arrive",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/restablece-sistema-electrico-nacional-cubanos_1_1129478.html",
-        "published_date": "2026-08-04 22:30:14",
-        "category": "Energy"
-    },
-    {
-        "title": "Attacks on Russian refineries threaten fuel supplies to Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/ataques-refinerias-rusas-combustible-cuba/",
-        "published_date": "2026-08-04 19:31:44",
         "category": "Energy"
     },
     {
@@ -399,143 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Cuba inaugurates the first 'solinera' that offers \"ultra-fast charging\" for electric cars",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-inaugura-primera-solinera-ofrece_1_1129697.html",
-        "published_date": "2026-08-12 11:37:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dollar and euro today in Cuba: this is how the exchange rates dawn this August 12",
+        "title": "Turkish Airlines has been selling flights to Cuba since October",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/dolar-y-euro-hoy-en-cuba-asi-amanecen-las-tasas-de-cambio-este-12-de-agosto/",
-        "published_date": "2026-08-12 11:05:11",
+        "url": "https://www.directoriocubano.info/acontecer/turkish-airlines-vuelos-cuba-octubre/",
+        "published_date": "2026-08-12 23:02:39",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Wednesday, August 12, 2026",
+        "title": "The Essence of Us: A Cuban Story",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-12-agosto_132_1129694.html",
-        "published_date": "2026-08-12 10:57:31",
+        "url": "https://www.14ymedio.com/cartelera/the-essence-of-us-cuban_1_1129740.html",
+        "published_date": "2026-08-12 22:42:07",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Wednesday, August 12, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-12-agosto_7_1129696.html",
-        "published_date": "2026-08-12 10:55:58",
+        "title": "Tropical Storm Cristobal forms in the Atlantic while another system reaches 80% probability of development",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/internacionales/se-forma-la-tormenta-tropical-cristobal-en-el-atlantico-mientras-otro-sistema-alcanza-80-de-probabilidad-de-desarrollo/",
+        "published_date": "2026-08-12 22:16:16",
         "category": "Local Events"
     },
     {
-        "title": "The best casino games",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/mejores-juegos-casino_132_1129692.html",
-        "published_date": "2026-08-12 10:19:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Endocrine disruption in women with family implications",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260812/alteracion-endocrina-de-la-mujer-con-implicaciones-familiares/",
-        "published_date": "2026-08-12 10:16:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sur and Cuba CollectionPoetry at the Havana International Book Fair 2026",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260812/coleccion-sur-y-cubapoesia-en-la-feria-internacional-del-libro-de-la-habana-2026/",
-        "published_date": "2026-08-12 10:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel's Legacy",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/legado-de-fidel/",
-        "published_date": "2026-08-12 08:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yoandry Moya, manager of the Cienfuegos players: \u201cWe cannot disappoint our fans\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/yoandry-moya-manager-de-los-peloteros-de-cienfuegos-no-podemos-defraudar-a-nuestros-seguidores/",
-        "published_date": "2026-08-12 04:00:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Raul Castro\u2019s Grandson\u2019s Mafia Links in Mexico Exposed",
+        "title": "Havana Weather for August 13 to 19",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/raul-castros-grandsons-mafia-links-in-mexico-exposed/",
-        "published_date": "2026-08-12 03:18:29",
+        "url": "https://havanatimes.org/weather/havana-weather-for-august-13-to-19/",
+        "published_date": "2026-08-12 22:04:48",
         "category": "Local Events"
     },
     {
-        "title": "They present a book of 100 posters of the Cuban Revolution with Fidel",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presentan-libro-100-carteles-de-la-revolucion-cubana-con-fidel/",
-        "published_date": "2026-08-12 02:38:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel, Captain of his own soul",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260811/fidel-capitan-de-su-propia-alma/",
-        "published_date": "2026-08-12 02:23:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Virgilio L\u00f3pez Lemus receives the 2025 National Literature Award",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/recibe-virgilio-lopez-lemus-premio-nacional-de-literatura-2025/",
-        "published_date": "2026-08-12 01:36:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "They inaugurate the first solar charging station for electric vehicles in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/inauguran-la-primera-estacion-de-carga-solar-para-vehiculos-electricos-en-cuba/",
-        "published_date": "2026-08-12 01:18:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"El Cangrejo\", grandson of Ra\u00fal Castro, is accused of alleged links to a powerful criminal network",
+        "title": "Pork at 850 pesos in Trinidad: minimum wage is not enough for four pounds",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/el-cangrejo-nieto-de-raul-castro-es-senalado-por-presuntos-vinculos-con-poderosa-red-criminal/",
-        "published_date": "2026-08-12 00:36:04",
+        "url": "https://www.directoriocubano.info/acontecer/carne-cerdo-850-pesos-trinidad/",
+        "published_date": "2026-08-12 21:01:34",
         "category": "Local Events"
     },
     {
-        "title": "Sunflower oil at $2.40 causes tumult in front of Focsa",
+        "title": "They arrest a man for the theft of dielectric oil in Matanzas",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/aceite-girasol-240-dolares-focsa/",
-        "published_date": "2026-08-12 00:23:32",
+        "url": "https://www.directoriocubano.info/acontecer/robo-aceite-dielectrico-matanzas/",
+        "published_date": "2026-08-12 20:23:34",
         "category": "Local Events"
     },
     {
-        "title": "Shipwreck of boat leaving Pinar del R\u00edo leaves three dead",
+        "title": "New record of political prisoners in Cuba, including a minor under 13 years old",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nuevo-record-presos-politicos-cuba_1_1129731.html",
+        "published_date": "2026-08-12 19:32:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Liv\u00e1n Moinelo overcomes injuries and reappears with a victory in the Japanese League",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cubano-livan-moinelo-supera-lesiones_1_1129729.html",
+        "published_date": "2026-08-12 18:58:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Daym\u00e9 Arocena in intimate concert in Miami",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/dayme-arocena-concierto-intimo-miami_1_1129734.html",
+        "published_date": "2026-08-12 18:25:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Musical '11J \u2013 The day the people sang'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/musical-11j-dia-pueblo-canto_1_1129732.html",
+        "published_date": "2026-08-12 18:19:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Book Fair opens, with more stationery stalls than literature",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura/abre-feria-libro-puestos-papeleria_1_1129719.html",
+        "published_date": "2026-08-12 17:53:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nicaragua: Fidel Castro Sculpture Critics Called \u201cTraitors\u201d",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/nicaragua-fidel-castro-sculpture-critics-called-traitors/",
+        "published_date": "2026-08-12 16:09:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mental health in Cuba: the daily wear and tear of \u201csolving\u201d the crisis",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/naufragio-lancha-pinar-del-rio-mexico/",
-        "published_date": "2026-08-12 00:01:48",
+        "url": "https://www.directoriocubano.info/acontecer/salud-mental-cuba-desgaste-crisis/",
+        "published_date": "2026-08-12 16:01:53",
         "category": "Local Events"
     },
     {
-        "title": "A cyclonic organism could form in the coming days in the Atlantic, according to NHC",
+        "title": "Luis Manuel Otero Alc\u00e1ntara: 'We meet'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/luis-manuel-otero-alcantara-encontramos_1_1129717.html",
+        "published_date": "2026-08-12 15:24:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marco Rubio predicts a very different future for Cuba during Trump's term",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/un-organismo-ciclonico-podria-formarse-en-los-proximos-dias-en-el-atlantico-segun-nhc/",
-        "published_date": "2026-08-11 23:58:32",
+        "url": "https://www.directoriocubano.info/acontecer/rubio-futuro-cuba-mandato-trump/",
+        "published_date": "2026-08-12 15:04:54",
         "category": "Local Events"
     },
     {
-        "title": "Electricity deficit in Cuba: they predict an impact of 2,347 MW",
+        "title": "Anna Bensi and her mother will be taken to trial for the complaint of an \u201coffended\u201d police officer",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/anna-bensi-madre-seran-llevadas_1_1129711.html",
+        "published_date": "2026-08-12 15:04:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "David Torrens concert in Mexico City",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/concierto-david-torrens-ciudad-mexico_1_1129715.html",
+        "published_date": "2026-08-12 15:01:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Malena Burke and her group in concert",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/malena-burke-grupo-concierto_1_1129712.html",
+        "published_date": "2026-08-12 14:56:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "New vehicle import regulations in Cuba are now in force",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/deficit-electrico-cuba-2347-mw/",
-        "published_date": "2026-08-11 23:18:36",
+        "url": "https://www.directoriocubano.info/acontecer/normas-importacion-vehiculos-cuba/",
+        "published_date": "2026-08-12 14:35:51",
         "category": "Local Events"
     },
     {
-        "title": "Tourist groups honor Fidel",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260811/colectivos-turisticos-honran-a-fidel/",
-        "published_date": "2026-08-11 22:42:38",
+        "title": "Cuban denounces four days without electricity and questions protected circuits",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuatro-dias-sin-electricidad-habana/",
+        "published_date": "2026-08-12 14:02:46",
         "category": "Local Events"
     }
 ]
