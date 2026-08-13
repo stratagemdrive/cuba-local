@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuba rejects expulsion of 10 of its diplomats in the Dominican Republic",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33056-rechaza-cuba-expulsion-de-10-de-sus-diplomaticos-en-republica-dominicana",
+        "published_date": "2026-08-13 19:51:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "New deliberate lies about Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33053-nuevas-mentiras-deliberadas-sobre-cuba-2",
+        "published_date": "2026-08-13 10:23:23",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The Cuban Foreign Minister accuses the NYT of \"slandering\" his government, but does not comment on 'El Cangrejo'",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/canciller-cubano-acusa-nyt-calumniar_1_1129742.html",
@@ -91,11 +105,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Americans reject narrative of Cuba as a threat",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/33028-rechazan-estadounidenses-narrativa-de-cuba-como-amenaza",
-        "published_date": "2026-08-05 15:14:35",
-        "category": "Diplomacy"
+        "title": "The soldier of ideas lives in the heart of his people",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/el-soldado-de-las-ideas-vive-en-el-corazon-de-su-pueblo/",
+        "published_date": "2026-08-13 18:56:59",
+        "category": "Military"
+    },
+    {
+        "title": "Tribute to Fidel in Santiago de Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/homenaje-a-fidel-en-santiago-de-cuba-4/",
+        "published_date": "2026-08-13 18:08:47",
+        "category": "Military"
+    },
+    {
+        "title": "The holy protectors of Fidel Castro",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/los-santos-protectores-de-fidel-castro/",
+        "published_date": "2026-08-13 14:13:12",
+        "category": "Military"
     },
     {
         "title": "Pentagon chief warns Cuba and talks about possible military action",
@@ -133,18 +161,11 @@
         "category": "Military"
     },
     {
-        "title": "Active military service ends for young people in Cienfuegos",
+        "title": "Download the book \u201cFidel's lucky interviewers\u201d",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/culmina-servicio-militar-activo-para-jovenes-en-cienfuegos/",
-        "published_date": "2026-08-05 21:44:09",
-        "category": "Military"
-    },
-    {
-        "title": "Bus bomb deactivated on road near Cali, where De la Espriella will be inaugurated",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/desactivan-autobus-bomba-carretera-cercana_1_1129507.html",
-        "published_date": "2026-08-05 19:39:42",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/descargue-el-libro-los-afortunados-entrevistadores-de-fidel/",
+        "published_date": "2026-08-13 11:21:23",
+        "category": "Energy"
     },
     {
         "title": "Guanabacoa explodes after more than 40 hours without electricity with protests in front of the municipal government",
@@ -266,18 +287,25 @@
         "category": "Energy"
     },
     {
-        "title": "A liter of oil already costs more than two minimum wages",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/litro-aceite-cuesta-salarios-minimos_1_1129515.html",
-        "published_date": "2026-08-05 21:36:37",
-        "category": "Energy"
+        "title": "Mipymes and taxpayers in Cuba are warned: these are the documents they must have ready for an inspection",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/advierten-a-mipymes-y-contribuyentes-en-cuba-estos-son-los-documentos-que-deben-tener-listos-ante-una-fiscalizacion/",
+        "published_date": "2026-08-13 22:01:38",
+        "category": "Economy"
     },
     {
-        "title": "The UN works with countries interested in bringing fuel for humanitarian reasons to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/onu-trabaja-paises-interesados-llevar_1_1129499.html",
-        "published_date": "2026-08-05 13:39:09",
-        "category": "Energy"
+        "title": "Cuba tests Turno Banco to make an appointment without going to the bank: goodbye to lines?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/cuba-prueba-turno-banc-para-sacar-una-cita-sin-ir-al-banco-adios-a-las-colas/",
+        "published_date": "2026-08-13 12:01:06",
+        "category": "Economy"
+    },
+    {
+        "title": "Varied offers at the Camag\u00fcey trade fair",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33051-ofertas-variadas-en-la-feria-comercial-de-camagueey",
+        "published_date": "2026-08-13 10:10:01",
+        "category": "Economy"
     },
     {
         "title": "Central Bank increases the value of the dollar and the euro in Cuba, while they decrease in the informal market",
@@ -399,164 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "The absence of a functioning foreign exchange market explains the shortage of cash in national currency",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/ausencia-mercado-divisas-operativo-explica_1_1129564.html",
-        "published_date": "2026-08-07 17:29:27",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuban bank reports on the Tropical card and Transferm\u00f3vil failures",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/banco-cubano-informa-sobre-la-tarjeta-tropical-y-fallos-de-transfermovil/",
-        "published_date": "2026-08-07 13:05:18",
-        "category": "Economy"
-    },
-    {
-        "title": "Are the dollar and euro going up or down in Cuba today?These are the exchange rates",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/suben-bajan-dolar-euro-cuba-hoy-tasas-cambio-7-agosto-2026/",
-        "published_date": "2026-08-07 10:40:13",
-        "category": "Economy"
-    },
-    {
-        "title": "Despite having several judicial processes underway, former President Petro is authorized to leave Colombia for a year",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/pese-procesos-judiciales-curso-petro_1_1129753.html",
-        "published_date": "2026-08-13 11:44:33",
+        "title": "Cuba's Anna Bensi and When the Hawk Fears the Dove",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/cubas-anna-bensi-and-when-the-hawk-fears-the-dove/",
+        "published_date": "2026-08-13 23:31:16",
         "category": "Local Events"
     },
     {
-        "title": "'Lula' da Silva attributes his political successes to the \u201cencouragement and wisdom of Fidel Castro\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/lula-da-silva-atribuye-exitos_1_1129751.html",
-        "published_date": "2026-08-13 11:33:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Thursday, August 13, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-jueves-13-agosto_132_1129748.html",
-        "published_date": "2026-08-13 11:06:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Thursday, August 13, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-jueves-13-agosto_7_1129750.html",
-        "published_date": "2026-08-13 11:03:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important information from the United States Embassy in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/informacion-importante-de-la-embajada-de-estados-unidos-en-cuba-2/",
-        "published_date": "2026-08-13 11:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Price of the dollar and the euro in Cuba: Decrease in exchange rates today",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/precio-del-dolar-y-el-euro-en-cuba-disminucion-hoy-en-las-tasas-de-cambio/",
-        "published_date": "2026-08-13 10:30:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia exhausts the \"window of life\" and the Government declares an economic emergency",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/colombia-agota-ventana-vida-gobierno_1_1129746.html",
-        "published_date": "2026-08-13 10:19:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "With a mamb\u00ed in his eyes",
+        "title": "D\u00edaz-Canel: Being a Fidelista means defining ourselves as permanent anti-imperialist fighters",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/con-un-mambi-en-la-mirada/",
-        "published_date": "2026-08-13 10:04:52",
+        "url": "https://www.trabajadores.cu/20260813/diaz-canel-ser-fidelista-es-definirnos-como-permanentes-luchadores-antimperialistas/",
+        "published_date": "2026-08-13 23:17:33",
         "category": "Local Events"
     },
     {
-        "title": "Meteorologist Jos\u00e9 Rubiera warns about systems with potential for cyclonic development in the Atlantic",
+        "title": "Prices in Cuba: a big dog costs 500 pesos and a double hamburger 1,150",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/meteorologo-jose-rubiera-alerta-sobre-sistemas-con-potencial-de-desarrollo-ciclonico-en-el-atlantico/",
-        "published_date": "2026-08-13 10:00:12",
+        "url": "https://www.directoriocubano.info/noticias/precios-cuba-perrazo-500-pesos-hamburguesa-1150-sector-privado/",
+        "published_date": "2026-08-13 21:04:52",
         "category": "Local Events"
     },
     {
-        "title": "Chavismo and opposition agree to recover frozen gold in England for earthquake relief",
+        "title": "'Spiderman's' isolation began before his arrest, says a colleague of the fighter",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/chavismo-oposicion-acuerdan-recuperar-oro_1_1129744.html",
-        "published_date": "2026-08-13 09:28:25",
+        "url": "https://www.14ymedio.com/cuba/aislamiento-spiderman-comenzo-arresto-cuenta_1_1129774.html",
+        "published_date": "2026-08-13 20:41:32",
         "category": "Local Events"
     },
     {
-        "title": "A child from Bir\u00e1n in Santiago de Cuba",
+        "title": "They present the E-Book Somos at the Book Fair.Photographs by Roberto Chile",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/un-nino-de-biran-en-santiago-de-cuba/",
-        "published_date": "2026-08-13 04:02:01",
+        "url": "https://www.trabajadores.cu/20260813/presentan-en-la-feria-del-libro-el-e-book-somos-fotografias-de-roberto-chile/",
+        "published_date": "2026-08-13 20:06:00",
         "category": "Local Events"
     },
     {
-        "title": "Puerto Escondido, Cuba, from Paradise to Health Risk",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/puerto-escondido-cuba-from-paradise-to-health-risk/",
-        "published_date": "2026-08-13 01:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela: \u201cThe Rain Stopped but Everything is Still Wet\u201d",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/venezuela-the-rain-stopped-but-everything-is-still-wet/",
-        "published_date": "2026-08-13 01:21:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pinar del R\u00edo sets the price of oil at 2,150 pesos",
+        "title": "Important announcement from the United States Embassy in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/precio-aceite-pinar-del-rio-2150-pesos/",
-        "published_date": "2026-08-13 00:03:34",
+        "url": "https://www.directoriocubano.info/cuba/anuncio-importante-de-la-embajada-de-estados-unidos-en-cuba/",
+        "published_date": "2026-08-13 20:02:56",
         "category": "Local Events"
     },
     {
-        "title": "Tropical Storm Cristobal weakens in the Atlantic and could dissipate this Thursday",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/tormenta-tropical-cristobal-se-debilita-atlantico/",
-        "published_date": "2026-08-12 23:31:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Turkish Airlines has been selling flights to Cuba since October",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/turkish-airlines-vuelos-cuba-octubre/",
-        "published_date": "2026-08-12 23:02:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Essence of Us: A Cuban Story",
+        "title": "Five years of the Taliban: a state that survives while Afghans lose well-being",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/the-essence-of-us-cuban_1_1129740.html",
-        "published_date": "2026-08-12 22:42:07",
+        "url": "https://www.14ymedio.com/internacional/cinco-anos-talibanes-sobrevive-afganos_1_1129772.html",
+        "published_date": "2026-08-13 20:00:27",
         "category": "Local Events"
     },
     {
-        "title": "Tropical Storm Cristobal forms in the Atlantic while another system reaches 80% probability of development",
+        "title": "The Toros de Camag\u00fcey offers salaries of 800 dollars a month to some players",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/toros-camagueey-ofrece-salarios-800_1_1129770.html",
+        "published_date": "2026-08-13 19:50:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin will not be able to declare victory in Ukraine, says Russian Nobel Prize winner Dmitri Muratov",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/putin-no-podra-declarar-victoria_1_1129768.html",
+        "published_date": "2026-08-13 19:34:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel became verse in Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/33055-fidel-se-hizo-verso-en-camagueey",
+        "published_date": "2026-08-13 19:33:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel of all",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/fidel-de-todos/",
+        "published_date": "2026-08-13 19:20:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban volleyball players Noslen D\u00edaz and Jorge Alayo, signed by Sporting Lisbon",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/arena-tabloncillo-sporting-lisboa-presenta_1_1129766.html",
+        "published_date": "2026-08-13 19:09:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Powerball ticket wins $1.04 billion: these are the numbers",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/internacionales/se-forma-la-tormenta-tropical-cristobal-en-el-atlantico-mientras-otro-sistema-alcanza-80-de-probabilidad-de-desarrollo/",
-        "published_date": "2026-08-12 22:16:16",
+        "url": "https://www.directoriocubano.info/actualidad/un-boleto-de-powerball-se-lleva-1040-millones-de-dolares-estos-son-los-numeros/",
+        "published_date": "2026-08-13 19:01:26",
         "category": "Local Events"
     },
     {
-        "title": "Havana Weather for August 13 to 19",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/weather/havana-weather-for-august-13-to-19/",
-        "published_date": "2026-08-12 22:04:48",
+        "title": "Photographic exhibition dedicated to Fidel's Centennial is exhibited in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/exponen-en-cienfuegos-muestra-fotografica-dedicada-al-centenario-de-fidel/",
+        "published_date": "2026-08-13 18:43:50",
         "category": "Local Events"
     },
     {
-        "title": "Pork at 850 pesos in Trinidad: minimum wage is not enough for four pounds",
+        "title": "Priorities on buses and national trains",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/prioridades-en-omnibus-y-trenes-nacionales/",
+        "published_date": "2026-08-13 18:28:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dominican Republic expels nine diplomats from the Cuban Embassy without explanation",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/republica-dominicana-expulsa-explicacion-nueve_1_1129763.html",
+        "published_date": "2026-08-13 18:23:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Fidel he knew",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/el-fidel-que-conocio/",
+        "published_date": "2026-08-13 18:19:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Basic basket in Cuba: these provinces receive chicken, rice, beans and milk",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/carne-cerdo-850-pesos-trinidad/",
-        "published_date": "2026-08-12 21:01:34",
+        "url": "https://www.directoriocubano.info/actualidad/canasta-basica-en-cuba-estas-provincias-reciben-pollo-arroz-frijoles-y-leche/",
+        "published_date": "2026-08-13 18:04:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel's passage through Matanzas",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/el-paso-de-fidel-por-matanzas/",
+        "published_date": "2026-08-13 17:57:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The day 'Playboy' stripped Fidel Castro naked",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/dia-playboy-desnudo-fidel-castro_1_1129760.html",
+        "published_date": "2026-08-13 17:47:14",
         "category": "Local Events"
     }
 ]
