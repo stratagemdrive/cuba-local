@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuba rejects expulsion of diplomats by Dominican government",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-rechaza-expulsion-de-diplomaticos-por-gobierno-dominicano/",
+        "published_date": "2026-08-14 00:49:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba rejects expulsion of 10 of its diplomats in the Dominican Republic",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33056-rechaza-cuba-expulsion-de-10-de-sus-diplomaticos-en-republica-dominicana",
@@ -91,18 +98,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The US proposes to the OAS to convene the foreign ministers to \"take measures\" against Ortega's decisions",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-propone-oea-convocar_1_1129528.html",
-        "published_date": "2026-08-06 10:27:56",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Dinorah Figuera arrives in Venezuela to continue the dialogue with Chavismo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/llega-venezuela-dinorah-figuera-continuar_1_1129526.html",
-        "published_date": "2026-08-06 10:17:04",
-        "category": "Diplomacy"
+        "title": "On his centenary: Fidel belongs to humanity",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/en-su-centenario-fidel-es-de-la-humanidad/",
+        "published_date": "2026-08-14 01:06:51",
+        "category": "Military"
     },
     {
         "title": "The soldier of ideas lives in the heart of his people",
@@ -287,6 +287,13 @@
         "category": "Energy"
     },
     {
+        "title": "The dollar and the euro fall in Cuba.This is how currencies are in the informal market today, August 14",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cae-el-dolar-y-el-euro-en-cuba-asi-estan-las-divisas-en-el-mercado-informal-hoy-14-de-agosto/",
+        "published_date": "2026-08-14 10:36:04",
+        "category": "Economy"
+    },
+    {
         "title": "Mipymes and taxpayers in Cuba are warned: these are the documents they must have ready for an inspection",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/advierten-a-mipymes-y-contribuyentes-en-cuba-estos-son-los-documentos-que-deben-tener-listos-ante-una-fiscalizacion/",
@@ -420,150 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Banmet publishes the list of branches with service this Saturday in the Cuban capital",
+        "title": "Print edition of August 14, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-14-agosto-2026_132_1129791.html",
+        "published_date": "2026-08-14 11:37:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Problems with visas and flights between Cuba and the Dominican Republic after the diplomatic crisis?",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/banmet-publica-el-listado-de-sucursales-con-servicio-este-sabado-en-la-capital-cubana/",
-        "published_date": "2026-08-07 20:00:23",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/actualidad/problemas-con-los-visados-y-vuelos-entre-cuba-y-dominicana-tras-la-crisis-diplomatica/",
+        "published_date": "2026-08-14 11:20:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, August 14, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-14-agosto_132_1129786.html",
+        "published_date": "2026-08-14 11:03:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Friday, August 14, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-14-agosto_7_1129789.html",
+        "published_date": "2026-08-14 11:02:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "As Cuba crumbles, D\u00edaz-Canel showers Fidel Castro with praise",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-desmorona-diaz-canel-cubre_1_1129782.html",
+        "published_date": "2026-08-14 10:21:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "The probability of rains increases in Cuba: they could be strong and intense in several provinces",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/aumenta-la-probabilidad-de-lluvias-en-cuba-podrian-ser-fuertes-e-intensas-en-varias-provincias/",
+        "published_date": "2026-08-14 09:45:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five Cuban poets at the table: 'The island in weight'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/cinco-poetas-cubanos-mesa-isla_1_1129783.html",
+        "published_date": "2026-08-14 09:44:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"As I was about to get in, the driver asked for 500 pesos: it was a Lada with a state license plate\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/punto-montarme-chofer-pidio-500_1_1129778.html",
+        "published_date": "2026-08-14 09:34:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba receives another 15,000 tons of rice donated by China",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-recibe-15-000-toneladas_1_1129776.html",
+        "published_date": "2026-08-14 09:07:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dr. Carlos J. Finlay on the 145th anniversary of his theory about the mosquito",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260814/el-doctor-carlos-j-finlay-en-el-145-aniversario-de-su-teoria-sobre-el-mosquito/",
+        "published_date": "2026-08-14 09:05:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe library needed me and I needed it\u201d",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-biblioteca-me-necesitaba-y-yo-la-necesitaba-a-ella/",
+        "published_date": "2026-08-14 05:00:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get to know our weekly edition in PDF from August 14",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-14-de-agosto/",
+        "published_date": "2026-08-14 04:05:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The poet's corner in love",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-rincon-del-poeta-enamorado/",
+        "published_date": "2026-08-14 04:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Art with the dimension of a century",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/arte-con-la-dimension-de-un-siglo/",
+        "published_date": "2026-08-14 01:09:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel in the Plaza",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/fidel-en-la-plaza/",
+        "published_date": "2026-08-14 00:44:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel, on his centenary, continues founding a new world",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/fidel-en-su-centenario-prosigue-fundando-un-mundo-nuevo/",
+        "published_date": "2026-08-14 00:36:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba rejects subordination of the Dominican government to US policy",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260813/rechaza-cuba-subordinacion-de-gobierno-dominicano-a-la-politica-de-ee-uu/",
+        "published_date": "2026-08-14 00:25:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artemisa, Matanzas and Holgu\u00edn set a commercial margin of 30% and apply fines",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/margen-comercial-30-cuba-multas/",
+        "published_date": "2026-08-14 00:05:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coming Out of the Closet, Panama City \u2013 Photo of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/coming-out-of-the-closet-panama-city-photo-of-the-day/",
+        "published_date": "2026-08-14 00:02:14",
+        "category": "Local Events"
     },
     {
         "title": "Cuba's Anna Bensi and When the Hawk Fears the Dove",
         "source": "Havana Times",
         "url": "https://havanatimes.org/opinion/cubas-anna-bensi-and-when-the-hawk-fears-the-dove/",
         "published_date": "2026-08-13 23:31:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel: Being a Fidelista means defining ourselves as permanent anti-imperialist fighters",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/diaz-canel-ser-fidelista-es-definirnos-como-permanentes-luchadores-antimperialistas/",
-        "published_date": "2026-08-13 23:17:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prices in Cuba: a big dog costs 500 pesos and a double hamburger 1,150",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/precios-cuba-perrazo-500-pesos-hamburguesa-1150-sector-privado/",
-        "published_date": "2026-08-13 21:04:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Spiderman's' isolation began before his arrest, says a colleague of the fighter",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/aislamiento-spiderman-comenzo-arresto-cuenta_1_1129774.html",
-        "published_date": "2026-08-13 20:41:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "They present the E-Book Somos at the Book Fair.Photographs by Roberto Chile",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/presentan-en-la-feria-del-libro-el-e-book-somos-fotografias-de-roberto-chile/",
-        "published_date": "2026-08-13 20:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important announcement from the United States Embassy in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/anuncio-importante-de-la-embajada-de-estados-unidos-en-cuba/",
-        "published_date": "2026-08-13 20:02:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five years of the Taliban: a state that survives while Afghans lose well-being",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/cinco-anos-talibanes-sobrevive-afganos_1_1129772.html",
-        "published_date": "2026-08-13 20:00:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Toros de Camag\u00fcey offers salaries of 800 dollars a month to some players",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/toros-camagueey-ofrece-salarios-800_1_1129770.html",
-        "published_date": "2026-08-13 19:50:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Putin will not be able to declare victory in Ukraine, says Russian Nobel Prize winner Dmitri Muratov",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/putin-no-podra-declarar-victoria_1_1129768.html",
-        "published_date": "2026-08-13 19:34:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel became verse in Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/33055-fidel-se-hizo-verso-en-camagueey",
-        "published_date": "2026-08-13 19:33:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel of all",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/fidel-de-todos/",
-        "published_date": "2026-08-13 19:20:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban volleyball players Noslen D\u00edaz and Jorge Alayo, signed by Sporting Lisbon",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/arena-tabloncillo-sporting-lisboa-presenta_1_1129766.html",
-        "published_date": "2026-08-13 19:09:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Powerball ticket wins $1.04 billion: these are the numbers",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/un-boleto-de-powerball-se-lleva-1040-millones-de-dolares-estos-son-los-numeros/",
-        "published_date": "2026-08-13 19:01:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Photographic exhibition dedicated to Fidel's Centennial is exhibited in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/exponen-en-cienfuegos-muestra-fotografica-dedicada-al-centenario-de-fidel/",
-        "published_date": "2026-08-13 18:43:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Priorities on buses and national trains",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/prioridades-en-omnibus-y-trenes-nacionales/",
-        "published_date": "2026-08-13 18:28:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dominican Republic expels nine diplomats from the Cuban Embassy without explanation",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/republica-dominicana-expulsa-explicacion-nueve_1_1129763.html",
-        "published_date": "2026-08-13 18:23:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Fidel he knew",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/el-fidel-que-conocio/",
-        "published_date": "2026-08-13 18:19:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Basic basket in Cuba: these provinces receive chicken, rice, beans and milk",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/canasta-basica-en-cuba-estas-provincias-reciben-pollo-arroz-frijoles-y-leche/",
-        "published_date": "2026-08-13 18:04:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel's passage through Matanzas",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/el-paso-de-fidel-por-matanzas/",
-        "published_date": "2026-08-13 17:57:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The day 'Playboy' stripped Fidel Castro naked",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/dia-playboy-desnudo-fidel-castro_1_1129760.html",
-        "published_date": "2026-08-13 17:47:14",
         "category": "Local Events"
     }
 ]
