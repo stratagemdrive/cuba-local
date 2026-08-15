@@ -1,5 +1,12 @@
 [
     {
+        "title": "Commercial and gastronomic transformation in Cienfuegos: step by step",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/transformacion-comercial-y-gastronomica-en-cienfuegos-paso-a-paso/",
+        "published_date": "2026-08-15 17:43:23",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba reiterates its denunciation of the United States' policy of maximum asphyxiation",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33063-cuba-reitera-denuncia-a-politica-de-maxima-asfixia-de-estados-unidos",
@@ -84,11 +91,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The solidarity of ALBA Movements on Fidel's Centennial",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33040-la-solidaridad-de-alba-movimientos-en-el-centenario-de-fidel",
-        "published_date": "2026-08-07 11:40:13",
-        "category": "Diplomacy"
+        "title": "Solidarity work of Fidel Castro stands out in La Plata, Argentina",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/destacan-obra-solidaria-de-fidel-castro-en-la-plata-argentina/",
+        "published_date": "2026-08-15 15:17:47",
+        "category": "Military"
+    },
+    {
+        "title": "65th Anniversary Stamp of the Central Army to workers from Matanzas",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260815/sello-65-aniversario-del-ejercito-central-a-trabajadores-matanceros/",
+        "published_date": "2026-08-15 15:00:09",
+        "category": "Military"
     },
     {
         "title": "The United States relegates the military option against Cuba and prepares more sanctions",
@@ -161,11 +175,11 @@
         "category": "Military"
     },
     {
-        "title": "Ukraine attacks another Russian Amazon logistics center, this time in the Urals",
+        "title": "Cuban theater tries to survive between blackouts and improvised stages",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ucrania-ataca-centro-logistico-amazon_1_1129554.html",
-        "published_date": "2026-08-07 11:56:54",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cultura/teatro-cubano-sobrevivir-apagones-escenarios_1_1129828.html",
+        "published_date": "2026-08-15 17:50:23",
+        "category": "Energy"
     },
     {
         "title": "Memories, in Villa Clara, of a centenary leader",
@@ -273,11 +287,11 @@
         "category": "Energy"
     },
     {
-        "title": "New Chinese donation of photovoltaic systems",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33043-nuevo-donativo-chino-de-sistemas-fotovoltaicos",
-        "published_date": "2026-08-07 17:25:53",
-        "category": "Energy"
+        "title": "How much is the dollar worth in Cuba today?These are the exchange rates for USD, Euro and other currencies",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuanto-vale-el-dolar-en-cuba-hoy-estas-son-las-tasas-de-cambio-del-usd-el-euro-y-otras-divisas/",
+        "published_date": "2026-08-15 11:54:10",
+        "category": "Economy"
     },
     {
         "title": "A chain from Artemisa to Holgu\u00edn",
@@ -413,150 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "The dollar and the euro rise in Cuba: this is how exchange rates dawn today",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/suben-dolar-euro-cuba-tasas-cambio-hoy-8-agosto-2026/",
-        "published_date": "2026-08-08 11:21:10",
-        "category": "Economy"
-    },
-    {
-        "title": "A 5.2 magnitude earthquake hit southern Spain and caused destruction in Granada",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-sismo-de-magnitud-52-golpeo-el-sur-de-espana-y-provoco-destrozos-en-granada/",
-        "published_date": "2026-08-15 04:33:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u201cvirtual brother\u201d of your city: how digital twins will avoid traffic jams, floods and health crises",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-hermano-virtual-de-tu-ciudad-como-los-gemelos-digitales-evitaran-atascos-inundaciones-y-crisis-sanitarias/",
-        "published_date": "2026-08-15 04:00:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Turkish Airlines resumes flights to Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/turkish-airlines-retoma-vuelos-a-cuba/",
-        "published_date": "2026-08-15 01:22:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The PCT rejects the expulsion of Cuban diplomats from the Dominican Republic",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-pct-rechaza-expulsion-de-diplomaticos-cubanos-de-republica-dominicana/",
-        "published_date": "2026-08-15 01:10:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban denounces months of waiting for her criminal record in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/antecedentes-penales-cuba-demora-espana/",
-        "published_date": "2026-08-15 01:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba receives third shipment of rice donated by China",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-arroz-donado-china/",
-        "published_date": "2026-08-15 00:35:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shipwreck in Pinar del R\u00edo leaves two young Cubans dead",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/naufragio-pinar-rio-jovenes-cubanos/",
-        "published_date": "2026-08-15 00:06:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unit 6 of the Nuevitas thermoelectric plant could return to the SEN after completing the repairs",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/camaguey/unidad-6-termoelectrica-nuevitas-regreso-sen-reparaciones/",
-        "published_date": "2026-08-14 23:42:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Failure prevents payment of the electricity bill through telebanking in Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/falla-pago-luz-telebanca-habana/",
-        "published_date": "2026-08-14 23:31:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "They find a boat with about a dozen migrants in the Florida Keys",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/encuentran-embarcacion-con-cerca-de-una-docena-de-migrantes-en-cayos-de-la-florida/",
-        "published_date": "2026-08-14 23:05:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Those Who Lost Everything in the Colombia Earthquake",
+        "title": "Aurora \u2013 Song of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/those-who-lost-everything-in-the-colombia-earthquake/",
-        "published_date": "2026-08-14 22:38:55",
+        "url": "https://havanatimes.org/todays-song/aurora-song-of-the-day/",
+        "published_date": "2026-08-15 22:55:10",
         "category": "Local Events"
     },
     {
-        "title": "Chile Facing the Tariffs and Protectionism from the USA",
+        "title": "I Want to See the Photo You Are Taking of Me, Texas, USA \u2013 Photo of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/chile-facing-the-tariffs-and-protectionism-from-the-usa/",
-        "published_date": "2026-08-14 21:51:37",
+        "url": "https://havanatimes.org/photo-of-the-day/i-want-to-see-the-photo-you-are-taking-of-me-texas-usa-photo-of-the-day/",
+        "published_date": "2026-08-15 21:37:29",
         "category": "Local Events"
     },
     {
-        "title": "Ten Cuban rafters disembark in Key West on a boat stolen from the island",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/diez-balseros-cubanos-desembarcan-cayo_1_1129808.html",
-        "published_date": "2026-08-14 20:31:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Turkish Airlines will resume its Moscow-Havana route on October 25 to bring Russian tourists to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/turkish-airlines-reanudara-25-octubre_1_1129811.html",
-        "published_date": "2026-08-14 20:24:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela gains prominence among the Cuban \u201cmules\u201d due to the cuts in flights to Panama",
+        "title": "Bandec offers loans to businesses that pay pensions in Guant\u00e1namo",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/venezuela-gana-protagonismo-entre-las-mulas-cubanas-ante-los-recortes-de-vuelos-a-panama/",
-        "published_date": "2026-08-14 20:09:00",
+        "url": "https://www.directoriocubano.info/acontecer/bandec-pensiones-guantanamo-negocios/",
+        "published_date": "2026-08-15 21:32:35",
         "category": "Local Events"
     },
     {
-        "title": "Workers and Fidel's centenary",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260814/los-trabajadores-y-el-centenario-de-fidel/",
-        "published_date": "2026-08-14 20:04:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Solidarity: beyond borders",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260814/solidaridad-mas-alla-de-las-fronteras/",
-        "published_date": "2026-08-14 19:53:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everyone united to preserve the work of Fidel Castro",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260814/unidos-todos-para-preservar-la-obra-de-fidel-castro/",
-        "published_date": "2026-08-14 19:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans in Spain are trapped by the delay of documents from Cuba: a procedure can stop nationality",
+        "title": "Is tourism in Varadero sinking?This is the flight situation in August",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cubanos-en-espana-se-quedan-atrapados-por-la-demora-de-documentos-de-cuba-un-tramite-puede-frenar-la-nacionalidad/",
-        "published_date": "2026-08-14 19:06:40",
+        "url": "https://www.directoriocubano.info/actualidad/se-hunde-el-turismo-en-varadero-esta-es-la-situacion-de-los-vuelos-en-agosto/",
+        "published_date": "2026-08-15 21:08:50",
         "category": "Local Events"
     },
     {
-        "title": "They present the 25 for 25 collection at the Book Fair",
+        "title": "Glenda Le\u00f3n exhibition 'A tree falls in the forest'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/exposicion-glenda-leon-arbol-cae_1_1129836.html",
+        "published_date": "2026-08-15 20:35:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "BANDEC announces what the next payment to retirees and pensioners will be like in August",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/bandec-anuncia-como-sera-el-proximo-pago-a-jubilados-y-pensionados-en-agosto/",
+        "published_date": "2026-08-15 20:33:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Panama extends the transit visa for Cubans until 2029",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/panama-visa-transito-cubanos-2029/",
+        "published_date": "2026-08-15 20:01:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Multidisciplinary service in Matanzas: Investments for social well-being",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/inversiones-bienestar-social/",
+        "published_date": "2026-08-15 19:19:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The book Fidel and the Volunteer Teachers is presented in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presentan-en-cuba-el-libro-fidel-y-los-maestros-voluntarios/",
+        "published_date": "2026-08-15 19:09:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "When do flights between Madrid and Havana go down?These are the cheapest dates",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/cuando-bajan-los-vuelos-entre-madrid-y-la-habana-estas-son-las-fechas-mas-economicas/",
+        "published_date": "2026-08-15 19:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Third refining of national crude oil concludes at Hermanos D\u00edaz",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/concluye-tercera-refinacion-de-crudo-nacional-en-la-hermanos-diaz/",
+        "published_date": "2026-08-15 18:51:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cOne has never felt like such a pawn of another country\u201d: Pablo McKinney on US pressure on the Dominican Republic",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/uno-nunca-se-habia-sentido-tan-peon-de-otro-pais-pablo-mckinney-sobre-la-presion-de-eeuu-a-republica-dominicana/",
+        "published_date": "2026-08-15 18:41:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "USA: Shooting at Virginia State University leaves five injured and activates temporary campus closure",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/eeuu-tiroteo-en-universidad-estatal-de-virginia-deja-cinco-heridos-y-activa-cierre-temporal-del-campus/",
+        "published_date": "2026-08-15 18:28:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "CIMEX Electronic Commerce Division offers opportunities",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260814/presentan-en-la-feria-del-libro-la-coleccion-25-para-el-25/",
-        "published_date": "2026-08-14 18:35:30",
+        "url": "https://www.trabajadores.cu/20260815/division-comercio-electronico-de-cimex-ofrece-oportunidades/",
+        "published_date": "2026-08-15 18:20:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami-Dade tightens surveillance after arrest of three people for alleged fraud with permits for the disabled",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/miami-dade-endurece-la-vigilancia-tras-detencion-de-tres-personas-por-presunto-fraude-con-permisos-para-discapacitados/",
+        "published_date": "2026-08-15 18:05:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hern\u00e1n Cort\u00e9s, Cuba's first rafter",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/hernan-cortes-primer-balsero-cuba_1_1129834.html",
+        "published_date": "2026-08-15 17:55:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"We are still in combat, the freedom of Cuba must be achieved,\" says a 11J prisoner upon leaving prison",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/seguimos-combate-libertad-cuba-hay_1_1129827.html",
+        "published_date": "2026-08-15 17:40:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "An egg for 135 pesos: the price that outrages Cubans",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/un-huevo-por-135-pesos-el-precio-que-indigna-a-los-cubanos/",
+        "published_date": "2026-08-15 17:09:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Collection 25 for 25 also talks about the love and solidarity of Mexico",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/coleccion-25-para-el-25-tambien-habla-del-amor-y-la-solidaridad-de-mexico/",
+        "published_date": "2026-08-15 17:03:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Investments for social well-being",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260815/inversiones-por-el-bienestar-social/",
+        "published_date": "2026-08-15 16:25:17",
         "category": "Local Events"
     }
 ]
