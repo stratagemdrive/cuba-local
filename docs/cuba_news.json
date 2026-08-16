@@ -84,6 +84,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Iran warns the United States: Until total defeat",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-advierte-a-estados-unidos-hasta-la-derrota-total/",
+        "published_date": "2026-08-16 16:06:47",
+        "category": "Military"
+    },
+    {
+        "title": "TikTok and YouTube, military recruitment spaces in Europe",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/tiktok-y-youtube-espacios-de-reclutamiento-militar-en-europa/",
+        "published_date": "2026-08-16 13:51:51",
+        "category": "Military"
+    },
+    {
         "title": "Solidarity work of Fidel Castro stands out in La Plata, Argentina",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/destacan-obra-solidaria-de-fidel-castro-en-la-plata-argentina/",
@@ -168,6 +182,13 @@
         "category": "Military"
     },
     {
+        "title": "With green light",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/con-luz-verde/",
+        "published_date": "2026-08-16 22:45:05",
+        "category": "Energy"
+    },
+    {
         "title": "Cuban theater tries to survive between blackouts and improvised stages",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cultura/teatro-cubano-sobrevivir-apagones-escenarios_1_1129828.html",
@@ -249,27 +270,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cultura/festival-trigueros-vuelve-mirar-cuba_1_1129603.html",
         "published_date": "2026-08-09 11:47:32",
-        "category": "Energy"
-    },
-    {
-        "title": "Cuba: Tax incentives to promote renewable energies",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-incentivos-fiscales-para-impulsar-las-energias-renovables/",
-        "published_date": "2026-08-08 20:46:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Tax benefits for renewable energies in state and non-state sectors are updated",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260808/actualizan-beneficios-fiscales-para-energias-renovables-en-sectores-estatal-y-no-estatal/",
-        "published_date": "2026-08-08 15:45:26",
-        "category": "Energy"
-    },
-    {
-        "title": "Official Gazette: Cuban Customs expands tariff-free imports",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/aduana-cuba-amplia-importaciones-libres-aranceles/",
-        "published_date": "2026-08-08 15:05:43",
         "category": "Energy"
     },
     {
@@ -378,178 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "Government creates WhatsApp channel and enables telephones to report MSMEs and other businesses",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/gobierno-crea-canal-de-whatsapp-y-habilita-telefonos-para-denunciar-a-mipymes-y-otros-negocios/",
-        "published_date": "2026-08-08 22:46:57",
-        "category": "Economy"
+        "title": "An Act of Resistance Amid the Chaos Reigning in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/an-act-of-resistance-amid-the-chaos-reigning-in-cuba/",
+        "published_date": "2026-08-16 23:17:13",
+        "category": "Local Events"
     },
     {
-        "title": "National offensive against MSMEs and private businesses to stop the escalation of prices in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/ofensiva-nacional-contra-las-mipymes-y-negocios-privados-para-frenar-la-escalada-de-precios-en-cuba/",
-        "published_date": "2026-08-08 22:21:30",
-        "category": "Economy"
-    },
-    {
-        "title": "Havana reinforces offensive against MSMEs and issues an important warning",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/la-habana-refuerza-controles-precios-abusivos-alimentos/",
-        "published_date": "2026-08-08 22:06:02",
-        "category": "Economy"
-    },
-    {
-        "title": "ProGas points close again in Havana after running out of gas bales in dollars",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/puntos-progas-vuelven-cerrar-habana_1_1129597.html",
-        "published_date": "2026-08-08 18:27:42",
-        "category": "Economy"
-    },
-    {
-        "title": "Gise and her loves",
+        "title": "Fidel is revolution and strength",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260808/gise-y-sus-amores/",
-        "published_date": "2026-08-08 16:20:18",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260816/fidel-es-revolucion-y-fuerza/",
+        "published_date": "2026-08-16 22:39:24",
+        "category": "Local Events"
     },
     {
-        "title": "Price of the dollar: How are the exchange rates today in Cuba?",
+        "title": "New scams with ETECSA lines in Cuba: there are more and more reports",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/precio-del-dolar-como-estan-las-tasasde-cambio-hoy-en-cuba/",
-        "published_date": "2026-08-16 11:21:46",
+        "url": "https://www.directoriocubano.info/cuba/nuevas-estafas-con-lineas-de-etecsa-en-cuba-cada-vez-son-mas-reportes/",
+        "published_date": "2026-08-16 21:09:35",
         "category": "Local Events"
     },
     {
-        "title": "For culture to remain vital, art with resilience (+Video)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/para-que-la-cultura-siga-vital-arte-con-resiliencia-video/",
-        "published_date": "2026-08-16 04:00:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba denounces 24 OFAC fines for more than 4,014 million dollars",
+        "title": "Juan Bruno Zayas Hospital receives donation of medical supplies from Chile",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cuba-multas-ofac-4014-millones/",
-        "published_date": "2026-08-16 02:49:35",
+        "url": "https://www.directoriocubano.info/acontecer/juan-bruno-zayas-donacion-medica-chile/",
+        "published_date": "2026-08-16 20:24:40",
         "category": "Local Events"
     },
     {
-        "title": "Hegseth warns Cuba from the USS Gridley in Panama",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/hegseth-advierte-cuba-uss-gridley/",
-        "published_date": "2026-08-16 02:04:41",
+        "title": "Company that produces does earn freight",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/empresa-que-produce-si-gana-flete/",
+        "published_date": "2026-08-16 20:09:28",
         "category": "Local Events"
     },
     {
-        "title": "Blackouts in Cuba force families to sleep on rooftops and public spaces",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/apagones-cuba-dormir-azoteas/",
-        "published_date": "2026-08-16 01:41:38",
+        "title": "Room where love wins",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/sala-donde-el-amor-gana/",
+        "published_date": "2026-08-16 19:44:08",
         "category": "Local Events"
     },
     {
-        "title": "Venezuela: Political Prisoner Released After Receiving a 30-Year Sentence",
+        "title": "Are burns avoidable?",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/las-quemaduras-son-evitables/",
+        "published_date": "2026-08-16 19:37:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nicaraguan Health Ministry Conceals Chikungunya Outbreak",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/venezuela-political-prisoner-released-after-receiving-a-30-year-sentence/",
-        "published_date": "2026-08-16 01:08:54",
+        "url": "https://havanatimes.org/news/nicaraguan-health-ministry-conceals-chikungunya-outbreak/",
+        "published_date": "2026-08-16 19:27:21",
         "category": "Local Events"
     },
     {
-        "title": "Cuban admits participation in migrant smuggling network to the United States",
+        "title": "Miami burns: Extreme heat alert in Miami and South Florida that can reach 110 \u00b0F",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cubano-red-trafico-migrantes-estados-unidos/",
-        "published_date": "2026-08-16 01:07:30",
+        "url": "https://www.directoriocubano.info/usa/arde-miami-alerta-por-calor-extremo-en-miami-y-el-sur-de-florida-que-puede-alcanzar-110-f/",
+        "published_date": "2026-08-16 19:08:50",
         "category": "Local Events"
     },
     {
-        "title": "The United States warns about access to Cuban airports",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/alerta-acceso-aeropuertos-cuba-huracanes/",
-        "published_date": "2026-08-16 00:29:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE Arrests at Airports: Airlines Demand Court Orders",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/arrestos-ice-aeropuertos-aerolineas/",
-        "published_date": "2026-08-15 23:56:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Egg price in Cuba: it costs 135 pesos per unit in Las Tunas",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/precio-huevo-cuba-135-pesos-las-tunas/",
-        "published_date": "2026-08-15 23:29:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aurora \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/aurora-song-of-the-day/",
-        "published_date": "2026-08-15 22:55:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "I Want to See the Photo You Are Taking of Me, Texas, USA \u2013 Photo of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/i-want-to-see-the-photo-you-are-taking-of-me-texas-usa-photo-of-the-day/",
-        "published_date": "2026-08-15 21:37:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bandec offers loans to businesses that pay pensions in Guant\u00e1namo",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/bandec-pensiones-guantanamo-negocios/",
-        "published_date": "2026-08-15 21:32:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is tourism in Varadero sinking?This is the flight situation in August",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/se-hunde-el-turismo-en-varadero-esta-es-la-situacion-de-los-vuelos-en-agosto/",
-        "published_date": "2026-08-15 21:08:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Glenda Le\u00f3n exhibition 'A tree falls in the forest'",
+        "title": "'The many and the few' brings together nine artists in Havana",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/exposicion-glenda-leon-arbol-cae_1_1129836.html",
-        "published_date": "2026-08-15 20:35:31",
+        "url": "https://www.14ymedio.com/cartelera/reune-nueve-artistas-habana_1_1129872.html",
+        "published_date": "2026-08-16 18:35:52",
         "category": "Local Events"
     },
     {
-        "title": "BANDEC announces what the next payment to retirees and pensioners will be like in August",
+        "title": "A report asks Spain to break with the Cuban \"kleptocracy\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/informe-pide-espana-rompa-cleptocracia_1_1129869.html",
+        "published_date": "2026-08-16 18:27:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pork fat shortage causes queues since dawn in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/bandec-anuncia-como-sera-el-proximo-pago-a-jubilados-y-pensionados-en-agosto/",
-        "published_date": "2026-08-15 20:33:42",
+        "url": "https://www.directoriocubano.info/acontecer/escasez-grasa-cerdo-cuba/",
+        "published_date": "2026-08-16 18:16:37",
         "category": "Local Events"
     },
     {
-        "title": "Panama extends the transit visa for Cubans until 2029",
+        "title": "The Project is positioned as an act of resistance to the chaos that reigns in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-proyecto-posiciona-acto-resistencia-caos_7_1129868.html",
+        "published_date": "2026-08-16 18:10:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Project is positioned as an act of resistance to the chaos that reigns in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/proyecto-posiciona-acto-resistencia-caos_1_1129856.html",
+        "published_date": "2026-08-16 18:07:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Andy D\u00edaz sets a historical record in Birmingham with a jump of 18.15 meters",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cubano-andy-diaz-impone-record_1_1129858.html",
+        "published_date": "2026-08-16 17:58:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wayac\u00f3n: painting from the margin",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/wayacon-pintar-desde-el-margen/",
+        "published_date": "2026-08-16 17:41:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Important update on the visa for Cubans traveling through Panama",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/panama-visa-transito-cubanos-2029/",
-        "published_date": "2026-08-15 20:01:42",
+        "url": "https://www.directoriocubano.info/cuba/actualizacion-importante-sobre-la-visa-para-cubanos-que-viajan-a-traves-de-panama/",
+        "published_date": "2026-08-16 17:26:52",
         "category": "Local Events"
     },
     {
-        "title": "Multidisciplinary service in Matanzas: Investments for social well-being",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/inversiones-bienestar-social/",
-        "published_date": "2026-08-15 19:19:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The book Fidel and the Volunteer Teachers is presented in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presentan-en-cuba-el-libro-fidel-y-los-maestros-voluntarios/",
-        "published_date": "2026-08-15 19:09:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "When do flights between Madrid and Havana go down?These are the cheapest dates",
+        "title": "Santiago Refinery concludes third test with Cuban crude oil",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cuando-bajan-los-vuelos-entre-madrid-y-la-habana-estas-son-las-fechas-mas-economicas/",
-        "published_date": "2026-08-15 19:02:36",
+        "url": "https://www.directoriocubano.info/acontecer/tercera-prueba-crudo-cubano-santiago/",
+        "published_date": "2026-08-16 17:22:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "USCIS prepares mandatory online immigration procedures: impact on the green card",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/uscis-tramites-migratorios-linea-green-card/",
+        "published_date": "2026-08-16 16:11:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Opponent Diosbel V\u00e9liz Mar\u00edn dies stabbed to death in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-apunalado-habana-opositor-diosbel_1_1129854.html",
+        "published_date": "2026-08-16 15:47:28",
         "category": "Local Events"
     }
 ]
