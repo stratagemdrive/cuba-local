@@ -273,6 +273,13 @@
         "category": "Energy"
     },
     {
+        "title": "With prices of 20 to 50 dollars per bottle, Cimex sells the paint manufactured in Cuba in foreign currency",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/precios-20-50-dolares-bote_1_1129877.html",
+        "published_date": "2026-08-17 11:11:22",
+        "category": "Economy"
+    },
+    {
         "title": "How much is the dollar worth in Cuba today?These are the exchange rates for USD, Euro and other currencies",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/cuanto-vale-el-dolar-en-cuba-hoy-estas-son-las-tasas-de-cambio-del-usd-el-euro-y-otras-divisas/",
@@ -371,11 +378,116 @@
         "category": "Economy"
     },
     {
-        "title": "About the increase in the limit for transferring from the Red card",
+        "title": "Meteorologists warn about the effects of El Ni\u00f1o in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/meteorologos-alertan-efectos-nino-cuba_1_1129880.html",
+        "published_date": "2026-08-17 11:26:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "What about Toyotas?This is the serious problem why in the United States they are withdrawing their cars from sale",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/que-pasa-con-los-toyota-este-el-grave-problema-por-el-cual-en-estados-unidos-estan-retirando-sus-autos-de-la-venta/",
+        "published_date": "2026-08-17 11:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Monday, August 17, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-lunes-17-agosto_132_1129874.html",
+        "published_date": "2026-08-17 10:50:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Monday, August 17, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-lunes-17-agosto_7_1129876.html",
+        "published_date": "2026-08-17 10:49:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price of the dollar and the euro today in Cuba: this is how the exchange rates are this August 17",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/precio-del-dolar-y-el-euro-hoy-en-cuba-asi-estan-las-tasas-de-cambio-este-17-de-agosto/",
+        "published_date": "2026-08-17 10:30:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Are they going to remove the bread from the quota?Food Company responds",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/van-a-quitar-el-pan-de-la-cuota-empresa-alimentaria-responde/",
+        "published_date": "2026-08-17 10:08:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami breaks a heat record in force since 1909 in the midst of a wave of extreme temperatures",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/miami-rompe-un-record-de-calor-vigente-desde-1909-en-plena-ola-de-temperaturas-extremas/",
+        "published_date": "2026-08-17 09:55:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "With Women's hands: initiatives that transform Cienfuegos",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/sobre-el-aumento-del-limite-para-trasferir-desde-la-tarjeta-red/",
-        "published_date": "2026-08-09 04:00:16",
-        "category": "Economy"
+        "url": "https://www.5septiembre.cu/con-manos-de-mujer-iniciativas-que-transforman-cienfuegos/",
+        "published_date": "2026-08-17 08:00:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Little Sisters N\u00fa\u00f1ez",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/las-hermanitas-nunez/",
+        "published_date": "2026-08-17 04:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ageless heroine",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/heroina-sin-edad/",
+        "published_date": "2026-08-17 00:57:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unique",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/unicas/",
+        "published_date": "2026-08-17 00:46:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Keep the Fair",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/mantener-la-feria/",
+        "published_date": "2026-08-17 00:22:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Living memory: from Marlies to Marif\u00e9lix",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/memoria-viva-de-marlies-a-marifelix/",
+        "published_date": "2026-08-17 00:18:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Viajero will sell tickets 3 days in advance: these are the available routes",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/viajero-pasajes-3-dias-antelacion-rutas-agosto-2026/",
+        "published_date": "2026-08-16 23:53:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The infallible risks",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260816/los-riesgos-infalibles/",
+        "published_date": "2026-08-16 23:31:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "An Act of Resistance Amid the Chaos Reigning in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/interviews/an-act-of-resistance-amid-the-chaos-reigning-in-cuba/",
+        "published_date": "2026-08-16 23:17:13",
+        "category": "Local Events"
     },
     {
         "title": "An Act of Resistance Amid the Chaos Reigning in Cuba",
@@ -392,129 +504,17 @@
         "category": "Local Events"
     },
     {
+        "title": "United States authorities are going after fake marriages: there are already several accused in a network with about 1,000 cases",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/autoridades-de-estados-unidos-van-tras-matrimonios-falsos-ya-hay-varios-imputados-por-una-red-con-unos-1000-casos/",
+        "published_date": "2026-08-16 22:12:19",
+        "category": "Local Events"
+    },
+    {
         "title": "New scams with ETECSA lines in Cuba: there are more and more reports",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/nuevas-estafas-con-lineas-de-etecsa-en-cuba-cada-vez-son-mas-reportes/",
         "published_date": "2026-08-16 21:09:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juan Bruno Zayas Hospital receives donation of medical supplies from Chile",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/juan-bruno-zayas-donacion-medica-chile/",
-        "published_date": "2026-08-16 20:24:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Company that produces does earn freight",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260816/empresa-que-produce-si-gana-flete/",
-        "published_date": "2026-08-16 20:09:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Room where love wins",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260816/sala-donde-el-amor-gana/",
-        "published_date": "2026-08-16 19:44:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Are burns avoidable?",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260816/las-quemaduras-son-evitables/",
-        "published_date": "2026-08-16 19:37:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nicaraguan Health Ministry Conceals Chikungunya Outbreak",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/nicaraguan-health-ministry-conceals-chikungunya-outbreak/",
-        "published_date": "2026-08-16 19:27:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miami burns: Extreme heat alert in Miami and South Florida that can reach 110 \u00b0F",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/arde-miami-alerta-por-calor-extremo-en-miami-y-el-sur-de-florida-que-puede-alcanzar-110-f/",
-        "published_date": "2026-08-16 19:08:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The many and the few' brings together nine artists in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/reune-nueve-artistas-habana_1_1129872.html",
-        "published_date": "2026-08-16 18:35:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "A report asks Spain to break with the Cuban \"kleptocracy\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/informe-pide-espana-rompa-cleptocracia_1_1129869.html",
-        "published_date": "2026-08-16 18:27:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pork fat shortage causes queues since dawn in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/escasez-grasa-cerdo-cuba/",
-        "published_date": "2026-08-16 18:16:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Project is positioned as an act of resistance to the chaos that reigns in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-proyecto-posiciona-acto-resistencia-caos_7_1129868.html",
-        "published_date": "2026-08-16 18:10:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Project is positioned as an act of resistance to the chaos that reigns in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/proyecto-posiciona-acto-resistencia-caos_1_1129856.html",
-        "published_date": "2026-08-16 18:07:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Andy D\u00edaz sets a historical record in Birmingham with a jump of 18.15 meters",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/cubano-andy-diaz-impone-record_1_1129858.html",
-        "published_date": "2026-08-16 17:58:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wayac\u00f3n: painting from the margin",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260816/wayacon-pintar-desde-el-margen/",
-        "published_date": "2026-08-16 17:41:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important update on the visa for Cubans traveling through Panama",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/actualizacion-importante-sobre-la-visa-para-cubanos-que-viajan-a-traves-de-panama/",
-        "published_date": "2026-08-16 17:26:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santiago Refinery concludes third test with Cuban crude oil",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/tercera-prueba-crudo-cubano-santiago/",
-        "published_date": "2026-08-16 17:22:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "USCIS prepares mandatory online immigration procedures: impact on the green card",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/uscis-tramites-migratorios-linea-green-card/",
-        "published_date": "2026-08-16 16:11:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opponent Diosbel V\u00e9liz Mar\u00edn dies stabbed to death in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/muere-apunalado-habana-opositor-diosbel_1_1129854.html",
-        "published_date": "2026-08-16 15:47:28",
         "category": "Local Events"
     }
 ]
