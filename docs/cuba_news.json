@@ -63,13 +63,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Peru summons the Russian ambassador to request information about Peruvians in the war with Ukraine",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/peru-convoca-embajador-ruso-pedir_1_1129662.html",
-        "published_date": "2026-08-11 09:18:53",
-        "category": "Diplomacy"
-    },
-    {
         "title": "A false seismic alert forces thousands of Cubans to take to the streets throughout the island",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/falsa-alerta-sismica-salir-calle_1_1129923.html",
@@ -378,18 +371,109 @@
         "category": "Economy"
     },
     {
-        "title": "The death toll from the earthquake in Colombia rises to 240",
+        "title": "Duel of former Cuban journalists: Mar\u00eda Elvira Salazar will face Democrat Eliott Rodr\u00edguez",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/muertos-hospitales-desbordados-terremoto-colombia_1_1129656.html",
-        "published_date": "2026-08-11 08:08:31",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/internacional/duelo-ex-periodistas-cubanos-maria_1_1129934.html",
+        "published_date": "2026-08-19 11:27:28",
+        "category": "Local Events"
     },
     {
-        "title": "More than 130 dead, overflowing hospitals and curfews due to the earthquake in Colombia",
+        "title": "A concert has raised more than a million dollars for the victims of the earthquake in Colombia",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/130-muertos-hospitales-desbordados-toques_1_1129656.html",
-        "published_date": "2026-08-11 08:08:31",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/internacional/concierto-recaudado-millon-dolares-victimas_1_1129937.html",
+        "published_date": "2026-08-19 11:25:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Surrounded on the street by a group of Freemasons, Vi\u00f1as Alonso emerges unharmed from an appointment with State Security",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/arropado-calle-grupo-masones-vinas_1_1129935.html",
+        "published_date": "2026-08-19 11:11:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, August 19, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-19-agosto_132_1129931.html",
+        "published_date": "2026-08-19 11:00:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, August 19, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-19-agosto_7_1129933.html",
+        "published_date": "2026-08-19 10:46:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price of the dollar and the euro today in Cuba: this is how the official and informal rates dawn this August 19",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/precio-del-dolar-y-el-euro-hoy-en-cuba-asi-amanecen-las-tasas-oficiales-e-informales-este-19-de-agosto/",
+        "published_date": "2026-08-19 10:33:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three weeks later, I return to streets with less food and more 'Closed' signs",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/tres-semanas-despues-regreso-calles_1_1129928.html",
+        "published_date": "2026-08-19 10:27:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Presentation of 'Veritas' at the West New York Cultural Center",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/presentacion-veritas-west-new-york_1_1129926.html",
+        "published_date": "2026-08-19 09:58:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "I am left with gratitude and kind gestures",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/me-quedo-con-la-gratitud-y-los-gestos-amables/",
+        "published_date": "2026-08-19 04:00:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Renting a car in Cuba: traveler receives it without gasoline at the airport",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/rentar-auto-cuba-sin-gasolina/",
+        "published_date": "2026-08-19 02:18:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "False seismic alarm in Cuba: CENAIS confirms erroneous warning and reports a real earthquake",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/falsa-alarma-sismica-cuba-ciego-avila/",
+        "published_date": "2026-08-19 01:06:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dangerous heat this Wednesday, August 19 in Miami: Up to 110 degrees of temperature",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/calor-peligroso-este-miercoles-19-de-agosto-en-miami-hasta-110-grados-de-temperatura/",
+        "published_date": "2026-08-19 00:44:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE proposes insurance for police officers who make immigration arrests",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/ice-seguro-policias-arrestos-migratorios/",
+        "published_date": "2026-08-19 00:15:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "US Coast Guard rescues two people at sea near Miami",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/guardia-costera-de-estados-unidos-rescata-a-dos-personas-en-el-mar-cerca-de-miami/",
+        "published_date": "2026-08-18 23:14:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert for pet owners in South Florida: deadly virus now has more than 200 cases",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/alerta-para-duenos-de-mascotas-en-el-sur-de-florida-virus-mortal-ya-suma-mas-de-200-casos/",
+        "published_date": "2026-08-18 22:55:29",
+        "category": "Local Events"
     },
     {
         "title": "Miami-Dade offers Uber and Lyft rewards to public transportation users",
@@ -424,111 +508,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/agentes-cubanos-usaron-uniformes-atletas_1_1129920.html",
         "published_date": "2026-08-18 20:50:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans in Miami: this is how you can claim if a company damages your house during construction",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cubanos-en-miami-asi-puedes-reclamar-si-una-compania-dana-tu-casa-durante-una-obra/",
-        "published_date": "2026-08-18 20:07:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earth tremor in Cuba?Seismic alert causes concern and evictions",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/temblor-de-tierra-en-cuba-alerta-sismica-provoca-inquietud-y-desalojos/",
-        "published_date": "2026-08-18 19:44:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several Cubans deported by the United States prepare to leave Tapachula in a caravan",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/cubanos-deportados-ee-uu-preparan_1_1129915.html",
-        "published_date": "2026-08-18 19:19:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "More Cubans can now apply for their first Spanish passport: Consulate expands appointments",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/mas-cubanos-ya-pueden-solicitar-su-primer-pasaporte-espanol-consulado-amplia-las-citas/",
-        "published_date": "2026-08-18 19:01:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Baseball Series returns to group format and proposes new features",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/2014-04-18-14-10-19/33077-serie-nacional-de-beisbol-regresa-a-formato-de-grupos-y-propone-novedades",
-        "published_date": "2026-08-18 18:32:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Seismological Service denies earthquake alarm in Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33076-servicio-sismologico-nacional-desmiente-alarma-de-terremoto-en-cuba",
-        "published_date": "2026-08-18 18:15:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the provinces of Cuba with the most pregnancies among girls between 10 and 14 years old",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/estas-son-las-provincias-de-cuba-con-mas-embarazos-entre-ninas-de-10-a-14-anos/",
-        "published_date": "2026-08-18 18:09:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Federated members in Cienfuegos are decorated with Distinction August 23",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/condecoran-a-federadas-en-cienfuegos-con-distincion-23-de-agosto/",
-        "published_date": "2026-08-18 17:53:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economist launches harsh criticism of the new price caps in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/economista-lanza-dura-critica-a-los-nuevos-topes-de-precios-en-cuba/",
-        "published_date": "2026-08-18 17:09:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia-China trade could set record this year",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/comercio-entre-rusia-y-china-podria-establecer-record-este-ano/",
-        "published_date": "2026-08-18 17:03:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "India presents guide for Brics cooperation in ICT",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/india-presenta-guia-para-cooperacion-brics-en-tic/",
-        "published_date": "2026-08-18 16:57:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "China pays attention to the inauguration of a US center in the Philippines",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/china-atenta-a-inauguracion-de-centro-estadounidense-en-filipinas/",
-        "published_date": "2026-08-18 16:45:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Transit visa to Panama for Cubans: how to make an appointment and who is currently exempt?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/visa-de-transito-a-panama-para-cubanos-como-pedir-cita-y-quienes-estan-exentos-en-la-actualidad/",
-        "published_date": "2026-08-18 16:03:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Operations associated with the Nauta service restored",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/restablecidas-las-operaciones-asociadas-al-servicio-nauta/",
-        "published_date": "2026-08-18 15:58:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abrakadabra: The boy who became immortal",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/abrakadabra-el-nino-que-se-hizo-inmortal/",
-        "published_date": "2026-08-18 15:19:24",
         "category": "Local Events"
     }
 ]
