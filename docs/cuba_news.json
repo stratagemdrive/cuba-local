@@ -1,5 +1,26 @@
 [
     {
+        "title": "President and Foreign Minister of Cuba denounce new US sanctions against companies and institutions on the island",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-y-canciller-de-cuba-denuncian-nuevas-sanciones-de-eeuu-contra-empresas-e-instituciones-de-la-isla/",
+        "published_date": "2026-08-21 16:16:06",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Panama calls for support at the UN to end the US blockade against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/panama-llama-a-apoyar-en-onu-cese-de-bloqueo-eeuu-contra-cuba/",
+        "published_date": "2026-08-21 16:07:03",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "They denounce new sanctions from the US government.",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/33087-denuncian-nuevas-sanciones-del-gobierno-de-ee-uu",
+        "published_date": "2026-08-21 10:24:17",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Panama advocates strengthening integration in Central America",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/panama-aboga-por-fortalecer-integracion-en-centroamerica/",
@@ -53,13 +74,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cuba-rechaza-expulsion-de-diplomaticos-por-gobierno-dominicano/",
         "published_date": "2026-08-14 00:49:18",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuba rejects expulsion of 10 of its diplomats in the Dominican Republic",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33056-rechaza-cuba-expulsion-de-10-de-sus-diplomaticos-en-republica-dominicana",
-        "published_date": "2026-08-13 19:51:44",
         "category": "Diplomacy"
     },
     {
@@ -175,25 +189,11 @@
         "category": "Military"
     },
     {
-        "title": "The soldier of ideas lives in the heart of his people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/el-soldado-de-las-ideas-vive-en-el-corazon-de-su-pueblo/",
-        "published_date": "2026-08-13 18:56:59",
-        "category": "Military"
-    },
-    {
-        "title": "Tribute to Fidel in Santiago de Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260813/homenaje-a-fidel-en-santiago-de-cuba-4/",
-        "published_date": "2026-08-13 18:08:47",
-        "category": "Military"
-    },
-    {
-        "title": "The holy protectors of Fidel Castro",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/los-santos-protectores-de-fidel-castro/",
-        "published_date": "2026-08-13 14:13:12",
-        "category": "Military"
+        "title": "A breakdown and an oil spill reveal the fragility of Cuban oil pipelines",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/averia-derrame-petroleo-dejan-descubierto_1_1130033.html",
+        "published_date": "2026-08-21 18:10:13",
+        "category": "Energy"
     },
     {
         "title": "Uni\u00f3n El\u00e9ctrica predicts an impact of 2,281 MW for this Thursday",
@@ -271,6 +271,20 @@
         "url": "https://www.trabajadores.cu/20260814/fidel-en-villa-clara-recuerdos-de-un-lider-centenario/",
         "published_date": "2026-08-14 13:14:24",
         "category": "Energy"
+    },
+    {
+        "title": "Do you have a Tropical Card?Cuban bank clarifies the ways to know how much money you have left",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/tienes-una-tarjeta-tropical-banco-cubano-aclara-las-formas-de-saber-cuanto-dinero-te-queda/",
+        "published_date": "2026-08-21 16:01:22",
+        "category": "Economy"
+    },
+    {
+        "title": "Council of State approves four decree laws",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33086-aprueba-consejo-de-estado-cuatro-decretos-leyes",
+        "published_date": "2026-08-21 10:07:58",
+        "category": "Economy"
     },
     {
         "title": "ECLAC predicts a 10.3% drop in the Cuban economy in 2026",
@@ -399,157 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Mipymes and taxpayers in Cuba are warned: these are the documents they must have ready for an inspection",
+        "title": "ETECSA assumes responsibility for false earthquake alert sent to mobile phones in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/advierten-a-mipymes-y-contribuyentes-en-cuba-estos-son-los-documentos-que-deben-tener-listos-ante-una-fiscalizacion/",
-        "published_date": "2026-08-13 22:01:38",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/noticias/etecsa-responsabilidad-falsa-alerta-terremoto-cuba/",
+        "published_date": "2026-08-21 22:47:21",
+        "category": "Local Events"
     },
     {
-        "title": "Cuba tests Turno Banco to make an appointment without going to the bank: goodbye to lines?",
+        "title": "Santiago de Cuba incorporates new electric tricycles to support Health services",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cuba-prueba-turno-banc-para-sacar-una-cita-sin-ir-al-banco-adios-a-las-colas/",
-        "published_date": "2026-08-13 12:01:06",
-        "category": "Economy"
-    },
-    {
-        "title": "Informative coffee for Friday, August 21, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-viernes-21-agosto_132_1130018.html",
-        "published_date": "2026-08-21 11:07:27",
+        "url": "https://www.directoriocubano.info/noticias/santiago-cuba-triciclos-electricos-servicios-salud/",
+        "published_date": "2026-08-21 22:28:40",
         "category": "Local Events"
     },
     {
-        "title": "Informative coffee for Friday, August 21, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-viernes-21-agosto_7_1130020.html",
-        "published_date": "2026-08-21 11:06:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Jacuzzi', by Yunior Garc\u00eda Aguilera",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/jacuzzi-yunior-garcia-aguilera_1_1130014.html",
-        "published_date": "2026-08-21 10:15:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Among the missing Cubans were two-year-old twins: they have already been located in Mexico",
+        "title": "The United States returns 127 irregular migrants to Cuba on a new repatriation flight",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/entre-los-cubanos-desaparecidos-habia-gemelos-de-dos-anos-ya-fueron-localizados-por-mexico/",
-        "published_date": "2026-08-21 09:45:56",
+        "url": "https://www.directoriocubano.info/noticias/estados-unidos-devuelve-cuba-127-migrantes-irregulares-agosto-2026/",
+        "published_date": "2026-08-21 21:57:38",
         "category": "Local Events"
     },
     {
-        "title": "Ukraine attacks a refinery in the Urals, 1,500 kilometers east of Moscow",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ucrania-ataca-refineria-oeste-urales_1_1130012.html",
-        "published_date": "2026-08-21 09:22:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presentation of 'The Island of Skeletons', by Alberto M\u00e9ndez Castell\u00f3",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/presentacion-isla-esqueletos-alberto-mendez_1_1130010.html",
-        "published_date": "2026-08-21 09:09:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Get to know our weekly edition in PDF from August 21",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-semanal-en-pdf-del-21-de-agosto/",
-        "published_date": "2026-08-21 09:07:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Liberia, new destination for 1,200 deportees by the US, Cubans among them",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/liberia-nuevo-destino-1-200_1_1130005.html",
-        "published_date": "2026-08-21 08:50:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Havana, deaths almost triple births",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/habana-muertes-triplican-nacimientos_1_1130007.html",
-        "published_date": "2026-08-21 08:40:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "An appointment with the guajirologist",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/una-cita-con-el-guajirologo/",
-        "published_date": "2026-08-21 06:00:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man does not live by ruddyness alone.",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/no-solo-de-la-rubicundez-vive-el-hombre/",
-        "published_date": "2026-08-21 04:00:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Not just the door of your house",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260820/no-solo-la-puerta-de-su-casa/",
-        "published_date": "2026-08-21 00:57:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Higher Education will begin a course with decentralized processes and teaching in territories",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260820/educacion-superior-iniciara-curso-con-procesos-descentralizados-y-actividades-docentes-desde-los-territorios/",
-        "published_date": "2026-08-21 00:53:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Protection of minors",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260820/proteccion-a-menores/",
-        "published_date": "2026-08-21 00:46:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert for depletion of aquifers",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260820/alerta-por-agotamiento-de-acuiferos/",
-        "published_date": "2026-08-21 00:37:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mimosa and Do\u00f1a Alicia: contrasting attitudes",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260820/mimosa-y-dona-alicia-actitudes-contrapuestas/",
-        "published_date": "2026-08-21 00:31:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba changes bonuses for electronic payments: clients will receive 4% and businesses 2%",
+        "title": "More than 750 US soldiers confirmed injured in the war against Iran",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-bonificaciones-pagos-electronicos-clientes-comercios/",
-        "published_date": "2026-08-20 22:32:15",
+        "url": "https://www.directoriocubano.info/estados-unidos/confirman-mas-de-750-solados-estadounidenses-heridos-en-la-guerra-contra-iran/",
+        "published_date": "2026-08-21 21:36:11",
         "category": "Local Events"
     },
     {
-        "title": "The Last Dance of the Sun, Havana, Cuba \u2013 Photo of the Day",
+        "title": "Several activists are questioned in Miami after paying tribute to Fidel Castro in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/interrogan-miami-activistas-homenajear-fidel_1_1130044.html",
+        "published_date": "2026-08-21 21:23:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The seventh deportee flight of the year arrives in Cuba from the United States, with 127 repatriates on board",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/llega-cuba-ee-uu-septimo_1_1130041.html",
+        "published_date": "2026-08-21 20:52:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Baseball player Brander Guevara breaks with the Federation and does not return to Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/pelotero-brander-guevara-rompe-federacion_1_1130039.html",
+        "published_date": "2026-08-21 20:37:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "FIFA punishes Argentina and suspends players after the World Cup final",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/argentina/fifa-castiga-a-argentina-y-suspende-a-jugadores-tras-la-final-del-mundial/",
+        "published_date": "2026-08-21 20:31:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "They warn in Cuba about risks with EcoFlow, motors and lithium batteries during blackouts",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/riesgos-ecoflow-motorinas-baterias-litio-apagones-cuba/",
+        "published_date": "2026-08-21 20:04:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cubans entered the United States as European citizens: this is how a network operated with false ESTA permits",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cubanos-entraban-a-estados-unidos-como-ciudadanos-europeos-asi-operaba-una-red-con-permisos-esta-falsos/",
+        "published_date": "2026-08-21 19:26:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Arrest in Bolivia of the King of the Trolls",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/the-last-dance-of-the-sun-havana-cuba-photo-of-the-day/",
-        "published_date": "2026-08-20 22:24:09",
+        "url": "https://havanatimes.org/news/the-arrest-in-bolivia-of-the-king-of-the-trolls/",
+        "published_date": "2026-08-21 18:56:59",
         "category": "Local Events"
     },
     {
-        "title": "The United States sanctions nine Cuban entities, including the Ministry of Construction",
+        "title": "Spain extends early retirement to 56 years of age for workers with disabilities",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/espana-amplia-la-jubilacion-anticipada-a-los-56-anos-para-trabajadores-con-discapacidad/",
+        "published_date": "2026-08-21 18:05:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Milagros' family awaits justice",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33088-la-familia-de-milagros-espera-justicia",
+        "published_date": "2026-08-21 17:59:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you have them at home?Publix expands frozen fruit recall in Florida",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/las-tienes-en-casa-publix-amplia-el-retiro-de-frutas-congeladas-en-florida/",
+        "published_date": "2026-08-21 17:09:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luggage and shipping: Cubans from Miami will have new options at Customs",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/equipajes-y-envios-cubanos-de-miami-tendran-nuevas-opciones-en-aduana/",
+        "published_date": "2026-08-21 16:35:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iran calls Trump's statements on Hormuz wishful thinking",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-califica-de-ilusiones-las-declaraciones-de-trump-sobre-ormuz/",
+        "published_date": "2026-08-21 16:19:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Higher Education will begin a new course with decentralized processes and teaching activities from the territories",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/educacion-superior-iniciara-nuevo-curso-con-procesos-descentralizados-y-actividades-docentes-desde-los-territorios/",
+        "published_date": "2026-08-21 15:55:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The train that derailed in Camag\u00fcey was carrying containers supposedly stranded in Jamaica",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/estados-unidos-sanciona-nueve-entidades_1_1130003.html",
-        "published_date": "2026-08-20 22:00:31",
+        "url": "https://www.14ymedio.com/cuba/tren-descarrilo-camagueey-llevaba-contenedores_1_1130025.html",
+        "published_date": "2026-08-21 15:48:04",
         "category": "Local Events"
     },
     {
-        "title": "Las Migas \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/las-migas-song-of-the-day/",
-        "published_date": "2026-08-20 21:58:42",
+        "title": "Damage in Varadero-Matanzas oil pipeline repaired in 23 hours",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reparan-en-23-horas-averia-en-oleoducto-varadero-matanzas/",
+        "published_date": "2026-08-21 15:46:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cPrisoners and scammed\u201d, the drama of the Peruvians recruited by Russia for the war",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/prisioneros-estafados-drama-peruanos-reclutados_1_1130031.html",
+        "published_date": "2026-08-21 15:44:06",
         "category": "Local Events"
     }
 ]
