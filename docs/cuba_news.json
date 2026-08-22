@@ -70,11 +70,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba rejects expulsion of diplomats by Dominican government",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-rechaza-expulsion-de-diplomaticos-por-gobierno-dominicano/",
-        "published_date": "2026-08-14 00:49:18",
-        "category": "Diplomacy"
+        "title": "Uneac: 65 years of art, identity and commitment to Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260821/uneac-65-anos-de-arte-identidad-y-compromiso-con-cuba/",
+        "published_date": "2026-08-22 01:45:44",
+        "category": "Military"
     },
     {
         "title": "Google denies having sent the false seismic alert and the clues lead to the Etecsa network",
@@ -182,13 +182,6 @@
         "category": "Military"
     },
     {
-        "title": "On his centenary: Fidel belongs to humanity",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/en-su-centenario-fidel-es-de-la-humanidad/",
-        "published_date": "2026-08-14 01:06:51",
-        "category": "Military"
-    },
-    {
         "title": "A breakdown and an oil spill reveal the fragility of Cuban oil pipelines",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/averia-derrame-petroleo-dejan-descubierto_1_1130033.html",
@@ -271,6 +264,13 @@
         "url": "https://www.trabajadores.cu/20260814/fidel-en-villa-clara-recuerdos-de-un-lider-centenario/",
         "published_date": "2026-08-14 13:14:24",
         "category": "Energy"
+    },
+    {
+        "title": "The dollar rises and the euro falls in the Central Bank and the informal market respectively",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/sube-el-dolar-y-baja-el-euro-en-el-banco-central-y-el-mercado-informal-respectivamente/",
+        "published_date": "2026-08-22 10:23:32",
+        "category": "Economy"
     },
     {
         "title": "Do you have a Tropical Card?Cuban bank clarifies the ways to know how much money you have left",
@@ -406,11 +406,109 @@
         "category": "Economy"
     },
     {
-        "title": "The dollar and the euro fall in Cuba.This is how currencies are in the informal market today, August 14",
+        "title": "They announce an increase in flights from this Florida airport",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cae-el-dolar-y-el-euro-en-cuba-asi-estan-las-divisas-en-el-mercado-informal-hoy-14-de-agosto/",
-        "published_date": "2026-08-14 10:36:04",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/internacionales/149508/",
+        "published_date": "2026-08-22 11:17:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "It was Etecsa, not Google, who issued the false seismic alert",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/etecsa-no-google-emitio-falsa_1_1130046.html",
+        "published_date": "2026-08-22 11:09:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban radio: 104 years of history, culture and faithful company",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-radio-cubana-104-anos-de-historia-cultura-y-compania-fiel/",
+        "published_date": "2026-08-22 04:00:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artificial Intelligence and Robotics Redefine the Modern Battlefield",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-inteligencia-artificial-y-la-robotica-redefinen-el-campo-de-batalla-moderno/",
+        "published_date": "2026-08-22 04:00:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liz, heaven and adventure",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/liz-el-cielo-y-la-aventura/",
+        "published_date": "2026-08-22 04:00:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "ETECSA recognizes technical-human error behind the false earthquake alerts on August 18 in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/etecsa-reconoce-error-tecnico-humano-detras-de-las-falsas-alertas-de-terremoto-del-18-de-agosto-en-cuba/",
+        "published_date": "2026-08-22 03:13:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Perceptible earthquake reported in Santiago de Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/reportan-sismo-perceptible-en-santiago-de-cuba-3/",
+        "published_date": "2026-08-22 02:47:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fair and festival days exalt culture",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260821/el-delegado-de-cubanacan-en-matanzas-yobany-gil-intercambia-con-algunas-de-las-egresadas-de-la-maestria-cursada-en-china-foto-tomada-del-facebook-de-yobany-gil/",
+        "published_date": "2026-08-22 02:16:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Opportunity to improve in China for young people in tourism",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260821/oportunidad-de-superacion-en-china-para-jovenes-del-turismo/",
+        "published_date": "2026-08-22 02:02:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fair recognition to the FMC of the labor movement",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260821/justo-reconocimiento-a-la-fmc-del-movimiento-obrero/",
+        "published_date": "2026-08-22 01:54:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camagua brings Cuban folklore to the cultural dialogue in Europe",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/57-artes-escenicas/33090-camagua-lleva-el-folclor-cubano-al-dialogo-cultural-en-europa",
+        "published_date": "2026-08-22 00:26:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Theft of dielectric oil affects Molecular Medicine in Santiago de Cuba and forces samples to be transferred to Granma",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/robo-aceite-dielectrico-medicina-molecular-santiago-cuba/",
+        "published_date": "2026-08-22 00:11:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meteorological drought in Camag\u00fcey can have consequences",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33089-compleja-sequia-meteorologica-en-camagueey-puede-tener-consecuencias",
+        "published_date": "2026-08-22 00:09:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Havana, Deaths Nearly Triple Births",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/in-havana-deaths-nearly-triple-births/",
+        "published_date": "2026-08-21 23:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Grief of Exile: Loving from the Shadows",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/the-grief-of-exile-loving-from-the-shadows/",
+        "published_date": "2026-08-21 23:49:14",
+        "category": "Local Events"
     },
     {
         "title": "ETECSA assumes responsibility for false earthquake alert sent to mobile phones in Cuba",
@@ -445,111 +543,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/interrogan-miami-activistas-homenajear-fidel_1_1130044.html",
         "published_date": "2026-08-21 21:23:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "The seventh deportee flight of the year arrives in Cuba from the United States, with 127 repatriates on board",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/llega-cuba-ee-uu-septimo_1_1130041.html",
-        "published_date": "2026-08-21 20:52:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Baseball player Brander Guevara breaks with the Federation and does not return to Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/pelotero-brander-guevara-rompe-federacion_1_1130039.html",
-        "published_date": "2026-08-21 20:37:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "FIFA punishes Argentina and suspends players after the World Cup final",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/argentina/fifa-castiga-a-argentina-y-suspende-a-jugadores-tras-la-final-del-mundial/",
-        "published_date": "2026-08-21 20:31:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "They warn in Cuba about risks with EcoFlow, motors and lithium batteries during blackouts",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/riesgos-ecoflow-motorinas-baterias-litio-apagones-cuba/",
-        "published_date": "2026-08-21 20:04:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans entered the United States as European citizens: this is how a network operated with false ESTA permits",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cubanos-entraban-a-estados-unidos-como-ciudadanos-europeos-asi-operaba-una-red-con-permisos-esta-falsos/",
-        "published_date": "2026-08-21 19:26:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Arrest in Bolivia of the King of the Trolls",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/the-arrest-in-bolivia-of-the-king-of-the-trolls/",
-        "published_date": "2026-08-21 18:56:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain extends early retirement to 56 years of age for workers with disabilities",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/espana-amplia-la-jubilacion-anticipada-a-los-56-anos-para-trabajadores-con-discapacidad/",
-        "published_date": "2026-08-21 18:05:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Milagros' family awaits justice",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33088-la-familia-de-milagros-espera-justicia",
-        "published_date": "2026-08-21 17:59:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you have them at home?Publix expands frozen fruit recall in Florida",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/las-tienes-en-casa-publix-amplia-el-retiro-de-frutas-congeladas-en-florida/",
-        "published_date": "2026-08-21 17:09:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Luggage and shipping: Cubans from Miami will have new options at Customs",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/equipajes-y-envios-cubanos-de-miami-tendran-nuevas-opciones-en-aduana/",
-        "published_date": "2026-08-21 16:35:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran calls Trump's statements on Hormuz wishful thinking",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-califica-de-ilusiones-las-declaraciones-de-trump-sobre-ormuz/",
-        "published_date": "2026-08-21 16:19:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Higher Education will begin a new course with decentralized processes and teaching activities from the territories",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/educacion-superior-iniciara-nuevo-curso-con-procesos-descentralizados-y-actividades-docentes-desde-los-territorios/",
-        "published_date": "2026-08-21 15:55:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The train that derailed in Camag\u00fcey was carrying containers supposedly stranded in Jamaica",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/tren-descarrilo-camagueey-llevaba-contenedores_1_1130025.html",
-        "published_date": "2026-08-21 15:48:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Damage in Varadero-Matanzas oil pipeline repaired in 23 hours",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reparan-en-23-horas-averia-en-oleoducto-varadero-matanzas/",
-        "published_date": "2026-08-21 15:46:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cPrisoners and scammed\u201d, the drama of the Peruvians recruited by Russia for the war",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/prisioneros-estafados-drama-peruanos-reclutados_1_1130031.html",
-        "published_date": "2026-08-21 15:44:06",
         "category": "Local Events"
     }
 ]
