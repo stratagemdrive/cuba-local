@@ -63,13 +63,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba reiterates its denunciation of the United States' policy of maximum asphyxiation",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33063-cuba-reitera-denuncia-a-politica-de-maxima-asfixia-de-estados-unidos",
-        "published_date": "2026-08-14 16:35:15",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Uneac: 65 years of art, identity and commitment to Cuba",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260821/uneac-65-anos-de-arte-identidad-y-compromiso-con-cuba/",
@@ -168,18 +161,11 @@
         "category": "Military"
     },
     {
-        "title": "\u201cCuba is warned, we are not going to tolerate that type of evil influence in our hemisphere\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-advertida-no-tolerar-tipo_1_1129809.html",
-        "published_date": "2026-08-14 19:18:27",
-        "category": "Military"
-    },
-    {
-        "title": "According to estimates, the US would have lost a quarter of its MQ-9 Reaper drones in the conflict with Iran",
+        "title": "UNE predicts an impact of 2,240 MW for this Saturday",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/segun-estimaciones-ee-uu-habria-perdido-una-cuarta-parte-sus-drones-mq-9-reaper-en-el-conflicto-con-iran/",
-        "published_date": "2026-08-14 14:44:04",
-        "category": "Military"
+        "url": "https://www.5septiembre.cu/une-pronostica-una-afectacion-de-2240-mw-para-este-sabado/",
+        "published_date": "2026-08-22 15:07:30",
+        "category": "Energy"
     },
     {
         "title": "A breakdown and an oil spill reveal the fragility of Cuban oil pipelines",
@@ -259,11 +245,18 @@
         "category": "Energy"
     },
     {
-        "title": "Memories, in Villa Clara, of a centenary leader",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260814/fidel-en-villa-clara-recuerdos-de-un-lider-centenario/",
-        "published_date": "2026-08-14 13:14:24",
-        "category": "Energy"
+        "title": "Official Gazette publishes new rules to operate in currencies and do business between state and private companies",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-divisas-negocios-empresas-estatales-privadas-decretos-113-114/",
+        "published_date": "2026-08-22 22:01:31",
+        "category": "Economy"
+    },
+    {
+        "title": "Official Gazette publishes new measures in banking services in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gaceta-oficial-medidas-banco-central-cuba-servicios-bancarios/",
+        "published_date": "2026-08-22 21:32:19",
+        "category": "Economy"
     },
     {
         "title": "The dollar rises and the euro falls in the Central Bank and the informal market respectively",
@@ -392,157 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "How much is the dollar worth in Cuba today?These are the exchange rates for USD, Euro and other currencies",
+        "title": "Cuba sets heat records and predicts temperatures of up to 36 degrees this weekend",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuanto-vale-el-dolar-en-cuba-hoy-estas-son-las-tasas-de-cambio-del-usd-el-euro-y-otras-divisas/",
-        "published_date": "2026-08-15 11:54:10",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/panorama/cuba-encadena-records-de-calor-y-preve-temperaturas-de-hasta-36-grados-este-fin-de-semana/",
+        "published_date": "2026-08-22 22:37:22",
+        "category": "Local Events"
     },
     {
-        "title": "A chain from Artemisa to Holgu\u00edn",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260814/una-cadena-de-artemisa-a-holguin/",
-        "published_date": "2026-08-14 20:34:51",
-        "category": "Economy"
-    },
-    {
-        "title": "They announce an increase in flights from this Florida airport",
+        "title": "Death of two Cuban twins confirmed after dangerous sea crossing to Mexico",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/internacionales/149508/",
-        "published_date": "2026-08-22 11:17:53",
+        "url": "https://www.directoriocubano.info/cuba/confirman-muerte-de-dos-gemelos-cubanos-tras-peligrosa-travesia-maritima-hacia-mexico/",
+        "published_date": "2026-08-22 22:12:25",
         "category": "Local Events"
     },
     {
-        "title": "It was Etecsa, not Google, who issued the false seismic alert",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/etecsa-no-google-emitio-falsa_1_1130046.html",
-        "published_date": "2026-08-22 11:09:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban radio: 104 years of history, culture and faithful company",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-radio-cubana-104-anos-de-historia-cultura-y-compania-fiel/",
-        "published_date": "2026-08-22 04:00:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Artificial Intelligence and Robotics Redefine the Modern Battlefield",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-inteligencia-artificial-y-la-robotica-redefinen-el-campo-de-batalla-moderno/",
-        "published_date": "2026-08-22 04:00:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Liz, heaven and adventure",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/liz-el-cielo-y-la-aventura/",
-        "published_date": "2026-08-22 04:00:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "ETECSA recognizes technical-human error behind the false earthquake alerts on August 18 in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/etecsa-reconoce-error-tecnico-humano-detras-de-las-falsas-alertas-de-terremoto-del-18-de-agosto-en-cuba/",
-        "published_date": "2026-08-22 03:13:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Perceptible earthquake reported in Santiago de Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reportan-sismo-perceptible-en-santiago-de-cuba-3/",
-        "published_date": "2026-08-22 02:47:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fair and festival days exalt culture",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260821/el-delegado-de-cubanacan-en-matanzas-yobany-gil-intercambia-con-algunas-de-las-egresadas-de-la-maestria-cursada-en-china-foto-tomada-del-facebook-de-yobany-gil/",
-        "published_date": "2026-08-22 02:16:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opportunity to improve in China for young people in tourism",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260821/oportunidad-de-superacion-en-china-para-jovenes-del-turismo/",
-        "published_date": "2026-08-22 02:02:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fair recognition to the FMC of the labor movement",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260821/justo-reconocimiento-a-la-fmc-del-movimiento-obrero/",
-        "published_date": "2026-08-22 01:54:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camagua brings Cuban folklore to the cultural dialogue in Europe",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/57-artes-escenicas/33090-camagua-lleva-el-folclor-cubano-al-dialogo-cultural-en-europa",
-        "published_date": "2026-08-22 00:26:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Theft of dielectric oil affects Molecular Medicine in Santiago de Cuba and forces samples to be transferred to Granma",
+        "title": "Now yes: Official Gazette confirms new Housing Law in Cuba and doubts grow about emigrants' properties",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/robo-aceite-dielectrico-medicina-molecular-santiago-cuba/",
-        "published_date": "2026-08-22 00:11:12",
+        "url": "https://www.directoriocubano.info/cuba/gaceta-oficial-nueva-ley-vivienda-cuba-emigrados-propiedades/",
+        "published_date": "2026-08-22 21:02:28",
         "category": "Local Events"
     },
     {
-        "title": "Meteorological drought in Camag\u00fcey can have consequences",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33089-compleja-sequia-meteorologica-en-camagueey-puede-tener-consecuencias",
-        "published_date": "2026-08-22 00:09:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Havana, Deaths Nearly Triple Births",
+        "title": "Cuba: The Cash vs Digital Payment Dilemma Facing Businesses",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/features/in-havana-deaths-nearly-triple-births/",
-        "published_date": "2026-08-21 23:50:00",
+        "url": "https://havanatimes.org/features/cuba-the-cash-vs-digital-payment-dilemma-facing-businesses/",
+        "published_date": "2026-08-22 20:51:25",
         "category": "Local Events"
     },
     {
-        "title": "The Grief of Exile: Loving from the Shadows",
+        "title": "What does Cuban Customs consider a commercial import today and what will change with the new rules?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/que-considera-hoy-la-aduana-de-cuba-una-importacion-comercial-y-que-cambiara-con-las-nuevas-reglas/",
+        "published_date": "2026-08-22 20:29:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Changes in Publix supermarket purchases",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/149519/",
+        "published_date": "2026-08-22 19:24:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Villa Clara detects sales of expired products, abusive prices and retention of chicken",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/villa-clara-inspecciones-precios-abusivos-retencion-pollo/",
+        "published_date": "2026-08-22 18:17:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Nickel Chess: Who Will End Up with Sherritt's Rights?",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/the-grief-of-exile-loving-from-the-shadows/",
-        "published_date": "2026-08-21 23:49:14",
+        "url": "https://havanatimes.org/features/cuban-nickel-chess-who-will-end-up-with-sherritts-rights/",
+        "published_date": "2026-08-22 17:56:46",
         "category": "Local Events"
     },
     {
-        "title": "ETECSA assumes responsibility for false earthquake alert sent to mobile phones in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/etecsa-responsabilidad-falsa-alerta-terremoto-cuba/",
-        "published_date": "2026-08-21 22:47:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santiago de Cuba incorporates new electric tricycles to support Health services",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/santiago-cuba-triciclos-electricos-servicios-salud/",
-        "published_date": "2026-08-21 22:28:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States returns 127 irregular migrants to Cuba on a new repatriation flight",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/estados-unidos-devuelve-cuba-127-migrantes-irregulares-agosto-2026/",
-        "published_date": "2026-08-21 21:57:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 750 US soldiers confirmed injured in the war against Iran",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/confirman-mas-de-750-solados-estadounidenses-heridos-en-la-guerra-contra-iran/",
-        "published_date": "2026-08-21 21:36:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several activists are questioned in Miami after paying tribute to Fidel Castro in Havana",
+        "title": "A US court annuls the suspension of visas for 75 countries, including Cuba",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/interrogan-miami-activistas-homenajear-fidel_1_1130044.html",
-        "published_date": "2026-08-21 21:23:06",
+        "url": "https://www.14ymedio.com/internacional/tribunal-ee-uu-anula-suspension_1_1130066.html",
+        "published_date": "2026-08-22 17:52:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "All against all",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/todos_1_1130064.html",
+        "published_date": "2026-08-22 17:45:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention Cuba and Florida: National Hurricane Center monitors new tropical wave in the Atlantic",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/atencion-cuba-y-florida-centro-nacional-de-huracanes-vigila-nueva-onda-tropical-en-el-atlantico/",
+        "published_date": "2026-08-22 17:22:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "A new breakdown leaves a large part of Havana without water",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nueva-averia-deja-agua-gran_1_1130059.html",
+        "published_date": "2026-08-22 16:59:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "India with busy BRICS presidency this week",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/india-con-ajetreada-presidencia-de-brics-en-semana/",
+        "published_date": "2026-08-22 16:36:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban universities announce enrollment and start of the 2026-2027 academic year",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/universidades-cubanas-matricula-inicio-curso-2026-2027/",
+        "published_date": "2026-08-22 16:20:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Presidential election campaign \u201ctakes shape\u201d in France",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/campana-electoral-presidencial-toma-cuerpo-en-francia/",
+        "published_date": "2026-08-22 16:17:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vietnam's northern coast under threat from Typhoon Narra",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/costa-norte-de-vietnam-bajo-amenaza-de-tifon-narra/",
+        "published_date": "2026-08-22 16:12:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Automotive Services S.A.offer new places",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260822/servicios-automotores-s-a-oferta-nuevas-plazas/",
+        "published_date": "2026-08-22 16:11:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami prepares for a hot weekend with high temperatures and storms",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/miami-se-prepara-para-un-fin-de-semana-de-calor-con-altas-temperaturas-y-tormentas/",
+        "published_date": "2026-08-22 15:59:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel and the Radio: A century of revolutionary harmony",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fidel-y-la-radio-un-siglo-de-sintonia-revolucionaria/",
+        "published_date": "2026-08-22 15:57:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Once Again on Resistance in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/lien-estrada/once-again-on-resistance-in-cuba/",
+        "published_date": "2026-08-22 15:49:08",
         "category": "Local Events"
     }
 ]
