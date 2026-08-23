@@ -1,5 +1,12 @@
 [
     {
+        "title": "Blockade: a new twist of imperialism against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/bloqueo-una-nueva-vuelta-de-tuerca-del-imperialismo-contra-cuba/",
+        "published_date": "2026-08-23 04:00:01",
+        "category": "Diplomacy"
+    },
+    {
         "title": "President and Foreign Minister of Cuba denounce new US sanctions against companies and institutions on the island",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/presidente-y-canciller-de-cuba-denuncian-nuevas-sanciones-de-eeuu-contra-empresas-e-instituciones-de-la-isla/",
@@ -151,13 +158,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260815/sello-65-aniversario-del-ejercito-central-a-trabajadores-matanceros/",
         "published_date": "2026-08-15 15:00:09",
-        "category": "Military"
-    },
-    {
-        "title": "The United States relegates the military option against Cuba and prepares more sanctions",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/estados-unidos-opcion-militar-cuba-sanciones/",
-        "published_date": "2026-08-15 01:36:47",
         "category": "Military"
     },
     {
@@ -385,6 +385,76 @@
         "category": "Economy"
     },
     {
+        "title": "66 years of the FMC: the forger that Fidel knew how to see",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/66-anos-de-la-fmc-la-forjadora-que-fidel-supo-ver/",
+        "published_date": "2026-08-23 07:00:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havanatur enables payments in dollars by Classic Card for hotels and excursions in Cuba: these are some prices",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/havanatur-habilita-pagos-en-dolares-mediante-tarjeta-clasica-para-hoteles-y-excursiones-en-cuba-estos-son-algunos-precios/",
+        "published_date": "2026-08-23 02:02:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "They restore an emblematic property in Varadero",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260822/restauran-emblematico-inmueble-en-varadero/",
+        "published_date": "2026-08-23 01:55:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Firm worker loyalty to Fidel",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260822/firme-lealtad-obrera-a-fidel/",
+        "published_date": "2026-08-23 01:41:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official Gazette publishes new Identity and Domicile Law in Cuba and clarifies doubts about properties",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nueva-ley-identidad-domicilio-cuba-propiedades-emigrados/",
+        "published_date": "2026-08-23 01:37:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santiago de Cuba celebrates 65 years of Uneac",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260822/santiago-de-cuba-celebra-los-65-anos-de-la-uneac/",
+        "published_date": "2026-08-23 01:06:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Greater fiscal control in Cuba: Official Gazette publishes new rules on evasion and underdeclaration",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-programa-evasion-subdeclaracion-fiscal-gaceta-oficial/",
+        "published_date": "2026-08-23 01:00:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official Gazette confirms new Land Law in Cuba: more usufruct, inheritances and options for private individuals",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nueva-ley-tierras-cuba-usufructo-herencias-mipymes/",
+        "published_date": "2026-08-23 00:35:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban government ratifies new rules for emigrants with economic interests in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cubanos-exterior-invertir-negocios-cuba-decreto-ley-117/",
+        "published_date": "2026-08-23 00:01:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "United States visas for Cubans: who can now receive a visa and who cannot?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/visas-de-estados-unidos-para-cubanos-quienes-pueden-recibir-ahora-un-visado-y-quienes-no/",
+        "published_date": "2026-08-22 23:39:25",
+        "category": "Local Events"
+    },
+    {
         "title": "Cuba sets heat records and predicts temperatures of up to 36 degrees this weekend",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/panorama/cuba-encadena-records-de-calor-y-preve-temperaturas-de-hasta-36-grados-este-fin-de-semana/",
@@ -452,76 +522,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/opinion/todos_1_1130064.html",
         "published_date": "2026-08-22 17:45:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention Cuba and Florida: National Hurricane Center monitors new tropical wave in the Atlantic",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/atencion-cuba-y-florida-centro-nacional-de-huracanes-vigila-nueva-onda-tropical-en-el-atlantico/",
-        "published_date": "2026-08-22 17:22:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "A new breakdown leaves a large part of Havana without water",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nueva-averia-deja-agua-gran_1_1130059.html",
-        "published_date": "2026-08-22 16:59:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "India with busy BRICS presidency this week",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/india-con-ajetreada-presidencia-de-brics-en-semana/",
-        "published_date": "2026-08-22 16:36:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban universities announce enrollment and start of the 2026-2027 academic year",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/universidades-cubanas-matricula-inicio-curso-2026-2027/",
-        "published_date": "2026-08-22 16:20:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presidential election campaign \u201ctakes shape\u201d in France",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/campana-electoral-presidencial-toma-cuerpo-en-francia/",
-        "published_date": "2026-08-22 16:17:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vietnam's northern coast under threat from Typhoon Narra",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/costa-norte-de-vietnam-bajo-amenaza-de-tifon-narra/",
-        "published_date": "2026-08-22 16:12:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Automotive Services S.A.offer new places",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260822/servicios-automotores-s-a-oferta-nuevas-plazas/",
-        "published_date": "2026-08-22 16:11:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miami prepares for a hot weekend with high temperatures and storms",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/miami-se-prepara-para-un-fin-de-semana-de-calor-con-altas-temperaturas-y-tormentas/",
-        "published_date": "2026-08-22 15:59:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fidel and the Radio: A century of revolutionary harmony",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fidel-y-la-radio-un-siglo-de-sintonia-revolucionaria/",
-        "published_date": "2026-08-22 15:57:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Once Again on Resistance in Cuba",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/lien-estrada/once-again-on-resistance-in-cuba/",
-        "published_date": "2026-08-22 15:49:08",
         "category": "Local Events"
     }
 ]
