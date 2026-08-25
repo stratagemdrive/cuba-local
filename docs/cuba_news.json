@@ -161,6 +161,13 @@
         "category": "Military"
     },
     {
+        "title": "Solar energy in Cumanayagua stabilizes ETECSA services",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/energia-solar-cumanayagua-etecsa/",
+        "published_date": "2026-08-25 01:37:34",
+        "category": "Energy"
+    },
+    {
         "title": "Blackout in Cuba this Monday: deficit will reach 2,090 MW",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/apagon-cuba-lunes-2090-mw/",
@@ -264,6 +271,13 @@
         "url": "https://www.14ymedio.com/cuba/pese-apoyo-politico-sheinbaum-comercio_1_1129893.html",
         "published_date": "2026-08-17 19:22:34",
         "category": "Energy"
+    },
+    {
+        "title": "The dollar rises again in Cuba: this is how its price dawns this August 25",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/el-dolar-sube-otra-vez-en-cuba-asi-amanece-su-precio-este-25-de-agosto/",
+        "published_date": "2026-08-25 10:12:49",
+        "category": "Economy"
     },
     {
         "title": "Bukele announces an increase in investment in education, equivalent to 8% of Salvadoran GDP",
@@ -399,11 +413,102 @@
         "category": "Economy"
     },
     {
-        "title": "Bad news for Trump: voters do the math and claim that his economy was better before",
+        "title": "At least two dead in southern Russia after another Ukrainian drone attack on a refinery",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/muertos-sur-rusia-ataque-drones_1_1130127.html",
+        "published_date": "2026-08-25 11:30:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela reaches higher oil production since February 2019, according to Delcy Rodr\u00edguez",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/venezuela-alcanza-mayor-produccion-petrolera_1_1130125.html",
+        "published_date": "2026-08-25 11:09:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "US removes Syria from list of sponsors of terrorism",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-retira-siria-lista_1_1130123.html",
+        "published_date": "2026-08-25 10:56:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba prepares start of the school year in difficult conditions",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-alista-inicio-del-curso-escolar-en-dificiles-condiciones/",
+        "published_date": "2026-08-25 07:26:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "University of Havana: academic year 2026\u20132027, between presence and flexibility",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/universidad-de-la-habana-curso-2026-2027-entre-la-presencialidad-y-la-flexibilidad/",
+        "published_date": "2026-08-25 07:16:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 50 patients treated in Santiago de Cuba for an episode linked to food ingestion",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mas-de-50-pacientes-atendidos-en-santiago-de-cuba-por-episodio-vinculado-a-ingestion-de-alimentos/",
+        "published_date": "2026-08-25 07:03:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "We must not forget",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/no-debemos-olvidar/",
+        "published_date": "2026-08-25 04:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scam with false sale of gas leaves elderly people in Ciego de \u00c1vila without money or cylinder",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/malas-noticias-para-trump-votantes-sacan-cuentas-y-aseguran-que-su-economia-estaba-mejor-antes/",
-        "published_date": "2026-08-17 12:30:08",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/acontecer/estafa-falsa-venta-gas-ciego-avila/",
+        "published_date": "2026-08-25 03:28:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trip from Cuba to Brazil cost $2,130 per person, according to migrants",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/viaje-cuba-brasil-costo-2130-dolares/",
+        "published_date": "2026-08-25 02:16:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hearing for Cubans with I-220A in Miami moves to September 2",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/audiencia-cubanos-i-220a-septiembre/",
+        "published_date": "2026-08-25 01:18:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price of oil in Holgu\u00edn reaches 4,000 pesos",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/precio-aceite-holguin-4000-pesos/",
+        "published_date": "2026-08-25 00:10:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pregnant Cuban detained in Russia faces possible deportation",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cubana-embarazada-detenida-rusia/",
+        "published_date": "2026-08-24 23:39:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first one \"starts\"",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260824/se-arranca-el-primero/",
+        "published_date": "2026-08-24 23:38:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fidel Juli\u00e1n Rangel: painting as an artifact of suspicion",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260824/fidel-julian-rangel-la-pintura-como-artefacto-de-la-sospecha/",
+        "published_date": "2026-08-24 23:32:02",
+        "category": "Local Events"
     },
     {
         "title": "September Visa Bulletin advances dates for family reunification",
@@ -445,104 +550,6 @@
         "source": "Havana Times",
         "url": "https://havanatimes.org/diaries/ernesto-gonzalez/everyday-food-in-todays-cuba/",
         "published_date": "2026-08-24 20:32:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traveling from Havana Airport to the provinces: tickets from 30 euros and options to save",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/viajar-desde-el-aeropuerto-de-la-habana-a-provincias-pasajes-desde-30-euros-y-opciones-para-ahorrar/",
-        "published_date": "2026-08-24 20:05:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Timbalaye 2026: marronage as a symbol of resistance and cultural identity",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260824/timbalaye-2026-el-cimarronaje-como-simbolo-de-resistencia-e-identidad-cultural/",
-        "published_date": "2026-08-24 19:07:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how you can access a bank loan in Cuba to buy solar panels",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/como-acceder-a-un-credito-en-cuba-para-comprar-paneles-solares-esto-exige-bandec/",
-        "published_date": "2026-08-24 19:01:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Police search for the perpetrators of the destruction of a bust of Mart\u00ed in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/policia-busca-autores-destruccion-busto_1_1130115.html",
-        "published_date": "2026-08-24 18:57:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camag\u00fcey teaching centers get ready for the school year",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33094-centros-docentes-camagueeyanos-alistan-condiciones-para-el-curso-escolar",
-        "published_date": "2026-08-24 18:48:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "What's happening with coffee?Cuban roasting factory has been having difficulties for months",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/que-esta-pasando-con-el-cafe-torrefactora-cubana-lleva-meses-con-dificultades/",
-        "published_date": "2026-08-24 18:15:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "They investigate an object of possible space origin",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33093-investigan-objeto-de-posible-origen-espacial",
-        "published_date": "2026-08-24 17:45:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The euro and the dollar rise in Cuba: this is how the exchange rates are in the country right now",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/suben-el-euro-y-el-dolar-en-cuba-asi-estan-ahora-mismo-las-tasas-de-cambio-en-el-pais/",
-        "published_date": "2026-08-24 17:15:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iran prepares law to collect fees from ships in the Strait of Hormuz",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-prepara-ley-para-cobrar-tasas-a-buques-en-el-estrecho-de-ormuz/",
-        "published_date": "2026-08-24 17:10:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "New change at Publix surprises its customers in Florida",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/nuevo-cambio-en-publix-sorprende-a-sus-clientes-en-florida/",
-        "published_date": "2026-08-24 17:03:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "New suspicion of bird flu detected in mammals in Australia",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/detectan-nueva-sospecha-de-gripe-aviar-en-mamifero-en-australia/",
-        "published_date": "2026-08-24 16:52:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The WHO declares an international emergency due to Ebola in the DRC due to the risk of regional expansion",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-oms-declara-emergencia-internacional-por-el-ebola-en-rdc-ante-el-riesgo-de-expansion-regional/",
-        "published_date": "2026-08-24 16:44:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel: The US has no morals to ask us for any concessions",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/diaz-canel-eeuu-no-tiene-moral-para-pedirnos-ninguna-concesion/",
-        "published_date": "2026-08-24 16:35:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "A doctor in Mayabeque, the most recent victim of femicide in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/doctora-mayabeque-reciente-victima-feminicidio_1_1130113.html",
-        "published_date": "2026-08-24 16:30:24",
         "category": "Local Events"
     }
 ]
