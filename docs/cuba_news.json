@@ -1,5 +1,26 @@
 [
     {
+        "title": "The Cuban Foreign Minister describes the renewal of the US embargo in force since 1960 as a \"genocidal policy\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/canciller-cubano-califica-politica-genocida_1_1130140.html",
+        "published_date": "2026-08-25 18:53:22",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Chinese ambassador boasts of the electric tricycles that help collect garbage in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/embajador-chino-presume-triciclos-electricos_1_1130137.html",
+        "published_date": "2026-08-25 17:43:28",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba condemns recent extension of the blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-condena-reciente-extension-del-bloqueo/",
+        "published_date": "2026-08-25 16:57:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "China and India to hold new meeting on border issue",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/china-e-india-celebraran-nueva-reunion-sobre-cuestion-fronteriza/",
@@ -75,6 +96,20 @@
         "url": "https://www.5septiembre.cu/rusia-califica-inadmisible-cuestionar-su-jurisdiccion-sobre-kuriles/",
         "published_date": "2026-08-18 16:52:27",
         "category": "Diplomacy"
+    },
+    {
+        "title": "A priority: union training",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260825/una-prioridad-capacitacion-sindical/",
+        "published_date": "2026-08-25 18:36:50",
+        "category": "Military"
+    },
+    {
+        "title": "\"Hostile Foreign Power\"",
+        "source": "Granma",
+        "url": "http://en.granma.cu/mundo/2026-08-25/hostile-foreign-power",
+        "published_date": "2026-08-25 12:08:59",
+        "category": "Military"
     },
     {
         "title": "A priority: union training",
@@ -159,6 +194,27 @@
         "url": "https://www.14ymedio.com/internacional/alianza-rusia-da-pyongyang-dinero_1_1129908.html",
         "published_date": "2026-08-18 12:12:01",
         "category": "Military"
+    },
+    {
+        "title": "Otero Alc\u00e1ntara receives the 27,000 letters that did not reach him while he was imprisoned in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/otero-alcantara-recibe-27-000_1_1130153.html",
+        "published_date": "2026-08-26 11:05:20",
+        "category": "Energy"
+    },
+    {
+        "title": "Without light and without sound, S\u00edlvia P\u00e9rez Cruz sings before an excited audience in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cultura/fallido-concierto-silvia-perez-cruz-habana_1_1130109.html",
+        "published_date": "2026-08-26 07:31:45",
+        "category": "Energy"
+    },
+    {
+        "title": "Intricate communities in Holgu\u00edn will access clean energy with the Former project",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260825/comunidades-intrincadas-de-holguin-accederan-a-energia-limpia-con-proyecto-former/",
+        "published_date": "2026-08-25 14:12:23",
+        "category": "Energy"
     },
     {
         "title": "Solar energy in Cumanayagua stabilizes ETECSA services",
@@ -266,11 +322,18 @@
         "category": "Energy"
     },
     {
-        "title": "Despite Sheinbaum's political support, Mexico's trade with Cuba has collapsed",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/pese-apoyo-politico-sheinbaum-comercio_1_1129893.html",
-        "published_date": "2026-08-17 19:22:34",
-        "category": "Energy"
+        "title": "The dollar rises in Cuba and falls in the Central Bank: this is how the rates are this August 26",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/sube-el-dolar-en-cuba-y-baja-en-el-banco-central-asi-estan-las-tasas-este-26-de-agosto/",
+        "published_date": "2026-08-26 10:40:18",
+        "category": "Economy"
+    },
+    {
+        "title": "New regulations adapt to current economic transformations",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33096-nuevas-normativas-se-adecuan-a-las-actuales-transformaciones-economicas",
+        "published_date": "2026-08-25 10:37:48",
+        "category": "Economy"
     },
     {
         "title": "The dollar rises again in Cuba: this is how its price dawns this August 25",
@@ -399,157 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "Numancia: Mipyme entrepreneur from Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/numancia-emprendedora-mipyme-de-cienfuegos/",
-        "published_date": "2026-08-17 22:23:32",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuban bank announces payment dates for retirees in August 2026",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/banco-cubano-anuncia-fechas-de-pago-a-jubilados-en-agosto-de-2026/",
-        "published_date": "2026-08-17 13:09:25",
-        "category": "Economy"
-    },
-    {
-        "title": "At least two dead in southern Russia after another Ukrainian drone attack on a refinery",
+        "title": "Trump, the unpopular",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/muertos-sur-rusia-ataque-drones_1_1130127.html",
-        "published_date": "2026-08-25 11:30:17",
+        "url": "https://www.14ymedio.com/opinion/trump-impopular_1_1130155.html",
+        "published_date": "2026-08-26 11:16:32",
         "category": "Local Events"
     },
     {
-        "title": "Venezuela reaches higher oil production since February 2019, according to Delcy Rodr\u00edguez",
+        "title": "D\u00edaz-Canel meets with private businessmen and warns them against \u201cillegitimate profits\u201d",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/venezuela-alcanza-mayor-produccion-petrolera_1_1130125.html",
-        "published_date": "2026-08-25 11:09:22",
+        "url": "https://www.14ymedio.com/cuba/diaz-canel-reune-empresarios-privados_1_1130151.html",
+        "published_date": "2026-08-26 10:42:34",
         "category": "Local Events"
     },
     {
-        "title": "US removes Syria from list of sponsors of terrorism",
+        "title": "Are they born or made?The food preferences of mosquitoes, under the evolutionary microscope",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-retira-siria-lista_1_1130123.html",
-        "published_date": "2026-08-25 10:56:39",
+        "url": "https://www.14ymedio.com/cienciaytecnologia/nacen-preferencias-alimentarias-mosquitos-lupa_1_1130149.html",
+        "published_date": "2026-08-26 09:58:46",
         "category": "Local Events"
     },
     {
-        "title": "Cuba prepares start of the school year in difficult conditions",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-alista-inicio-del-curso-escolar-en-dificiles-condiciones/",
-        "published_date": "2026-08-25 07:26:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "University of Havana: academic year 2026\u20132027, between presence and flexibility",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/universidad-de-la-habana-curso-2026-2027-entre-la-presencialidad-y-la-flexibilidad/",
-        "published_date": "2026-08-25 07:16:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 50 patients treated in Santiago de Cuba for an episode linked to food ingestion",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/mas-de-50-pacientes-atendidos-en-santiago-de-cuba-por-episodio-vinculado-a-ingestion-de-alimentos/",
-        "published_date": "2026-08-25 07:03:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "We must not forget",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/no-debemos-olvidar/",
-        "published_date": "2026-08-25 04:00:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scam with false sale of gas leaves elderly people in Ciego de \u00c1vila without money or cylinder",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/estafa-falsa-venta-gas-ciego-avila/",
-        "published_date": "2026-08-25 03:28:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trip from Cuba to Brazil cost $2,130 per person, according to migrants",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/viaje-cuba-brasil-costo-2130-dolares/",
-        "published_date": "2026-08-25 02:16:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hearing for Cubans with I-220A in Miami moves to September 2",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/audiencia-cubanos-i-220a-septiembre/",
-        "published_date": "2026-08-25 01:18:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Price of oil in Holgu\u00edn reaches 4,000 pesos",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/precio-aceite-holguin-4000-pesos/",
-        "published_date": "2026-08-25 00:10:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pregnant Cuban detained in Russia faces possible deportation",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/cubana-embarazada-detenida-rusia/",
-        "published_date": "2026-08-24 23:39:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The first one \"starts\"",
+        "title": "Book Fair arrives in Santiago de Cuba in September",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260824/se-arranca-el-primero/",
-        "published_date": "2026-08-24 23:38:27",
+        "url": "https://www.trabajadores.cu/20260826/feria-del-libro-llega-en-septiembre-a-santiago-de-cuba/",
+        "published_date": "2026-08-26 09:04:42",
         "category": "Local Events"
     },
     {
-        "title": "Fidel Juli\u00e1n Rangel: painting as an artifact of suspicion",
+        "title": "Palmares optimizes tourist products in Varadero",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260824/fidel-julian-rangel-la-pintura-como-artefacto-de-la-sospecha/",
-        "published_date": "2026-08-24 23:32:02",
+        "url": "https://www.trabajadores.cu/20260826/palmares-optimiza-productos-turisticos-en-varadero/",
+        "published_date": "2026-08-26 08:54:38",
         "category": "Local Events"
     },
     {
-        "title": "September Visa Bulletin advances dates for family reunification",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/boletin-visas-septiembre-2026-reunificacion-familiar/",
-        "published_date": "2026-08-24 22:44:39",
+        "title": "Cuba defends the school year",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260826/cuba-defiende-el-curso-escolar/",
+        "published_date": "2026-08-26 08:29:44",
         "category": "Local Events"
     },
     {
-        "title": "Cubans residing on the Island are authorized to purchase Havanatur services with the Cl\u00e1sica in dollars",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/autorizan-cubanos-residentes-isla-comprar_1_1130121.html",
-        "published_date": "2026-08-24 22:35:53",
+        "title": "Fighting drugs: Everyone's responsibility",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/luchar-contra-las-drogas-responsabilidad-de-todos/",
+        "published_date": "2026-08-26 04:00:36",
         "category": "Local Events"
     },
     {
-        "title": "Deportation of Cubans from Russia after serving prison sentences",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/deportacion-cubanos-rusia-prision/",
-        "published_date": "2026-08-24 22:11:38",
+        "title": "2026-2027 school year: more than 95,000 students after local decisions",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33099-curso-escolar-2026-2027-mas-de-95-000-educandos-tras-decisiones-locales",
+        "published_date": "2026-08-26 00:55:01",
         "category": "Local Events"
     },
     {
-        "title": "Cubalex registers 37 homicides on the Island during July, the highest number in four years",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cubalex-registra-37-homicidios-isla_1_1130116.html",
-        "published_date": "2026-08-24 20:59:55",
+        "title": "Crochet girls",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/27-artes-visuales/33098-las-ninas-del-crochet",
+        "published_date": "2026-08-26 00:43:03",
         "category": "Local Events"
     },
     {
-        "title": "Cubadeportes and the FCB keep 25% of the salary of players hired abroad",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/cubadeportes-fcb-quedan-25-salario_1_1130119.html",
-        "published_date": "2026-08-24 20:33:37",
+        "title": "A balm in the midst of suffocation",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260825/un-balsamo-en-medio-de-la-asfixia/",
+        "published_date": "2026-08-26 00:00:07",
         "category": "Local Events"
     },
     {
-        "title": "Everyday Food in Today's Cuba",
+        "title": "On MAGA Fascism and Other Demons",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/ernesto-gonzalez/everyday-food-in-todays-cuba/",
-        "published_date": "2026-08-24 20:32:54",
+        "url": "https://havanatimes.org/diaries/pedro-pablo-morejon/on-maga-fascism-and-other-demons/",
+        "published_date": "2026-08-25 23:40:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel defends dollar stores in Cuba and compares inequality",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/diaz-canel-tiendas-dolares-cuba/",
+        "published_date": "2026-08-25 23:16:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"If I return to Cuba, I will stop being a person,\" says one of the five athletes who escaped in the Dominican Republic",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/si-vuelvo-cuba-dejo-persona_1_1130147.html",
+        "published_date": "2026-08-25 22:57:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bikos Manna \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/bikos-manna-song-of-the-day-2/",
+        "published_date": "2026-08-25 22:43:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meet Prairieland Protester Autumn Hill",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/interviews/meet-prairieland-protester-autumn-hill/",
+        "published_date": "2026-08-25 22:07:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Transformer oil thefts in Holgu\u00edn total 28 cases in 2026",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/robos-aceite-transformadores-holguin-2026/",
+        "published_date": "2026-08-25 22:05:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cubans lead migrant arrests in Miami",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/arrestos-migrantes-miami-cubanos/",
+        "published_date": "2026-08-25 21:09:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 50 people affected by food poisoning in Santiago de Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/50-personas-afectadas-intoxicacion-alimentaria_1_1130143.html",
+        "published_date": "2026-08-25 20:26:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba asks to protect Cuban cigars in the United Kingdom",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cuba-habanos-reino-unido-ley-antitabaco/",
+        "published_date": "2026-08-25 20:10:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US will revoke nearly 200,000 tourist and business visas of those who requested asylum",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-revocara-cerca-200_1_1130145.html",
+        "published_date": "2026-08-25 19:52:55",
         "category": "Local Events"
     }
 ]
