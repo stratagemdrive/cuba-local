@@ -84,20 +84,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba receives diplomats expelled from the Dominican Republic and denounces pressure from Washington",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33080-recibe-cuba-a-diplomaticos-expulsados-de-republica-dominicana-y-denuncia-presion-de-washington",
-        "published_date": "2026-08-19 16:59:58",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Chinese Foreign Minister begins tour of South Korea and Indonesia",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-chino-inicia-gira-por-corea-del-sur-e-indonesia/",
-        "published_date": "2026-08-19 13:41:48",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Iran transmits its conditions on Hormuz to the US through Pakistan",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/iran-transmite-a-eeuu-sus-condiciones-sobre-ormuz-mediante-pakistan/",
@@ -175,11 +161,39 @@
         "category": "Military"
     },
     {
-        "title": "A study center close to Trump calls for strengthening the military presence in the Caribbean to control Cuba",
+        "title": "Solar panels are installed for communications in Holgu\u00edn",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260827/instalan-paneles-solares-para-comunicaciones-en-holguin/",
+        "published_date": "2026-08-27 20:52:14",
+        "category": "Energy"
+    },
+    {
+        "title": "Blackout in eastern Cuba due to a partial disconnection of the national electrical system",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/centro-estudios-cercano-trump-pide_1_1129957.html",
-        "published_date": "2026-08-19 19:16:35",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/apagon-oriente-cuba-debido-desconexion_1_1130214.html",
+        "published_date": "2026-08-27 20:42:02",
+        "category": "Energy"
+    },
+    {
+        "title": "An activist detained for blaming D\u00edaz-Canel on her social networks for a 90-hour blackout is released",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/excarcelada-activista-detenida-culpar-redes_1_1130210.html",
+        "published_date": "2026-08-27 16:20:05",
+        "category": "Energy"
+    },
+    {
+        "title": "Melissa and the challenges of school uniform",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260827/melissa-y-los-desafios-del-uniforme-escolar/",
+        "published_date": "2026-08-27 13:49:44",
+        "category": "Energy"
+    },
+    {
+        "title": "A woman of energy",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260827/una-mujer-de-energias/",
+        "published_date": "2026-08-27 12:54:18",
+        "category": "Energy"
     },
     {
         "title": "Otero Alc\u00e1ntara receives the 27,000 letters that did not reach him while he was imprisoned in Cuba",
@@ -270,20 +284,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/cuba-endurece-controles-para-almacenar-y-vender-combustible-por-los-privados/",
         "published_date": "2026-08-20 14:09:34",
-        "category": "Energy"
-    },
-    {
-        "title": "Cuba changes its National Baseball Series again: fewer games to save fuel",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cuba-cambia-otra-vez-su-serie-nacional-de-beisbol-menos-juegos-para-ahorrar-combustible/",
-        "published_date": "2026-08-19 16:01:44",
-        "category": "Energy"
-    },
-    {
-        "title": "Uni\u00f3n El\u00e9ctrica forecasts an impact of 2,225 MW during peak hours",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/union-electrica-pronostica-afectacion-de-2225-mw-para-el-horario-pico/",
-        "published_date": "2026-08-19 14:24:50",
         "category": "Energy"
     },
     {
@@ -427,143 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "The rise of the \u201cmeasles industrial complex.\u201dWhy MAGA wants children to get sick and die",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-auge-del-complejo-industrial-del-sarampion-por-que-maga-quiere-que-los-ninos-enfermen-y-mueran/",
-        "published_date": "2026-08-27 04:00:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lunar eclipse in Florida: times to see it from Miami",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/eclipse-lunar-florida-horarios-miami/",
-        "published_date": "2026-08-27 00:08:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thyroid pill recall in the United States: check the batch",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/retiro-pastillas-tiroides-estados-unidos/",
-        "published_date": "2026-08-26 23:10:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "To load at the 'solineras' you must present your card",
+        "title": "Yuniel Lima charged up to $40,000 to bring Cubans to the United States",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cargar-solineras-debe-presentar-carne_1_1130177.html",
-        "published_date": "2026-08-26 22:47:06",
+        "url": "https://www.14ymedio.com/migracion/yuniel-lima-cobraba-40-000_1_1130212.html",
+        "published_date": "2026-08-27 20:38:21",
         "category": "Local Events"
     },
     {
-        "title": "Minister of Internal Trade confirms transformations of the sector in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ministra-del-comercio-interior-constata-transformaciones-del-sector-en-cienfuegos/",
-        "published_date": "2026-08-26 22:05:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "From August 28 to 30: International Book Fair in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/del-28-al-30-de-agosto-feria-internacional-del-libro-en-cienfuegos/",
-        "published_date": "2026-08-26 20:54:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Honduran who was in the caravan with Cubans from Tapachula was murdered",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/asesinado-hondureno-iba-caravana-cubanos_1_1130174.html",
-        "published_date": "2026-08-26 20:43:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump extends the trade embargo against Cuba until 2027",
+        "title": "Hotel in Varadero announces offers for September and October with these benefits",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/trump-extiende-embargo-cuba-2027/",
-        "published_date": "2026-08-26 20:02:37",
+        "url": "https://www.directoriocubano.info/actualidad/hotel-en-varadero-anuncia-ofertas-para-septiembre-y-octubre-con-estos-beneficios/",
+        "published_date": "2026-08-27 20:13:32",
         "category": "Local Events"
     },
     {
-        "title": "Netanyahu, the siege is tightening",
+        "title": "Important information from the Cuban Meteorological Institute: Tropical cyclone warning number 1",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/informacion-importante-del-instituto-de-meteorologia-de-cuba-aviso-de-ciclon-tropical-numero-1/",
+        "published_date": "2026-08-27 19:23:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than twenty Miami schools face evaluation of possible closures",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/escuelas-miami-dade-evaluacion-cierres/",
+        "published_date": "2026-08-27 19:07:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert for Cubans in the US: if you travel with minors, they may ask you for this document",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/requisitos-viajar-ninos-estados-unidos/",
+        "published_date": "2026-08-27 18:09:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami is already more expensive than New York, but its workers earn much less",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/costo-vivir-miami-nueva-york/",
+        "published_date": "2026-08-27 17:11:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ruben Rada \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/ruben-rada-song-of-the-day/",
+        "published_date": "2026-08-27 16:49:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "September \"appears\" its aroma",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260826/netanyahu-el-cerco-se-estrecha/",
-        "published_date": "2026-08-26 20:02:02",
+        "url": "https://www.trabajadores.cu/20260827/septiembre-asoma-su-aroma/",
+        "published_date": "2026-08-27 16:26:57",
         "category": "Local Events"
     },
     {
-        "title": "Trump's Attempt to Restrict Mail-In Voting Gets a Boost",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/trumps-attempt-to-restrict-mail-in-voting-gets-a-boost/",
-        "published_date": "2026-08-26 19:41:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "If you travel to Cuba in September, you may really need these products",
+        "title": "Who will not be able to obtain the Green Card in the United States now and who will?",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/si-viajas-a-cuba-en-septiembre-estos-productos-pueden-hacerte-mucha-falta/",
-        "published_date": "2026-08-26 19:22:51",
+        "url": "https://www.directoriocubano.info/estados-unidos/quienes-no-podran-obtener-ahora-la-green-card-en-estados-unidos-y-quienes-si/",
+        "published_date": "2026-08-27 16:06:05",
         "category": "Local Events"
     },
     {
-        "title": "Florida rejects the agreement with Meta and maintains its lawsuit for the \u201cdamages\u201d of social networks to children",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/florida-rechaza-acuerdo-meta-mantiene_1_1130172.html",
-        "published_date": "2026-08-26 18:30:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "An Urban Beach that Serves as a Place of Escape for Cubans",
+        "title": "Life in Cuba When the Water Doesn't Come",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/an-urban-beach-that-serves-as-a-place-of-escape-for-cubans/",
-        "published_date": "2026-08-26 18:26:28",
+        "url": "https://havanatimes.org/photo-feature/life-in-cuba-when-the-water-doesnt-come/",
+        "published_date": "2026-08-27 16:01:11",
         "category": "Local Events"
     },
     {
-        "title": "William Soler Pediatric Cardiocenter: United work, with clear ideas and will",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260826/cardiocentro-pediatrico-william-soler-trabajo-unido-con-ideas-claras-y-voluntad/",
-        "published_date": "2026-08-26 18:23:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "It is not enough to buy solar panels: Cubans hire security guards to protect them",
+        "title": "Attention Cuba and Florida: Tropical Storm Dolly is already advancing across the Atlantic",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/no-basta-con-comprar-paneles-solares-cubanos-contratan-vigilantes-para-protegerlos/",
-        "published_date": "2026-08-26 18:15:02",
+        "url": "https://www.directoriocubano.info/estados-unidos/atencion-cuba-y-florida-tormenta-tropical-dolly-ya-avanza-por-el-atlantico/",
+        "published_date": "2026-08-27 15:52:13",
         "category": "Local Events"
     },
     {
-        "title": "Living in Miami is already more expensive than in New York and Los Angeles",
+        "title": "Flour from another story: a cultural essay on the Cuba we dream of",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/vivir-miami-caro-nueva-york_1_1130170.html",
-        "published_date": "2026-08-26 18:01:25",
+        "url": "https://www.14ymedio.com/cultura/harina-costal-ensayo-cultural-cuba_1_1130201.html",
+        "published_date": "2026-08-27 15:40:01",
         "category": "Local Events"
     },
     {
-        "title": "Cuba will begin the school year in difficult conditions: this is what the authorities admit",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cuba-comenzara-el-curso-escolar-en-condiciones-dificiles-esto-es-lo-que-admiten-las-autoridades/",
-        "published_date": "2026-08-26 17:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Travel Downtime, Mobile Entertainment, and the New Reality of Waiting",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/travel-downtime-mobile-entertainment-and_132_1130167.html",
-        "published_date": "2026-08-26 17:11:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Family Conversation",
+        "title": "When Willpower Hits a Wall in Today's Cuba",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/lien-estrada/a-family-conversation/",
-        "published_date": "2026-08-26 17:09:38",
+        "url": "https://havanatimes.org/diaries/fabiana-del-valle/when-willpower-hits-a-wall-in-todays-cuba/",
+        "published_date": "2026-08-27 15:21:01",
         "category": "Local Events"
     },
     {
-        "title": "\u201cKilling is not violence,\u201d according to the official version of a robbery with a dead person in Las Tunas",
+        "title": "Cuban government hands over old shopping stores to private individuals to manage them",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gobierno-cubano-entrega-antiguas-tiendas-shoppings-a-privados-para-que-las-gestionen/",
+        "published_date": "2026-08-27 15:12:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blackouts in Cuba: high impact is predicted this Thursday throughout the country",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/apagones-cuba-2060-mw-agosto-2026/",
+        "published_date": "2026-08-27 14:51:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "International News Briefs for Thursday, August 27, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-august-27-2026/",
+        "published_date": "2026-08-27 14:51:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana Weather for August 27 to September 2",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/weather/havana-weather-for-august-27-to-september-2/",
+        "published_date": "2026-08-27 14:19:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "What a cowardly silence!",
+        "source": "Granma",
+        "url": "http://en.granma.cu/cultura/2026-08-27/what-a-cowardly-silence",
+        "published_date": "2026-08-27 14:08:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "90% chance of cyclonic formation: Tropical Storm Dolly could form today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/90-de-probabilidad-de-formacion-ciclonica-tormenta-tropical-dolly-podria-formarse-hoy/",
+        "published_date": "2026-08-27 13:55:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The war in Iran generates a global agri-food crisis that may worsen in 2027",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/matar-no-violencia-version-oficial_1_1130165.html",
-        "published_date": "2026-08-26 17:01:05",
+        "url": "https://www.14ymedio.com/internacional/guerra-iran-genera-crisis-agroalimentaria_1_1130197.html",
+        "published_date": "2026-08-27 13:34:43",
         "category": "Local Events"
     }
 ]
