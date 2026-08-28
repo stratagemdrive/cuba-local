@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nearly a hundred Chinese missing after disaster in Nepal",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cerca-de-un-centenar-de-chinos-desaparecidos-tras-desastre-en-nepal/",
+        "published_date": "2026-08-27 14:46:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "In Mexico, professors at the University of Camag\u00fcey",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33102-en-mexico-catedraticas-de-la-universidad-de-camagueey",
+        "published_date": "2026-08-27 10:14:01",
+        "category": "Diplomacy"
+    },
+    {
         "title": "India for peace on the border with China and progress in bilateral ties",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/india-por-paz-en-frontera-con-china-y-progreso-en-nexos-bilaterales/",
@@ -287,6 +301,20 @@
         "category": "Energy"
     },
     {
+        "title": "Private pharmacies in Cuba: these are the procedures for MSMEs",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/farmacias-privadas-cuba-tramites-mipymes/",
+        "published_date": "2026-08-27 21:05:32",
+        "category": "Economy"
+    },
+    {
+        "title": "The time has come to boost the Cuban economy",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/opinion/33106-llego-la-hora-de-dinamizar-la-economia-cubana",
+        "published_date": "2026-08-27 11:24:39",
+        "category": "Economy"
+    },
+    {
         "title": "Decent work on digital platforms: a new global norm",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260826/trabajo-decente-en-las-plataformas-digitales-una-nueva-norma-mundial/",
@@ -413,18 +441,60 @@
         "category": "Economy"
     },
     {
-        "title": "Central Bank clarifies how much cash you can withdraw in Cuba: there is no fixed limit",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuanto-efectivo-retirar-cuba-limite-bancos/",
-        "published_date": "2026-08-20 12:30:23",
-        "category": "Economy"
+        "title": "\u201cAmerican Dream\u201d: Is socialism coming?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sueno-americano-se-viene-el-socialismo/",
+        "published_date": "2026-08-28 04:00:06",
+        "category": "Local Events"
     },
     {
-        "title": "Central Bank of Cuba launches warning about new banknotes and scams",
+        "title": "Cuban Jailed for Blaming Diaz-Canel for Long Blackout Freed",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/cuban-jailed-for-blaming-diaz-canel-for-long-blackout-freed/",
+        "published_date": "2026-08-28 00:12:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Disconnected SEN from Holgu\u00edn to Guant\u00e1namo",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260827/desconectado-sen-de-holguin-a-guantanamo/",
+        "published_date": "2026-08-27 23:53:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "On The Way To Work, Texas, USA \u2013 Photo of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/on-the-way-to-work-texas-usa-photo-of-the-day/",
+        "published_date": "2026-08-27 23:32:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States reactivates Roosevelt Roads with more than 8,100 soldiers in Puerto Rico",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/banco-central-de-cuba-lanza-aviso-sobre-los-nuevos-billetes-y-las-estafas/",
-        "published_date": "2026-08-20 12:09:15",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/acontecer/reactivacion-roosevelt-roads-puerto-rico/",
+        "published_date": "2026-08-27 23:14:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eastern Cuba is disconnected from the SEN after the departure of three thermoelectric units",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/oriente-cuba-desconectado-sen-tres-unidades-termoelectricas/",
+        "published_date": "2026-08-27 21:19:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do I vote or do I vote?",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/voto-boto_1_1130216.html",
+        "published_date": "2026-08-27 21:09:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "An oscillation causes partial disconnection of the SEN in the east of the country",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/una-oscilacion-provoca-desconexion-parcial-del-sen-en-el-oriente-del-pais/",
+        "published_date": "2026-08-27 20:57:02",
+        "category": "Local Events"
     },
     {
         "title": "Yuniel Lima charged up to $40,000 to bring Cubans to the United States",
@@ -455,10 +525,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Tropical Cyclone Warning No.1: Tropical Storm Dolly Forms in Tropical Central Atlantic",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aviso-de-ciclon-tropical-no-1-se-forma-la-tormenta-tropical-dolly-en-el-atlantico-central-tropical/",
+        "published_date": "2026-08-27 18:58:21",
+        "category": "Local Events"
+    },
+    {
         "title": "Alert for Cubans in the US: if you travel with minors, they may ask you for this document",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/requisitos-viajar-ninos-estados-unidos/",
         "published_date": "2026-08-27 18:09:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "They will present \u201cEl Sacapuntas\u201d at the Cienfuegos book fair",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presentaran-el-el-sacapuntas-en-la-feria-del-libro-de-cienfuegos/",
+        "published_date": "2026-08-27 17:58:27",
         "category": "Local Events"
     },
     {
@@ -483,87 +567,17 @@
         "category": "Local Events"
     },
     {
+        "title": "India officially announces Brics Summit in September",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/india-anuncia-de-manera-oficial-cumbre-de-brics-en-septiembre/",
+        "published_date": "2026-08-27 16:10:08",
+        "category": "Local Events"
+    },
+    {
         "title": "Who will not be able to obtain the Green Card in the United States now and who will?",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/estados-unidos/quienes-no-podran-obtener-ahora-la-green-card-en-estados-unidos-y-quienes-si/",
         "published_date": "2026-08-27 16:06:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Life in Cuba When the Water Doesn't Come",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/life-in-cuba-when-the-water-doesnt-come/",
-        "published_date": "2026-08-27 16:01:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention Cuba and Florida: Tropical Storm Dolly is already advancing across the Atlantic",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/atencion-cuba-y-florida-tormenta-tropical-dolly-ya-avanza-por-el-atlantico/",
-        "published_date": "2026-08-27 15:52:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flour from another story: a cultural essay on the Cuba we dream of",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura/harina-costal-ensayo-cultural-cuba_1_1130201.html",
-        "published_date": "2026-08-27 15:40:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "When Willpower Hits a Wall in Today's Cuba",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/fabiana-del-valle/when-willpower-hits-a-wall-in-todays-cuba/",
-        "published_date": "2026-08-27 15:21:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban government hands over old shopping stores to private individuals to manage them",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/gobierno-cubano-entrega-antiguas-tiendas-shoppings-a-privados-para-que-las-gestionen/",
-        "published_date": "2026-08-27 15:12:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blackouts in Cuba: high impact is predicted this Thursday throughout the country",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/apagones-cuba-2060-mw-agosto-2026/",
-        "published_date": "2026-08-27 14:51:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "International News Briefs for Thursday, August 27, 2026",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-august-27-2026/",
-        "published_date": "2026-08-27 14:51:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Havana Weather for August 27 to September 2",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/weather/havana-weather-for-august-27-to-september-2/",
-        "published_date": "2026-08-27 14:19:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "What a cowardly silence!",
-        "source": "Granma",
-        "url": "http://en.granma.cu/cultura/2026-08-27/what-a-cowardly-silence",
-        "published_date": "2026-08-27 14:08:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "90% chance of cyclonic formation: Tropical Storm Dolly could form today",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/90-de-probabilidad-de-formacion-ciclonica-tormenta-tropical-dolly-podria-formarse-hoy/",
-        "published_date": "2026-08-27 13:55:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The war in Iran generates a global agri-food crisis that may worsen in 2027",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/guerra-iran-genera-crisis-agroalimentaria_1_1130197.html",
-        "published_date": "2026-08-27 13:34:43",
         "category": "Local Events"
     }
 ]
