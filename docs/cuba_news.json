@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cuban Foreign Minister regrets victims of forest fires in Algeria",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/canciller-cubano-lamenta-victimas-por-incendios-forestales-en-argelia/",
+        "published_date": "2026-08-28 17:51:18",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Nearly a hundred Chinese missing after disaster in Nepal",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/cerca-de-un-centenar-de-chinos-desaparecidos-tras-desastre-en-nepal/",
@@ -84,18 +91,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Panama advocates strengthening integration in Central America",
+        "title": "Successful launch of Russian intercontinental ballistic missile",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/panama-aboga-por-fortalecer-integracion-en-centroamerica/",
-        "published_date": "2026-08-20 16:37:46",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/exitoso-lanzamiento-de-misil-balistico-intercontinental-ruso/",
+        "published_date": "2026-08-28 19:03:56",
+        "category": "Military"
     },
     {
-        "title": "The country embraces them proudly",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260820/la-patria-los-abraza-orgullosa/",
-        "published_date": "2026-08-20 13:25:33",
-        "category": "Diplomacy"
+        "title": "Aguada de Pasajeros tests its defensive preparation (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aguada-de-pasajeros-pone-a-prueba-su-preparacion-defensiva/",
+        "published_date": "2026-08-28 18:36:15",
+        "category": "Military"
     },
     {
         "title": "Iran transmits its conditions on Hormuz to the US through Pakistan",
@@ -144,34 +151,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260821/uneac-65-anos-de-arte-identidad-y-compromiso-con-cuba/",
         "published_date": "2026-08-22 01:45:44",
-        "category": "Military"
-    },
-    {
-        "title": "Google denies having sent the false seismic alert and the clues lead to the Etecsa network",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/google-niega-haber-enviado-falsa_1_1129997.html",
-        "published_date": "2026-08-20 20:28:28",
-        "category": "Military"
-    },
-    {
-        "title": "Veterans for peace with Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260820/veteranos-por-la-paz-junto-a-cuba/",
-        "published_date": "2026-08-20 17:45:16",
-        "category": "Military"
-    },
-    {
-        "title": "\"A clear attack on reason, research, and freedom of thought\"",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-08-20/a-clear-attack-on-reason-research-and-freedom-of-thought",
-        "published_date": "2026-08-20 12:08:17",
-        "category": "Military"
-    },
-    {
-        "title": "Three soldiers accused of \"treason\" are released from prison in Venezuela",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/excarcelan-tres-militares-acusados-traicion_1_1129977.html",
-        "published_date": "2026-08-20 11:40:14",
         "category": "Military"
     },
     {
@@ -287,18 +266,11 @@
         "category": "Energy"
     },
     {
-        "title": "Uni\u00f3n El\u00e9ctrica predicts an impact of 2,281 MW for this Thursday",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/union-electrica-pronostica-afectacion-de-2281-mw-para-este-jueves/",
-        "published_date": "2026-08-20 14:19:20",
-        "category": "Energy"
-    },
-    {
-        "title": "Cuba tightens controls to store and sell fuel by private parties",
+        "title": "New rates in dollars in Cuba: private individuals and other businesses will pay up to 500 USD for commercial procedures",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cuba-endurece-controles-para-almacenar-y-vender-combustible-por-los-privados/",
-        "published_date": "2026-08-20 14:09:34",
-        "category": "Energy"
+        "url": "https://www.directoriocubano.info/cuba/nuevas-tarifas-dolares-cuba-privados-negocios-tramites-comerciales/",
+        "published_date": "2026-08-28 18:10:48",
+        "category": "Economy"
     },
     {
         "title": "Private pharmacies in Cuba: these are the procedures for MSMEs",
@@ -399,185 +371,143 @@
         "category": "Economy"
     },
     {
-        "title": "ECLAC predicts a 10.3% drop in the Cuban economy in 2026",
+        "title": "Decree 167 authorizes \"light gastronomy networks of recognized brands\", such as McDonald's",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cepal-pronostica-caida-10-3_1_1129995.html",
-        "published_date": "2026-08-20 19:41:54",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuba expands tenders to deliver state spaces and resources to private companies",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-licitaciones-espacios-recursos-estatales-empresas-privadas/",
-        "published_date": "2026-08-20 17:34:56",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuban government changes rules and promises to eliminate restrictions on the private sector",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/gobierno-cubano-cambia-reglas-sector-privado-eliminar-restricciones/",
-        "published_date": "2026-08-20 17:01:59",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuba raises the limit on transfers between people to 2.5 million pesos",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-limite-transferencias-2-5-millones-pesos/",
-        "published_date": "2026-08-20 15:36:33",
-        "category": "Economy"
-    },
-    {
-        "title": "Businesses that pay pensions in Cuba will have advantages in obtaining cash and foreign currency",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/negocios-pago-pensiones-cuba-efectivo-divisas/",
-        "published_date": "2026-08-20 14:39:49",
-        "category": "Economy"
-    },
-    {
-        "title": "Central Bank explains why it does not have cash: it recognizes that most of it is outside the banks",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/banco-central-efectivo-cuba-fuera-bancos/",
-        "published_date": "2026-08-20 13:36:08",
-        "category": "Economy"
-    },
-    {
-        "title": "\u201cAmerican Dream\u201d: Is socialism coming?",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/sueno-americano-se-viene-el-socialismo/",
-        "published_date": "2026-08-28 04:00:06",
+        "url": "https://www.14ymedio.com/cuba/decreto-167-autoriza-redes-gastronomia_1_1130255.html",
+        "published_date": "2026-08-28 21:15:49",
         "category": "Local Events"
     },
     {
-        "title": "Cuban Jailed for Blaming Diaz-Canel for Long Blackout Freed",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/cuban-jailed-for-blaming-diaz-canel-for-long-blackout-freed/",
-        "published_date": "2026-08-28 00:12:22",
+        "title": "A senior Immigration official is removed in Mexico, accused of selling papers to Cubans and Venezuelans",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/migracion/alto-cargo-migracion-apartado-mexico_1_1130253.html",
+        "published_date": "2026-08-28 20:54:39",
         "category": "Local Events"
     },
     {
-        "title": "Disconnected SEN from Holgu\u00edn to Guant\u00e1namo",
+        "title": "Necessary \"oxygen\"",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260827/desconectado-sen-de-holguin-a-guantanamo/",
-        "published_date": "2026-08-27 23:53:13",
+        "url": "https://www.trabajadores.cu/20260828/necesario-oxigeno/",
+        "published_date": "2026-08-28 20:16:03",
         "category": "Local Events"
     },
     {
-        "title": "On The Way To Work, Texas, USA \u2013 Photo of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/on-the-way-to-work-texas-usa-photo-of-the-day/",
-        "published_date": "2026-08-27 23:32:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States reactivates Roosevelt Roads with more than 8,100 soldiers in Puerto Rico",
+        "title": "Conviasa flights from Cuba: Caracas airport reopens in September",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/reactivacion-roosevelt-roads-puerto-rico/",
-        "published_date": "2026-08-27 23:14:42",
+        "url": "https://www.directoriocubano.info/actualidad/vuelos-conviasa-cuba-caracas-reapertura/",
+        "published_date": "2026-08-28 20:09:51",
         "category": "Local Events"
     },
     {
-        "title": "Eastern Cuba is disconnected from the SEN after the departure of three thermoelectric units",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/oriente-cuba-desconectado-sen-tres-unidades-termoelectricas/",
-        "published_date": "2026-08-27 21:19:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do I vote or do I vote?",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/voto-boto_1_1130216.html",
-        "published_date": "2026-08-27 21:09:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "An oscillation causes partial disconnection of the SEN in the east of the country",
+        "title": "Russia considers piracy detention of oil tankers by France",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/una-oscilacion-provoca-desconexion-parcial-del-sen-en-el-oriente-del-pais/",
-        "published_date": "2026-08-27 20:57:02",
+        "url": "https://www.5septiembre.cu/rusia-considera-pirateria-retencion-de-petroleros-por-francia/",
+        "published_date": "2026-08-28 19:50:23",
         "category": "Local Events"
     },
     {
-        "title": "Yuniel Lima charged up to $40,000 to bring Cubans to the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/yuniel-lima-cobraba-40-000_1_1130212.html",
-        "published_date": "2026-08-27 20:38:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hotel in Varadero announces offers for September and October with these benefits",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/hotel-en-varadero-anuncia-ofertas-para-septiembre-y-octubre-con-estos-beneficios/",
-        "published_date": "2026-08-27 20:13:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important information from the Cuban Meteorological Institute: Tropical cyclone warning number 1",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/informacion-importante-del-instituto-de-meteorologia-de-cuba-aviso-de-ciclon-tropical-numero-1/",
-        "published_date": "2026-08-27 19:23:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than twenty Miami schools face evaluation of possible closures",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/escuelas-miami-dade-evaluacion-cierres/",
-        "published_date": "2026-08-27 19:07:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tropical Cyclone Warning No.1: Tropical Storm Dolly Forms in Tropical Central Atlantic",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aviso-de-ciclon-tropical-no-1-se-forma-la-tormenta-tropical-dolly-en-el-atlantico-central-tropical/",
-        "published_date": "2026-08-27 18:58:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert for Cubans in the US: if you travel with minors, they may ask you for this document",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/requisitos-viajar-ninos-estados-unidos/",
-        "published_date": "2026-08-27 18:09:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "They will present \u201cEl Sacapuntas\u201d at the Cienfuegos book fair",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presentaran-el-el-sacapuntas-en-la-feria-del-libro-de-cienfuegos/",
-        "published_date": "2026-08-27 17:58:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miami is already more expensive than New York, but its workers earn much less",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/costo-vivir-miami-nueva-york/",
-        "published_date": "2026-08-27 17:11:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ruben Rada \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/ruben-rada-song-of-the-day/",
-        "published_date": "2026-08-27 16:49:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "September \"appears\" its aroma",
+        "title": "With my neighborhood, for the country, say goodbye to the summer and welcome the school year",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260827/septiembre-asoma-su-aroma/",
-        "published_date": "2026-08-27 16:26:57",
+        "url": "https://www.trabajadores.cu/20260828/con-mi-barrio-por-la-patria-despedir-el-verano-y-recibir-el-curso-escolar/",
+        "published_date": "2026-08-28 19:17:30",
         "category": "Local Events"
     },
     {
-        "title": "India officially announces Brics Summit in September",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/india-anuncia-de-manera-oficial-cumbre-de-brics-en-septiembre/",
-        "published_date": "2026-08-27 16:10:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who will not be able to obtain the Green Card in the United States now and who will?",
+        "title": "In-person appointments in immigration court complicate procedures in Miami",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/quienes-no-podran-obtener-ahora-la-green-card-en-estados-unidos-y-quienes-si/",
-        "published_date": "2026-08-27 16:06:05",
+        "url": "https://www.directoriocubano.info/actualidad/citas-presenciales-corte-inmigracion-miami/",
+        "published_date": "2026-08-28 19:01:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Qatar and Iran discuss temporary maritime corridor in Hormuz",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/qatar-e-iran-analizan-corredor-maritimo-temporal-en-ormuz/",
+        "published_date": "2026-08-28 18:58:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israeli drone flies over Beirut and artillery bombards southern Lebanon",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/dron-israeli-sobrevuela-beirut-y-artilleria-bombardea-sur-de-libano/",
+        "published_date": "2026-08-28 18:53:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Swiss companies \"almost never get paid\" and leave Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/empresas-suizas-cobrar-cuba_1_1130251.html",
+        "published_date": "2026-08-28 18:36:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Horizon in Our Hands",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/safie-m-gonzalez/the-horizon-in-our-hands/",
+        "published_date": "2026-08-28 18:27:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "New permits to sell in Cuba: what can or cannot be sold from your home?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nuevos-permisos-vender-cuba-que-se-puede-vender-desde-casa/",
+        "published_date": "2026-08-28 17:32:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Silvia Perez Concert in Havana without Electricity or Sound Equipment",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/a-silvia-perez-concert-in-havana-without-electricity-or-sound-equipment/",
+        "published_date": "2026-08-28 17:10:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official Gazette: New rules for buying in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gaceta-oficial-nuevas-reglas-comprar-cuba/",
+        "published_date": "2026-08-28 17:00:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar rises in Cuba and the euro also gains ground this Friday",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/sube-el-dolar-en-cuba-y-el-euro-tambien-gana-terreno-este-viernes/",
+        "published_date": "2026-08-28 16:28:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "We Are All Runaway Slaves, We Are All Rumba Dancers",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-feature/we-are-all-runaway-slaves-we-are-all-rumba-dancers/",
+        "published_date": "2026-08-28 16:15:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban Government recognizes that it will not be able to guarantee the presence of the school year",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-reconoce-no-podra_1_1130241.html",
+        "published_date": "2026-08-28 16:11:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scholarships of 10,000 euros to study in Spain: Cubans can opt",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/becas-10000-euros-descendientes-cubanos/",
+        "published_date": "2026-08-28 16:09:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "International Book Fair present in the province of Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/feria-internacional-del-libro-presente-en-provincia-de-cuba/",
+        "published_date": "2026-08-28 15:58:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba will share knowledge about challenges of small island states",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-compartira-saberes-sobre-retos-de-pequenos-estados-insulares/",
+        "published_date": "2026-08-28 15:53:35",
         "category": "Local Events"
     }
 ]
