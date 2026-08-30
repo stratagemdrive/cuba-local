@@ -77,20 +77,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "President and Foreign Minister of Cuba denounce new US sanctions against companies and institutions on the island",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/presidente-y-canciller-de-cuba-denuncian-nuevas-sanciones-de-eeuu-contra-empresas-e-instituciones-de-la-isla/",
-        "published_date": "2026-08-21 16:16:06",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Panama calls for support at the UN to end the US blockade against Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/panama-llama-a-apoyar-en-onu-cese-de-bloqueo-eeuu-contra-cuba/",
-        "published_date": "2026-08-21 16:07:03",
-        "category": "Diplomacy"
-    },
-    {
         "title": "A mother who denounced a delegate for denying her water is arrested in Havana",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/detienen-habana-madre-denuncio-delegada_1_1130266.html",
@@ -159,6 +145,13 @@
         "url": "https://www.trabajadores.cu/20260821/uneac-65-anos-de-arte-identidad-y-compromiso-con-cuba/",
         "published_date": "2026-08-22 01:45:44",
         "category": "Military"
+    },
+    {
+        "title": "Air Europa benefits from the void left by airlines leaving Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/air-europa-beneficia-vacio-dejado_1_1130269.html",
+        "published_date": "2026-08-29 16:53:24",
+        "category": "Energy"
     },
     {
         "title": "Government gives green light to dollarization in Cuba",
@@ -280,11 +273,18 @@
         "category": "Energy"
     },
     {
-        "title": "A breakdown and an oil spill reveal the fragility of Cuban oil pipelines",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/averia-derrame-petroleo-dejan-descubierto_1_1130033.html",
-        "published_date": "2026-08-21 18:10:13",
-        "category": "Energy"
+        "title": "Cuba authorizes chain stores and restaurants with new trade rules",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/cuba-cadenas-tiendas-restaurantes-decreto-167/",
+        "published_date": "2026-08-29 19:05:28",
+        "category": "Economy"
+    },
+    {
+        "title": "Less Central Administration in Cuba: Gazette approves resizing State structures",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-redimensionamiento-administracion-central-estado-descentralizacion/",
+        "published_date": "2026-08-29 17:12:15",
+        "category": "Economy"
     },
     {
         "title": "New rules for MSMEs in Cuba are published in the Official Gazette",
@@ -385,150 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "Do you have a Tropical Card?Cuban bank clarifies the ways to know how much money you have left",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/tienes-una-tarjeta-tropical-banco-cubano-aclara-las-formas-de-saber-cuanto-dinero-te-queda/",
-        "published_date": "2026-08-21 16:01:22",
-        "category": "Economy"
-    },
-    {
-        "title": "September returns",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260829/los-retornos-de-septiembre/",
-        "published_date": "2026-08-29 15:10:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former President Len\u00edn Moreno found guilty of bribery in Ecuador",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/expresidente-lenin-moreno-declarado-culpable-por-cohecho-en-ecuador/",
-        "published_date": "2026-08-29 14:54:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Faithful art in each territory",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260829/arte-fiel-en-cada-territorio/",
-        "published_date": "2026-08-29 14:40:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "New trade policy orders and updates the exercise of activity in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/nueva-politica-de-comercio-ordena-y-actualiza-el-ejercicio-de-la-actividad-en-cuba/",
-        "published_date": "2026-08-29 14:32:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fireworks, Toulon, France \u2013 Photo of the Day",
+        "title": "Trump and Delcy Announce Major US-Venezuela Oil Deal",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/fireworks-toulon-france-photo-of-the-day/",
-        "published_date": "2026-08-29 14:27:54",
+        "url": "https://havanatimes.org/news/trump-and-delcy-announce-major-usa-venezuela-oil-deal/",
+        "published_date": "2026-08-30 00:39:25",
         "category": "Local Events"
     },
     {
-        "title": "The firefly",
+        "title": "BESS batteries in Cuba: dates announced for new unit in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/baterias-bess-cuba-habana-220/",
+        "published_date": "2026-08-30 00:11:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico clarifies change in Immigration after reports about hundreds of documents for Cubans and Venezuelans",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/inmigracion-y-extranjeria/mexico-inm-quintana-roo-documentos-cubanos-venezolanos/",
+        "published_date": "2026-08-29 23:27:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "On Cuba\u2019s Transportation Inspectors and Other Demons",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/lynn-cruzs-diary/on-cubas-transportation-inspectors-and-other-demons/",
+        "published_date": "2026-08-29 23:02:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rut Alonso \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/rut-alonso-song-of-the-day/",
+        "published_date": "2026-08-29 22:27:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Oil agreement between the United States and Venezuela: what can it mean for Cuba?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/acuerdo-petrolero-estados-unidos-venezuela-cuba/",
+        "published_date": "2026-08-29 22:23:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in Old Havana generates alarm after new cuts in the electrical underground",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/incendio-la-habana-vieja-cortes-soterrado-electrico/",
+        "published_date": "2026-08-29 21:49:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holguin educational sector prepares conditions for new school year",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260829/la-luciernaga/",
-        "published_date": "2026-08-29 14:14:50",
+        "url": "https://www.trabajadores.cu/20260829/sector-educacional-holguinero-alista-condiciones-para-nuevo-curso-escolar/",
+        "published_date": "2026-08-29 21:41:06",
         "category": "Local Events"
     },
     {
-        "title": "Restart of the school year in Cuba: What are the challenges and projections?",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/reinicio-del-curso-escolar-en-cuba-cuales-son-los-desafios-y-proyecciones/",
-        "published_date": "2026-08-29 13:45:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "There will be no shortage of school notebooks",
+        "title": "New Cuban trade policy will come into force",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260829/no-faltaran-las-libretas-escolares/",
-        "published_date": "2026-08-29 13:28:58",
+        "url": "https://www.trabajadores.cu/20260829/entrara-en-vigor-nueva-politica-comercial-cubana/",
+        "published_date": "2026-08-29 21:28:40",
         "category": "Local Events"
     },
     {
-        "title": "Unicef \u200b\u200band South Korea donate prenatal supplements for 30,430 women in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/unicef-corea-sur-donan-suplementos_1_1130263.html",
-        "published_date": "2026-08-29 13:04:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba begins transition to new version of the environmental management system",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/inicia-cuba-transicion-a-nueva-version-del-sistema-de-gestion-ambiental/",
-        "published_date": "2026-08-29 13:00:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 34th Granma Book Fair expects to sell 200 thousand copies",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-34-feria-del-libro-de-granma-espera-comercializar-200-mil-ejemplares/",
-        "published_date": "2026-08-29 12:55:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is Cuba opening to capitalism?Official Gazette approves greater opening to private property",
+        "title": "Eight out of ten Cubans skip meals due to lack of resources",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-apertura-capital-privado-gaceta-oficial-transformaciones-economicas/",
-        "published_date": "2026-08-29 12:43:11",
+        "url": "https://www.directoriocubano.info/acontecer/cubanos-omiten-comidas-falta-recursos/",
+        "published_date": "2026-08-29 20:06:34",
         "category": "Local Events"
     },
     {
-        "title": "The CIA and the Vatican meet in Moscow to try to stop the war in Ukraine",
+        "title": "The mother of the doctor murdered in Mayabeque dies as a result of the same attack",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/cia-vaticano-coinciden-moscu-frenar_1_1130259.html",
-        "published_date": "2026-08-29 12:39:54",
+        "url": "https://www.14ymedio.com/cuba/muere-madre-doctora-asesinada-mayabeque_1_1130277.html",
+        "published_date": "2026-08-29 18:39:52",
         "category": "Local Events"
     },
     {
-        "title": "Invitation to a \"rare\" staging",
+        "title": "Guillermo del Sol ends his hunger strike after 73 days",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/opositor-guillermo-sol-sufre-emergencia_1_1130275.html",
+        "published_date": "2026-08-29 18:30:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gonzalo de Casta\u00f1\u00f3n and the 'influencers' of hate",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/gonzalo-castanon-influencers-odio_1_1130272.html",
+        "published_date": "2026-08-29 18:20:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Social justice explained to the unelected president of Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/justicia-social-explicada-presidente-no_1_1130271.html",
+        "published_date": "2026-08-29 18:20:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba recognizes market mechanisms as an instrument to allocate resources",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-reconoce-mecanismos-mercado-asignacion-recursos-gaceta-oficial/",
+        "published_date": "2026-08-29 18:13:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Technical training is vital",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260829/invitacion-a-una-puesta-en-escena-rara/",
-        "published_date": "2026-08-29 12:28:45",
+        "url": "https://www.trabajadores.cu/20260829/la-formacion-tecnica-resulta-vital/",
+        "published_date": "2026-08-29 17:39:38",
         "category": "Local Events"
     },
     {
-        "title": "Cuba prepares exchange, banking, price and tax reform: this is what the new Gazette says",
+        "title": "Cuba says goodbye to Cultural Summer 2026",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260829/cuba-despide-el-verano-cultural-2026/",
+        "published_date": "2026-08-29 17:19:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "When Your Body Says No",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/fabiana-del-valle/when-your-body-says-no/",
+        "published_date": "2026-08-29 16:41:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Guant\u00e1namo plans to expand its solineras to 30 against blackouts",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-reforma-cambiaria-bancaria-precios-impuestos-gaceta-oficial/",
-        "published_date": "2026-08-29 12:13:30",
+        "url": "https://www.directoriocubano.info/noticias/solineras-guantanamo-apagones/",
+        "published_date": "2026-08-29 16:35:33",
         "category": "Local Events"
     },
     {
-        "title": "Blackouts in Cuba: 2,140 MW predicted to be affected this Saturday",
+        "title": "They block the account of the Cuban medical mission in Italy and stop transfers",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-afectacion-2140-mw/",
-        "published_date": "2026-08-29 12:08:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dariel Garc\u00eda, a new Cuban in the German handball Bundesliga",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/dariel-garcia-nuevo-cubano-bundesliga_1_1130257.html",
-        "published_date": "2026-08-29 11:37:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rubiera warns about Storm Dolly and the NHC reports gale winds in its remnants",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/dolly-cuba-rubiera-posible-reformacion-nhc-vientos-galerna/",
-        "published_date": "2026-08-29 11:32:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important announcement from the United States Embassy in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/embajada-estados-unidos-alerta-sanitaria-cuba-agua-apagones/",
-        "published_date": "2026-08-29 11:02:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "What happened?This is how the dollar, the euro and the MLC rise in Cuba today: General increase in exchange rates",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/que-paso-asi-sube-el-dolar-el-euro-y-la-mlc-en-cuba-hoy-aumento-general-en-las-tasas-de-cambio/",
-        "published_date": "2026-08-29 10:22:06",
+        "url": "https://www.directoriocubano.info/acontecer/bloquean-cuenta-mision-medica-cubana-italia/",
+        "published_date": "2026-08-29 16:04:40",
         "category": "Local Events"
     }
 ]
