@@ -126,20 +126,6 @@
         "category": "Military"
     },
     {
-        "title": "A priority: union training",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260823/una-prioridad-capacitacion-sindical/",
-        "published_date": "2026-08-23 18:36:50",
-        "category": "Military"
-    },
-    {
-        "title": "The inadequacy of sanctions",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/insuficiencia-sanciones_132_1130089.html",
-        "published_date": "2026-08-23 18:04:29",
-        "category": "Military"
-    },
-    {
         "title": "Gonz\u00e1lez Urrutia: Venezuela's recovery cannot be measured only in barrels of oil",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/gonzalez-urrutia-recuperacion-venezuela-no_1_1130302.html",
@@ -252,13 +238,6 @@
         "category": "Energy"
     },
     {
-        "title": "This is the price of fuel in Cuba right now: gasoline and diesel",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/precio-combustible-cuba-hoy-23-agosto/",
-        "published_date": "2026-08-23 23:13:35",
-        "category": "Energy"
-    },
-    {
         "title": "Central Bank of Cuba: The dollar and the euro fall, while the MLC rises in the Cuban informal market",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/banco-central-baja-el-dolar-y-el-euro-mientras-la-mlc-sube-en-el-mercado-informal-cubano/",
@@ -350,10 +329,129 @@
         "category": "Economy"
     },
     {
+        "title": "Due to lack of serum in the hospital, the sister of baseball player H\u00e9ctor Mendoza dies of dengue",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/falta-suero-hospital-muere-dengue_1_1130316.html",
+        "published_date": "2026-08-31 22:41:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba wins bronze medal in volleyball and qualifies for the world championship",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cuba-gana-medalla-bronce-voleibol_1_1130320.html",
+        "published_date": "2026-08-31 22:27:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Before the collapse, Cuba was a gold mine for Meli\u00e1 and gave it 25% of its global profit",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/colapso-cuba-mina-oro-melia_1_1130324.html",
+        "published_date": "2026-08-31 22:23:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Does everyone pay 80 dollars to take a cell phone to Cuba?This is how Customs really calculates",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/todos-pagan-80-dolares-por-llevar-un-celular-a-cuba-asi-calcula-realmente-la-aduana/",
+        "published_date": "2026-08-31 22:06:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Presentation of the 'Cuba 2025 Report'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/presentacion-informe-cuba-2025_1_1130322.html",
+        "published_date": "2026-08-31 22:02:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lawsuit against Expedia for confiscated properties in Cuba returns to court",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/demanda-expedia-propiedades-confiscadas-cuba/",
+        "published_date": "2026-08-31 21:05:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Little Donkeys in Sanare, Lara, Venezuela \u2013 Photo of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/little-donkeys-in-sanare-lara-venezuela-photo-of-the-day/",
+        "published_date": "2026-08-31 20:15:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bahamas fires 31 of 110 Cuban teachers while negotiating with the US",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/bahamas-despide-31-110-maestros_1_1130318.html",
+        "published_date": "2026-08-31 19:50:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "His entourage confirms that the artistic director Juan Carlos P\u00e9rez was murdered in Ciego de \u00c1vila",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/entorno-confirma-director-artistico-juan_1_1130313.html",
+        "published_date": "2026-08-31 19:33:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Some 460 investigations into crimes against the SEN led to sentences of up to 20 years for sabotage",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/460-investigaciones-delitos-sen-llevaron_1_1130315.html",
+        "published_date": "2026-08-31 19:15:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venice Film Festival will open with big names and current topics",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mostra-de-venecia-abrira-con-grandes-nombres-y-temas-de-actualidad/",
+        "published_date": "2026-08-31 19:06:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Will there be another increase in retirement in Cuba?This is what the ruling party says",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/aumento-jubilacion-cuba-recalculo/",
+        "published_date": "2026-08-31 19:01:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office applies maximum rigor against crimes that affect the SEN",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/aplica-fiscalia-maximo-rigor-contra-delitos-que-afectan-el-sen/",
+        "published_date": "2026-08-31 18:27:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert for children of Spaniards in Cuba: these two reasons for denial do not appear in the Regulations",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/alerta-para-hijos-de-espanoles-en-cuba-estos-dos-motivos-de-denegacion-no-aparecen-en-el-reglamento/",
+        "published_date": "2026-08-31 18:13:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "We Are Just Pawns on a Chessboard",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/pedro-pablo-morejon/we-are-just-pawns-on-a-chessboard/",
+        "published_date": "2026-08-31 18:05:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Holgu\u00edn gets ready for the International Book Fair",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260831/holguin-se-alista-para-feria-internacional-del-libro/",
         "published_date": "2026-08-31 17:34:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban passport online: more than 24 thousand applications, but how long does it take to be delivered?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/pasaporte-cubano-por-internet-mas-de-24-mil-solicitudes-pero-cuanto-demora-en-entregarse/",
+        "published_date": "2026-08-31 17:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Messi says goodbye to the Argentine team: \u201cI have no more to give\u201d",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/despedida-messi-seleccion-argentina/",
+        "published_date": "2026-08-31 16:45:22",
         "category": "Local Events"
     },
     {
@@ -368,125 +466,6 @@
         "source": "Havana Times",
         "url": "https://havanatimes.org/news/nicaraguas-dictatorship-bans-foreign-laws/",
         "published_date": "2026-08-31 16:30:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Basic basket in Cuba: eggs, oil and powdered milk in these provinces",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/canasta-basica-holguin-ciego-avila/",
-        "published_date": "2026-08-31 16:04:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commitment to the future of work",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260831/el-compromiso-con-el-futuro-laboral/",
-        "published_date": "2026-08-31 15:44:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Humor in Cuba in Times of Rage",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/humor-in-cuba-in-times-of-rage/",
-        "published_date": "2026-08-31 15:24:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Messi retires from the Argentine national team",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/messi-se-retira-de-la-seleccion-argentina/",
-        "published_date": "2026-08-31 15:21:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Update on the restart of flights from Russia to Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/vuelos-rusia-cuba-combustible/",
-        "published_date": "2026-08-31 15:11:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "International News Briefs for Monday, August 31, 2026",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-monday-august-31-2026/",
-        "published_date": "2026-08-31 14:34:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Window Glowing in the Middle of the Blackout",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/isabel-gonzalez/a-window-glowing-in-the-middle-of-the-blackout/",
-        "published_date": "2026-08-31 14:15:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba toughens sanctions for crimes against the National Electrical System",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/delitos-sistema-electrico-nacional-cuba/",
-        "published_date": "2026-08-31 14:02:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world's first patient to undergo real-time AI-assisted brain surgery",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/primer-paciente-mundo-sometido-cirugia_1_1130199.html",
-        "published_date": "2026-08-31 13:38:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain also extends Schengen suspension with Italy",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/espana-tambien-prorroga-suspension-de-schengen-con-italia/",
-        "published_date": "2026-08-31 12:50:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dulce Mar\u00eda Loynaz Center strengthens ties with Mexico",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/centro-dulce-maria-loynaz-estrecha-lazos-con-mexico/",
-        "published_date": "2026-08-31 12:44:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "WEEKLY SUMMARY from August 25 to 31",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260831/resumen-semanal-del-25-al-31-de-agosto/",
-        "published_date": "2026-08-31 12:28:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Naomi Watts, Donostia Award at the San Sebasti\u00e1n Festival",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/naomi-watts-premio-donostia-en-festival-de-san-sebastian/",
-        "published_date": "2026-08-31 12:25:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pacho Alonso: A legacy of people and heart",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pacho-alonso-un-legado-de-pueblo-y-corazon/",
-        "published_date": "2026-08-31 12:13:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "LaLiga: Madrid scores, Atleti delivers and Bar\u00e7a seeks leadership",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/laliga-madrid-golea-el-atleti-cumple-y-el-barca-busca-el-liderato/",
-        "published_date": "2026-08-31 12:11:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The timbiriches of the Sacristy alley retreat",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/timbiriches-callejon-sacristia-repliegan_1_1130308.html",
-        "published_date": "2026-08-31 11:55:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "High school colors",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/lecturas/45-cronicas-sueltas/33116-los-colores-de-la-secundaria",
-        "published_date": "2026-08-31 11:32:50",
         "category": "Local Events"
     }
 ]
