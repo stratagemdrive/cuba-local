@@ -77,6 +77,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The Venezuelan military leadership supports the agreement with the United States and says it is not \"subordination\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cupula-militar-venezolana-apoya-acuerdo_1_1130360.html",
+        "published_date": "2026-09-02 10:36:23",
+        "category": "Military"
+    },
+    {
         "title": "The second semester of the Year of Defense Preparation began in the FAR",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260901/comenzo-el-segundo-semestre-del-ano-de-preparacion-para-la-defensa-en-las-far/",
@@ -140,11 +147,11 @@
         "category": "Military"
     },
     {
-        "title": "\"Hostile Foreign Power\"",
-        "source": "Granma",
-        "url": "http://en.granma.cu/mundo/2026-08-25/hostile-foreign-power",
-        "published_date": "2026-08-25 12:08:59",
-        "category": "Military"
+        "title": "Due to lack of batteries, Cuba only uses 50% of its installed solar power",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/falta-baterias-cuba-50-potencia_1_1130357.html",
+        "published_date": "2026-09-02 10:19:42",
+        "category": "Energy"
     },
     {
         "title": "The doorbell rang...",
@@ -165,6 +172,13 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/siembra-frio-granma-animales-combustible/",
         "published_date": "2026-09-01 17:09:00",
+        "category": "Energy"
+    },
+    {
+        "title": "What is known about Nabep, the company that will exploit Venezuelan crude oil with the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/estados-unidos-entrega-empresa-privada_1_1130336.html",
+        "published_date": "2026-09-01 14:08:38",
         "category": "Energy"
     },
     {
@@ -252,20 +266,6 @@
         "category": "Energy"
     },
     {
-        "title": "Intricate communities in Holgu\u00edn will access clean energy with the Former project",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260825/comunidades-intrincadas-de-holguin-accederan-a-energia-limpia-con-proyecto-former/",
-        "published_date": "2026-08-25 14:12:23",
-        "category": "Energy"
-    },
-    {
-        "title": "Solar energy in Cumanayagua stabilizes ETECSA services",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/energia-solar-cumanayagua-etecsa/",
-        "published_date": "2026-08-25 01:37:34",
-        "category": "Energy"
-    },
-    {
         "title": "Central Bank of Cuba: The dollar and the euro fall, while the MLC rises in the Cuban informal market",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/banco-central-baja-el-dolar-y-el-euro-mientras-la-mlc-sube-en-el-mercado-informal-cubano/",
@@ -336,157 +336,143 @@
         "category": "Economy"
     },
     {
-        "title": "New regulations adapt to current economic transformations",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33096-nuevas-normativas-se-adecuan-a-las-actuales-transformaciones-economicas",
-        "published_date": "2026-08-25 10:37:48",
-        "category": "Economy"
-    },
-    {
-        "title": "The dollar rises again in Cuba: this is how its price dawns this August 25",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/el-dolar-sube-otra-vez-en-cuba-asi-amanece-su-precio-este-25-de-agosto/",
-        "published_date": "2026-08-25 10:12:49",
-        "category": "Economy"
-    },
-    {
-        "title": "To the classrooms with the encouragement of parents and the community",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260901/a-las-aulas-con-el-impulso-de-padres-y-comunidad/",
-        "published_date": "2026-09-01 22:36:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "News about the school year in Pinar del R\u00edo",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260901/novedades-del-curso-escolar-en-pinar-del-rio/",
-        "published_date": "2026-09-01 22:18:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The mothers of Guanabacoa, on a war footing, refuse to take their children to school",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/madres-guanabacoa-pie-guerra-resisten_1_1130351.html",
-        "published_date": "2026-09-01 21:44:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "They postpone the key hearing for Cubans with I-220A again: this is the new date",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/vuelven-a-aplazar-la-audiencia-clave-para-cubanos-con-i-220a-esta-es-la-nueva-fecha/",
-        "published_date": "2026-09-01 21:11:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Raidel wins in the drama;Moinelo falls despite another jewel in Japan",
+        "title": "Sad, hurt, indignant, its president describes Ceuta",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/raidel-gana-en-el-drama-moinelo-cae-pese-a-otra-joya-en-japon/",
-        "published_date": "2026-09-01 20:39:01",
+        "url": "https://www.5septiembre.cu/triste-herida-indignada-describe-a-ceuta-su-presidente/",
+        "published_date": "2026-09-02 15:03:13",
         "category": "Local Events"
     },
     {
-        "title": "They reveal that the DEA allowed fentanyl to enter the US.",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/revelan-que-la-dea-permitio-entrada-de-fentanilo-a-ee-uu/",
-        "published_date": "2026-09-01 20:33:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important message from the United States Embassy in Havana, Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/importante-mensaje-embajada-estados-unidos-habana-cuba-robos-vehiculos/",
-        "published_date": "2026-09-01 20:19:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two Cubans sentenced to four years in prison for kidnapping a compatriot",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/cubanos-sentenciados-cuatro-anos-prision_1_1130347.html",
-        "published_date": "2026-09-01 20:10:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "American Airlines reduces flights to Santiago de Cuba from Miami in September",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/american-airlines-reduce-vuelos-a-santiago-de-cuba-desde-miami-en-septiembre/",
-        "published_date": "2026-09-01 20:09:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Are you looking for a rental in Spain?Check how much an apartment costs this month",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/busca-alquiler-en-espana-consulta-cuanto-cuesta-un-piso-este-mes/",
-        "published_date": "2026-09-01 19:09:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico, a new opportunity to study for dozens of Cubans",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/mexico-nueva-oportunidad-estudiar-decenas_1_1130342.html",
-        "published_date": "2026-09-01 18:44:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than one million 400 thousand students will begin the new school period",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260901/mas-de-un-millon-400-mil-estudiantes-iniciaran-el-nuevo-periodo-lectivo/",
-        "published_date": "2026-09-01 18:33:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans on alert: Can ICE locate you through road cameras in Florida?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/migrantes-cubanos-operativos-doral/",
-        "published_date": "2026-09-01 18:11:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between challenges and alternatives Camag\u00fcey begins the school year",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33119-camagueey-inicia-el-curso-escolar-entre-desafios-y-alternativas",
-        "published_date": "2026-09-01 17:54:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "What Determines Compensation for Uber and Lyft Crashes in California",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/consejos/determina-indemnizacion-choques-uber-lyft_132_1130340.html",
-        "published_date": "2026-09-01 17:43:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "knowledge festival",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260901/fiesta-de-saberes/",
-        "published_date": "2026-09-01 17:40:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Charcoal Makers of Soplillar",
+        "title": "International News Briefs for Wednesday, September 2, 2026",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/the-charcoal-makers-of-soplillar/",
-        "published_date": "2026-09-01 17:35:18",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-september-2-2026/",
+        "published_date": "2026-09-02 15:01:34",
         "category": "Local Events"
     },
     {
-        "title": "Flights to Miami, the Dominican Republic and Jamaica continue in September from this Cuban airport",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/vuelos-santiago-cuba-septiembre/",
-        "published_date": "2026-09-01 16:09:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Punctuality, discipline and study (Photo report)",
+        "title": "\"Lighting\" hope",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260901/puntualidad-discipina-y-estudio-fotorreportaje/",
-        "published_date": "2026-09-01 15:47:03",
+        "url": "https://www.trabajadores.cu/20260902/alumbrando-la-esperanza/",
+        "published_date": "2026-09-02 14:45:00",
         "category": "Local Events"
     },
     {
-        "title": "The suspension of Delta Airlines flights to Cuba, a consequence of the collapse of tourism",
+        "title": "Havana Times Photo Contest 2026 Update Video",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/contest/havana-times-photo-contest-2026-update-video/",
+        "published_date": "2026-09-02 14:09:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban sports face new challenges in September",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/deporte-cubano-a-nuevos-desafios-en-septiembre/",
+        "published_date": "2026-09-02 14:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "OpenAI admits that its new model will force it to take extreme security measures",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/openai-admite-que-su-nuevo-modelo-obligara-a-extremar-sus-medidas-de-seguridad/",
+        "published_date": "2026-09-02 14:04:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "ETECSA announces 24 hours of unlimited data with this international recharge",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/recarga-internacional-etecsa-datos-ilimitados/",
+        "published_date": "2026-09-02 14:01:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "China defends Cuban sovereignty",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260902/china-defiende-soberania-de-cuba/",
+        "published_date": "2026-09-02 14:00:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI, a revolution that is already here, at what cost?",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260902/ia-una-revolucion-que-ya-esta-aqui-a-que-costo/",
+        "published_date": "2026-09-02 13:39:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The school opens, but you have to look for the teacher outside",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/suspension-vuelos-delta-airlines-cuba_1_1130338.html",
-        "published_date": "2026-09-01 15:41:38",
+        "url": "https://www.14ymedio.com/cuba/escuela-abre-maestro-hay-buscarlo_1_1130368.html",
+        "published_date": "2026-09-02 13:34:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Water crisis in Havana: measures announced to recover pumping",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/crisis-agua-la-habana-medidas/",
+        "published_date": "2026-09-02 13:09:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Total theft at a seismological station in Cuba: even the solar panels disappear",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/robo-estacion-sismologica-isla-juventud/",
+        "published_date": "2026-09-02 12:34:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 83rd edition of the Venice Film Festival begins today",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/inicia-hoy-edicion-83-del-festival-de-cine-de-venecia/",
+        "published_date": "2026-09-02 12:21:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Centenary of Julio Garc\u00eda Espinosa calls for dialogue and the arts",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/centenario-de-julio-garcia-espinosa-convoca-al-dialogo-y-las-artes/",
+        "published_date": "2026-09-02 12:11:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two combat ships arrive at the Guant\u00e1namo Naval Base",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/buques-combate-litoral-guantanamo/",
+        "published_date": "2026-09-02 12:05:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Cuban sandwich shop in Belfast, victim of sanctions against the Havana regime",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/local-sandwich-cubano-irlanda-norte_1_1130366.html",
+        "published_date": "2026-09-02 11:46:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official Gazette: Government gives one year to legalize homes in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/gobierno-un-ano-legalizar-viviendas-cuba-emigrados/",
+        "published_date": "2026-09-02 11:07:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nicaragua moves towards a constitutional reform that excludes \"traitors\" from elections",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/nicaragua-avanza-reforma-constitucional-excluye_1_1130362.html",
+        "published_date": "2026-09-02 10:45:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar and the euro rose in Cuba: this is how the exchange rates are right now",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/subieron-dolar-euro-cuba-tasas-cambio-2-septiembre-2026/",
+        "published_date": "2026-09-02 10:34:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Offers of gas cylinders proliferate in Cuba: prices from 30 to 160 dollars",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/proliferan-las-ofertas-de-balitas-de-gas-en-cuba-precios-de-30-a-160-dolares/",
+        "published_date": "2026-09-02 10:18:05",
         "category": "Local Events"
     }
 ]
