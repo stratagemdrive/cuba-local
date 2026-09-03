@@ -63,13 +63,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "India for peace on the border with China and progress in bilateral ties",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/india-por-paz-en-frontera-con-china-y-progreso-en-nexos-bilaterales/",
-        "published_date": "2026-08-26 13:26:14",
-        "category": "Diplomacy"
-    },
-    {
         "title": "The Venezuelan military leadership supports the agreement with the United States and says it is not \"subordination\"",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/cupula-militar-venezolana-apoya-acuerdo_1_1130360.html",
@@ -123,13 +116,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/aguada-de-pasajeros-pone-a-prueba-su-preparacion-defensiva/",
         "published_date": "2026-08-28 18:36:15",
-        "category": "Military"
-    },
-    {
-        "title": "Iran transmits its conditions on Hormuz to the US through Pakistan",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/iran-transmite-a-eeuu-sus-condiciones-sobre-ormuz-mediante-pakistan/",
-        "published_date": "2026-08-26 13:49:36",
         "category": "Military"
     },
     {
@@ -245,18 +231,25 @@
         "category": "Energy"
     },
     {
-        "title": "Otero Alc\u00e1ntara receives the 27,000 letters that did not reach him while he was imprisoned in Cuba",
+        "title": "Since January, the Cuban economy has fallen at double the rate recorded at the worst moment of the Special Period",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/otero-alcantara-recibe-27-000_1_1130153.html",
-        "published_date": "2026-08-26 11:05:20",
-        "category": "Energy"
+        "url": "https://www.14ymedio.com/economia/enero-economia-cubana-cae-doble_1_1130391.html",
+        "published_date": "2026-09-03 12:20:27",
+        "category": "Economy"
     },
     {
-        "title": "Without light and without sound, S\u00edlvia P\u00e9rez Cruz sings before an excited audience in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura/fallido-concierto-silvia-perez-cruz-habana_1_1130109.html",
-        "published_date": "2026-08-26 07:31:45",
-        "category": "Energy"
+        "title": "Private companies in Cuba may exceed 100 workers",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/empresas-privadas-cuba-100-trabajadores/",
+        "published_date": "2026-09-03 11:14:23",
+        "category": "Economy"
+    },
+    {
+        "title": "New rule eliminates limitations for non-state work",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33122-nueva-norma-elimina-limitaciones-para-el-trabajo-no-estatal",
+        "published_date": "2026-09-03 09:28:16",
+        "category": "Economy"
     },
     {
         "title": "The Cuban Government authorizes the \u201clarge private company\u201d, with more than 100 employees",
@@ -336,150 +329,143 @@
         "category": "Economy"
     },
     {
-        "title": "The dollar rises in Cuba and falls in the Central Bank: this is how the rates are this August 26",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/sube-el-dolar-en-cuba-y-baja-en-el-banco-central-asi-estan-las-tasas-este-26-de-agosto/",
-        "published_date": "2026-08-26 10:40:18",
-        "category": "Economy"
-    },
-    {
-        "title": "Living memory and a hug from the people to the heroes of September 5",
+        "title": "China aspires to great expansion in the sports sector",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/memoria-viva-y-un-abrazo-de-pueblo-a-los-heroes-del-5-de-septiembre/",
-        "published_date": "2026-09-03 01:00:44",
+        "url": "https://www.5septiembre.cu/aspira-china-a-gran-expansion-en-el-sector-deportivo/",
+        "published_date": "2026-09-03 14:53:48",
         "category": "Local Events"
     },
     {
-        "title": "Bye Bye Afternoon, Havana, Cuba \u2013 Photo of the Day",
+        "title": "Dumping Grounds for Memories",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/bye-bye-afternoon-havana-cuba-photo-of-the-day/",
-        "published_date": "2026-09-03 00:42:51",
+        "url": "https://havanatimes.org/diaries/kamil-kenders/dumping-grounds-for-memories/",
+        "published_date": "2026-09-03 14:47:51",
         "category": "Local Events"
     },
     {
-        "title": "D\u00edaz-Canel offers details on the comprehensive strategy for water supply in the capital",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260902/ofrece-diaz-canel-detalles-sobre-estrategia-integral-para-abasto-de-agua-en-la-capital/",
-        "published_date": "2026-09-03 00:33:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "OAS Secretary General: \u201cWe Have a Political Disaster in Nicaragua\u201d",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/oas-secretary-general-we-have-a-political-disaster-in-nicaragua/",
-        "published_date": "2026-09-03 00:25:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hotel Las Am\u00e9ricas promotes its best party",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260902/hotel-las-americas-promueve-su-mejor-fiesta/",
-        "published_date": "2026-09-02 23:59:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Retirees in the United States will receive new payments in September: these are the dates",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/jubilados-en-estados-unidos-recibiran-nuevos-pagos-en-septiembre-estas-son-las-fechas/",
-        "published_date": "2026-09-02 23:05:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commitment and resistance in artistic teaching",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260902/compromiso-y-resistencia-en-la-ensenanza-artistica/",
-        "published_date": "2026-09-02 22:06:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hermanos Sa\u00edz Association, 40 years of opportunities and culture",
+        "title": "Silvio Rodr\u00edguez begins tour of Spain with total success",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/asociacion-hermanos-saiz-40-anos-de-oportunidades-y-cultura/",
-        "published_date": "2026-09-02 21:02:50",
+        "url": "https://www.5septiembre.cu/silvio-rodriguez-inicia-gira-por-espana-con-exito-total/",
+        "published_date": "2026-09-03 14:18:06",
         "category": "Local Events"
     },
     {
-        "title": "Combustion motorcycles in Cuba from $1,330: this is how they are purchased now through Ticket",
+        "title": "Cuba will distribute more than 16,000 rechargeable lamps donated by the UN",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/motos-de-combustion-en-cuba-desde-1-330-dolares-asi-se-compran-ahora-mediante-ticket/",
-        "published_date": "2026-09-02 20:11:30",
+        "url": "https://www.directoriocubano.info/cuba/cuba-distribuira-mas-de-16000-lamparas-recargables-donadas-por-la-onu/",
+        "published_date": "2026-09-03 13:57:13",
         "category": "Local Events"
     },
     {
-        "title": "The United States will deport the 11 rafters who arrived in Florida on a stolen boat",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/ee-uu-deportara-11-balseros_1_1130382.html",
-        "published_date": "2026-09-02 19:59:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delcy Rodr\u00edguez, obsessed with looking good with the US and Trump",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-obsesionada-quedar-ee_1_1130380.html",
-        "published_date": "2026-09-02 19:36:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Help of up to 300 euros to pay rent in Spain: requirements and where to apply for it",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/ayuda-de-hasta-300-euros-para-pagar-el-alquiler-en-espana-requisitos-y-donde-solicitarla/",
-        "published_date": "2026-09-02 19:01:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Havana: The City That Became an Improvised Office",
+        "title": "The Nicaraguan Dictatorship Is a Poor Copy of North Korea's",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/safie-m-gonzalez/havana-the-city-that-became-an-improvised-office/",
-        "published_date": "2026-09-02 18:51:53",
+        "url": "https://havanatimes.org/opinion/the-nicaraguan-dictatorship-is-a-poor-copy-of-north-koreas/",
+        "published_date": "2026-09-03 13:52:26",
         "category": "Local Events"
     },
     {
-        "title": "There are \u201cmany things to clean up\u201d before holding free elections in Venezuela, alleges Marco Rubio",
+        "title": "Frank Delgado in concert in Mexico City",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/hay-cosas-limpiar-celebrar-elecciones_1_1130376.html",
-        "published_date": "2026-09-02 18:46:29",
+        "url": "https://www.14ymedio.com/cartelera/frank-delgado-concierto-ciudad-mexico_1_1130401.html",
+        "published_date": "2026-09-03 13:04:30",
         "category": "Local Events"
     },
     {
-        "title": "Hallucinate between corridors and memories",
+        "title": "Trump accelerates the signing of contracts after historic oil agreement with Venezuela",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-acelera-firma-contratos-historico_1_1130399.html",
+        "published_date": "2026-09-03 12:55:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Record asylum denials in the US: only 5.5% of cases were approved in June",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/record-denegaciones-asilo-ee-uu_1_1130397.html",
+        "published_date": "2026-09-03 12:45:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "One battle after another, FIPRESCI Prize in San Sebasti\u00e1n",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/una-batalla-tras-otra-premio-fipresci-en-san-sebastian/",
+        "published_date": "2026-09-03 12:40:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sady Companioni, released with the obligation to sign in daily",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sady-companioni-liberada-obligacion-presentarse_1_1130395.html",
+        "published_date": "2026-09-03 12:38:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI want them to feel afraid\u201d: Radical Israeli minister defends his prison crocodile plan",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/quiero-que-sientan-miedo-ministro-radical-israeli-defiende-su-plan-de-cocodrilos-en-prisiones/",
+        "published_date": "2026-09-03 12:31:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Roots in transit: 30 artists from the Cuban diaspora",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/raices-transito-30-artistas-diaspora_1_1130390.html",
+        "published_date": "2026-09-03 12:12:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rubio proposes a democratic Cuba as the only way out of the current crisis",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/rubio-cuba-democratica/",
+        "published_date": "2026-09-03 12:09:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United Nations brings 16,020 rechargeable lamps to Cuba for those affected by Hurricane Melissa",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/naciones-unidas-lleva-cuba-16_1_1130388.html",
+        "published_date": "2026-09-03 11:57:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar rose in Cuba: this is how the exchange rates are right now",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/subio-dolar-cuba-tasas-cambio-3-septiembre-2026/",
+        "published_date": "2026-09-03 10:23:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Silvio Rodr\u00edguez began his tour of Spain with a successful concert",
         "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/147-semblanzas-de-la-vocacional/33121-alucina-entre-pasillos-y-recuerdos",
-        "published_date": "2026-09-02 18:32:06",
+        "url": "https://www.adelante.cu/index.php/es/cultura/57-artes-escenicas/33125-con-exitoso-concierto-inicio-silvio-rodriguez-gira-por-espana",
+        "published_date": "2026-09-03 10:12:14",
         "category": "Local Events"
     },
     {
-        "title": "Cuba will embrace Mexico through culture and musical heritage",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-abrazara-a-mexico-desde-la-cultura-y-el-patrimonio-musical/",
-        "published_date": "2026-09-02 18:15:58",
+        "title": "Economists suggest suing shipping companies for failing to comply with obligations",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33123-sugieren-demandar-a-navieras-por-incumplir-obligaciones",
+        "published_date": "2026-09-03 09:54:41",
         "category": "Local Events"
     },
     {
-        "title": "Private restaurants in Cuba on the limit: blackouts, expensive food and fewer customers",
+        "title": "ICE deports alleged Cuban spy for immigration fraud",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/restaurantes-privados-cuba-apagones-escasez/",
-        "published_date": "2026-09-02 18:05:24",
+        "url": "https://www.directoriocubano.info/actualidad/ice-deporta-presunto-espia-cubano/",
+        "published_date": "2026-09-03 09:45:00",
         "category": "Local Events"
     },
     {
-        "title": "European football returns with force",
+        "title": "The US deports a Cuban intelligence agent infiltrated in exile in Miami",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/juegos/futbol-europeo-vuelve-fuerza_132_1130374.html",
-        "published_date": "2026-09-02 17:26:17",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-deporta-agente-inteligencia_1_1130386.html",
+        "published_date": "2026-09-03 08:15:01",
         "category": "Local Events"
     },
     {
-        "title": "Ice cream parlor offers employment opportunities",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260902/heladeria-ofrece-oportunidades-de-empleo/",
-        "published_date": "2026-09-02 17:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Havana-Guant\u00e1namo route announced without transfers with private carrier",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/ruta-habana-guantanamo-pedrocarr/",
-        "published_date": "2026-09-02 17:01:45",
+        "title": "Direct delegate to the III National Conference of the SNTECD is elected in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/eligen-en-cienfuegos-delegada-directa-a-la-iii-conferencia-nacional-del-sntecd/",
+        "published_date": "2026-09-03 05:00:47",
         "category": "Local Events"
     }
 ]
