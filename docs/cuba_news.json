@@ -119,6 +119,13 @@
         "category": "Military"
     },
     {
+        "title": "Oil \"belongs to the Venezuelan people, not to the illegitimate regime,\" protests Mar\u00eda Corina Machado",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/petroleo-pertenece-pueblo-venezolano-no_1_1130402.html",
+        "published_date": "2026-09-03 17:10:22",
+        "category": "Energy"
+    },
+    {
         "title": "Officials question: why have some neighborhoods in Havana been without electricity for 40 hours and others not?",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/reparto-apagones-la-habana/",
@@ -231,6 +238,13 @@
         "category": "Energy"
     },
     {
+        "title": "Another grandson of Ra\u00fal Castro and the Foreign Bank of Cuba sanctioned by the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sancionados-estados-unidos-nieto-raul_1_1130403.html",
+        "published_date": "2026-09-03 17:12:07",
+        "category": "Economy"
+    },
+    {
         "title": "Since January, the Cuban economy has fallen at double the rate recorded at the worst moment of the Special Period",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/economia/enero-economia-cubana-cae-doble_1_1130391.html",
@@ -315,157 +329,143 @@
         "category": "Economy"
     },
     {
-        "title": "Decent work on digital platforms: a new global norm",
+        "title": "Walmart, Costco and Amazon increase the price of meat in the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/walmart-costco-y-amazon-aumentan-el-precio-de-la-carne-en-estados-unidos/",
+        "published_date": "2026-09-03 23:02:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "New rules make foreign investment, foreign trade and tourist activity more flexible",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260826/trabajo-decente-en-las-plataformas-digitales-una-nueva-norma-mundial/",
-        "published_date": "2026-08-26 19:38:55",
-        "category": "Economy"
+        "url": "https://www.trabajadores.cu/20260903/nuevas-normas-flexibilizan-inversion-extranjera-comercio-exterior-y-actividad-turistica/",
+        "published_date": "2026-09-03 22:25:17",
+        "category": "Local Events"
     },
     {
-        "title": "MSME Grupo MD proposes opportunities",
+        "title": "Following the historic route: For an always young September",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/tras-la-ruta-historica-por-un-septiembre-siempre-joven/",
+        "published_date": "2026-09-03 21:45:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Active teachers in Cuba will be able to give private reviews: these are the new rules",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/maestros-activos-en-cuba-podran-dar-repasos-particulares-estas-son-las-nuevas-reglas/",
+        "published_date": "2026-09-03 21:11:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "New resolutions will promote tourism development",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/nuevas-resoluciones-impulsaran-desarrollo-del-turismo/",
+        "published_date": "2026-09-03 21:07:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gaesa accumulates 14.5 billion dollars while nine out of ten Cuban households live in extreme poverty",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gaesa-acumula-14-500-millones_1_1130416.html",
+        "published_date": "2026-09-03 20:52:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE releases Cuban musician Degnis Bofill after more than two weeks detained in Miami",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/migracion/ice-libera-musico-cubano-degnis_1_1130411.html",
+        "published_date": "2026-09-03 20:08:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Official: Cubans abroad can now own businesses in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/negocios-privados-cuba-emigrados/",
+        "published_date": "2026-09-03 20:01:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Cuban javelinist Yulenmis Aguilar, who was thinking about retirement, achieves a record for Spain",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/jabalinista-cubana-yulenmis-aguilar-pensaba_1_1130408.html",
+        "published_date": "2026-09-03 19:42:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Asturias approves 548,000 euros in aid: what happens to the descendants in Cuba?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/ayudas-comunidades-asturianas-cuba-2026/",
+        "published_date": "2026-09-03 19:09:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ozone Technical Office Encourages Environmental Preservation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/alienta-oficina-tecnica-del-ozono-preservacion-del-medioambiente/",
+        "published_date": "2026-09-03 18:52:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new wave of executions that the US is going through",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-nueva-ola-de-ejecuciones-que-atraviesa-ee-uu/",
+        "published_date": "2026-09-03 18:45:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Private and state sectors move forward with new regulations",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sector-privado-y-estatal-avanzan-con-nuevas-regulaciones/",
+        "published_date": "2026-09-03 18:32:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "How much does it cost to travel to Cuba for Christmas Eve and New Year's Eve with two suitcases?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/cuanto-cuesta-viajar-a-cuba-para-nochebuena-y-fin-de-ano-con-dos-maletas/",
+        "published_date": "2026-09-03 18:15:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "For the first time in decades, foreign companies can now hire their staff without the mediation of the State",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/primera-vez-decadas-empresas-extranjeras_1_1130406.html",
+        "published_date": "2026-09-03 18:01:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Statement for the 49th anniversary of the Culture Union",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260826/mipyme-grupo-md-propone-oportunidades/",
-        "published_date": "2026-08-26 18:53:25",
-        "category": "Economy"
-    },
-    {
-        "title": "China aspires to great expansion in the sports sector",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/aspira-china-a-gran-expansion-en-el-sector-deportivo/",
-        "published_date": "2026-09-03 14:53:48",
+        "url": "https://www.trabajadores.cu/20260903/comunicado-por-el-aniversario-49-del-sindicato-de-la-cultura/",
+        "published_date": "2026-09-03 17:43:49",
         "category": "Local Events"
     },
     {
-        "title": "Dumping Grounds for Memories",
+        "title": "Zuturo Junior returns to polytechnics in Santiago de Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260903/regresa-zuturo-junior-a-politecnicos-de-santiago-de-cuba/",
+        "published_date": "2026-09-03 17:35:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Machado Calls US-Venezuela Oil Agreement \u201cWorrisome\u201d",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/kamil-kenders/dumping-grounds-for-memories/",
-        "published_date": "2026-09-03 14:47:51",
+        "url": "https://havanatimes.org/news/machado-calls-us-venezuela-oil-agreement-worrisome/",
+        "published_date": "2026-09-03 16:52:50",
         "category": "Local Events"
     },
     {
-        "title": "Silvio Rodr\u00edguez begins tour of Spain with total success",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/silvio-rodriguez-inicia-gira-por-espana-con-exito-total/",
-        "published_date": "2026-09-03 14:18:06",
+        "title": "birthday pine forest",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260903/pinar-de-cumpleanos/",
+        "published_date": "2026-09-03 16:51:53",
         "category": "Local Events"
     },
     {
-        "title": "Cuba will distribute more than 16,000 rechargeable lamps donated by the UN",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-distribuira-mas-de-16000-lamparas-recargables-donadas-por-la-onu/",
-        "published_date": "2026-09-03 13:57:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Nicaraguan Dictatorship Is a Poor Copy of North Korea's",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/the-nicaraguan-dictatorship-is-a-poor-copy-of-north-koreas/",
-        "published_date": "2026-09-03 13:52:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Frank Delgado in concert in Mexico City",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/frank-delgado-concierto-ciudad-mexico_1_1130401.html",
-        "published_date": "2026-09-03 13:04:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump accelerates the signing of contracts after historic oil agreement with Venezuela",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-acelera-firma-contratos-historico_1_1130399.html",
-        "published_date": "2026-09-03 12:55:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Record asylum denials in the US: only 5.5% of cases were approved in June",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/record-denegaciones-asilo-ee-uu_1_1130397.html",
-        "published_date": "2026-09-03 12:45:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "One battle after another, FIPRESCI Prize in San Sebasti\u00e1n",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/una-batalla-tras-otra-premio-fipresci-en-san-sebastian/",
-        "published_date": "2026-09-03 12:40:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sady Companioni, released with the obligation to sign in daily",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sady-companioni-liberada-obligacion-presentarse_1_1130395.html",
-        "published_date": "2026-09-03 12:38:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI want them to feel afraid\u201d: Radical Israeli minister defends his prison crocodile plan",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/quiero-que-sientan-miedo-ministro-radical-israeli-defiende-su-plan-de-cocodrilos-en-prisiones/",
-        "published_date": "2026-09-03 12:31:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roots in transit: 30 artists from the Cuban diaspora",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/raices-transito-30-artistas-diaspora_1_1130390.html",
-        "published_date": "2026-09-03 12:12:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rubio proposes a democratic Cuba as the only way out of the current crisis",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/rubio-cuba-democratica/",
-        "published_date": "2026-09-03 12:09:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United Nations brings 16,020 rechargeable lamps to Cuba for those affected by Hurricane Melissa",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/naciones-unidas-lleva-cuba-16_1_1130388.html",
-        "published_date": "2026-09-03 11:57:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dollar rose in Cuba: this is how the exchange rates are right now",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/subio-dolar-cuba-tasas-cambio-3-septiembre-2026/",
-        "published_date": "2026-09-03 10:23:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Silvio Rodr\u00edguez began his tour of Spain with a successful concert",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/57-artes-escenicas/33125-con-exitoso-concierto-inicio-silvio-rodriguez-gira-por-espana",
-        "published_date": "2026-09-03 10:12:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economists suggest suing shipping companies for failing to comply with obligations",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33123-sugieren-demandar-a-navieras-por-incumplir-obligaciones",
-        "published_date": "2026-09-03 09:54:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE deports alleged Cuban spy for immigration fraud",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/ice-deporta-presunto-espia-cubano/",
-        "published_date": "2026-09-03 09:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US deports a Cuban intelligence agent infiltrated in exile in Miami",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-deporta-agente-inteligencia_1_1130386.html",
-        "published_date": "2026-09-03 08:15:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Direct delegate to the III National Conference of the SNTECD is elected in Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/eligen-en-cienfuegos-delegada-directa-a-la-iii-conferencia-nacional-del-sntecd/",
-        "published_date": "2026-09-03 05:00:47",
+        "title": "Other student commitments",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260903/otros-compromisos-estudiantiles/",
+        "published_date": "2026-09-03 16:43:22",
         "category": "Local Events"
     }
 ]
