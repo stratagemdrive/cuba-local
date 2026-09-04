@@ -1,5 +1,26 @@
 [
     {
+        "title": "Solidarity with Cuba from Los Angeles",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260904/solidaridad-con-cuba-desde-los-angeles/",
+        "published_date": "2026-09-04 11:59:13",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Anci and CTC strengthen ties in Camag\u00fcey",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260904/fortalecen-lazos-la-anci-y-la-ctc-en-camaguey/",
+        "published_date": "2026-09-04 11:43:06",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Cuban Foreign Minister describes the sanctions against a grandson of Ra\u00fal Castro and the Foreign Bank as \"cruel and merciless aggression\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/canciller-cubano-califica-agresion-cruel_1_1130420.html",
+        "published_date": "2026-09-04 09:33:33",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cYou can arrive, even if there is a blockade, and contribute,\u201d says \u00d3scar Camps in Havana",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/llegar-haya-bloqueo-aportar-dice_1_1130378.html",
@@ -46,20 +67,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/canciller-cubano-lamenta-victimas-por-incendios-forestales-en-argelia/",
         "published_date": "2026-08-28 17:51:18",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Nearly a hundred Chinese missing after disaster in Nepal",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cerca-de-un-centenar-de-chinos-desaparecidos-tras-desastre-en-nepal/",
-        "published_date": "2026-08-27 14:46:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "In Mexico, professors at the University of Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33102-en-mexico-catedraticas-de-la-universidad-de-camagueey",
-        "published_date": "2026-08-27 10:14:01",
         "category": "Diplomacy"
     },
     {
@@ -117,6 +124,20 @@
         "url": "https://www.5septiembre.cu/aguada-de-pasajeros-pone-a-prueba-su-preparacion-defensiva/",
         "published_date": "2026-08-28 18:36:15",
         "category": "Military"
+    },
+    {
+        "title": "Another lineman from the Uni\u00f3n El\u00e9ctrica dies while carrying out maintenance work in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-liniero-union-electrica-realizaba_1_1130419.html",
+        "published_date": "2026-09-04 08:43:44",
+        "category": "Energy"
+    },
+    {
+        "title": "They ask to authorize fuel for Cuban hospitals",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/combustible-hospitales-cubanos/",
+        "published_date": "2026-09-04 04:35:42",
+        "category": "Energy"
     },
     {
         "title": "Oil \"belongs to the Venezuelan people, not to the illegitimate regime,\" protests Mar\u00eda Corina Machado",
@@ -224,18 +245,25 @@
         "category": "Energy"
     },
     {
-        "title": "Melissa and the challenges of school uniform",
+        "title": "Based on better trade",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260827/melissa-y-los-desafios-del-uniforme-escolar/",
-        "published_date": "2026-08-27 13:49:44",
-        "category": "Energy"
+        "url": "https://www.trabajadores.cu/20260904/en-funcion-de-un-mejor-comercio/",
+        "published_date": "2026-09-04 14:50:11",
+        "category": "Economy"
     },
     {
-        "title": "A woman of energy",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260827/una-mujer-de-energias/",
-        "published_date": "2026-08-27 12:54:18",
-        "category": "Energy"
+        "title": "Cuba authorizes bank accounts abroad without prior permission from the Central Bank",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/cuentas-bancarias-exterior-cuba/",
+        "published_date": "2026-09-04 12:01:08",
+        "category": "Economy"
+    },
+    {
+        "title": "Get to know our PDF edition of September 4",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-en-pdf-del-4-de-septiembre/",
+        "published_date": "2026-09-04 04:05:33",
+        "category": "Economy"
     },
     {
         "title": "Another grandson of Ra\u00fal Castro and the Foreign Bank of Cuba sanctioned by the United States",
@@ -322,150 +350,143 @@
         "category": "Economy"
     },
     {
-        "title": "The time has come to boost the Cuban economy",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/opinion/33106-llego-la-hora-de-dinamizar-la-economia-cubana",
-        "published_date": "2026-08-27 11:24:39",
-        "category": "Economy"
-    },
-    {
-        "title": "Walmart, Costco and Amazon increase the price of meat in the United States",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/walmart-costco-y-amazon-aumentan-el-precio-de-la-carne-en-estados-unidos/",
-        "published_date": "2026-09-03 23:02:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "New rules make foreign investment, foreign trade and tourist activity more flexible",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260903/nuevas-normas-flexibilizan-inversion-extranjera-comercio-exterior-y-actividad-turistica/",
-        "published_date": "2026-09-03 22:25:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Following the historic route: For an always young September",
+        "title": "Cuban animated short films will shine at the New York festival",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/tras-la-ruta-historica-por-un-septiembre-siempre-joven/",
-        "published_date": "2026-09-03 21:45:11",
+        "url": "https://www.5septiembre.cu/cortometrajes-animados-cubanos-brillaran-en-festival-de-nueva-york/",
+        "published_date": "2026-09-04 14:52:32",
         "category": "Local Events"
     },
     {
-        "title": "Active teachers in Cuba will be able to give private reviews: these are the new rules",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/maestros-activos-en-cuba-podran-dar-repasos-particulares-estas-son-las-nuevas-reglas/",
-        "published_date": "2026-09-03 21:11:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "New resolutions will promote tourism development",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/nuevas-resoluciones-impulsaran-desarrollo-del-turismo/",
-        "published_date": "2026-09-03 21:07:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gaesa accumulates 14.5 billion dollars while nine out of ten Cuban households live in extreme poverty",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gaesa-acumula-14-500-millones_1_1130416.html",
-        "published_date": "2026-09-03 20:52:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE releases Cuban musician Degnis Bofill after more than two weeks detained in Miami",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/migracion/ice-libera-musico-cubano-degnis_1_1130411.html",
-        "published_date": "2026-09-03 20:08:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official: Cubans abroad can now own businesses in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/negocios-privados-cuba-emigrados/",
-        "published_date": "2026-09-03 20:01:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban javelinist Yulenmis Aguilar, who was thinking about retirement, achieves a record for Spain",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/jabalinista-cubana-yulenmis-aguilar-pensaba_1_1130408.html",
-        "published_date": "2026-09-03 19:42:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Asturias approves 548,000 euros in aid: what happens to the descendants in Cuba?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/ayudas-comunidades-asturianas-cuba-2026/",
-        "published_date": "2026-09-03 19:09:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ozone Technical Office Encourages Environmental Preservation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/alienta-oficina-tecnica-del-ozono-preservacion-del-medioambiente/",
-        "published_date": "2026-09-03 18:52:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new wave of executions that the US is going through",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/la-nueva-ola-de-ejecuciones-que-atraviesa-ee-uu/",
-        "published_date": "2026-09-03 18:45:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Private and state sectors move forward with new regulations",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/sector-privado-y-estatal-avanzan-con-nuevas-regulaciones/",
-        "published_date": "2026-09-03 18:32:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much does it cost to travel to Cuba for Christmas Eve and New Year's Eve with two suitcases?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cuanto-cuesta-viajar-a-cuba-para-nochebuena-y-fin-de-ano-con-dos-maletas/",
-        "published_date": "2026-09-03 18:15:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "For the first time in decades, foreign companies can now hire their staff without the mediation of the State",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/primera-vez-decadas-empresas-extranjeras_1_1130406.html",
-        "published_date": "2026-09-03 18:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Statement for the 49th anniversary of the Culture Union",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260903/comunicado-por-el-aniversario-49-del-sindicato-de-la-cultura/",
-        "published_date": "2026-09-03 17:43:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zuturo Junior returns to polytechnics in Santiago de Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260903/regresa-zuturo-junior-a-politecnicos-de-santiago-de-cuba/",
-        "published_date": "2026-09-03 17:35:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Machado Calls US-Venezuela Oil Agreement \u201cWorrisome\u201d",
+        "title": "Cuban Government Authorizes \u201cLarge Private Companies\u201d",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/machado-calls-us-venezuela-oil-agreement-worrisome/",
-        "published_date": "2026-09-03 16:52:50",
+        "url": "https://havanatimes.org/news/cuban-government-authorizes-large-private-companies/",
+        "published_date": "2026-09-04 14:47:26",
         "category": "Local Events"
     },
     {
-        "title": "birthday pine forest",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260903/pinar-de-cumpleanos/",
-        "published_date": "2026-09-03 16:51:53",
+        "title": "International News Briefs for Friday, September 4, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-friday-september-4-2026/",
+        "published_date": "2026-09-04 14:18:32",
         "category": "Local Events"
     },
     {
-        "title": "Other student commitments",
+        "title": "Marco Rubio will visit Colombia, Ecuador and Peru between September 8 and 10",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/marco-rubio-visitara-colombia-ecuador_1_1130430.html",
+        "published_date": "2026-09-04 14:07:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "China to increase medical coverage of innovative drugs",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-por-aumentar-cobertura-medica-de-farmacos-innovadores/",
+        "published_date": "2026-09-04 14:01:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "They doubled the prices of cigars and ruined the Cuban business",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/duplicaron-precios-habanos-arruinaron-negocio_1_1130428.html",
+        "published_date": "2026-09-04 14:00:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba's Railways: No Tracks to Get Anywhere",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/cubas-railways-no-tracks-to-get-anywhere/",
+        "published_date": "2026-09-04 14:00:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hermanos Sa\u00edz Association releases video clip for its 40 years",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/asociacion-hermanos-saiz-estrena-videoclip-por-sus-40-anos/",
+        "published_date": "2026-09-04 13:49:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "USA: Pete Hegseth, on the tightrope?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/eeuu-pete-hegseth-en-la-cuerda-floja/",
+        "published_date": "2026-09-04 13:38:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"How I felt\" from September 4, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/multimedia/podcast/video-ext-senti-4-septiembre-2026_7_1130427.html",
+        "published_date": "2026-09-04 13:10:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"How I felt\" from September 4, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/desde-aqui/senti-4-septiembre-2026_132_1130425.html",
+        "published_date": "2026-09-04 11:52:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Voices from 1912: Cuban memory travels to Medell\u00edn",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260903/otros-compromisos-estudiantiles/",
-        "published_date": "2026-09-03 16:43:22",
+        "url": "https://www.trabajadores.cu/20260904/voces-de-1912-la-memoria-cubana-viaja-a-medellin/",
+        "published_date": "2026-09-04 11:35:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Visas for the United States from Cuba: pay attention to these dates in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/visas-estados-unidos-cuba-fechas-nvc-la-habana/",
+        "published_date": "2026-09-04 11:35:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba changes land rules: what does it mean for those who use them?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-terrenos-estatales-derecho-perpetuo-superficie-pago/",
+        "published_date": "2026-09-04 11:11:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "When the newsroom's email is also a target: why encryption is no longer optional",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/consejos/correo-redaccion-blanco-cifrado-no_132_1130423.html",
+        "published_date": "2026-09-04 10:33:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the dollar and the euro are in Cuba today: exchange rates on September 4",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/dolar-euro-cuba-hoy-tasas-cambio-4-septiembre-2026/",
+        "published_date": "2026-09-04 10:30:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela requests the total cessation of US sanctions in exchange for its oil collaboration",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/venezuela-pide-cese-total-sanciones_1_1130422.html",
+        "published_date": "2026-09-04 09:42:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "University of Camag\u00fcey began the 2026-2027 school year",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33127-universidad-de-camagueey-comenzo-curso-escolar",
+        "published_date": "2026-09-04 09:36:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shaka, a chemical flash with massive doses of caffeine, vodka and sugar",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/shaka-fogonazo-quimico-dosis-masivas_1_1130410.html",
+        "published_date": "2026-09-04 09:18:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Promotion of high values \u200b\u200bbetween universities of Camag\u00fcey and Mexico",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33126-impulso-de-altos-valores-entre-universidades-de-camagueey-y-mexico",
+        "published_date": "2026-09-04 08:00:00",
         "category": "Local Events"
     }
 ]
