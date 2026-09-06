@@ -126,11 +126,18 @@
         "category": "Military"
     },
     {
-        "title": "A mother who denounced a delegate for denying her water is arrested in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/detienen-habana-madre-denuncio-delegada_1_1130266.html",
-        "published_date": "2026-08-29 13:19:50",
-        "category": "Military"
+        "title": "Blackouts in Cuba: deficit will exceed 2,000 MW this Sunday",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-deficit-6-septiembre/",
+        "published_date": "2026-09-06 12:30:27",
+        "category": "Energy"
+    },
+    {
+        "title": "Lack of fuel aggravates the railway crisis in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/falta-combustible-crisis-ferroviaria-cuba/",
+        "published_date": "2026-09-06 12:02:40",
+        "category": "Energy"
     },
     {
         "title": "Thefts to the Electrical System in Cuba leave communities without electricity for weeks",
@@ -242,20 +249,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/air-europa-beneficia-vacio-dejado_1_1130269.html",
         "published_date": "2026-08-29 16:53:24",
-        "category": "Energy"
-    },
-    {
-        "title": "Government gives green light to dollarization in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/dolarizacion-parcial-cuba-gaceta-oficial-reformas-economicas/",
-        "published_date": "2026-08-29 13:12:12",
-        "category": "Energy"
-    },
-    {
-        "title": "Trump secures control of 65 billion barrels of Venezuelan oil",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-asegura-control-65-000_1_1130260.html",
-        "published_date": "2026-08-29 12:29:47",
         "category": "Energy"
     },
     {
@@ -371,6 +364,97 @@
         "category": "Economy"
     },
     {
+        "title": "Havana incorporates 20 trucks to collect garbage",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/camiones-recoger-basura-habana/",
+        "published_date": "2026-09-06 13:34:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new heroes and heroes of the Homeland",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/opinion/nuevos-heroes-proceres-patria_1_1130470.html",
+        "published_date": "2026-09-06 13:13:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba investigates more than 460 crimes against the National Electrical System",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/delitos-sistema-electrico-cuba/",
+        "published_date": "2026-09-06 13:05:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce looting of belongings of Cuban collaborators sent from Venezuela",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/saqueo-pertenencias-colaboradores-cubanos-venezuela/",
+        "published_date": "2026-09-06 12:32:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emir Mesa Corona, the general who protects Ra\u00fal Castro from attacks and rumors about his health",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/emir-mesa-corona-general-protege_1_1130468.html",
+        "published_date": "2026-09-06 12:08:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blackouts in Cuba this September 6: Havana reports 471 MW affected",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-6-septiembre-471-mw-habana/",
+        "published_date": "2026-09-06 11:09:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Tribute', a collective exhibition dedicated to the Virgin of Charity",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/tributo-exposicion-colectiva-dedicada-virgen_1_1130466.html",
+        "published_date": "2026-09-06 10:45:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Presentation of 'Olvidos y obituaries'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/presentacion-olvidos-obituarios_1_1130464.html",
+        "published_date": "2026-09-06 10:32:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar is going up: this is how the exchange rates of the USD, the euro and the MLC are in Cuba today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/dolar-va-para-arriba-tasas-cambio-usd-euro-mlc-cuba-6-septiembre-2026/",
+        "published_date": "2026-09-06 10:25:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "They guarantee transportation to student centers",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33133-garantizan-transportacion-a-centros-estudiantiles",
+        "published_date": "2026-09-06 09:47:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI in the US elections",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-ia-en-las-elecciones-de-ee-uu/",
+        "published_date": "2026-09-06 04:05:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "They are also Olympians",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/de-camagueey/33132-ellos-tambien-son-olimpicos",
+        "published_date": "2026-09-06 00:56:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "They open a call for the edition of El Almac\u00e9n de la Imagen",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/cultura/27-artes-visuales/33131-abre-convocatoria-a-proxima-edicion-de-el-almacen-de-la-imagen",
+        "published_date": "2026-09-06 00:50:41",
+        "category": "Local Events"
+    },
+    {
         "title": "Iran launches ballistic missile attack against US aircraft carrier and destroyer",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/iran-lanza-ataque-con-misiles-balisticos-contra-un-portaviones-y-un-destructor-de-ee-uu/",
@@ -382,6 +466,13 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/roxana-gomez-finaliza-sexta-en-liga-del-diamante-2026/",
         "published_date": "2026-09-06 00:20:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel sets the end of September to improve water in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/agua-habana-finales-septiembre/",
+        "published_date": "2026-09-05 23:09:31",
         "category": "Local Events"
     },
     {
@@ -399,115 +490,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Doctor where she is also a patient: Yamila Adams Villal\u00f3n",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260905/doctora-donde-tambien-es-paciente-yamila-adams-villalon/",
+        "published_date": "2026-09-05 21:57:44",
+        "category": "Local Events"
+    },
+    {
         "title": "Blackouts in Cuba will reach 70% of demand this Saturday",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/apagones-cuba-70-demanda-sabado/",
         "published_date": "2026-09-05 21:36:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "New US sanctions against Cuba reach the energy sector",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/sanciones-estados-unidos-cuba-empresas/",
-        "published_date": "2026-09-05 21:11:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Does ChatGPT have limits?The technological future that the movies of yesteryear predicted no longer seems like a fantasy",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/tiene-limites-chatgpt-el-futuro-tecnologico-que-predecian-las-peliculas-de-antano-ya-no-parece-una-fantasia/",
-        "published_date": "2026-09-05 21:07:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blackouts in Havana leave 563 MW and 152 circuits affected",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/apagones-la-habana-563-mw-152-circuitos/",
-        "published_date": "2026-09-05 20:43:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert in Granma due to serious danger on the Bayamo-Manzanillo highway",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/alerta-granma-peligro-carretera-bayamo-manzanillo-macuto/",
-        "published_date": "2026-09-05 20:28:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cumbiafrica \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/cumbiafrica-song-of-the-day/",
-        "published_date": "2026-09-05 20:24:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you work in Florida?This will be the minimum wage that they must pay you from September 30",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/trabajas-en-florida-este-sera-el-salario-minimo-que-deberan-pagarte-desde-el-30-de-septiembre/",
-        "published_date": "2026-09-05 20:10:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miami-Dade studies raising bus fares and eliminating routes",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/miami-dade-subir-tarifa-autobuses-eliminar-rutas/",
-        "published_date": "2026-09-05 19:09:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Cuban detained by ICE is subjected to force-feeding during a hunger strike",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/migracion/cubano-detenido-ice-sometido-alimentacion_1_1130462.html",
-        "published_date": "2026-09-05 18:18:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "An old cargo truck converted into a pipe runs through the streets of Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/viejo-camion-carga-convertido-pipa_1_1130460.html",
-        "published_date": "2026-09-05 18:04:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rey Garc\u00eda tells details about the terrible conditions of the Cuban basketball team",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/rey-garcia-cuenta-detalles-pesimas_1_1130456.html",
-        "published_date": "2026-09-05 18:00:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Up to two hours waiting for a 'yellow bus' in Sancti Sp\u00edritus",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/horas-esperando-guagueita-amarilla-sancti_1_1130454.html",
-        "published_date": "2026-09-05 17:49:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bad news for asylum seekers in the United States",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/malas-noticias-solicitantes-asilo-estados-unidos-denegaciones-2026/",
-        "published_date": "2026-09-05 17:08:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much do you need to earn in Spain to live well?The question that divides immigrants",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/cuanto-necesitas-ganar-en-espana-para-vivir-bien-la-pregunta-que-divide-a-los-inmigrantes/",
-        "published_date": "2026-09-05 16:01:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Book Review of Reinaldo Arenas\u2019 \u201cJourney to Havana\u201d",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/book-reviews-interviews/book-review-of-reinaldo-arenas-viaje-a-la-havana/",
-        "published_date": "2026-09-05 15:06:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos: 69 years of the heroic deed of September",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-69-anos-de-la-gesta-heroica-de-septiembre/",
-        "published_date": "2026-09-05 15:00:54",
         "category": "Local Events"
     }
 ]
