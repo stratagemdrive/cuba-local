@@ -98,11 +98,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba and the Democratic People's Republic of Korea celebrate 66 years of diplomatic relations",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-y-republica-popular-democratica-de-corea-celebran-66-anos-de-relaciones-diplomaticas/",
-        "published_date": "2026-08-30 14:40:51",
-        "category": "Diplomacy"
+        "title": "Russia and North Korea inaugurate a bridge that connects them by road for the first time",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/rusia-corea-norte-inauguran-puente_1_1130513.html",
+        "published_date": "2026-09-07 11:27:40",
+        "category": "Military"
+    },
+    {
+        "title": "They tried to deprive South African soldiers of part of their salaries in training courses in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/intentaron-despojar-parte-salarios-militares_1_1130511.html",
+        "published_date": "2026-09-07 11:17:43",
+        "category": "Military"
     },
     {
         "title": "D\u00edaz-Canel denounces new US sanctions against Cuba",
@@ -152,6 +159,13 @@
         "url": "https://www.14ymedio.com/cuba/espanola-vima-socia-gaesa-cuba_1_1130295.html",
         "published_date": "2026-08-30 18:58:04",
         "category": "Military"
+    },
+    {
+        "title": "Venezuela affirms that it maintains \"control and ownership\" of its oil after its agreement with the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/venezuela-afirma-mantiene-control-propiedad_1_1130493.html",
+        "published_date": "2026-09-07 08:17:57",
+        "category": "Energy"
     },
     {
         "title": "Efforts continue to alleviate electricity availability",
@@ -273,11 +287,11 @@
         "category": "Energy"
     },
     {
-        "title": "Iranian source rejects US statements about oil transit through Hormuz",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fuente-irani-rechaza-dichos-de-eeuu-sobre-transito-de-petroleo-por-ormuz/",
-        "published_date": "2026-08-30 07:27:09",
-        "category": "Energy"
+        "title": "This is how the dollar, the euro and the MLC are in Cuba today: exchange rates on September 7",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/dolar-euro-mlc-cuba-hoy-tasas-cambio-7-septiembre-2026/",
+        "published_date": "2026-09-07 10:37:33",
+        "category": "Economy"
     },
     {
         "title": "Collection of retirees and pensioners: Is the odyssey softening?",
@@ -385,150 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Central Bank of Cuba: The dollar and the euro fall, while the MLC rises in the Cuban informal market",
+        "title": "Mari Jasca \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/mari-jasca-song-of-the-day/",
+        "published_date": "2026-09-07 15:07:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luggage wrapping at Cuban airports goes from CUP to dollars",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/banco-central-baja-el-dolar-y-el-euro-mientras-la-mlc-sube-en-el-mercado-informal-cubano/",
-        "published_date": "2026-08-30 11:01:54",
-        "category": "Economy"
+        "url": "https://www.directoriocubano.info/actualidad/envoltura-equipajes-aeropuerto-holguin-dolares/",
+        "published_date": "2026-09-07 15:01:32",
+        "category": "Local Events"
     },
     {
-        "title": "The Fair closed, the reading continues",
+        "title": "The colors of the Community Youth Network in Matanzas",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260906/la-feria-cerro-la-lectura-sigue/",
-        "published_date": "2026-09-06 22:53:59",
+        "url": "https://www.trabajadores.cu/20260907/los-colores-de-la-red-juvenil-comunitaria-en-matanzas/",
+        "published_date": "2026-09-07 14:34:21",
         "category": "Local Events"
     },
     {
-        "title": "Cuban boxing takes the floor",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260906/el-boxeo-cubano-toma-la-palabra/",
-        "published_date": "2026-09-06 22:51:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judocas want more in 2026",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260906/judocas-quieren-mas-en-este-2026/",
-        "published_date": "2026-09-06 22:48:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonelli consolidates first position in the Formula One World Championship",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/antonelli-afianza-primera-posicion-en-mundial-de-formula-uno/",
-        "published_date": "2026-09-06 22:26:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Precise language",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260906/lenguaje-preciso-3/",
-        "published_date": "2026-09-06 22:02:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "BIA ruling increases risk of deportation for failure to update address",
+        "title": "Your friend may not be the one who writes to you: new WhatsApp scam in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/fallo-bia-deportacion-direccion/",
-        "published_date": "2026-09-06 21:45:39",
+        "url": "https://www.directoriocubano.info/actualidad/estafas-whatsapp-cuba-transferencias/",
+        "published_date": "2026-09-07 14:10:42",
         "category": "Local Events"
     },
     {
-        "title": "Ra\u00fal Castro and D\u00edaz-Canel lead an event for 65 years of the Personal Security Directorate",
+        "title": "Flights to Varadero in September: this is the only route",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/vuelos-varadero-septiembre-miami/",
+        "published_date": "2026-09-07 13:21:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marianela asks for help",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260906/raul-castro-y-diaz-canel-encabezan-acto-por-65-anos-de-la-direccion-de-seguridad-personal/",
-        "published_date": "2026-09-06 21:40:45",
+        "url": "https://www.trabajadores.cu/20260907/marianela-pide-ayuda/",
+        "published_date": "2026-09-07 13:03:31",
         "category": "Local Events"
     },
     {
-        "title": "Flights from Miami International Airport suspended",
+        "title": "Are you a Cuban doctor and want to specialize in Spain?The MIR term ends on September 14",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/suspenden-vuelos-aeropuerto-internacional-miami-accidente-avion-carga/",
-        "published_date": "2026-09-06 21:17:00",
+        "url": "https://www.directoriocubano.info/panorama/eres-medico-cubano-y-quieres-especializarte-en-espana-el-plazo-del-mir-termina-el-14-de-septiembre/",
+        "published_date": "2026-09-07 12:38:03",
         "category": "Local Events"
     },
     {
-        "title": "Miami-Havana flights drop below $500: these are the cheapest days in September and October",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/vuelos-miami-la-habana-bajan-de-500-dolares-estos-son-los-dias-mas-baratos-de-septiembre-y-octubre/",
-        "published_date": "2026-09-06 20:44:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI: A Revolution Already Here, But at What Cost?",
+        "title": "WEEKLY SUMMARY from September 1 to 6",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260906/ai-a-revolution-already-here-but-at-what-cost/",
-        "published_date": "2026-09-06 20:05:31",
+        "url": "https://www.trabajadores.cu/20260907/resumen-semanal-del-1-al-6-de-septiembre/",
+        "published_date": "2026-09-07 12:09:19",
         "category": "Local Events"
     },
     {
-        "title": "Decree-Law 167 reorganizes internal trade in Cuba",
+        "title": "Delivery of donated food announced in this Cuban province",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/decreto-ley-167-comercio-cuba-2/",
-        "published_date": "2026-09-06 20:03:43",
+        "url": "https://www.directoriocubano.info/actualidad/donacion-pma-holguin-alimentos/",
+        "published_date": "2026-09-07 12:06:30",
         "category": "Local Events"
     },
     {
-        "title": "Crisis in the health system in Cuba reduces hemodialysis and hits cancer care",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/crisis-salud-cuba-hemodialisis-oncologia/",
-        "published_date": "2026-09-06 19:07:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Havana puts its hopes in 20 Chinese trucks to collect garbage",
+        "title": "\u2018State tests.New matrices and a Multiple Footprint",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/habana-pone-esperanzas-20-camiones_1_1130485.html",
-        "published_date": "2026-09-06 18:55:59",
+        "url": "https://www.14ymedio.com/cartelera/pruebas-nuevas-matrices-huella-multiple_1_1130517.html",
+        "published_date": "2026-09-07 11:51:53",
         "category": "Local Events"
     },
     {
-        "title": "The lobbying firm linked to Trump breaks with Vima after just five weeks",
+        "title": "August of rumors: Ra\u00fal is dying, D\u00edaz-Canel resigns and the Americans are on the way",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/firma-lobby-vinculada-trump-rompe_1_1130486.html",
-        "published_date": "2026-09-06 18:42:18",
+        "url": "https://www.14ymedio.com/cuba/agosto-rumores-raul-agoniza-diaz_1_1130515.html",
+        "published_date": "2026-09-07 11:36:30",
         "category": "Local Events"
     },
     {
-        "title": "Five other Cubans are accused in Cancun of kidnapping and torturing several compatriots",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/cinco-cubanos-son-acusados-cancun_1_1130482.html",
-        "published_date": "2026-09-06 18:33:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sausages, another lifesaver of the Cuban table, disappear from the markets",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/salchichas-salvavidas-mesa-cubana-esfuman_1_1130481.html",
-        "published_date": "2026-09-06 18:16:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans denounce failures in ETECSA mobile data",
+        "title": "They acquire 20 trucks for garbage collection in Havana",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/fallas-datos-moviles-etecsa/",
-        "published_date": "2026-09-06 18:02:36",
+        "url": "https://www.directoriocubano.info/actualidad/camiones-recogida-basura-habana/",
+        "published_date": "2026-09-07 11:11:52",
         "category": "Local Events"
     },
     {
-        "title": "A 25-year-old girl is murdered near El Cobre by her ex-partner, who had escaped from prison",
+        "title": "'The memory of the footprint', thirty years of The Multiple Footprint",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/joven-25-anos-asesinada-cerca_1_1130479.html",
-        "published_date": "2026-09-06 17:51:32",
+        "url": "https://www.14ymedio.com/cartelera/memoria-huella-treinta-anos_1_1130509.html",
+        "published_date": "2026-09-07 10:35:41",
         "category": "Local Events"
     },
     {
-        "title": "Guant\u00e1namo fines and closes businesses for rejecting digital payments",
+        "title": "Flavio Garciand\u00eda presents 'Unauthorized Self-Portrait' in Monterrey",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/flavio-garciandia-presenta-monterrey-autorretrato_1_1130507.html",
+        "published_date": "2026-09-07 10:27:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jos\u00e9 Bedia presents 'Dialogues in the desert' in Madrid",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/jose-bedia-presenta-madrid-dialogos_1_1130505.html",
+        "published_date": "2026-09-07 10:22:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "How to check delayed flights at Miami airport after an accident?",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/guantanamo-multas-pagos-digitales/",
-        "published_date": "2026-09-06 17:15:33",
+        "url": "https://www.directoriocubano.info/actualidad/consultar-vuelos-retrasados-aeropuerto-miami/",
+        "published_date": "2026-09-07 09:55:05",
         "category": "Local Events"
     },
     {
-        "title": "Pedophile Hunter: Robert Pattinson's new film sweeps critics",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cazador-de-pedofilos-la-nueva-pelicula-de-robert-pattinson-arrasa-entre-la-critica/",
-        "published_date": "2026-09-06 16:38:26",
+        "title": "'Fragments of Freedom: Colors, Shapes and Words from the Heart of Cuba'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/fragmentos-libertad-colores-formas-palabras_1_1130500.html",
+        "published_date": "2026-09-07 09:14:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forum in Washington analyzes the penetration of Cuban intelligence in the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/foro-washington-analiza-penetracion-inteligencia_1_1130498.html",
+        "published_date": "2026-09-07 08:54:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The official feminicide statistics \u201creflect the delay in judicial processes,\u201d admits an expert",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/sociedad/estadistica-oficial-feminicidios-refleja-demora_1_1130495.html",
+        "published_date": "2026-09-07 08:45:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least five dead after an Amazon plane crashes near Miami airport",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cinco-muertos-estrellarse-avion-amazon_1_1130496.html",
+        "published_date": "2026-09-07 08:27:53",
         "category": "Local Events"
     }
 ]
