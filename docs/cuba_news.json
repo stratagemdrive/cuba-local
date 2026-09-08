@@ -1,5 +1,47 @@
 [
     {
+        "title": "Cuba presents new report against the blockade",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260907/presenta-cuba-nuevo-informe-contra-el-bloqueo/",
+        "published_date": "2026-09-07 21:04:57",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "A teenager beaten to death by her 29-year-old partner in Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/adolescente-asesinada-golpes-pareja-29_1_1130526.html",
+        "published_date": "2026-09-07 19:16:28",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Majority support expected in UN vote against blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/se-espera-apoyo-mayoritario-en-votacion-de-onu-contra-el-bloqueo/",
+        "published_date": "2026-09-07 18:27:29",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Effects of the blockade show a new record",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/33136-efectos-del-bloqueo-evidencian-nuevo-record",
+        "published_date": "2026-09-07 18:08:11",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US blockade punishes the daily life of the Cuban people",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260907/el-bloqueo-de-ee-uu-castiga-la-vida-cotidiana-del-pueblo-cubano/",
+        "published_date": "2026-09-07 16:25:01",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Iran and Oman close to agreeing on safe maritime corridor in Hormuz",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/iran-y-oman-cerca-de-acordar-corredor-maritimo-seguro-en-ormuz/",
+        "published_date": "2026-09-07 15:10:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "They demand that the Portuguese Government help lift the blockade",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/exigen-a-gobierno-portugues-ayudar-a-levantar-bloqueo/",
@@ -154,11 +196,32 @@
         "category": "Military"
     },
     {
-        "title": "The Spanish Vima, Gaesa's partner in Cuba, hires lobbyists linked to Trump and Rubio",
+        "title": "Blackout interrupts the National News of Cuban Television",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/apagon-noticiero-nacional-television-cubana/",
+        "published_date": "2026-09-07 21:34:29",
+        "category": "Energy"
+    },
+    {
+        "title": "Seismic activity increases in Santiago de Cuba: 17 tremors are recorded in 24 hours",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/actividad-sismica-santiago-cuba-17-sismos-24-horas/",
+        "published_date": "2026-09-07 21:10:36",
+        "category": "Energy"
+    },
+    {
+        "title": "Blackout in Cuba will leave 66% of demand without service this Monday",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/apagon-cuba-66-demanda-lunes/",
+        "published_date": "2026-09-07 20:39:48",
+        "category": "Energy"
+    },
+    {
+        "title": "Cuban farmers pay in dollars for the fuel they need to produce",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/espanola-vima-socia-gaesa-cuba_1_1130295.html",
-        "published_date": "2026-08-30 18:58:04",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/campesinos-cubanos-pagan-dolares-combustible_1_1130520.html",
+        "published_date": "2026-09-07 16:28:32",
+        "category": "Energy"
     },
     {
         "title": "Venezuela affirms that it maintains \"control and ownership\" of its oil after its agreement with the United States",
@@ -273,18 +336,18 @@
         "category": "Energy"
     },
     {
-        "title": "What is known about Nabep, the company that will exploit Venezuelan crude oil with the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/estados-unidos-entrega-empresa-privada_1_1130336.html",
-        "published_date": "2026-09-01 14:08:38",
-        "category": "Energy"
+        "title": "Informal currency market in Cuba: dollar rises 10 pesos in a month",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/mercado-informal-divisas-cuba-dolar-euro-mlc/",
+        "published_date": "2026-09-08 00:10:42",
+        "category": "Economy"
     },
     {
-        "title": "Gonz\u00e1lez Urrutia: Venezuela's recovery cannot be measured only in barrels of oil",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/gonzalez-urrutia-recuperacion-venezuela-no_1_1130302.html",
-        "published_date": "2026-08-31 11:02:19",
-        "category": "Energy"
+        "title": "Conditions are prepared for the tobacco season in Lajas",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/preparan-condiciones-para-temporada-tabacalera-en-lajas-cienfuegos/",
+        "published_date": "2026-09-07 16:05:01",
+        "category": "Economy"
     },
     {
         "title": "This is how the dollar, the euro and the MLC are in Cuba today: exchange rates on September 7",
@@ -399,143 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "Mari Jasca \u2013 Song of the Day",
+        "title": "Iv\u00e1n Carvajal, a reference in Ecuadorian poetry, dies",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/muere-ivan-carvajal-referente-de-la-poesia-ecuatoriana/",
+        "published_date": "2026-09-08 00:04:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "ImmunoEssay Center turns 39 years old",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/centro-de-inmunoensayo-cumple-39-anos/",
+        "published_date": "2026-09-08 00:01:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pediatric hospital in Havana accumulates more than 900 patients waiting for surgery",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/hospital-pediatrico-900-espera-quirurgica/",
+        "published_date": "2026-09-07 23:45:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four Cubans arrested after persecution and clash in Cancun",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/cubanos-detenidos-persecucion-cancun/",
+        "published_date": "2026-09-07 23:09:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lightning in Las Tunas kills a child and leaves two minors injured",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/rayo-las-tunas-nino-menores-heridos/",
+        "published_date": "2026-09-07 22:36:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "18 vehicles seized in Cuba for alleged use of transformer oil",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/decomisan-vehiculos-aceite-transformadores-cuba/",
+        "published_date": "2026-09-07 22:10:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Cult Film I Just Saw for a Second Time, 36 Years Later",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/mari-jasca-song-of-the-day/",
-        "published_date": "2026-09-07 15:07:48",
+        "url": "https://havanatimes.org/diaries/ernesto-gonzalez/a-cult-film-i-just-saw-for-a-second-time-36-years-later/",
+        "published_date": "2026-09-07 22:07:33",
         "category": "Local Events"
     },
     {
-        "title": "Luggage wrapping at Cuban airports goes from CUP to dollars",
+        "title": "The Flowers and Fruits in My Cojimar, Havana Garden",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-feature/the-flowers-and-fruits-in-my-cojimar-havana-garden/",
+        "published_date": "2026-09-07 20:40:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "An acquaintance coordinated the escapes of Melissa Hurtado and Vanessa God\u00ednez in France",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/conocido-coordino-fugas-melissa-hurtado_1_1130532.html",
+        "published_date": "2026-09-07 20:37:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spain offers 645 new rental homes: foreign residents can request them",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/envoltura-equipajes-aeropuerto-holguin-dolares/",
-        "published_date": "2026-09-07 15:01:32",
+        "url": "https://www.directoriocubano.info/panorama/espana-ofrece-645-nuevas-viviendas-de-alquiler-extranjeros-residentes-pueden-solicitarlas/",
+        "published_date": "2026-09-07 20:36:53",
         "category": "Local Events"
     },
     {
-        "title": "The colors of the Community Youth Network in Matanzas",
+        "title": "Four months and an endless queue to get a Cuban passport",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuatro-meses-cola-interminable-pasaporte_1_1130530.html",
+        "published_date": "2026-09-07 20:20:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Melissa Vargas leads the Turkish volleyball team to a new victory, with the European title",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cubana-melissa-vargas-lleva-equipo_1_1130528.html",
+        "published_date": "2026-09-07 19:49:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Express Entry: Canada holds new round for doctors, nurses and social workers",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/express-entry-canada-realiza-nueva-ronda-para-medicos-enfermeros-y-trabajadores-sociales/",
+        "published_date": "2026-09-07 19:25:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "United we protect the neighborhood",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260907/los-colores-de-la-red-juvenil-comunitaria-en-matanzas/",
-        "published_date": "2026-09-07 14:34:21",
+        "url": "https://www.trabajadores.cu/20260907/unidos-protegemos-al-barrio/",
+        "published_date": "2026-09-07 19:09:14",
         "category": "Local Events"
     },
     {
-        "title": "Your friend may not be the one who writes to you: new WhatsApp scam in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/estafas-whatsapp-cuba-transferencias/",
-        "published_date": "2026-09-07 14:10:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flights to Varadero in September: this is the only route",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/vuelos-varadero-septiembre-miami/",
-        "published_date": "2026-09-07 13:21:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marianela asks for help",
+        "title": "They call for a scholarship for young DJs in tribute to Edesio Alejandro",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260907/marianela-pide-ayuda/",
-        "published_date": "2026-09-07 13:03:31",
+        "url": "https://www.trabajadores.cu/20260907/convocan-a-beca-para-jovenes-dj-en-homenaje-a-edesio-alejandro/",
+        "published_date": "2026-09-07 18:56:42",
         "category": "Local Events"
     },
     {
-        "title": "Are you a Cuban doctor and want to specialize in Spain?The MIR term ends on September 14",
+        "title": "Does Mexico fear bot attacks in campaigns?This is what Sheinbaum says",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mexico-teme-ataques-de-bots-en-las-campanas-esto-dice-sheinbaum/",
+        "published_date": "2026-09-07 18:35:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "New treatment against advanced breast cancer approved: it delays it by 15 months",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/eres-medico-cubano-y-quieres-especializarte-en-espana-el-plazo-del-mir-termina-el-14-de-septiembre/",
-        "published_date": "2026-09-07 12:38:03",
+        "url": "https://www.directoriocubano.info/actualidad/fda-tratamiento-cancer-mama-avanzado/",
+        "published_date": "2026-09-07 18:19:42",
         "category": "Local Events"
     },
     {
-        "title": "WEEKLY SUMMARY from September 1 to 6",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260907/resumen-semanal-del-1-al-6-de-septiembre/",
-        "published_date": "2026-09-07 12:09:19",
+        "title": "Driving and circulation licenses extended until 2028",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33135-prorrogan-licencias-de-conduccion-y-circulacion-hasta-2028",
+        "published_date": "2026-09-07 17:51:30",
         "category": "Local Events"
     },
     {
-        "title": "Delivery of donated food announced in this Cuban province",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/donacion-pma-holguin-alimentos/",
-        "published_date": "2026-09-07 12:06:30",
+        "title": "Rising to the Challenge Amid It All",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/lien-estrada/rising-to-the-challenge-amid-it-all/",
+        "published_date": "2026-09-07 17:39:40",
         "category": "Local Events"
     },
     {
-        "title": "\u2018State tests.New matrices and a Multiple Footprint",
+        "title": "Fernando Vald\u00e9s, the Castro spy who earned the trust of Luis Posada Carriles",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/pruebas-nuevas-matrices-huella-multiple_1_1130517.html",
-        "published_date": "2026-09-07 11:51:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "August of rumors: Ra\u00fal is dying, D\u00edaz-Canel resigns and the Americans are on the way",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/agosto-rumores-raul-agoniza-diaz_1_1130515.html",
-        "published_date": "2026-09-07 11:36:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "They acquire 20 trucks for garbage collection in Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/camiones-recogida-basura-habana/",
-        "published_date": "2026-09-07 11:11:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The memory of the footprint', thirty years of The Multiple Footprint",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/memoria-huella-treinta-anos_1_1130509.html",
-        "published_date": "2026-09-07 10:35:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flavio Garciand\u00eda presents 'Unauthorized Self-Portrait' in Monterrey",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/flavio-garciandia-presenta-monterrey-autorretrato_1_1130507.html",
-        "published_date": "2026-09-07 10:27:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Bedia presents 'Dialogues in the desert' in Madrid",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/jose-bedia-presenta-madrid-dialogos_1_1130505.html",
-        "published_date": "2026-09-07 10:22:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to check delayed flights at Miami airport after an accident?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/consultar-vuelos-retrasados-aeropuerto-miami/",
-        "published_date": "2026-09-07 09:55:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Fragments of Freedom: Colors, Shapes and Words from the Heart of Cuba'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/fragmentos-libertad-colores-formas-palabras_1_1130500.html",
-        "published_date": "2026-09-07 09:14:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forum in Washington analyzes the penetration of Cuban intelligence in the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/foro-washington-analiza-penetracion-inteligencia_1_1130498.html",
-        "published_date": "2026-09-07 08:54:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The official feminicide statistics \u201creflect the delay in judicial processes,\u201d admits an expert",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/sociedad/estadistica-oficial-feminicidios-refleja-demora_1_1130495.html",
-        "published_date": "2026-09-07 08:45:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "At least five dead after an Amazon plane crashes near Miami airport",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/cinco-muertos-estrellarse-avion-amazon_1_1130496.html",
-        "published_date": "2026-09-07 08:27:53",
+        "url": "https://www.14ymedio.com/cuba/fernando-valdes-espia-castrista-gano_1_1130523.html",
+        "published_date": "2026-09-07 17:38:50",
         "category": "Local Events"
     }
 ]
