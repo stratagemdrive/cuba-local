@@ -1,9 +1,23 @@
 [
     {
+        "title": "Human Rights Council evaluates impact of US blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/consejo-de-derechos-humanos-evalua-impacto-de-bloqueo-estadounidense/",
+        "published_date": "2026-09-09 14:09:08",
+        "category": "Diplomacy"
+    },
+    {
         "title": "They will examine in Geneva the impact of the US blockade on the human rights of the Cuban people",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260908/consejo-de-derechos-humanos-examinara-el-impacto-del-bloqueo-de-ee-uu-en-los-derechos-humanos-del-pueblo-cubano/",
         "published_date": "2026-09-08 21:23:34",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "They denounce the impact of the blockade on the communications sector",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/denuncian-impacto-del-bloqueo-en-el-sector-de-las-comunicaciones/",
+        "published_date": "2026-09-08 21:08:07",
         "category": "Diplomacy"
     },
     {
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cYou can arrive, even if there is a blockade, and contribute,\u201d says \u00d3scar Camps in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/llegar-haya-bloqueo-aportar-dice_1_1130378.html",
-        "published_date": "2026-09-02 19:03:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Putin highlights the \u201cunprecedented\u201d nature of relations with China",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/putin-destaca-el-caracter-sin-precedentes-de-las-relaciones-con-china/",
-        "published_date": "2026-09-02 18:19:34",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Russia ends truce with massive attacks on military companies and warehouses in kyiv",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/rusia-pone-tregua-ataques-masivos_1_1130534.html",
@@ -193,13 +193,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/china-sube-tono-ee-uu_1_1130348.html",
         "published_date": "2026-09-01 20:15:49",
-        "category": "Military"
-    },
-    {
-        "title": "The principles of Cuba reflected in the First Declaration of Havana",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/los-principios-de-cuba-reflejados-en-la-primera-declaracion-de-la-habana/",
-        "published_date": "2026-09-01 12:55:23",
         "category": "Military"
     },
     {
@@ -343,6 +336,20 @@
         "category": "Energy"
     },
     {
+        "title": "To trade in Cuba it will no longer be enough to be authorized: these are the new requirements",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/inscripcion-registro-requisitos-cuba/",
+        "published_date": "2026-09-09 13:06:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Extra Box for pensioners opens digital registration in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/caja-extra-pensionados-cuba/",
+        "published_date": "2026-09-09 12:04:14",
+        "category": "Economy"
+    },
+    {
         "title": "Informal currency market in Cuba: dollar rises 10 pesos in a month",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/mercado-informal-divisas-cuba-dolar-euro-mlc/",
@@ -469,143 +476,143 @@
         "category": "Economy"
     },
     {
-        "title": "Aguas de La Habana reports effects and distribution of water this September 8",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/aguas-habana-afectaciones-distribucion-agua-8-septiembre-2026/",
-        "published_date": "2026-09-09 00:33:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elena Burke: loving her as she was",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260908/elena-burke-amandola-como-fue/",
-        "published_date": "2026-09-09 00:01:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Uncertainties of Life in Cuba",
+        "title": "Power in Another Body",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/safie-m-gonzalez/the-uncertainties-of-life-in-cuba/",
-        "published_date": "2026-09-08 23:31:05",
+        "url": "https://havanatimes.org/diaries/lynn-cruzs-diary/power-in-another-body/",
+        "published_date": "2026-09-09 14:58:31",
         "category": "Local Events"
     },
     {
-        "title": "Information note on flights to Cuba from the United States and other destinations",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/vuelos-cuba-estados-unidos-otros-destinos-septiembre-2026/",
-        "published_date": "2026-09-08 23:26:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "From blue to yellow: Cubans pray to the Virgin of Regla and the Virgin of Charity",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/azul-amarillo-cubanos-ruegan-virgen_1_1130581.html",
-        "published_date": "2026-09-08 23:13:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Severe local storm hits San Juan and Mart\u00ednez with winds of 93 km/h and flooding",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/tormenta-local-severa-san-juan-martinez-pinar-rio/",
-        "published_date": "2026-09-08 23:02:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"I would like to vote\": Cubans react to the decision of the Supreme Court of Spain",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gustaria-votar-cubanos-reaccionan-decision_1_1130579.html",
-        "published_date": "2026-09-08 22:54:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Damage to two links leaves the Isle of Youth without mobile service",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/danos-enlaces-servicio-movil-isla-de-la-juventud/",
-        "published_date": "2026-09-08 22:29:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you want to study in Canada?Since September you must prove at least 23,448 Canadian dollars",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/quieres-estudiar-en-canada-desde-septiembre-debes-demostrar-al-menos-23-448-dolares-canadienses/",
-        "published_date": "2026-09-08 22:20:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Villa Clara tests the Cuban drug Anti PD1 2C12 against cancer",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/anti-pd1-2c12-villa-clara/",
-        "published_date": "2026-09-08 22:05:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "With My Cuban friends in Granma, Cuba \u2013 Photo of the Day",
+        "title": "Las Migas with Silvia Perez Cruz \u2013 Song of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/with-my-cuban-friends-in-granma-cuba-photo-of-the-day/",
-        "published_date": "2026-09-08 21:34:24",
+        "url": "https://havanatimes.org/todays-song/las-migas-with-silvia-perez-cruz-song-of-the-day/",
+        "published_date": "2026-09-09 14:27:14",
         "category": "Local Events"
     },
     {
-        "title": "Energy sovereignty in the reality of the EMPAI",
+        "title": "France hosts first international space summit",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/francia-acoge-primera-cumbre-espacial-internacional/",
+        "published_date": "2026-09-09 14:23:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "S\u00e1nchez on Ceuta: \u201cWe are not talking about invaders, but about people looking for a better life\u201d",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/sanchez-sobre-ceuta-no-estamos-hablando-de-invasores-sino-de-personas-que-buscan-una-vida-mejor/",
+        "published_date": "2026-09-09 14:01:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico publishes new NUT appointments in Havana for September",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/citas-nut-habana-septiembre-2026/",
+        "published_date": "2026-09-09 14:01:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert against bearded vulture fever",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260908/soberania-energetica-en-la-realidad-de-la-empai/",
-        "published_date": "2026-09-08 21:18:17",
+        "url": "https://www.trabajadores.cu/20260909/alerta-contra-la-fiebre-quebrantahuesos/",
+        "published_date": "2026-09-09 13:58:47",
         "category": "Local Events"
     },
     {
-        "title": "What do you ask of the Virgin of Charity of Cobre?These are the 12 most frequent requests of his Cuban devotees",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/dia-virgen-caridad-cobre-12-cosas-piden-cubanos/",
-        "published_date": "2026-09-08 21:06:35",
+        "title": "The eighth call for the Cuban Cinema Promotion Fund opens",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/abre-octava-convocatoria-del-fondo-de-fomento-del-cine-cubano/",
+        "published_date": "2026-09-09 13:57:17",
         "category": "Local Events"
     },
     {
-        "title": "Serenade to Mexico: gala of music, identity and fraternity at the Karl Marx",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260908/serenata-a-mexico-gala-de-musica-identidad-y-fraternidad-en-el-karl-marx/",
-        "published_date": "2026-09-08 20:59:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Good Example of the Venezuelan Justice System",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/a-good-example-of-the-venezuelan-justice-system/",
-        "published_date": "2026-09-08 20:56:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uruguay attracts thousands of Cuban migrants and studies new residences",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/migracion-cubana-uruguay-residencia-arraigo/",
-        "published_date": "2026-09-08 20:35:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Some 90,000 Cubans are processing asylum in Brazil",
+        "title": "Private companies await state approval of 36 pharmaceutical projects",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/90-000-cubanos-tramitan-asilo_1_1130577.html",
-        "published_date": "2026-09-08 19:58:42",
+        "url": "https://www.14ymedio.com/cuba/privados-esperan-aprobacion-estatal-36_1_1130601.html",
+        "published_date": "2026-09-09 12:33:04",
         "category": "Local Events"
     },
     {
-        "title": "Blackouts in Cuba: 2,130 MW expected to be affected this September 8",
+        "title": "An atypical school year in the sports sector of Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/un-atipico-curso-escolar-en-sector-deportivo-de-cienfuegos/",
+        "published_date": "2026-09-09 11:31:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Solar panels sent to schools in Cuba from Spain",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-8-septiembre-2130-mw/",
-        "published_date": "2026-09-08 19:54:35",
+        "url": "https://www.directoriocubano.info/actualidad/paneles-solares-escuelas-cuba-espana/",
+        "published_date": "2026-09-09 11:29:01",
         "category": "Local Events"
     },
     {
-        "title": "Cubalex reports 52 homicides on the Island during August, a new record",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cubalex-reporta-52-homicidios-isla_1_1130575.html",
-        "published_date": "2026-09-08 19:43:09",
+        "title": "This is the price of the dollar today in Cuba.The MLC plummets almost 30 pesos",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/mlc-se-desploma-dolar-euro-cuba-tasas-cambio-9-septiembre-2026/",
+        "published_date": "2026-09-09 11:08:24",
         "category": "Local Events"
     },
     {
-        "title": "In the midst of the educational crisis, Cuba is left out of PISA, the largest international assessment of students",
+        "title": "They announce an interruption of e-Visa to process tourist visas to Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/anuncian-una-interrupcion-de-e-visa-para-tramitar-visas-de-turismo-a-cuba/",
+        "published_date": "2026-09-09 10:55:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "The colors and size of Cuba according to Trump and the UN maps",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/plena-crisis-educativa-cuba-queda_1_1130573.html",
-        "published_date": "2026-09-08 19:20:39",
+        "url": "https://www.14ymedio.com/internacional/colores-tamano-cuba-mapas-trump_1_1130598.html",
+        "published_date": "2026-09-09 10:50:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, September 9, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-9-septiembre_132_1130595.html",
+        "published_date": "2026-09-09 10:46:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informative coffee for Wednesday, September 9, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-9-septiembre_7_1130597.html",
+        "published_date": "2026-09-09 10:42:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "China affirms from Peru that Latin America \"is no one's 'backyard'\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/china-afirma-peru-america-latina_1_1130593.html",
+        "published_date": "2026-09-09 10:20:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US and Iran intensify attacks on ships in the Strait of Hormuz",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-e-iran-intensifican_1_1130592.html",
+        "published_date": "2026-09-09 10:10:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The US sinks a sixth Ecuadorian ship in the hours before Marco Rubio's visit to Quito",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-hunde-sexto-barco_1_1130590.html",
+        "published_date": "2026-09-09 09:52:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "All Cubans, the five dead from the vehicle hit by an Amazon plane in Miami",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/cubanos-cinco-muertos-vehiculo-arrollado_1_1130588.html",
+        "published_date": "2026-09-09 09:33:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Las Morenas de La Cueva Project: Made with love",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/proyecto-las-morenas-de-la-cueva-hecho-con-amor/",
+        "published_date": "2026-09-09 04:05:45",
         "category": "Local Events"
     }
 ]
