@@ -1,5 +1,40 @@
 [
     {
+        "title": "China vows to take decisive action in response to US attempts to slow its progress in AI",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-promete-tomar-medidas-decisivas-en-respuesta-a-los-intentos-de-ee-uu-de-frenar-su-avance-en-la-ia/",
+        "published_date": "2026-09-09 22:19:46",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Intervention on Human Rights by Ambassador Rodolfo Ben\u00edtez Verson, Permanent Representative of Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260909/intervencion-sobre-ddhh-del-embajador-rodolfo-benitez-verson-representante-permanente-de-cuba/",
+        "published_date": "2026-09-09 21:12:57",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Niquero promotes food sovereignty",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260909/niquero-impulsa-soberania-alimentaria/",
+        "published_date": "2026-09-09 21:02:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US pressures Uruguay to cancel the hiring of Cuban doctors",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-presiona-uruguay-cancelar_1_1130624.html",
+        "published_date": "2026-09-09 20:05:22",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Human Rights Council debated report on the blockade of Cuba",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/33141-debatio-consejo-de-derechos-humanos-informe-sobre-bloqueo-a-cuba",
+        "published_date": "2026-09-09 18:30:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Human Rights Council evaluates impact of US blockade",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/consejo-de-derechos-humanos-evalua-impacto-de-bloqueo-estadounidense/",
@@ -105,41 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The paradox of US-Cuba relations: exports grow as sanctions increase",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/paradoja-relaciones-ee-uu-cuba_1_1130435.html",
-        "published_date": "2026-09-04 19:08:54",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "They will present a report on the blockade to the Human Rights Council",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/33128-presentaran-ante-el-consejo-de-derechos-humanos-informe-sobre-el-bloqueo",
-        "published_date": "2026-09-04 17:16:06",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Solidarity with Cuba from Los Angeles",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260904/solidaridad-con-cuba-desde-los-angeles/",
-        "published_date": "2026-09-04 11:59:13",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Anci and CTC strengthen ties in Camag\u00fcey",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260904/fortalecen-lazos-la-anci-y-la-ctc-en-camaguey/",
-        "published_date": "2026-09-04 11:43:06",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Cuban Foreign Minister describes the sanctions against a grandson of Ra\u00fal Castro and the Foreign Bank as \"cruel and merciless aggression\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/canciller-cubano-califica-agresion-cruel_1_1130420.html",
-        "published_date": "2026-09-04 09:33:33",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Russia ends truce with massive attacks on military companies and warehouses in kyiv",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/rusia-pone-tregua-ataques-masivos_1_1130534.html",
@@ -182,18 +182,11 @@
         "category": "Military"
     },
     {
-        "title": "The second semester of the Year of Defense Preparation began in the FAR",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260901/comenzo-el-segundo-semestre-del-ano-de-preparacion-para-la-defensa-en-las-far/",
-        "published_date": "2026-09-01 22:26:19",
-        "category": "Military"
-    },
-    {
-        "title": "China raises its tone against the US in defense of its cooperation with Cuba",
+        "title": "Eight people from Las Las Tunas are sentenced to seven and eight years in prison for \u201cdestabilizing\u201d on social networks",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/china-sube-tono-ee-uu_1_1130348.html",
-        "published_date": "2026-09-01 20:15:49",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/condenan-siete-ocho-anos-prision_1_1130606.html",
+        "published_date": "2026-09-09 16:14:12",
+        "category": "Energy"
     },
     {
         "title": "Artemisa agricultural cooperatives import fuel at $2.40 per liter",
@@ -326,13 +319,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/falta-baterias-cuba-50-potencia_1_1130357.html",
         "published_date": "2026-09-02 10:19:42",
-        "category": "Energy"
-    },
-    {
-        "title": "The doorbell rang...",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260901/sono-el-timbre/",
-        "published_date": "2026-09-01 22:11:55",
         "category": "Energy"
     },
     {
@@ -476,143 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "Power in Another Body",
+        "title": "El Ni\u00f1o Puts Latin America\u2019s Food Security to the Test",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/lynn-cruzs-diary/power-in-another-body/",
-        "published_date": "2026-09-09 14:58:31",
+        "url": "https://havanatimes.org/features/el-nino-puts-latin-americas-food-security-to-the-test/",
+        "published_date": "2026-09-10 00:37:56",
         "category": "Local Events"
     },
     {
-        "title": "Las Migas with Silvia Perez Cruz \u2013 Song of the Day",
+        "title": "Havana Weather for September 10-16",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/las-migas-with-silvia-perez-cruz-song-of-the-day/",
-        "published_date": "2026-09-09 14:27:14",
+        "url": "https://havanatimes.org/weather/havana-weather-for-september-10-16/",
+        "published_date": "2026-09-10 00:03:49",
         "category": "Local Events"
     },
     {
-        "title": "France hosts first international space summit",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/francia-acoge-primera-cumbre-espacial-internacional/",
-        "published_date": "2026-09-09 14:23:02",
+        "title": "Cubans Pray to Our Lady of Regla and Our Lady of Charity",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/cubans-pray-to-our-lady-of-regla-and-our-lady-of-charity/",
+        "published_date": "2026-09-09 23:16:54",
         "category": "Local Events"
     },
     {
-        "title": "S\u00e1nchez on Ceuta: \u201cWe are not talking about invaders, but about people looking for a better life\u201d",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/sanchez-sobre-ceuta-no-estamos-hablando-de-invasores-sino-de-personas-que-buscan-una-vida-mejor/",
-        "published_date": "2026-09-09 14:01:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mexico publishes new NUT appointments in Havana for September",
+        "title": "Blackouts in Cuba: they predict 2,100 MW of damage due to deficit",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/citas-nut-habana-septiembre-2026/",
-        "published_date": "2026-09-09 14:01:04",
+        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-afectacion-2100-mw/",
+        "published_date": "2026-09-09 22:25:41",
         "category": "Local Events"
     },
     {
-        "title": "Alert against bearded vulture fever",
+        "title": "New regulations drive transformation of the agricultural sector",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/nuevas-normas-impulsan-transformacion-del-sector-agropecuario/",
+        "published_date": "2026-09-09 22:23:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sports narrators will star in the Young Radio Festival",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/protagonizaran-los-narradores-deportivos-el-festival-de-la-radio-joven/",
+        "published_date": "2026-09-09 22:12:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "A foldable iPhone, iPhone 18 and more: Apple presents its new devices",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/un-iphone-plegable-iphone-18-y-mas-apple-presenta-sus-nuevos-dispositivos/",
+        "published_date": "2026-09-09 21:13:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Noboa honors Marco Rubio in Ecuador and praises his ability to solve problems",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/noboa-condecora-marco-rubio-ecuador_1_1130627.html",
+        "published_date": "2026-09-09 21:03:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new agrarian law allows the land of emigrated farmers to be transferred to relatives",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nueva-ley-agraria-permite-traspasar_1_1130622.html",
+        "published_date": "2026-09-09 20:44:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Maritza and her Dreams Achieved",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260909/alerta-contra-la-fiebre-quebrantahuesos/",
-        "published_date": "2026-09-09 13:58:47",
+        "url": "https://www.trabajadores.cu/20260909/maritza-y-sus-suenos-logrados/",
+        "published_date": "2026-09-09 20:18:50",
         "category": "Local Events"
     },
     {
-        "title": "The eighth call for the Cuban Cinema Promotion Fund opens",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/abre-octava-convocatoria-del-fondo-de-fomento-del-cine-cubano/",
-        "published_date": "2026-09-09 13:57:17",
+        "title": "From my neighborhood with Fidel",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260909/desde-mi-barrio-junto-a-fidel/",
+        "published_date": "2026-09-09 19:38:25",
         "category": "Local Events"
     },
     {
-        "title": "Private companies await state approval of 36 pharmaceutical projects",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/privados-esperan-aprobacion-estatal-36_1_1130601.html",
-        "published_date": "2026-09-09 12:33:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "An atypical school year in the sports sector of Cienfuegos",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-atipico-curso-escolar-en-sector-deportivo-de-cienfuegos/",
-        "published_date": "2026-09-09 11:31:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Solar panels sent to schools in Cuba from Spain",
+        "title": "Rents of more than 1,200 euros force families in the Canary Islands to share housing or leave",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/paneles-solares-escuelas-cuba-espana/",
-        "published_date": "2026-09-09 11:29:01",
+        "url": "https://www.directoriocubano.info/panorama/alquileres-de-mas-de-1-200-euros-obligan-a-familias-en-canarias-a-compartir-vivienda-o-marcharse/",
+        "published_date": "2026-09-09 19:12:40",
         "category": "Local Events"
     },
     {
-        "title": "This is the price of the dollar today in Cuba.The MLC plummets almost 30 pesos",
+        "title": "In Havana, water now arrives better on wheels than through pipes",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/habana-agua-llega-mejor-ruedas_1_1130617.html",
+        "published_date": "2026-09-09 19:02:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Fela offers Gastronomic Training courses",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260909/la-fela-ofrece-cursos-de-formacion-gastronomica/",
+        "published_date": "2026-09-09 19:00:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Axel Tosca and Xiomara Laugart, every Thursday at a 'Cuban Jam' in New York",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/axel-tosca-xiomara-laugart-jueves_1_1130615.html",
+        "published_date": "2026-09-09 18:35:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Preparations for Gran Retto in Varadero in the final phase",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260909/en-fase-final-preparativos-de-gran-retto-en-varadero/",
+        "published_date": "2026-09-09 18:28:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuido60 calls for the fifth edition of its Diploma on aging, care and rights",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/cuido60-convoca-quinta-edicion-diplomado_1_1130614.html",
+        "published_date": "2026-09-09 18:22:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Non-state management in pharmaceutical services in process",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33140-en-proceso-gestion-no-estatal-en-servicios-farmaceuticos",
+        "published_date": "2026-09-09 18:14:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you have a business in Cuba?These are the reasons why they can take away your license",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/mlc-se-desploma-dolar-euro-cuba-tasas-cambio-9-septiembre-2026/",
-        "published_date": "2026-09-09 11:08:24",
+        "url": "https://www.directoriocubano.info/actualidad/revocacion-licencia-comercial-cuba/",
+        "published_date": "2026-09-09 18:09:01",
         "category": "Local Events"
     },
     {
-        "title": "They announce an interruption of e-Visa to process tourist visas to Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/anuncian-una-interrupcion-de-e-visa-para-tramitar-visas-de-turismo-a-cuba/",
-        "published_date": "2026-09-09 10:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The colors and size of Cuba according to Trump and the UN maps",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/colores-tamano-cuba-mapas-trump_1_1130598.html",
-        "published_date": "2026-09-09 10:50:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, September 9, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-miercoles-9-septiembre_132_1130595.html",
-        "published_date": "2026-09-09 10:46:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Wednesday, September 9, 2026",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/video-ext-cafecito-informativo-miercoles-9-septiembre_7_1130597.html",
-        "published_date": "2026-09-09 10:42:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "China affirms from Peru that Latin America \"is no one's 'backyard'\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/china-afirma-peru-america-latina_1_1130593.html",
-        "published_date": "2026-09-09 10:20:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US and Iran intensify attacks on ships in the Strait of Hormuz",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-e-iran-intensifican_1_1130592.html",
-        "published_date": "2026-09-09 10:10:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US sinks a sixth Ecuadorian ship in the hours before Marco Rubio's visit to Quito",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ee-uu-hunde-sexto-barco_1_1130590.html",
-        "published_date": "2026-09-09 09:52:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "All Cubans, the five dead from the vehicle hit by an Amazon plane in Miami",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/cubanos-cinco-muertos-vehiculo-arrollado_1_1130588.html",
-        "published_date": "2026-09-09 09:33:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Las Morenas de La Cueva Project: Made with love",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/proyecto-las-morenas-de-la-cueva-hecho-con-amor/",
-        "published_date": "2026-09-09 04:05:45",
+        "title": "The Crisis Fuels Illegal Gold Mining in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/the-crisis-fuels-illegal-gold-mining-in-cuba/",
+        "published_date": "2026-09-09 17:11:30",
         "category": "Local Events"
     }
 ]
