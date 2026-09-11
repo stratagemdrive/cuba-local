@@ -1,5 +1,33 @@
 [
     {
+        "title": "China sends a strong warning to Italy and the EU",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-envia-una-firme-advertencia-a-italia-y-la-ue/",
+        "published_date": "2026-09-11 14:38:52",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Change of energy matrix advances at Etecsa Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/avanza-cambio-de-matriz-energetica-en-etecsa-cienfuegos/",
+        "published_date": "2026-09-11 12:00:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Clear rejection of the blockade at the L'Humanit\u00e9 Festival",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/rechazo-claro-al-bloqueo-en-fiesta-de-lhumanite/",
+        "published_date": "2026-09-11 10:37:52",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Ambassador exposes damages from the blockade to representative of Leo XIV",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/embajador-expone-danos-del-bloqueo-a-representante-de-leon-xiv/",
+        "published_date": "2026-09-11 10:28:35",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Strong Cuban victory in the Human Rights Council",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260910/contundente-victoria-cubana-en-consejo-de-derechos-humanos/",
@@ -112,32 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "A teenager beaten to death by her 29-year-old partner in Havana",
+        "title": "Nicaraguan exiles ask the US for military intervention in Nicaragua",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/adolescente-asesinada-golpes-pareja-29_1_1130526.html",
-        "published_date": "2026-09-07 19:16:28",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Majority support expected in UN vote against blockade",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/se-espera-apoyo-mayoritario-en-votacion-de-onu-contra-el-bloqueo/",
-        "published_date": "2026-09-07 18:27:29",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Effects of the blockade show a new record",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/33136-efectos-del-bloqueo-evidencian-nuevo-record",
-        "published_date": "2026-09-07 18:08:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The US blockade punishes the daily life of the Cuban people",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260907/el-bloqueo-de-ee-uu-castiga-la-vida-cotidiana-del-pueblo-cubano/",
-        "published_date": "2026-09-07 16:25:01",
-        "category": "Diplomacy"
+        "url": "https://www.14ymedio.com/internacional/exiliados-nicaragueenses-piden-ee-uu_1_1130669.html",
+        "published_date": "2026-09-11 08:35:40",
+        "category": "Military"
     },
     {
         "title": "Houthis say they establish control over Bab el Mandeb Strait: why is it important?",
@@ -180,6 +187,27 @@
         "url": "https://www.5septiembre.cu/diaz-canel-felicita-a-combatientes-de-la-seguridad-personal/",
         "published_date": "2026-09-06 14:41:50",
         "category": "Military"
+    },
+    {
+        "title": "Protests against the Government's claims to put order in the placement of private solar panels",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/protestas-pretensiones-gobierno-poner-orden_1_1130682.html",
+        "published_date": "2026-09-11 12:55:18",
+        "category": "Energy"
+    },
+    {
+        "title": "Cuba accelerates the purchase of fuel from the US: Miami and Houston concentrate shipments",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/combustible-estados-unidos-cuba-156-millones/",
+        "published_date": "2026-09-11 12:09:55",
+        "category": "Energy"
+    },
+    {
+        "title": "Oil in exchange for privatizing CUPET: this would be Washington's proposal to Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/petroleo-a-cambio-de-privatizar-cupet-esta-seria-la-propuesta-de-washington-a-la-habana/",
+        "published_date": "2026-09-11 10:01:43",
+        "category": "Energy"
     },
     {
         "title": "Cuban cooperatives will be able to import fuel, manage foreign currency and export directly",
@@ -301,25 +329,18 @@
         "category": "Energy"
     },
     {
-        "title": "The Police intervene with a dozen patrols to break up a protest in the Havana neighborhood of Fontanar",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/policia-interviene-decena-patrullas-disolver_1_1130453.html",
-        "published_date": "2026-09-05 17:56:11",
-        "category": "Energy"
-    },
-    {
-        "title": "Uni\u00f3n El\u00e9ctrica predicts an impact of 2,280 MW during peak hours this Saturday",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/pronostica-union-electrica-una-afectacion-de-2280-mw-en-el-horario-pico-de-este-sabado/",
-        "published_date": "2026-09-05 15:07:35",
-        "category": "Energy"
-    },
-    {
-        "title": "The United States offers fuel to Cuba, but places a condition on the Government",
+        "title": "New 80/20 rule in Cuba: which businesses will be able to keep 80% of their income in foreign currency",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/estados-unidos-ofrece-combustible-cuba-condicion-industria-energetica/",
-        "published_date": "2026-09-05 15:05:19",
-        "category": "Energy"
+        "url": "https://www.directoriocubano.info/panorama/nueva-regla-80-20-en-cuba-que-negocios-podran-conservar-el-80-de-sus-ingresos-en-divisas/",
+        "published_date": "2026-09-11 13:05:00",
+        "category": "Economy"
+    },
+    {
+        "title": "Cuba expands foreign currency operations, but limits cash",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/cuentas-divisas-pagos-exterior-cuba/",
+        "published_date": "2026-09-11 11:12:09",
+        "category": "Economy"
     },
     {
         "title": "They update bases for the management, control and allocation of currencies",
@@ -448,157 +469,143 @@
         "category": "Economy"
     },
     {
-        "title": "Another grandson of Ra\u00fal Castro and the Foreign Bank of Cuba sanctioned by the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/sancionados-estados-unidos-nieto-raul_1_1130403.html",
-        "published_date": "2026-09-03 17:12:07",
-        "category": "Economy"
+        "title": "International News Briefs for Friday, September 11, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-friday-september-11-2026/",
+        "published_date": "2026-09-11 14:54:37",
+        "category": "Local Events"
     },
     {
-        "title": "Since January, the Cuban economy has fallen at double the rate recorded at the worst moment of the Special Period",
+        "title": "Serbian president announces that he will resign before the elections",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/presidente-serbio-anuncia-que-renunciara-antes-de-las-elecciones/",
+        "published_date": "2026-09-11 14:45:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Houthis put one of the world's main shipping routes under pressure",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/economia/enero-economia-cubana-cae-doble_1_1130391.html",
-        "published_date": "2026-09-03 12:20:27",
-        "category": "Economy"
+        "url": "https://www.14ymedio.com/internacional/huties-ponen-presion-principales-rutas_1_1130690.html",
+        "published_date": "2026-09-11 14:40:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel condemns terrorism on the anniversary of the Twin Towers attack",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-condena-terrorismo-en-aniversario-de-atentado-de-torres-gemelas/",
+        "published_date": "2026-09-11 14:35:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blackouts in Cuba: a deficit of 2000 MW is predicted for this Friday",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-deficit-2000-mw-11-septiembre-2026/",
+        "published_date": "2026-09-11 14:23:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba will establish new rules to install solar panels in homes and buildings",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/ordenar-instalacion-paneles-solares-cuba/",
+        "published_date": "2026-09-11 14:01:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "'The Ch\u00e9vere Window', a play by Iv\u00e1n Acosta",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/ventana-chevere-obra-teatral-ivan_1_1130688.html",
+        "published_date": "2026-09-11 13:53:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Print edition of September 11, 2026",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-11-septiembre-2026_132_1130686.html",
+        "published_date": "2026-09-11 13:47:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The collapse of tourism in Cuba puts the Canadian airline Air Transat in difficulties",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/colapso-turismo-cuba-pone-dificultades_1_1130680.html",
+        "published_date": "2026-09-11 12:02:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Innovation in young hands at Termoel\u00e9ctrica de Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/innovacion-en-manos-jovenes-en-termoelectrica-de-cienfuegos/",
+        "published_date": "2026-09-11 11:49:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The pillar of the multipolar world: what are the expectations before the BRICS summit in New Delhi?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-pilar-del-mundo-multipolar-cuales-son-las-expectativas-ante-la-cumbre-de-los-brics-en-nueva-delhi/",
+        "published_date": "2026-09-11 10:56:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar and the euro rose in Cuba: this is how the exchange rates are in the country right now",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/subieron-dolar-euro-cuba-tasas-cambio-11-septiembre-2026/",
+        "published_date": "2026-09-11 10:43:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Learn about our 9/11 PDF edition",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conozca-nuestra-edicion-en-pdf-del-11-de-septiembre/",
+        "published_date": "2026-09-11 10:14:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santiago plans to harvest only a third of the coffee it projected just two years ago",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/santiago-preve-cosechar-apenas-tercio_1_1130673.html",
+        "published_date": "2026-09-11 09:04:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first of two poems awarded at the Regino",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260911/el-primero-de-dos-poemas-laureados-en-el-regino/",
+        "published_date": "2026-09-11 09:00:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "A shipment of humanitarian aid from the United States arrives in Santa Clara through C\u00e1ritas",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/llega-santa-clara-cargamento-ayuda_1_1130670.html",
+        "published_date": "2026-09-11 08:56:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hong Kong sentences organizers of Tiananmen vigils to up to more than seven years in prison",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/hong-kong-condena-siete-anos_1_1130668.html",
+        "published_date": "2026-09-11 08:27:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "With a creed of loyalty to Trump, Republicans close their convention to win the midterms",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/credo-lealtad-trump-republicanos-cierran_1_1130666.html",
+        "published_date": "2026-09-11 08:16:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba will allow the import of this equipment even if it is not certified: what the new standard establishes",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-importar-maquinarias-no-certificadas-nueva-norma/",
+        "published_date": "2026-09-10 23:06:48",
+        "category": "Local Events"
     },
     {
         "title": "What Does Cuba's Communist Government Want Today?",
         "source": "Havana Times",
         "url": "https://havanatimes.org/diaries/lien-estrada/what-does-cubas-communist-government-want-today/",
         "published_date": "2026-09-10 21:37:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "One month after the earthquake in Colombia: a reconstruction between doubts and hopes",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/a-un-mes-del-terremoto-en-colombia-una-reconstruccion-entre-dudas-y-esperanzas/",
-        "published_date": "2026-09-10 21:27:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "International Red Cross donation assembly concludes in Granma",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260910/concluye-en-granma-montaje-de-donativo-de-la-cruz-roja-internacional/",
-        "published_date": "2026-09-10 20:44:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "FBI offers $50,000 reward for Cuban linked to millionaire robbery",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/recompensa-alberto-perez-elias/",
-        "published_date": "2026-09-10 20:09:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Due to a logistical error, Cuba arrives late to a volleyball tournament in Canada",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/error-logistico-cuba-llega-tarde_1_1130663.html",
-        "published_date": "2026-09-10 20:06:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The threat of a fine can do more than Communales against the garbage dumps in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/amenaza-multa-comunales-basureros-habana_1_1130656.html",
-        "published_date": "2026-09-10 19:48:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Follow the TPS!The US maintains protection for more than 170,000 migrants",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/tps-salvadorenos-dhs-anuncio/",
-        "published_date": "2026-09-10 19:05:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official Gazette: new opportunities for private businesses in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/gaceta-oficial-nuevas-oportunidades-negocios-privados-cuba/",
-        "published_date": "2026-09-10 19:02:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "News of Resolution 68 for the tourism sector",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33144-novedades-de-la-resolucion-68-para-el-sector-turistico",
-        "published_date": "2026-09-10 18:07:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "You have to know the transformations to understand them",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260910/las-transformaciones-hay-que-conocerlas-para-entenderlas/",
-        "published_date": "2026-09-10 17:52:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pedro and the desire to be useful",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260910/pedro-y-las-ganas-de-ser-util/",
-        "published_date": "2026-09-10 17:45:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe don't have a date yet\u201d: The Isle of Youth remains incommunicado two days later due to damage to its maritime links",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/no-fecha-todavia-isla-juventud_1_1130654.html",
-        "published_date": "2026-09-10 17:41:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Land Law sets a limit that many must know before building a house",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/nueva-ley-tierras-limite-construir-vivienda-cuba/",
-        "published_date": "2026-09-10 17:35:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump promises $5,000 per adult if he wins the midterms",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/33142-trump-promete-cinco-mil-dolares-por-adulto-si-gana-las-elecciones-intermedias",
-        "published_date": "2026-09-10 17:09:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "New $5,000 stimulus check?Trump promises payment if Republicans win election",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/nuevo-cheque-estimulo-5000-trump-republicanos-elecciones/",
-        "published_date": "2026-09-10 16:32:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Regime Gives Cuban Farmers More Leeway",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/the-regime-gives-cuban-farmers-more-leeway/",
-        "published_date": "2026-09-10 16:01:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "New law in Cuba: who will be able to keep the home?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/nueva-ley-cuba-quien-podra-quedarse-vivienda/",
-        "published_date": "2026-09-10 15:35:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "International News Briefs for Thursday, September 10, 2026",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-september-10-2026/",
-        "published_date": "2026-09-10 15:28:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Habana Abierta returns to Madrid with 'Let's meet again'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/habana-abierta-regresa-madrid-volvemos_1_1130648.html",
-        "published_date": "2026-09-10 15:15:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amaury Guti\u00e9rrez invited to L\u00e1zaro Horta's Piano Bar",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/amaury-gutierrez-invitado-piano-bar_1_1130646.html",
-        "published_date": "2026-09-10 15:10:54",
         "category": "Local Events"
     }
 ]
