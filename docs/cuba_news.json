@@ -1,5 +1,19 @@
 [
     {
+        "title": "Brics reiterates the need to end the blockade against Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260912/brics-reitera-necesidad-de-poner-fin-al-bloqueo-contra-cuba/",
+        "published_date": "2026-09-12 16:09:47",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban delegation to debate on the blockade at the Humanit\u00e9 Festival",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/delegacion-cubana-a-debate-sobre-bloqueo-en-fiesta-de-lhumanite/",
+        "published_date": "2026-09-12 14:16:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuba and India discuss promoting economic relations",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260911/cuba-e-india-dialogan-sobre-impulso-de-relaciones-economicas/",
@@ -126,18 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "They denounce the impact of the blockade on the communications sector",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncian-impacto-del-bloqueo-en-el-sector-de-las-comunicaciones/",
-        "published_date": "2026-09-08 21:08:07",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Spanish Chancellor cannot \u201ccertify\u201d what triggered the massive entry of migrants in Ceuta",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/canciller-espanol-no-puede-certificar-que-detono-la-entrada-masiva-de-migrantes-en-ceuta/",
-        "published_date": "2026-09-08 12:50:13",
-        "category": "Diplomacy"
+        "title": "British intelligence raises the number of Russian soldiers killed in Ukraine to 500,000",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/inteligencia-britanica-eleva-500-000_1_1130733.html",
+        "published_date": "2026-09-12 19:55:26",
+        "category": "Military"
     },
     {
         "title": "Commander Juan Almeida is honored in Santiago de Cuba",
@@ -208,6 +215,34 @@
         "url": "https://www.5septiembre.cu/diaz-canel-felicita-a-combatientes-de-la-seguridad-personal/",
         "published_date": "2026-09-06 14:41:50",
         "category": "Military"
+    },
+    {
+        "title": "IN 500 CHARACTERS The freezer in times of blackout",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260912/en-500-caracteres-el-freezer-en-tiempos-de-apagon/",
+        "published_date": "2026-09-12 21:55:47",
+        "category": "Energy"
+    },
+    {
+        "title": "A controversial proposal from Harvard: the transition in Cuba must include the current Government",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/propuesta-polemica-harvard-transicion-cuba_1_1130730.html",
+        "published_date": "2026-09-12 18:34:16",
+        "category": "Energy"
+    },
+    {
+        "title": "Cuba once again faces a severe lack of electricity this Saturday",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/cuba-fuerte-falta-electricidad-sabado-12-septiembre-2026/",
+        "published_date": "2026-09-12 18:03:24",
+        "category": "Energy"
+    },
+    {
+        "title": "Will the blackouts end?They report on electrical recovery in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-unidades-electricas-1200-mw-falta-combustible/",
+        "published_date": "2026-09-12 14:14:29",
+        "category": "Energy"
     },
     {
         "title": "Protests against the Government's claims to put order in the placement of private solar panels",
@@ -322,32 +357,11 @@
         "category": "Energy"
     },
     {
-        "title": "Efforts continue to alleviate electricity availability",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/prosiguen-esfuerzos-para-aliviar-disponibilidad-electrica/",
-        "published_date": "2026-09-06 22:21:34",
-        "category": "Energy"
-    },
-    {
-        "title": "Blackouts in Cuba: deficit will exceed 2,000 MW this Sunday",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-deficit-6-septiembre/",
-        "published_date": "2026-09-06 12:30:27",
-        "category": "Energy"
-    },
-    {
-        "title": "Lack of fuel aggravates the railway crisis in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/falta-combustible-crisis-ferroviaria-cuba/",
-        "published_date": "2026-09-06 12:02:40",
-        "category": "Energy"
-    },
-    {
-        "title": "Thefts to the Electrical System in Cuba leave communities without electricity for weeks",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/robos-sistema-electrico-cuba-comunidades-sin-luz-semanas/",
-        "published_date": "2026-09-05 18:04:25",
-        "category": "Energy"
+        "title": "Private companies begin to replace the State to pay pensions in Sancti Sp\u00edritus",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/privados-empiezan-sustituir-pagar-pensiones_1_1130728.html",
+        "published_date": "2026-09-12 17:59:47",
+        "category": "Economy"
     },
     {
         "title": "The change in the daily withdrawal limit in Transferm\u00f3vil is permanent",
@@ -483,150 +497,143 @@
         "category": "Economy"
     },
     {
-        "title": "Collection of retirees and pensioners: Is the odyssey softening?",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260906/cobro-de-jubilados-y-pensionados-la-odisea-se-suaviza/",
-        "published_date": "2026-09-06 23:22:44",
-        "category": "Economy"
-    },
-    {
-        "title": "Rubio and Fujimori confirm the entry of Peru into the Shield of the Americas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/rubio-fujimori-confirman-entrada-peru_1_1130716.html",
-        "published_date": "2026-09-12 13:32:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban television celebrates \"energy independence\" while denouncing the \"suffocation\" of the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/television-cubana-celebra-independencia-energetica_1_1130715.html",
-        "published_date": "2026-09-12 13:29:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mincin official reports on the lack of rice in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/mincin-falta-arroz-cuba-poblacion-no-lo-percibe/",
-        "published_date": "2026-09-12 13:18:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Murder at Haversham Mansion' returns to the scene in Havana",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/asesinato-mansion-haversham-vuelve-escena_1_1130713.html",
-        "published_date": "2026-09-12 13:06:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba receives new shipment of humanitarian aid from Mexico, supported by Caricom",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-recibe-nuevo-envio-ayuda_1_1130711.html",
-        "published_date": "2026-09-12 12:55:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The virus of distrust: when vaccine rejection becomes a political weapon",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cienciaytecnologia/virus-desconfianza-rechazo-vacunas-convierte_1_1130237.html",
-        "published_date": "2026-09-12 12:30:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "When technology becomes invisible to serve us better",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuando-la-tecnologia-se-hace-invisible-para-servirnos-mejor/",
-        "published_date": "2026-09-12 12:26:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "New fire reported at the Matanzas Supertanker Base",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/nuevo-incendio-base-supertanqueros-matanzas-septiembre-2026/",
-        "published_date": "2026-09-12 12:11:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos celebrates afro hair",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cienfuegos-celebra-al-pelo-afro/",
-        "published_date": "2026-09-12 11:36:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lineman of the Cienfuegos Electric Company dies in a work accident",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fallece-liniero-de-la-empresa-electrica-de-cienfuegos-en-accidente-laboral/",
-        "published_date": "2026-09-12 11:21:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Good news for those who receive payments and aid from the United States government",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/buenas-noticias-pagos-ayudas-gobierno-estados-unidos-cola-2027/",
-        "published_date": "2026-09-12 11:11:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Before selling or buying, see how the dollar and euro are today in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/antes-vender-comprar-dolar-euro-hoy-cuba-12-septiembre-2026/",
-        "published_date": "2026-09-12 10:34:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Constitution of Jimaguay\u00fa: A true milestone in the history of Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/historia-incio/sucesos-submenu/33146-constitucion-de-jimaguayu-un-verdadero-hito-en-la-historia-de-cuba",
-        "published_date": "2026-09-12 08:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "I GO FOR A WALK: How do I light the charcoal to cook?",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260912/salgo-a-caminar-como-prendo-el-carbon-para-cocinar/",
-        "published_date": "2026-09-12 05:31:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "PORTRAITS: Mya, the chess player girl from Varadero",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260912/retratos-mya-la-nina-ajedrecista-de-varadero/",
-        "published_date": "2026-09-12 04:30:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "When Teaching Is No Longer Enough",
+        "title": "Chronicles of a Barber: The Journalist and the Psychologist",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/dany-cesario/when-teaching-is-no-longer-enough/",
-        "published_date": "2026-09-11 23:13:13",
+        "url": "https://havanatimes.org/diaries/erik-hernandez/chronicles-of-a-barber-the-journalist-and-the-psychologist/",
+        "published_date": "2026-09-12 22:45:37",
         "category": "Local Events"
     },
     {
-        "title": "Spain or Miami: where it costs more to start from scratch in 2026",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/espana-o-miami-donde-cuesta-mas-empezar-de-cero-en-2026/",
-        "published_date": "2026-09-11 22:15:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban pianist Andy Garc\u00eda Palacios is released on bail after almost a month detained by ICE",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/migracion/pianista-cubano-andy-garcia-palacios_1_1130708.html",
-        "published_date": "2026-09-11 22:10:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rising Appalachia \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/rising-appalachia-song-of-the-day/",
-        "published_date": "2026-09-11 21:29:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "A key figure in Argentine football is charged with corruption",
+        "title": "ICAIC Editions brings Julio Garc\u00eda Espinosa's scripts to readers",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/imputan-por-corrupcion-a-una-figura-clave-del-futbol-argentino/",
-        "published_date": "2026-09-11 21:21:05",
+        "url": "https://www.5septiembre.cu/ediciones-icaic-acerca-los-guiones-de-julio-garcia-espinosa-a-los-lectores/",
+        "published_date": "2026-09-12 20:44:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Danish May el-Toukhy wins the Venetian Golden Lion with 'Woman Unknown'",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-danesa-may-el-toukhy-conquista-el-leon-de-oro-veneciano-con-woman-unknown/",
+        "published_date": "2026-09-12 20:40:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cubans with I-220A keep their claim alive in Miami: can they now apply for residency?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/cubanos-con-i-220a-mantienen-viva-su-demanda-en-miami-ya-pueden-pedir-la-residencia/",
+        "published_date": "2026-09-12 20:15:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "ETECSA maintains work to restore telecommunications on the Isle of Youth",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/etecsa-telecomunicaciones-isla-de-la-juventud-cable-danado/",
+        "published_date": "2026-09-12 19:31:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Remittances to Cuba: the difference between sending euros to a card and receiving dollars in cash",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/remesas-a-cuba-la-diferencia-entre-enviar-euros-a-una-tarjeta-y-recibir-dolares-en-efectivo/",
+        "published_date": "2026-09-12 19:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNE calls for improvement courses",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260912/une-convoca-a-cursos-de-superacion/",
+        "published_date": "2026-09-12 18:20:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "CUPET clarifies what happened at the Matanzas Supertanker Base after reports of fire",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/cupet-aclara-base-supertanqueros-matanzas-incendio-humo/",
+        "published_date": "2026-09-12 17:54:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban linemen pay a high cost to maintain an electrical system in crisis",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/linieros-cubanos-pagan-alto-costo_1_1130726.html",
+        "published_date": "2026-09-12 17:38:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two Texan businessmen compete for control of Sherritt in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/empresarios-texanos-compiten-control-sherritt_1_1130724.html",
+        "published_date": "2026-09-12 17:33:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cubacar explains how to reserve a car for a family member in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/cubacar-explica-como-reservar-un-auto-para-un-familiar-en-cuba/",
+        "published_date": "2026-09-12 17:30:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Financial aid for parents in the United States: this is what Trump says about when the money could arrive",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/ayuda-economica-padres-estados-unidos-trump-cuando-llegaria-dinero/",
+        "published_date": "2026-09-12 16:24:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three groups from Camag\u00fcey industries receive the Centennial of the Commander distinction",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260912/reciben-tres-colectivos-camagueyanos-de-industrias-distincion-centenario-del-comandante/",
+        "published_date": "2026-09-12 16:00:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "My Grandmother\u2019s Garden, Michigan, USA \u2013 Photo of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/my-grandmothers-garden-michigan-usa-photo-of-the-day/",
+        "published_date": "2026-09-12 15:47:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sweet centenary",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260912/dulce-centenario/",
+        "published_date": "2026-09-12 15:30:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "National press celebrates \u201czero blackouts\u201d in Havana while the interior of Cuba continues to be severely affected",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/prensa-nacional-cero-apagones-la-habana-interior-cuba-afectaciones/",
+        "published_date": "2026-09-12 15:25:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are times of more prepared paintings",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260912/son-tiempos-de-cuadros-mas-preparados/",
+        "published_date": "2026-09-12 15:19:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cEngine of change\u201d: what are the key points of the BRICS final declaration?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/motor-de-cambio-cuales-son-los-puntos-clave-de-la-declaracion-final-de-los-brics/",
+        "published_date": "2026-09-12 15:18:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Raidel Mart\u00ednez saves and resentences in Japan",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/raidel-martinez-salva-y-vuelve-a-dictar-sentencia-en-japon/",
+        "published_date": "2026-09-12 15:12:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emotional tribute to Fidel by anti-terrorist fighters",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260912/emotivo-homenaje-a-fidel-de-luchadores-antiterroristas/",
+        "published_date": "2026-09-12 15:02:24",
         "category": "Local Events"
     }
 ]
