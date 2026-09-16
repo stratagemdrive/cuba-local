@@ -224,6 +224,20 @@
         "category": "Military"
     },
     {
+        "title": "New blackout schedule officially announced, for greater equity in the electricity supply in Cienfuegos",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/anuncian-de-forma-oficial-nueva-programacion-de-apagones-por-mayor-equidad-en-el-suministro-electrico-en-cienfuegos/",
+        "published_date": "2026-09-15 23:25:15",
+        "category": "Energy"
+    },
+    {
+        "title": "Cuba received 778,000 barrels of fuel from the US in June",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/cuba-recibio-778-000-barriles_1_1130854.html",
+        "published_date": "2026-09-15 22:00:20",
+        "category": "Energy"
+    },
+    {
         "title": "US flights increase off Yucatan to ensure that Mexico does not send oil to Cuba",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/aumentan-vuelos-ee-uu-frente_1_1130813.html",
@@ -343,25 +357,11 @@
         "category": "Energy"
     },
     {
-        "title": "Blackout interrupts the National News of Cuban Television",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/apagon-noticiero-nacional-television-cubana/",
-        "published_date": "2026-09-07 21:34:29",
-        "category": "Energy"
-    },
-    {
-        "title": "Seismic activity increases in Santiago de Cuba: 17 tremors are recorded in 24 hours",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/actividad-sismica-santiago-cuba-17-sismos-24-horas/",
-        "published_date": "2026-09-07 21:10:36",
-        "category": "Energy"
-    },
-    {
-        "title": "Blackout in Cuba will leave 66% of demand without service this Monday",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/apagon-cuba-66-demanda-lunes/",
-        "published_date": "2026-09-07 20:39:48",
-        "category": "Energy"
+        "title": "Payment to pensioners in Bandec Cienfuegos begins today",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/comienza-pago-a-pensionados-en-bandec-cienfuegos/",
+        "published_date": "2026-09-15 15:34:37",
+        "category": "Economy"
     },
     {
         "title": "A bank offers 400 euros in Spain: what does it require to collect the incentive",
@@ -497,150 +497,143 @@
         "category": "Economy"
     },
     {
-        "title": "Producers and private businesses will be able to sell directly in stores in Cuba: this is how the norm changes",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/productores-negocios-privados-vender-directamente-tiendas-cuba/",
-        "published_date": "2026-09-10 18:35:20",
-        "category": "Economy"
-    },
-    {
-        "title": "Izuky P\u00e9rez: visual dialogue between the body, the city and memory",
+        "title": "They will present Traveling is a Duty, by Rafael Grillo, on Book Saturday",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260915/izuky-perez-dialogo-visual-entre-el-cuerpo-la-ciudad-y-la-memoria/",
-        "published_date": "2026-09-15 15:10:43",
+        "url": "https://www.trabajadores.cu/20260915/presentaran-viajar-es-un-deber-de-rafael-grillo-en-el-sabado-del-libro/",
+        "published_date": "2026-09-15 23:00:53",
         "category": "Local Events"
     },
     {
-        "title": "International News Briefs for Tuesday, September 15, 2026",
+        "title": "ICE Detains Exiled Nicaraguan Journalist Luis Galeano",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-september-15-2026/",
-        "published_date": "2026-09-15 15:07:21",
+        "url": "https://havanatimes.org/news/ice-detains-exiled-nicaraguan-journalist-luis-galeano/",
+        "published_date": "2026-09-15 22:39:06",
         "category": "Local Events"
     },
     {
-        "title": "Cuban volleyball: a momentous match is being played today",
+        "title": "FIHAV 2026: A special edition to connect Cuba with the world and do business",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260915/voleibol-cubano-hoy-se-juega-un-partido-trascendental/",
-        "published_date": "2026-09-15 14:55:43",
+        "url": "https://www.trabajadores.cu/20260915/fihav-2026-una-edicion-especial-para-conectar-a-cuba-con-el-mundo-y-concretar-negocios/",
+        "published_date": "2026-09-15 21:56:11",
         "category": "Local Events"
     },
     {
-        "title": "\u2018Inhabited geometries.Body, space and architecture in the work of Ivonne Ferrer'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/geometrias-habitadas-cuerpo-espacio-arquitectura_1_1130837.html",
-        "published_date": "2026-09-15 14:27:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The former Minister of Public Health manipulates infant mortality data to blame the United States",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ex-ministro-salud-publica-manipula_1_1130836.html",
-        "published_date": "2026-09-15 14:27:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Land Defenders Arrested Amid Growing Border Wall Resistance",
+        "title": "Tonina Saputo \u2013 Song of the Day",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/land-defenders-arrested-amid-growing-border-wall-resistance/",
-        "published_date": "2026-09-15 14:23:37",
+        "url": "https://havanatimes.org/todays-song/tonina-saputo-song-of-the-day-2/",
+        "published_date": "2026-09-15 21:44:58",
         "category": "Local Events"
     },
     {
-        "title": "Accused of using the identities of more than 100 Cubans in the US for million-dollar fraud",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/fraude-prestamos-ppp-cubanos/",
-        "published_date": "2026-09-15 14:09:46",
+        "title": "Good Things That Are Happening in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/nike/good-things-that-are-happening-in-cuba/",
+        "published_date": "2026-09-15 21:01:05",
         "category": "Local Events"
     },
     {
-        "title": "After the flight of its foreign partners, Islazul seeks private investors within Cuba",
+        "title": "The US is looking for two Cubans for a fraud of more than two million dollars",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/huida-socios-extranjeros-islazul-busca_1_1130834.html",
-        "published_date": "2026-09-15 14:01:02",
+        "url": "https://www.14ymedio.com/migracion/ee-uu-busca-cubanos-fraude_1_1130852.html",
+        "published_date": "2026-09-15 20:53:19",
         "category": "Local Events"
     },
     {
-        "title": "Second Yankee occupation of Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260915/segunda-ocupacion-yanqui-a-cuba/",
-        "published_date": "2026-09-15 13:48:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Goodbye to 60 days without a visa: Visas are once again required for Cubans in Thailand",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/visa-tailandia-cubanos-requisitos/",
-        "published_date": "2026-09-15 13:32:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Transtur services for trips in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/nuevos-servicios-transtur-cuba/",
-        "published_date": "2026-09-15 13:03:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without collecting my pension",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260915/sin-cobrar-mi-jubilacion/",
-        "published_date": "2026-09-15 13:03:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aid from the US reaches families in Villa Clara: this is how it was distributed in several communities",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/donaciones-villa-clara-familias/",
-        "published_date": "2026-09-15 12:01:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba well present at the TUC Annual Congress",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-bien-presente-en-el-congreso-anual-del-tuc/",
-        "published_date": "2026-09-15 11:46:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uneac announces theoretical days of Caracol 2026",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/anuncia-la-uneac-jornadas-teoricas-del-caracol-2026/",
-        "published_date": "2026-09-15 11:38:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informative coffee for Tuesday, September 15, 2026",
+        "title": "Presentation of the report 'Youth, power and social networks in Cuba'",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/cafecito-informativo/cafecito-informativo-martes-15-septiembre_132_1130831.html",
-        "published_date": "2026-09-15 11:13:27",
+        "url": "https://www.14ymedio.com/cartelera/presentacion-informe-juventud-redes-sociales_1_1130850.html",
+        "published_date": "2026-09-15 19:12:23",
         "category": "Local Events"
     },
     {
-        "title": "Closing of the Mexican Consulate in Havana for this day",
+        "title": "Is the iPhone 18 worth it?These are their great news",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/consulado-mexico-habana-cierre-16-septiembre/",
-        "published_date": "2026-09-15 11:06:33",
+        "url": "https://www.directoriocubano.info/actualidad/iphone-18-pro-camara-apertura-variable/",
+        "published_date": "2026-09-15 19:04:18",
         "category": "Local Events"
     },
     {
-        "title": "Cookies with Sunshine",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260915/galletas-con-sol/",
-        "published_date": "2026-09-15 11:06:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "A child, any day, always the house (+ Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/un-nino-un-dia-cualquiera-siempre-la-casa-fotos/",
-        "published_date": "2026-09-15 11:01:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Experts in Beijing call for more human control over AI",
+        "title": "\"Down with Canel\", in giant letters at the Central University of Las Villas",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/expertos-piden-pekin-control-humano_1_1130829.html",
-        "published_date": "2026-09-15 11:01:06",
+        "url": "https://www.14ymedio.com/cuba/abajo-canel-letras-gigantes-universidad_1_1130847.html",
+        "published_date": "2026-09-15 19:04:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rapper Matos Mc K-Libre has been in prison for 80 days, without a sentence and with health problems",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/rapero-matos-mc-k-libre_1_1130845.html",
+        "published_date": "2026-09-15 19:02:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba dreams of a Paralympic competition (+Photos)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-suena-con-un-certamen-paralimpico-fotos/",
+        "published_date": "2026-09-15 18:25:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Visa appointments to Mexico: Consulate in Havana assigns appointments for September",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/citas-nut-cuba-septiembre-2026/",
+        "published_date": "2026-09-15 18:09:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Snapshots: memory, time and permanence in the painting of Enrique Alfonso",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260915/instantaneas-memoria-tiempo-y-permanencia-en-la-pintura-de-enrique-alfonso/",
+        "published_date": "2026-09-15 17:47:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Venezuelan minister Alex Saab pleads guilty to money laundering after an agreement with the Prosecutor's Office",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ex-ministro-venezolano-alex-saab_1_1130843.html",
+        "published_date": "2026-09-15 17:19:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Workers\u2019 Lunch",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-feature/cuban-workers-lunch/",
+        "published_date": "2026-09-15 17:10:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Asylum in Spain for Cubans: changes that affect roots and future applications",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/asilo-espana-cubanos-cambios-arraigo/",
+        "published_date": "2026-09-15 17:05:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba intervened in the World Youth Festival",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/intervino-cuba-en-festival-mundial-de-la-juventud/",
+        "published_date": "2026-09-15 16:49:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula maintains an advantage over Fl\u00e1vio Bolsonaro in voting intentions for the presidential elections",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/lula-mantiene-ventaja-sobre-flavio-bolsonaro-en-intenciones-de-voto-para-las-presidenciales/",
+        "published_date": "2026-09-15 16:36:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inflation rises 25%, a carton of eggs reaches 4,300 pesos and the dollar is close to 700",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/inflacion-sube-huevos-dolar_1_1130841.html",
+        "published_date": "2026-09-15 16:18:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Questions from Cuban Customs: can I carry a Wi-Fi router in my luggage?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/dudas-de-la-aduana-de-cuba-puedo-llevar-un-router-wifi-en-mi-equipaje/",
+        "published_date": "2026-09-15 16:11:12",
         "category": "Local Events"
     }
 ]
