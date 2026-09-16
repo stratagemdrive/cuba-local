@@ -140,6 +140,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The US will divert military aid destined for Europe and the Middle East to Latin American allies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/ee-uu-desviara-aliados-latinoamericanos_1_1130856.html",
+        "published_date": "2026-09-16 07:52:24",
+        "category": "Military"
+    },
+    {
         "title": "They denounce the US siege against Cuba at an international meeting in Laos",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/denuncian-cerco-de-eeuu-contra-cuba-en-cita-internacional-en-laos/",
@@ -214,13 +221,6 @@
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/huties-dicen-que-establecen-control-sobre-el-estrecho-de-bab-el-mandeb-por-que-es-importante/",
         "published_date": "2026-09-10 19:16:52",
-        "category": "Military"
-    },
-    {
-        "title": "Russia ends truce with massive attacks on military companies and warehouses in kyiv",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/rusia-pone-tregua-ataques-masivos_1_1130534.html",
-        "published_date": "2026-09-08 08:35:31",
         "category": "Military"
     },
     {
@@ -350,11 +350,46 @@
         "category": "Energy"
     },
     {
-        "title": "Delcy Rodr\u00edguez negotiates with Vietnam some thirty agreements in energy and agriculture",
+        "title": "CTC pinera for better performance",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260916/ctc-pinera-por-mejor-funcionamiento/",
+        "published_date": "2026-09-16 15:19:57",
+        "category": "Economy"
+    },
+    {
+        "title": "Central Bank of Cuba announces new 10,000 and 20,000 peso banknotes",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/anuncia-banco-cenral-de-cuba-nuevos-billetes-de-10-000-y-20-000-pesos/",
+        "published_date": "2026-09-16 13:34:17",
+        "category": "Economy"
+    },
+    {
+        "title": "New private exchange house now operating in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/nueva-casa-de-cambio-privada-ya-opera-en-cuba/",
+        "published_date": "2026-09-16 13:24:30",
+        "category": "Economy"
+    },
+    {
+        "title": "Central Bank assures that there is cash in Cuba to cover demand",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/efectivo-cuba-demanda-bancos/",
+        "published_date": "2026-09-16 13:04:32",
+        "category": "Economy"
+    },
+    {
+        "title": "The new 10,000 and 20,000 peso bills begin to circulate this Wednesday",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/delcy-rodriguez-negocia-vietnam-treinta_1_1130538.html",
-        "published_date": "2026-09-08 08:55:36",
-        "category": "Energy"
+        "url": "https://www.14ymedio.com/cuba/empiezan-circular-miercoles-nuevos-billetes_1_1130874.html",
+        "published_date": "2026-09-16 11:55:56",
+        "category": "Economy"
+    },
+    {
+        "title": "Money exchange in Cuba: Central Bank announces important modifications",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cambio-dinero-cuba-banco-central-importantes-modificaciones/",
+        "published_date": "2026-09-16 10:45:55",
+        "category": "Economy"
     },
     {
         "title": "Payment to pensioners in Bandec Cienfuegos begins today",
@@ -455,185 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "Dollars will not have to enter Cuba: Government authorizes private parties for payments abroad",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/mipymes-cuba-depositos-efectivo-divisas-pagos-exterior/",
-        "published_date": "2026-09-11 16:34:19",
-        "category": "Economy"
-    },
-    {
-        "title": "MSMEs also in dollars: This is how the new measure communicated by the government will work",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/negocios-privados-cuba-pagos-divisas-efectivo/",
-        "published_date": "2026-09-11 15:31:41",
-        "category": "Economy"
-    },
-    {
-        "title": "Information on payment to retirees in Cuban banks in September",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/pago-jubilados-cuba-septiembre-2026/",
-        "published_date": "2026-09-11 15:02:46",
-        "category": "Economy"
-    },
-    {
-        "title": "New 80/20 rule in Cuba: which businesses will be able to keep 80% of their income in foreign currency",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/nueva-regla-80-20-en-cuba-que-negocios-podran-conservar-el-80-de-sus-ingresos-en-divisas/",
-        "published_date": "2026-09-11 13:05:00",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuba expands foreign currency operations, but limits cash",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cuentas-divisas-pagos-exterior-cuba/",
-        "published_date": "2026-09-11 11:12:09",
-        "category": "Economy"
-    },
-    {
-        "title": "They update bases for the management, control and allocation of currencies",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/actualizan-bases-para-la-gestion-control-y-asignacion-de-divisas/",
-        "published_date": "2026-09-10 21:30:29",
-        "category": "Economy"
-    },
-    {
-        "title": "They will present Traveling is a Duty, by Rafael Grillo, on Book Saturday",
+        "title": "School of Higher Studies in Hospitality and Tourism calls",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260915/presentaran-viajar-es-un-deber-de-rafael-grillo-en-el-sabado-del-libro/",
-        "published_date": "2026-09-15 23:00:53",
+        "url": "https://www.trabajadores.cu/20260916/escuela-de-altos-estudios-de-hoteleria-y-turismo-convoca/",
+        "published_date": "2026-09-16 14:39:51",
         "category": "Local Events"
     },
     {
-        "title": "ICE Detains Exiled Nicaraguan Journalist Luis Galeano",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/ice-detains-exiled-nicaraguan-journalist-luis-galeano/",
-        "published_date": "2026-09-15 22:39:06",
+        "title": "D\u00edaz-Canel announces new radio program Criterio Compartido (+Audio)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-anuncia-nuevo-programa-radial-criterio-compartido/",
+        "published_date": "2026-09-16 14:37:39",
         "category": "Local Events"
     },
     {
-        "title": "FIHAV 2026: A special edition to connect Cuba with the world and do business",
+        "title": "Cuba moves with cryptocurrencies and prepares new rules",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/criptomonedas-cuba-nuevas-reglas/",
+        "published_date": "2026-09-16 14:03:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "A necessary contribution in complex times",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260915/fihav-2026-una-edicion-especial-para-conectar-a-cuba-con-el-mundo-y-concretar-negocios/",
-        "published_date": "2026-09-15 21:56:11",
+        "url": "https://www.trabajadores.cu/20260916/un-aporte-necesario-en-tiempos-complejos/",
+        "published_date": "2026-09-16 13:45:46",
         "category": "Local Events"
     },
     {
-        "title": "Tonina Saputo \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/tonina-saputo-song-of-the-day-2/",
-        "published_date": "2026-09-15 21:44:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Good Things That Are Happening in Cuba",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/nike/good-things-that-are-happening-in-cuba/",
-        "published_date": "2026-09-15 21:01:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US is looking for two Cubans for a fraud of more than two million dollars",
+        "title": "The war with Iran costs the US $38 billion, according to Congress",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/ee-uu-busca-cubanos-fraude_1_1130852.html",
-        "published_date": "2026-09-15 20:53:19",
+        "url": "https://www.14ymedio.com/internacional/guerra-iran-cuesta-ee-uu_1_1130882.html",
+        "published_date": "2026-09-16 13:43:08",
         "category": "Local Events"
     },
     {
-        "title": "Presentation of the report 'Youth, power and social networks in Cuba'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/presentacion-informe-juventud-redes-sociales_1_1130850.html",
-        "published_date": "2026-09-15 19:12:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is the iPhone 18 worth it?These are their great news",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/iphone-18-pro-camara-apertura-variable/",
-        "published_date": "2026-09-15 19:04:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Down with Canel\", in giant letters at the Central University of Las Villas",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/abajo-canel-letras-gigantes-universidad_1_1130847.html",
-        "published_date": "2026-09-15 19:04:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rapper Matos Mc K-Libre has been in prison for 80 days, without a sentence and with health problems",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/rapero-matos-mc-k-libre_1_1130845.html",
-        "published_date": "2026-09-15 19:02:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba dreams of a Paralympic competition (+Photos)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-suena-con-un-certamen-paralimpico-fotos/",
-        "published_date": "2026-09-15 18:25:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Visa appointments to Mexico: Consulate in Havana assigns appointments for September",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/citas-nut-cuba-septiembre-2026/",
-        "published_date": "2026-09-15 18:09:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Snapshots: memory, time and permanence in the painting of Enrique Alfonso",
+        "title": "Honor the neighborhood's trades",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260915/instantaneas-memoria-tiempo-y-permanencia-en-la-pintura-de-enrique-alfonso/",
-        "published_date": "2026-09-15 17:47:04",
+        "url": "https://www.trabajadores.cu/20260916/honra-a-los-oficios-del-barrio/",
+        "published_date": "2026-09-16 13:32:48",
         "category": "Local Events"
     },
     {
-        "title": "Former Venezuelan minister Alex Saab pleads guilty to money laundering after an agreement with the Prosecutor's Office",
+        "title": "The largest Chinese travel agency puts flights to space on sale for $760,000",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/ex-ministro-venezolano-alex-saab_1_1130843.html",
-        "published_date": "2026-09-15 17:19:34",
+        "url": "https://www.14ymedio.com/internacional/mayor-agencia-viajes-china-pone_1_1130880.html",
+        "published_date": "2026-09-16 13:31:18",
         "category": "Local Events"
     },
     {
-        "title": "Cuban Workers\u2019 Lunch",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/cuban-workers-lunch/",
-        "published_date": "2026-09-15 17:10:43",
+        "title": "Tagline: Silence as an answer?",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260916/coletilla-la-callada-por-respuesta/",
+        "published_date": "2026-09-16 13:07:45",
         "category": "Local Events"
     },
     {
-        "title": "Asylum in Spain for Cubans: changes that affect roots and future applications",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/asilo-espana-cubanos-cambios-arraigo/",
-        "published_date": "2026-09-15 17:05:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba intervened in the World Youth Festival",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/intervino-cuba-en-festival-mundial-de-la-juventud/",
-        "published_date": "2026-09-15 16:49:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lula maintains an advantage over Fl\u00e1vio Bolsonaro in voting intentions for the presidential elections",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/lula-mantiene-ventaja-sobre-flavio-bolsonaro-en-intenciones-de-voto-para-las-presidenciales/",
-        "published_date": "2026-09-15 16:36:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inflation rises 25%, a carton of eggs reaches 4,300 pesos and the dollar is close to 700",
+        "title": "Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/inflacion-sube-huevos-dolar_1_1130841.html",
-        "published_date": "2026-09-15 16:18:09",
+        "url": "https://www.14ymedio.com/internacional/ex-presidente-kosovo-hashim-thaci_1_1130878.html",
+        "published_date": "2026-09-16 13:02:30",
         "category": "Local Events"
     },
     {
-        "title": "Questions from Cuban Customs: can I carry a Wi-Fi router in my luggage?",
+        "title": "How did supporting Palestine cost Macklemore his tour with Ed Sheeran?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/como-el-apoyo-a-palestina-le-costo-a-macklemore-su-gira-con-ed-sheeran/",
+        "published_date": "2026-09-16 12:58:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "The UN warns that the repressive apparatus in Venezuela remains intact after the capture of Maduro",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/onu-alerta-aparato-represivo-venezuela_1_1130876.html",
+        "published_date": "2026-09-16 12:51:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "International Day for the Preservation of the Ozone Layer: To be able to continue living",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/dia-internacional-de-la-preservacion-de-la-capa-de-ozono-para-poder-continuar-viviendo/",
+        "published_date": "2026-09-16 12:49:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "From today in Holgu\u00edn day of Theory and Criticism of Visual Arts",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/desde-hoy-en-holguin-jornada-de-teoria-y-critica-de-artes-visuales/",
+        "published_date": "2026-09-16 12:39:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The three lined up",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/los-tres-alineados/",
+        "published_date": "2026-09-16 12:36:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Night of the Pencils, an indelible crime in Argentina",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/la-noche-de-los-lapices-crimen-imborrable-en-argentina/",
+        "published_date": "2026-09-16 12:30:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The real state of the Union that Von der Leyen cannot hide",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/el-estado-real-de-la-union-que-von-der-leyen-no-puede-ocultar/",
+        "published_date": "2026-09-16 12:20:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Private exchange house in Cuba: this is how it will operate and define its rate, according to the ruling party",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/dudas-de-la-aduana-de-cuba-puedo-llevar-un-router-wifi-en-mi-equipaje/",
-        "published_date": "2026-09-15 16:11:12",
+        "url": "https://www.directoriocubano.info/actualidad/primera-casa-cambio-privada-cuba/",
+        "published_date": "2026-09-16 12:04:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba launches 10,000 and 20,000 bills while many have not yet seen the 2,000 and 5,000 bills",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuba-billetes-10000-20000-muchos-no-han-visto-2000-5000-crisis-peso/",
+        "published_date": "2026-09-16 11:47:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the new Cuban bills of 10,000 and 20,000 pesos that enter circulation starting today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nuevos-billetes-cubanos-10000-20000-pesos-desde-hoy/",
+        "published_date": "2026-09-16 11:15:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid heat stroke",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260916/evite-los-golpes-de-calor/",
+        "published_date": "2026-09-16 10:45:53",
         "category": "Local Events"
     }
 ]
