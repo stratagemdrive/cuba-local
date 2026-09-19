@@ -1,5 +1,12 @@
 [
     {
+        "title": "Statement from the Ministry of Foreign Affairs of the Republic of Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/comunicado-del-ministerio-de-relaciones-exteriores-de-la-republica-de-cuba-3/",
+        "published_date": "2026-09-19 11:27:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The Cuban Foreign Minister denounces the Harvard report, despite his proposal to associate the regime with the political transition",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/canciller-cubano-denuncia-informe-harvard_1_1130967.html",
@@ -112,25 +119,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Change of energy matrix advances at Etecsa Cienfuegos",
+        "title": "Iranian attacks would have left irreparable damage to US bases in the Middle East",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/avanza-cambio-de-matriz-energetica-en-etecsa-cienfuegos/",
-        "published_date": "2026-09-11 12:00:09",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/ataques-iranies-habrian-dejado-danos-irreparables-en-bases-de-ee-uu-en-oriente-medio/",
+        "published_date": "2026-09-19 12:09:29",
+        "category": "Military"
     },
     {
-        "title": "Clear rejection of the blockade at the L'Humanit\u00e9 Festival",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/rechazo-claro-al-bloqueo-en-fiesta-de-lhumanite/",
-        "published_date": "2026-09-11 10:37:52",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Ambassador exposes damages from the blockade to representative of Leo XIV",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/embajador-expone-danos-del-bloqueo-a-representante-de-leon-xiv/",
-        "published_date": "2026-09-11 10:28:35",
-        "category": "Diplomacy"
+        "title": "Denmark and Greenland confirm the agreement with Trump, but defend their sovereignty",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/dinamarca-groenlandia-confirman-acuerdo-trump_1_1130982.html",
+        "published_date": "2026-09-19 12:02:06",
+        "category": "Military"
     },
     {
         "title": "New US sanctions on Cuban mining and military companies",
@@ -224,17 +224,38 @@
         "category": "Military"
     },
     {
-        "title": "Nicaraguan exiles ask the US for military intervention in Nicaragua",
+        "title": "Much of Cuba remains in the dark after the general blackout",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/exiliados-nicaragueenses-piden-ee-uu_1_1130669.html",
-        "published_date": "2026-09-11 08:35:40",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/gran-parte-cuba-continua-oscuras_1_1130984.html",
+        "published_date": "2026-09-19 12:52:11",
+        "category": "Energy"
+    },
+    {
+        "title": "Bolivian Senate approves IMF credit for 1.9 billion amid political tensions",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/senado-de-bolivia-aprueba-credito-del-fmi-por-1-900-millones-en-medio-de-tensiones-politicas/",
+        "published_date": "2026-09-19 04:44:22",
+        "category": "Energy"
     },
     {
         "title": "Trip on 220 kv transmission line causes departure of the SEN from Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/disparo-en-linea-de-transmision-220-kv-provoca-salida-del-sen-de-cuba/",
         "published_date": "2026-09-18 23:12:54",
+        "category": "Energy"
+    },
+    {
+        "title": "ETECSA installs solar energy for telecommunications in Santiago de Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/energia-solar-telecomunicaciones-santiago-cuba/",
+        "published_date": "2026-09-18 22:34:49",
+        "category": "Energy"
+    },
+    {
+        "title": "New total blackout in Cuba due to the collapse of the electrical system",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/sistema-electrico-cubano-colapsa-octava_1_1130969.html",
+        "published_date": "2026-09-18 19:31:02",
         "category": "Energy"
     },
     {
@@ -312,27 +333,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/cuba/cuba-unidades-electricas-1200-mw-falta-combustible/",
         "published_date": "2026-09-12 14:14:29",
-        "category": "Energy"
-    },
-    {
-        "title": "Protests against the Government's claims to put order in the placement of private solar panels",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/protestas-pretensiones-gobierno-poner-orden_1_1130682.html",
-        "published_date": "2026-09-11 12:55:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Cuba accelerates the purchase of fuel from the US: Miami and Houston concentrate shipments",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/combustible-estados-unidos-cuba-156-millones/",
-        "published_date": "2026-09-11 12:09:55",
-        "category": "Energy"
-    },
-    {
-        "title": "Oil in exchange for privatizing CUPET: this would be Washington's proposal to Havana",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/petroleo-a-cambio-de-privatizar-cupet-esta-seria-la-propuesta-de-washington-a-la-habana/",
-        "published_date": "2026-09-11 10:01:43",
         "category": "Energy"
     },
     {
@@ -476,6 +476,69 @@
         "category": "Economy"
     },
     {
+        "title": "Raul",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/raul/",
+        "published_date": "2026-09-19 11:54:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "They publish a new Labor Code: these are its main news (+ PDF)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/publican-nuevo-codigo-de-trabajo-estas-son-sus-principales-novedades-pdf/",
+        "published_date": "2026-09-19 11:44:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump bans three White House media outlets and threatens more restrictions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/internacional/trump-veta-tres-medios-prensa_1_1130980.html",
+        "published_date": "2026-09-19 11:38:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Provinces report gradual recovery of electricity",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/provincias-reportan-recuperacion-paulatina-de-la-electricidad/",
+        "published_date": "2026-09-19 11:37:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Information note from the United States Embassy in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nota-informativa-embajada-estados-unidos-cuba/",
+        "published_date": "2026-09-19 11:34:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dollar continues to rise in Cuba and is already well above 700 pesos.Exchange rates today",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/dolar-sigue-subiendo-cuba-710-pesos-tasas-cambio-19-septiembre-2026/",
+        "published_date": "2026-09-19 10:30:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how fake news mutates in the digital age",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/asi-mutan-las-noticias-falsas-en-la-era-digital/",
+        "published_date": "2026-09-19 04:00:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Minister of Transport and Communications of Peru takes office",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/asume-nuevo-ministro-de-transportes-y-comunicaciones-de-peru/",
+        "published_date": "2026-09-19 04:00:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Retirement is not the end: the fear of \u201cwhat do I do now?\u201d",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/opinion/33165-jubilarse-no-es-el-final-el-miedo-a-y-ahora-que-hago",
+        "published_date": "2026-09-19 01:17:33",
+        "category": "Local Events"
+    },
+    {
         "title": "Anti-drug operation in Central Havana leaves 13 detained",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/acontecer/operativo-antidrogas-centro-habana-13-detenidos/",
@@ -546,73 +609,10 @@
         "category": "Local Events"
     },
     {
-        "title": "In Cuba the electrical system goes down, but never the repressive system",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/cuba-cae-sistema-electrico-represivo_1_1130973.html",
-        "published_date": "2026-09-18 20:25:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban Government renews its cultural laws, but keeps the control mechanisms intact",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/gobierno-cubano-renueva-leyes-culturales_1_1130971.html",
-        "published_date": "2026-09-18 19:58:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "New ETECSA recharge multiplies the balance in September by five",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/recarga-internacional-cubacel-septiembre/",
-        "published_date": "2026-09-18 18:09:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amazon Prime payments will go up to $200: who qualifies?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/pagos-amazon-prime-200-dolares/",
-        "published_date": "2026-09-18 17:01:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minimum Light, Ohio, USA \u2013 Photo of the Day",
+        "title": "Rhiannon Giddens on New Album, AI, Ed Sheeran, Macklemore & Trump",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/minimum-light-ohio-usa-photo-of-the-day/",
-        "published_date": "2026-09-18 16:43:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThey brought the little water they had from their homes\u201d: the neighbors saved the church of San Judas Tadeo from the fire",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/trajeron-casas-agua-tenian-vecinos_1_1130960.html",
-        "published_date": "2026-09-18 16:40:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "A vehicle from the Cuban Embassy in London accumulates fines for 70,000 dollars and does not pay them",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/vehiculo-embajada-cuba-londres-acumula_1_1130958.html",
-        "published_date": "2026-09-18 16:33:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Can you bring a bill counting machine to Cuba?Customs responds",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/puedes-llevar-una-maquina-de-contar-billetes-a-cuba-la-aduana-responde/",
-        "published_date": "2026-09-18 16:19:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba Over Five Centuries: Women Tell Their Stories",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/book-reviews-interviews/cuba-over-five-centuries-women-tell-their-stories/",
-        "published_date": "2026-09-18 15:17:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rice, beans, oil, sugar, sardines and more: donations from the US arrive in Cienfuegos",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/ayuda-humanitaria-estados-unidos-cienfuegos/",
-        "published_date": "2026-09-18 15:13:42",
+        "url": "https://havanatimes.org/interviews/rhiannon-giddens-on-new-album-ai-ed-sheeran-macklemore-trump/",
+        "published_date": "2026-09-18 20:49:58",
         "category": "Local Events"
     }
 ]
