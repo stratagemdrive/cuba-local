@@ -1,5 +1,26 @@
 [
     {
+        "title": "Cuba says it learned from the press that Costa Rica broke diplomatic relations",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/cuba-dice-haberse-enterado-por-la-prensa-de-que-costa-rica-rompio-relaciones-diplomaticas/",
+        "published_date": "2026-09-20 13:59:13",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Costa Rica calls the Cuban regime a \u201cvile tyranny that has denied freedom and prosperity to the people\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/costa-rica-tilda-regimen-cubano_1_1131011.html",
+        "published_date": "2026-09-20 13:06:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Indian Union reaffirms its support for Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260920/sindicato-de-la-india-reafirma-su-apoyo-a-cuba/",
+        "published_date": "2026-09-20 10:45:43",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Havana calls the announcement of the diplomatic break with Costa Rica \u201csurprising\u201d",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/habana-tacha-sorprendente-anuncio-ruptura_1_1130993.html",
@@ -105,11 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuban delegation to debate on the blockade at the Humanit\u00e9 Festival",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/delegacion-cubana-a-debate-sobre-bloqueo-en-fiesta-de-lhumanite/",
-        "published_date": "2026-09-12 14:16:40",
-        "category": "Diplomacy"
+        "title": "They commemorate in Sancti Sp\u00edritus the 55th anniversary of the Civil Defense Workers Union",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260920/conmemoran-en-sancti-spiritus-aniversario-55-del-sindicato-de-trabajadores-civiles-de-la-defensa/",
+        "published_date": "2026-09-20 11:03:50",
+        "category": "Military"
     },
     {
         "title": "Iranian attacks would have left irreparable damage to US bases in the Middle East",
@@ -194,6 +215,13 @@
         "url": "https://www.14ymedio.com/internacional/inteligencia-britanica-eleva-500-000_1_1130733.html",
         "published_date": "2026-09-12 19:55:26",
         "category": "Military"
+    },
+    {
+        "title": "Light partially returns in Cuba after a 32-hour national blackout",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/vuelve-parcialmente-luz-cuba-despues_1_1131001.html",
+        "published_date": "2026-09-20 11:35:37",
+        "category": "Energy"
     },
     {
         "title": "The new subject for Cuban children: finding where to charge the fan",
@@ -312,13 +340,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/noticias/cuba-fuerte-falta-electricidad-sabado-12-septiembre-2026/",
         "published_date": "2026-09-12 18:03:24",
-        "category": "Energy"
-    },
-    {
-        "title": "Will the blackouts end?They report on electrical recovery in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cuba-unidades-electricas-1200-mw-falta-combustible/",
-        "published_date": "2026-09-12 14:14:29",
         "category": "Energy"
     },
     {
@@ -448,150 +469,143 @@
         "category": "Economy"
     },
     {
-        "title": "The change in the daily withdrawal limit in Transferm\u00f3vil is permanent",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/permanente-el-cambio-de-limite-de-extraccion-diario-en-transfermovil/",
-        "published_date": "2026-09-12 11:48:50",
-        "category": "Economy"
-    },
-    {
-        "title": "Cuban men's volleyball returns to the Olympic Games",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/voleibol-masculino-cubano-regresa-a-los-juegos-olimpicos/",
-        "published_date": "2026-09-20 00:31:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cienfuegos hospital patients are grateful for free hemodialysis service",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/agradecen-pacientes-de-hospital-cienfueguero-servicio-gratuito-de-hemodialisis/",
-        "published_date": "2026-09-19 23:28:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba: A Country of Thin People Ruled by Overweight Men",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/cuba-a-country-of-thin-people-ruled-by-overweight-men/",
-        "published_date": "2026-09-19 23:17:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Residence of Cubans in Jamaica increases 60% in five years",
+        "title": "Downpours cause the level of the Yayabo River to rise in Sancti Sp\u00edritus",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/residencia-cubanos-jamaica-aumenta/",
-        "published_date": "2026-09-19 22:45:45",
+        "url": "https://www.directoriocubano.info/el-tiempo/nivel-rio-yayabo-sancti-spiritus/",
+        "published_date": "2026-09-20 14:10:48",
         "category": "Local Events"
     },
     {
-        "title": "Recovery of the electrical system in Cuba still does not reach everyone",
+        "title": "Voting of Russian citizens in Cuba: time and address",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/recuperacion-sistema-electrico-cuba/",
-        "published_date": "2026-09-19 22:22:49",
+        "url": "https://www.directoriocubano.info/embajadas/votacion-ciudadanos-rusos-cuba/",
+        "published_date": "2026-09-20 14:10:27",
         "category": "Local Events"
     },
     {
-        "title": "Failure in the Guiteras thermoelectric plant forces the boiler to cool",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/averia-termoelectrica-guiteras-caldera/",
-        "published_date": "2026-09-19 21:54:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The world prize \u201cIn the Service of Humanity\u201d is awarded in Moscow",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/entregan-en-moscu-el-premio-mundial-al-servicio-de-la-humanidad/",
-        "published_date": "2026-09-19 21:42:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Recovery of the SEN: Cienfuegos linked to the Matanzas and Villa Clara subsystem",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/recuperacion-del-sen-cienfuegos-enlazado-al-subsistema-matanzas-y-villa-clara/",
-        "published_date": "2026-09-19 20:30:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Food poisoning in Matanzas affects 29 people, including 22 children",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/intoxicacion-alimentaria-matanzas-29-afectados/",
-        "published_date": "2026-09-19 19:44:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Food poisoning affects 29 people in Matanzas, 22 of them children",
+        "title": "The manipulation of terror",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/intoxicacion-alimentaria-afecta-29-personas_1_1130999.html",
-        "published_date": "2026-09-19 19:27:06",
+        "url": "https://www.14ymedio.com/blogs/cajon-de-sastre/manipulacion-terror_132_1131017.html",
+        "published_date": "2026-09-20 13:57:02",
         "category": "Local Events"
     },
     {
-        "title": "New 10,000 and 20,000 peso bills: do they cause more inflation in Cuba?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/billetes-10000-20000-pesos-inflacion-cuba/",
-        "published_date": "2026-09-19 17:45:35",
+        "title": "Live and let live: the uprising of the Canarian vegueros and the Cuba of the future",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/vive-deja-vivir-sublevacion-vegueros_1_1131015.html",
+        "published_date": "2026-09-20 13:44:33",
         "category": "Local Events"
     },
     {
-        "title": "Herd of Elephants formed for National Baseball Series",
+        "title": "William Soler Pediatric Cardiocenter: a group of excellence",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/conformada-manada-de-elefantes-para-serie-nacional-de-beisbol/",
-        "published_date": "2026-09-19 17:29:44",
+        "url": "https://www.5septiembre.cu/cardiocentro-pediatrico-william-soler-un-colectivo-de-excelencia/",
+        "published_date": "2026-09-20 13:39:50",
         "category": "Local Events"
     },
     {
-        "title": "Guille Ponce, the goalkeeper with a Cuban father who is promoted to Real Madrid's Juvenil A",
+        "title": "Diesel price in the United States exceeds $6.40",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/economia/precio-diesel-estados-unidos-640-dolares/",
+        "published_date": "2026-09-20 13:37:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Henry Reeve Brigades, 21 years of Cuban solidarity towards the world",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/brigadas-henry-reeve-21-anos-de-solidaridad-cubana-hacia-el-mundo/",
+        "published_date": "2026-09-20 13:32:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "An educational proposal with DEA: Fun, Entertainment and Learning",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/una-propuesta-educativa-con-dea-diversion-entretenimiento-y-aprendizaje/",
+        "published_date": "2026-09-20 13:26:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Canel and the odyssey of the cyclops",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/guille-ponce-portero-padre-cubano_1_1130997.html",
-        "published_date": "2026-09-19 17:27:23",
+        "url": "https://www.14ymedio.com/opinion/diaz-canel-odisea-ciclope_1_1131013.html",
+        "published_date": "2026-09-20 13:20:13",
         "category": "Local Events"
     },
     {
-        "title": "Artificial Intelligence will have to wait for the power to return",
+        "title": "Tropical Depression Six Formed in the Northeast Atlantic",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/se-formo-la-depresion-tropical-seis-en-el-atlantico-nororiental/",
+        "published_date": "2026-09-20 13:17:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Russian citizens attend the last day of parliamentary elections",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ciudadanos-rusos-asisten-a-ultima-jornada-de-comicios-parlamentarios/",
+        "published_date": "2026-09-20 13:09:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Florida proposes that pharmacists administer the chikungunya vaccine",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/florida-farmaceuticos-vacuna-chikungunya/",
+        "published_date": "2026-09-20 13:01:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ed Sheeran calls the situation in Gaza \u201ccatastrophic\u201d at a concert in Philadelphia",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ed-sheeran-califica-la-situacion-en-gaza-de-catastrofica-en-un-concierto-en-filadelfia/",
+        "published_date": "2026-09-20 13:00:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Panama registers an increase in homicides and femicides in 2026",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/panama-registra-aumento-de-homicidios-y-femicidios-en-2026/",
+        "published_date": "2026-09-20 12:38:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blackouts in Cuba: they predict an impact of 2070 MW this Sunday",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-afectacion-2070-mw/",
+        "published_date": "2026-09-20 12:35:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Warning from the Cuban Meteorological Institute about a tropical depression in the Atlantic",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/aviso-del-instituto-de-meteorologia-de-cuba-sobre-depresion-tropical-en-el-atlantico/",
+        "published_date": "2026-09-20 12:25:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former President Michelle Bachelet withdraws from the race for UN Secretary General",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/expresidenta-michelle-bachelet-se-retira-de-la-contienda-para-la-secretaria-general-de-la-onu/",
+        "published_date": "2026-09-20 12:14:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Fuera de Juego' reconstructs the Padilla Case in its English premiere in New York",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/generacion-y/inteligencia-artificial-tendra-esperar-vuelva_132_1130995.html",
-        "published_date": "2026-09-19 17:09:09",
+        "url": "https://www.14ymedio.com/cartelera/fuera-juego-reconstruye-caso-padilla_1_1131009.html",
+        "published_date": "2026-09-20 12:12:00",
         "category": "Local Events"
     },
     {
-        "title": "Miami-Dade maintains night bus cuts",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/miami-dade-recorte-autobuses-nocturnos/",
-        "published_date": "2026-09-19 16:54:40",
+        "title": "\u2018Libres x Derecho 2. Voices of 11J\u2019: urban art about the political prison in Cuba",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/libres-x-derecho-2-voces_1_1131007.html",
+        "published_date": "2026-09-20 12:00:52",
         "category": "Local Events"
     },
     {
-        "title": "Civil Registry Law in Cuba: what changes in the procedures",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/ley-registro-civil-cuba-cambios/",
-        "published_date": "2026-09-19 16:12:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young Cuban Art Inspired by Everyday Life",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/young-cuban-art-inspired-by-everyday-life/",
-        "published_date": "2026-09-19 15:53:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Labor Code in Cuba: contracts, teleworking and deadlines",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/nuevo-codigo-trabajo-cuba-cambios-plazos/",
-        "published_date": "2026-09-19 15:45:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economic Collapse in Cuba Fuels a Rise in Religions",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/features/economic-collapse-in-cuba-fuels-a-rise-in-religions/",
-        "published_date": "2026-09-19 15:06:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Mart\u00ed Airport operates normally, but will close seven hours at night",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/aeropuerto-jose-marti-cierre-nocturno-septiembre/",
-        "published_date": "2026-09-19 14:39:36",
+        "title": "\"She craves a salad.\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/antojo-comerse-ensalada_1_1131003.html",
+        "published_date": "2026-09-20 11:58:57",
         "category": "Local Events"
     }
 ]
