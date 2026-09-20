@@ -1,5 +1,12 @@
 [
     {
+        "title": "Havana calls the announcement of the diplomatic break with Costa Rica \u201csurprising\u201d",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/habana-tacha-sorprendente-anuncio-ruptura_1_1130993.html",
+        "published_date": "2026-09-19 16:34:24",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Statement from the Ministry of Foreign Affairs of the Republic of Cuba",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/comunicado-del-ministerio-de-relaciones-exteriores-de-la-republica-de-cuba-3/",
@@ -105,20 +112,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuba and India discuss promoting economic relations",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260911/cuba-e-india-dialogan-sobre-impulso-de-relaciones-economicas/",
-        "published_date": "2026-09-11 19:16:38",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "China sends a strong warning to Italy and the EU",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/china-envia-una-firme-advertencia-a-italia-y-la-ue/",
-        "published_date": "2026-09-11 14:38:52",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Iranian attacks would have left irreparable damage to US bases in the Middle East",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/ataques-iranies-habrian-dejado-danos-irreparables-en-bases-de-ee-uu-en-oriente-medio/",
@@ -203,25 +196,18 @@
         "category": "Military"
     },
     {
-        "title": "Commander Juan Almeida is honored in Santiago de Cuba",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260911/honran-en-santiago-de-cuba-al-comandante-juan-almeida/",
-        "published_date": "2026-09-11 22:27:33",
-        "category": "Military"
+        "title": "The new subject for Cuban children: finding where to charge the fan",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/nueva-asignatura-ninos-cubanos-encontrar_1_1130990.html",
+        "published_date": "2026-09-19 16:03:49",
+        "category": "Energy"
     },
     {
-        "title": "The humanity behind the strategist",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260911/la-humanidad-detras-del-estratega/",
-        "published_date": "2026-09-11 20:04:09",
-        "category": "Military"
-    },
-    {
-        "title": "Minfar evokes the legacy of Commander of the Revolution Juan Almeida Bosque",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/evoca-minfar-legado-de-comandante-de-la-revolucion-juan-almeida-bosque/",
-        "published_date": "2026-09-11 15:05:20",
-        "category": "Military"
+        "title": "When will the light come?This is how the reestablishment of the SEN in Cuba is going",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cuando-vendra-la-luz-asi-va-el-restablecimiento-del-sen-en-cuba/",
+        "published_date": "2026-09-19 13:30:26",
+        "category": "Energy"
     },
     {
         "title": "Much of Cuba remains in the dark after the general blackout",
@@ -469,150 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "Banco Metropolitano branches open on Saturday, September 12",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/sucursales-banco-metropolitano-sabado-12-septiembre/",
-        "published_date": "2026-09-12 00:01:59",
-        "category": "Economy"
-    },
-    {
-        "title": "Raul",
+        "title": "Cuban men's volleyball returns to the Olympic Games",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/raul/",
-        "published_date": "2026-09-19 11:54:22",
+        "url": "https://www.5septiembre.cu/voleibol-masculino-cubano-regresa-a-los-juegos-olimpicos/",
+        "published_date": "2026-09-20 00:31:13",
         "category": "Local Events"
     },
     {
-        "title": "They publish a new Labor Code: these are its main news (+ PDF)",
+        "title": "Cienfuegos hospital patients are grateful for free hemodialysis service",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/publican-nuevo-codigo-de-trabajo-estas-son-sus-principales-novedades-pdf/",
-        "published_date": "2026-09-19 11:44:20",
+        "url": "https://www.5septiembre.cu/agradecen-pacientes-de-hospital-cienfueguero-servicio-gratuito-de-hemodialisis/",
+        "published_date": "2026-09-19 23:28:18",
         "category": "Local Events"
     },
     {
-        "title": "Trump bans three White House media outlets and threatens more restrictions",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/trump-veta-tres-medios-prensa_1_1130980.html",
-        "published_date": "2026-09-19 11:38:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Provinces report gradual recovery of electricity",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/provincias-reportan-recuperacion-paulatina-de-la-electricidad/",
-        "published_date": "2026-09-19 11:37:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Information note from the United States Embassy in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/nota-informativa-embajada-estados-unidos-cuba/",
-        "published_date": "2026-09-19 11:34:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dollar continues to rise in Cuba and is already well above 700 pesos.Exchange rates today",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/dolar-sigue-subiendo-cuba-710-pesos-tasas-cambio-19-septiembre-2026/",
-        "published_date": "2026-09-19 10:30:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how fake news mutates in the digital age",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/asi-mutan-las-noticias-falsas-en-la-era-digital/",
-        "published_date": "2026-09-19 04:00:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Minister of Transport and Communications of Peru takes office",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/asume-nuevo-ministro-de-transportes-y-comunicaciones-de-peru/",
-        "published_date": "2026-09-19 04:00:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Retirement is not the end: the fear of \u201cwhat do I do now?\u201d",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/opinion/33165-jubilarse-no-es-el-final-el-miedo-a-y-ahora-que-hago",
-        "published_date": "2026-09-19 01:17:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anti-drug operation in Central Havana leaves 13 detained",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/operativo-antidrogas-centro-habana-13-detenidos/",
-        "published_date": "2026-09-19 01:02:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Garbage on the tracks stops the Havana-Guant\u00e1namo train in Las Tunas",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/basura-detiene-tren-habana-guantanamo/",
-        "published_date": "2026-09-19 00:35:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three young people are arrested for robbery at a Las Tunas hospital and the death of a custodian",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/robo-hospital-las-tunas-detenidos/",
-        "published_date": "2026-09-19 00:01:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "They highlight the new Civil Registry Law that modernizes procedures in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/resaltan-nueva-ley-del-registro-civil-que-moderniza-tramites-en-cuba/",
-        "published_date": "2026-09-18 23:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two containers with aid for Cuba will leave from Spain",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/acontecer/ayuda-cuba-espana-contenedores/",
-        "published_date": "2026-09-18 23:15:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nicaragua: Rosario Murillo\u2019s Strategy of Dehumanization",
+        "title": "Cuba: A Country of Thin People Ruled by Overweight Men",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/nicaragua-rosario-murillos-strategy-of-dehumanization/",
-        "published_date": "2026-09-18 22:50:29",
+        "url": "https://havanatimes.org/features/cuba-a-country-of-thin-people-ruled-by-overweight-men/",
+        "published_date": "2026-09-19 23:17:21",
         "category": "Local Events"
     },
     {
-        "title": "A Cuban doctor denounces overcrowding and lack of toilets in an ICE office in Florida",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/medico-cubano-denuncia-hacinamiento-falta_1_1130975.html",
-        "published_date": "2026-09-18 21:38:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Total Blackout in Cuba This Friday",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/new-total-blackout-in-cuba-this-friday/",
-        "published_date": "2026-09-18 21:23:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "State Security prevents journalists and activists from attending a cultural event at the US Embassy",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/seguridad-impide-periodistas-activistas-asistir_1_1130978.html",
-        "published_date": "2026-09-18 21:15:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba suffers a total disconnection from the SEN: the restoration of electrical service begins",
+        "title": "Residence of Cubans in Jamaica increases 60% in five years",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/cuba-sufre-una-desconexion-total-del-sen-comienza-el-restablecimiento-del-servicio-electrico/",
-        "published_date": "2026-09-18 21:14:39",
+        "url": "https://www.directoriocubano.info/acontecer/residencia-cubanos-jamaica-aumenta/",
+        "published_date": "2026-09-19 22:45:45",
         "category": "Local Events"
     },
     {
-        "title": "Rhiannon Giddens on New Album, AI, Ed Sheeran, Macklemore & Trump",
+        "title": "Recovery of the electrical system in Cuba still does not reach everyone",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/recuperacion-sistema-electrico-cuba/",
+        "published_date": "2026-09-19 22:22:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Failure in the Guiteras thermoelectric plant forces the boiler to cool",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/averia-termoelectrica-guiteras-caldera/",
+        "published_date": "2026-09-19 21:54:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The world prize \u201cIn the Service of Humanity\u201d is awarded in Moscow",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/entregan-en-moscu-el-premio-mundial-al-servicio-de-la-humanidad/",
+        "published_date": "2026-09-19 21:42:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Recovery of the SEN: Cienfuegos linked to the Matanzas and Villa Clara subsystem",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/recuperacion-del-sen-cienfuegos-enlazado-al-subsistema-matanzas-y-villa-clara/",
+        "published_date": "2026-09-19 20:30:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Food poisoning in Matanzas affects 29 people, including 22 children",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/intoxicacion-alimentaria-matanzas-29-afectados/",
+        "published_date": "2026-09-19 19:44:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Food poisoning affects 29 people in Matanzas, 22 of them children",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/intoxicacion-alimentaria-afecta-29-personas_1_1130999.html",
+        "published_date": "2026-09-19 19:27:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "New 10,000 and 20,000 peso bills: do they cause more inflation in Cuba?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/billetes-10000-20000-pesos-inflacion-cuba/",
+        "published_date": "2026-09-19 17:45:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Herd of Elephants formed for National Baseball Series",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/conformada-manada-de-elefantes-para-serie-nacional-de-beisbol/",
+        "published_date": "2026-09-19 17:29:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Guille Ponce, the goalkeeper with a Cuban father who is promoted to Real Madrid's Juvenil A",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/guille-ponce-portero-padre-cubano_1_1130997.html",
+        "published_date": "2026-09-19 17:27:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Artificial Intelligence will have to wait for the power to return",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/blogs/generacion-y/inteligencia-artificial-tendra-esperar-vuelva_132_1130995.html",
+        "published_date": "2026-09-19 17:09:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miami-Dade maintains night bus cuts",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/miami-dade-recorte-autobuses-nocturnos/",
+        "published_date": "2026-09-19 16:54:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Registry Law in Cuba: what changes in the procedures",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/ley-registro-civil-cuba-cambios/",
+        "published_date": "2026-09-19 16:12:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young Cuban Art Inspired by Everyday Life",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/interviews/rhiannon-giddens-on-new-album-ai-ed-sheeran-macklemore-trump/",
-        "published_date": "2026-09-18 20:49:58",
+        "url": "https://havanatimes.org/photo-feature/young-cuban-art-inspired-by-everyday-life/",
+        "published_date": "2026-09-19 15:53:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "New Labor Code in Cuba: contracts, teleworking and deadlines",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/nuevo-codigo-trabajo-cuba-cambios-plazos/",
+        "published_date": "2026-09-19 15:45:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Economic Collapse in Cuba Fuels a Rise in Religions",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/economic-collapse-in-cuba-fuels-a-rise-in-religions/",
+        "published_date": "2026-09-19 15:06:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Jos\u00e9 Mart\u00ed Airport operates normally, but will close seven hours at night",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/aeropuerto-jose-marti-cierre-nocturno-septiembre/",
+        "published_date": "2026-09-19 14:39:36",
         "category": "Local Events"
     }
 ]
