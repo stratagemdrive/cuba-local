@@ -1,5 +1,26 @@
 [
     {
+        "title": "D\u00edaz-Canel denounces the intensification of the energy siege on the radio",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-denuncia-en-la-radio-recrudecimiento-del-cerco-energetico/",
+        "published_date": "2026-09-23 14:10:36",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuba at the UN, voices against the blockade (+ VIDEO)",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-en-la-onu-voces-contra-el-bloqueo-video/",
+        "published_date": "2026-09-23 13:54:39",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban delegation leaves the plenary session at the United Nations due to Trump's lies",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/33171-delegacion-cubana-abandona-el-plenario-en-naciones-unidas-ante-las-mentiras-de-trump",
+        "published_date": "2026-09-23 10:59:19",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ivette Mart\u00ednez Leyva, new ambassador of Cuba in Guatemala",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/noticias/ivette-martinez-embajadora-cuba-guatemala/",
@@ -119,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Costa Rica confirms the breaking of its diplomatic relations with the \"despotic regime\" of Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/costa-rica-confirma-ruptura-relaciones_1_1130948.html",
-        "published_date": "2026-09-18 13:43:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuban Foreign Minister denounces new US sanctions",
+        "title": "The pride of being Camilitos",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncia-canciller-de-cuba-nuevas-sanciones-de-ee-uu/",
-        "published_date": "2026-09-18 12:26:53",
-        "category": "Diplomacy"
+        "url": "https://www.5septiembre.cu/el-orgullo-de-ser-camilitos/",
+        "published_date": "2026-09-23 14:02:26",
+        "category": "Military"
     },
     {
-        "title": "Venezuela unlocks media, Cuba maintains its locks",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/opinion/venezuela-desbloquea-medios-cuba-mantiene_1_1130924.html",
-        "published_date": "2026-09-17 17:54:44",
-        "category": "Diplomacy"
+        "title": "The relay",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260923/el-relevo/",
+        "published_date": "2026-09-23 13:54:55",
+        "category": "Military"
     },
     {
         "title": "The United States, Denmark and Greenland sign the security agreement at the UN",
@@ -229,6 +243,13 @@
         "url": "https://www.14ymedio.com/internacional/ee-uu-desviara-aliados-latinoamericanos_1_1130856.html",
         "published_date": "2026-09-16 07:52:24",
         "category": "Military"
+    },
+    {
+        "title": "D\u00edaz-Canel in \u201cShared Criteria\u201d: Produce more, confront the energy crisis and transform without abandoning socialism",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33172-diaz-canel-en-criterio-compartido-producir-mas-enfrentar-la-crisis-energetica-y-transformar-sin-abandonar-el-socialismo",
+        "published_date": "2026-09-23 10:59:44",
+        "category": "Energy"
     },
     {
         "title": "More oil and gas in Cuba?CUPET announces recovery",
@@ -420,150 +441,143 @@
         "category": "Economy"
     },
     {
-        "title": "A bank offers 400 euros in Spain: what does it require to collect the incentive",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/un-banco-ofrece-400-euros-en-espana-que-exige-para-cobrar-el-incentivo/",
-        "published_date": "2026-09-15 09:45:47",
-        "category": "Economy"
-    },
-    {
-        "title": "Jobs on cruise ships for Cubans: how to apply from the Island",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/aerolineas/empleos-cruceros-cubanos/",
-        "published_date": "2026-09-23 00:45:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban detained with 22 migrants near Key Largo",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/cubano-detenido-22-migrantes-key-largo/",
-        "published_date": "2026-09-23 00:11:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Illegal sale of medicines in Cuba: a man is prosecuted in Matanzas",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/matanzas/venta-ilegal-medicamentos-matanzas/",
-        "published_date": "2026-09-22 23:36:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you live in an unlegalized house?There is a year to try to get it in order",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/casa-no-legalizada-cuba-un-ano-ponerla-en-regla/",
-        "published_date": "2026-09-22 23:06:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cubans with a Spanish passport are left out of the EES biometric registry",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/inmigracion-y-extranjeria/cubanos-pasaporte-espanol-registro-ees/",
-        "published_date": "2026-09-22 22:37:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you have cars in Cuba?An old limitation changes what you can buy",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/varios-carros-cuba-eliminan-limite-seis-vehiculos-cinco-anos/",
-        "published_date": "2026-09-22 22:06:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hurricane Polo reaches category 5 and activates alerts on the coast of Mexico",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/mexico/huracan-polo-categoria-5-mexico/",
-        "published_date": "2026-09-22 21:40:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Whale in Baracoa attracts dozens of neighbors and mobilizes the Police",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/sociedad/ballena-baracoa-policia/",
-        "published_date": "2026-09-22 21:38:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba registers more than 7,000 cases of dengue since January, seven times more than expected",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/7-000-casos-dengue-cuba_1_1131102.html",
-        "published_date": "2026-09-22 21:31:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba will apply the disqualification of doctors who fail to fulfill social service",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/inhabilitacion-medicos-cuba-servicio-social/",
-        "published_date": "2026-09-22 20:41:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Panama publishes new results of tourist and transit visas for Cubans",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/embajadas/panama-resultados-visas-turismo-transito-cubanos-septiembre-2026/",
-        "published_date": "2026-09-22 20:21:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump Takes Pressure on Cuba to the United Nations",
+        "title": "Learning to Be Far Away from Cuba",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/opinion/trump-takes-pressure-on-cuba-to-the-united-nations/",
-        "published_date": "2026-09-22 20:15:03",
+        "url": "https://havanatimes.org/diaries/dany-cesario/learning-to-be-far-away-from-cuba/",
+        "published_date": "2026-09-23 15:02:45",
         "category": "Local Events"
     },
     {
-        "title": "Transtur announces excursion offers: these are the destinations and schedules",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/excursiones-transtur-santa-clara/",
-        "published_date": "2026-09-22 20:07:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Robelis Despaigne: return to UFC, victory and revenge against Tai Tuivasa",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/deportes/robelis-despaigne-regreso-ufc-victoria_1_1131100.html",
-        "published_date": "2026-09-22 19:38:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Free lawyers in Miami: help for Cubans with I-220A detained by ICE",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/emigracion/abogados-gratis-miami-cubanos-i220a-ice/",
-        "published_date": "2026-09-22 19:32:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban in Spain explains why she does not want to return to the island",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/cubana-espana-no-quiere-regresar-cuba/",
-        "published_date": "2026-09-22 19:01:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cuban delegation leaves the UN after hearing Trump say that the regime \u201cwill end up falling\u201d",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/delegacion-cubana-abandona-onu-oir_1_1131098.html",
-        "published_date": "2026-09-22 18:47:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "They will present The Ant Telescope",
+        "title": "Can the world do without the UN?",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260922/presentaran-el-telescopio-de-la-hormiga/",
-        "published_date": "2026-09-22 18:44:47",
+        "url": "https://www.trabajadores.cu/20260923/puede-el-mundo-prescindir-de-la-onu/",
+        "published_date": "2026-09-23 14:48:35",
         "category": "Local Events"
     },
     {
-        "title": "A Chinese agency in Havana promotes tourism for Cuban businessmen so that they contact suppliers",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/agencia-china-habana-impulsa-turismo_1_1131094.html",
-        "published_date": "2026-09-22 18:05:36",
+        "title": "International News Briefs for Wednesday, September 23, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-september-23-2026/",
+        "published_date": "2026-09-23 14:44:50",
         "category": "Local Events"
     },
     {
-        "title": "After a week adrift, 17 Haitian rafters seeking to reach the United States end up in Santiago de Cuba",
+        "title": "In the park, with the sugar inside",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260923/en-el-parque-con-el-azucar-dentro/",
+        "published_date": "2026-09-23 14:40:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Circus in Camag\u00fcey, 50 years of sacrifices and deliveries",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260923/circo-en-camaguey-50-anos-de-sacrificios-y-entregas/",
+        "published_date": "2026-09-23 14:18:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "China rejects US sanctions against Iranian aviation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-rechaza-las-sanciones-de-ee-uu-contra-la-aviacion-irani/",
+        "published_date": "2026-09-23 14:18:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Are you going to buy a car in Cuba?You should know this before",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/comprar-carro-cuba-pago-nuevas-reglas-transferencia/",
+        "published_date": "2026-09-23 14:11:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young radio broadcasters compete in Santiago de Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/jovenes-radialistas-concursan-en-santiago-de-cuba/",
+        "published_date": "2026-09-23 14:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young radio broadcasters compete in Santiago de Cuba",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260923/jovenes-radialistas-concursan-en-santiago-de-cuba/",
+        "published_date": "2026-09-23 14:02:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba receives first broadcast of the Criterio Compartido radio program",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/recibe-cuba-primera-emision-del-programa-radial-criterio-compartido/",
+        "published_date": "2026-09-23 13:38:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have you been living in a house on usufruct land for years?There may be a way to put it in your name",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/vivienda-tierra-usufructo-cuba-legalizar-casa-cinco-anos/",
+        "published_date": "2026-09-23 13:31:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana awaits your verses",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260923/la-habana-espera-tus-versos/",
+        "published_date": "2026-09-23 13:28:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paulo Freire International Meeting in Cienfuegos: sustainability, inclusion and social transformation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/encuentro-internacional-paulo-freire-en-cienfuegos-sostenibilidad-inclusion-y-transformacion-social/",
+        "published_date": "2026-09-23 13:22:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Cuba to Canada: professions in demand and salaries of up to $130,000",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/canada-busca-profesionales-sanitarios/",
+        "published_date": "2026-09-23 13:12:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Texas students raise their voices for migrant families in the face of raids in the US",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/estudiantes-de-texas-alzan-la-voz-por-familias-migrantes-ante-redadas-en-eeuu/",
+        "published_date": "2026-09-23 13:00:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Good night.I love you very much', a dialogue between two generations of Esterio Segura",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/semana-deriva-17-balseros-haitianos_1_1131088.html",
-        "published_date": "2026-09-22 17:03:40",
+        "url": "https://www.14ymedio.com/cartelera/buenas-noches-quiero-dialogo-generaciones_1_1131119.html",
+        "published_date": "2026-09-23 12:25:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban-American businessmen design the Cuba of the day after: 90,000 million to rebuild the Island",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/transicion-cuba-plan-90000-millones/",
+        "published_date": "2026-09-23 12:05:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "A tin of crops for the good of the neighborhood",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260923/un-tin-de-cultivos-por-el-bien-del-barrio/",
+        "published_date": "2026-09-23 12:00:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "The official press is concerned about the Government's non-payments to farmers",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/prensa-oficialista-preocupa-impagos-gobierno_1_1131118.html",
+        "published_date": "2026-09-23 11:39:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two active hurricanes in the Pacific: Polo threatens Mexico and Odalys continues to strengthen",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/panorama/dos-huracanes-activos-en-el-pacifico-polo-amenaza-mexico-y-odalys-sigue-fortaleciendose/",
+        "published_date": "2026-09-23 11:30:27",
         "category": "Local Events"
     }
 ]
