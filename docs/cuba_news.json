@@ -1,5 +1,26 @@
 [
     {
+        "title": "The Cuban regime complains that US sanctions slow down economic reforms on the island",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/regimen-cubano-queja-sanciones-ee_1_1131213.html",
+        "published_date": "2026-09-26 13:09:06",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US studies more restrictions on Cuban officials at the UN and maintains a military threat",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/ee-uu-estudia-mas-restricciones-a-funcionarios-de-cuba-en-la-onu-y-mantiene-amenaza-militar/",
+        "published_date": "2026-09-26 10:42:58",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Mexico reaffirms before the UN its solidarity with Cuba and rejection of the blockade",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/mexico-reafirma-ante-la-onu-su-solidaridad-con-cuba-y-rechazo-al-bloqueo/",
+        "published_date": "2026-09-26 10:34:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The US identifies support units for its military plans related to Cuba, according to CBS News",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/ee-uu-identifica-unidades-apoyo_1_1131204.html",
@@ -119,25 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cuban delegation leaves the plenary session at the United Nations due to Trump's lies",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-del-mundo/33171-delegacion-cubana-abandona-el-plenario-en-naciones-unidas-ante-las-mentiras-de-trump",
-        "published_date": "2026-09-23 10:59:19",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Ivette Mart\u00ednez Leyva, new ambassador of Cuba in Guatemala",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/ivette-martinez-embajadora-cuba-guatemala/",
-        "published_date": "2026-09-22 21:14:04",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Cuban delegation leaves the UN General Assembly room due to Trump's statements",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260922/delegacion-cubana-se-retira-de-la-sala-de-la-asamblea-general-de-la-onu-por-declaraciones-de-trump/",
-        "published_date": "2026-09-22 19:07:43",
-        "category": "Diplomacy"
+        "title": "D\u00edaz-Canel to CDR supporters: \u201cWe are going to give the answers from the community, which needs this time\u201d",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/diaz-canel-a-cederistas-vamos-a-dar-las-respuestas-desde-la-comunidad-que-necesita-este-tiempo/",
+        "published_date": "2026-09-26 11:36:57",
+        "category": "Military"
     },
     {
         "title": "CDR will honor collectives and workers from Matanzas",
@@ -242,13 +249,6 @@
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/dinamarca-groenlandia-confirman-acuerdo-trump_1_1130982.html",
         "published_date": "2026-09-19 12:02:06",
-        "category": "Military"
-    },
-    {
-        "title": "New US sanctions on Cuban mining and military companies",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/sanciones-empresas-cubanas-mineras-militares/",
-        "published_date": "2026-09-18 13:13:58",
         "category": "Military"
     },
     {
@@ -371,6 +371,13 @@
         "category": "Energy"
     },
     {
+        "title": "These are the banks that will open this Saturday in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/banco-metropolitano-sucursales-abiertas-sabado-26-septiembre-2026/",
+        "published_date": "2026-09-26 10:01:07",
+        "category": "Economy"
+    },
+    {
         "title": "Build plans with workers",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260925/construir-los-planes-con-los-trabajadores/",
@@ -399,143 +406,143 @@
         "category": "Economy"
     },
     {
-        "title": "Water pumping in Havana: they plan to allocate 200 MW of solar energy",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/servicios/bombeo-agua-habana-200-mw-solares/",
-        "published_date": "2026-09-25 23:29:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Social Security will send double the money in October to these beneficiaries: confirmed dates",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/seguro-social-dos-pagos-octubre-2026-ssi-fechas/",
-        "published_date": "2026-09-25 23:00:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States studies restrictions on Cuban officials before a vote at the UN",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/politica/restricciones-funcionarios-cubanos-onu/",
-        "published_date": "2026-09-25 22:12:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Chapuz\u00f3n de Bayamo: what remains of the resort after the river floods",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/chapuzon-bayamo-crecida-rio/",
-        "published_date": "2026-09-25 21:40:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ra\u00fal Castro's son-in-law, owner of three tourist apartments in Barcelona",
+        "title": "'Ofrendas', an exhibition by Ram\u00f3n Moya",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/yerno-raul-castro-dueno-apartamentos-barcelona_1_1131206.html",
-        "published_date": "2026-09-25 21:32:33",
+        "url": "https://www.14ymedio.com/cartelera/ofrendas-exposicion-ramon-moya_1_1131218.html",
+        "published_date": "2026-09-26 14:46:34",
         "category": "Local Events"
     },
     {
-        "title": "Yendry \u2013 Song of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/todays-song/yendry-song-of-the-day-2/",
-        "published_date": "2026-09-25 21:20:25",
+        "title": "Young people enhance the radio from the Lloga In Memoriam",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260926/jovenes-realzan-a-la-radio-desde-el-lloga-in-memoriam/",
+        "published_date": "2026-09-26 14:39:43",
         "category": "Local Events"
     },
     {
-        "title": "SNAP in New York: How to get up to $10 a day for fresh food",
+        "title": "Rentals in Miami: DHS attributes the drop to immigration detentions",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/snap-nueva-york-10-dolares-alimentos-frescos/",
-        "published_date": "2026-09-25 21:12:18",
+        "url": "https://www.directoriocubano.info/estados-unidos/alquiler-miami-dhs-detenciones-migratorias/",
+        "published_date": "2026-09-26 14:27:07",
         "category": "Local Events"
     },
     {
-        "title": "The planet assumes the failure of Zero Hunger by 2030",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/el-planeta-asume-el-fracaso-de-hambre-cero-para-2030/",
-        "published_date": "2026-09-25 20:57:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "New date for the start of flights to Cuba from Europe with this airline",
+        "title": "Cuba and China inaugurate the GIT-CUJAE Cooperative School to train engineers",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/turkish-airlines-cuba-marzo-2027/",
-        "published_date": "2026-09-25 20:39:18",
+        "url": "https://www.directoriocubano.info/noticias/ciencia-tecnologia/escuela-cooperativa-git-cujae/",
+        "published_date": "2026-09-26 13:52:07",
         "category": "Local Events"
     },
     {
-        "title": "Guyana accepts deportees from the US, including Cubans, in exchange for 7.8 million dollars",
+        "title": "IHI: Six decades of dedication, science and humanity",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260926/ihi-seis-decadas-de-entrega-ciencia-y-humanidad/",
+        "published_date": "2026-09-26 13:49:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban found guilty in Florida for migrant smuggling and money laundering",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/trafico-migrantes-cubanos-veredicto-florida/",
+        "published_date": "2026-09-26 13:23:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than cinema, cultural exchange",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260926/mas-que-cine-intercambio-cultural/",
+        "published_date": "2026-09-26 13:20:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flesh-eating bacteria: 12 deaths in Florida and Louisiana in 2026",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/bacteria-come-carne-florida-luisiana-2026/",
+        "published_date": "2026-09-26 13:19:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Cuban is convicted in Florida for a network that charged up to $40,000 per migrant",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/guyana-acepta-deportados-ee-uu_1_1131202.html",
-        "published_date": "2026-09-25 20:28:15",
+        "url": "https://www.14ymedio.com/cuba/condenan-cubano-florida-red-cobraba_1_1131214.html",
+        "published_date": "2026-09-26 13:18:58",
         "category": "Local Events"
     },
     {
-        "title": "In this state they pay $21.69 an hour for cleaning jobs",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/empleo-limpieza-california-truckee/",
-        "published_date": "2026-09-25 20:09:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba Receives a New Shipment of Solar Panels from China",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/cuba-receives-a-new-shipment-of-solar-panels-from-china/",
-        "published_date": "2026-09-25 20:00:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "ETECSA stops the expansion of public WiFi in Cuba due to blackouts",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/etecsa-frena-la-expansion-de-las-wifi-publicas-en-cuba-por-los-apagones/",
-        "published_date": "2026-09-25 19:01:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Russia and Iran: diplomatic solution is the only viable one to guarantee peace in Western Asia",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/rusia-e-iran-salida-diplomatica-es-la-unica-viable-para-garantizar-paz-en-asia-occidental/",
-        "published_date": "2026-09-25 18:38:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "'I dream of Mart\u00ed in the Alameda' for Hispanic Heritage Month",
+        "title": "\u2018Form, Line, and the Language of Sculpture\u2019, by Roberto Estopi\u00f1\u00e1n",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/sueno-marti-alameda-mes-herencia_1_1131200.html",
-        "published_date": "2026-09-25 18:13:18",
+        "url": "https://www.14ymedio.com/cartelera/form-line-and-the-language_1_1131211.html",
+        "published_date": "2026-09-26 12:49:36",
         "category": "Local Events"
     },
     {
-        "title": "ETECSA recognizes 77,000 fixed telephone services interrupted in Cuba",
+        "title": "Audit questions ICE spending on immigration detention",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/telefonia-fija-cuba-reportes-etecsa/",
-        "published_date": "2026-09-25 18:09:41",
+        "url": "https://www.directoriocubano.info/emigracion/auditoria-gastos-ice-detencion-migratoria/",
+        "published_date": "2026-09-26 12:43:07",
         "category": "Local Events"
     },
     {
-        "title": "Southwest reports changes to its flights to Cuba",
+        "title": "Retrospective exhibition '10 years on fire'",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cartelera/exposicion-retrospectiva-10-anos-encendios_1_1131209.html",
+        "published_date": "2026-09-26 12:38:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blackouts in Cuba: an impact of 1,950 MW is expected during peak hours",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/southwest-vuelos-cuba-tampa-habana/",
-        "published_date": "2026-09-25 17:41:33",
+        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-26-septiembre-2026/",
+        "published_date": "2026-09-26 12:25:07",
         "category": "Local Events"
     },
     {
-        "title": "Leo XIV at UNESCO: AI, peace and human dignity",
+        "title": "Florida Amendment 3: How Could It Affect Rents?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/economia/enmienda-3-florida-alquileres/",
+        "published_date": "2026-09-26 12:11:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba raises its voice again at the UN",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/leon-xiv-en-unesco-ia-paz-y-dignidad-humana/",
-        "published_date": "2026-09-25 17:15:55",
+        "url": "https://www.5septiembre.cu/cuba-alza-su-voz-otra-vez-en-la-onu/",
+        "published_date": "2026-09-26 11:44:27",
         "category": "Local Events"
     },
     {
-        "title": "More than 270 million dollars were raised by the Cuban Embassy in the United States, according to leaked documents",
+        "title": "More than 200 ship trips from the United States to Cuba in 2026",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/270-millones-embajada-cuba-estados-unidos-documentos-filtrados/",
-        "published_date": "2026-09-25 16:55:44",
+        "url": "https://www.directoriocubano.info/noticias/economia/viajes-buques-estados-unidos-cuba-2026/",
+        "published_date": "2026-09-26 11:40:07",
         "category": "Local Events"
     },
     {
-        "title": "Pinar del R\u00edo: 12 years in prison for sabotage in a photovoltaic park",
+        "title": "New absolute record for the dollar and the euro in Cuba: this is how the exchange rates are today",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/politica/condena-sabotaje-parque-fotovoltaico-pinar-del-rio/",
-        "published_date": "2026-09-25 16:41:16",
+        "url": "https://www.directoriocubano.info/cuba/nuevo-record-dolar-euro-cuba-tasas-cambio-26-septiembre-2026/",
+        "published_date": "2026-09-26 11:03:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Every body counts: we have the right to live with education and without harassment",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cada-cuerpo-cuenta-tenemos-derecho-a-vivir-con-educacion-y-sin-acoso/",
+        "published_date": "2026-09-26 11:01:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Concentrated U-23 baseball preselection is classified as positive",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/califican-de-positivos-concentrados-de-preseleccion-de-beisbol-sub-23/",
+        "published_date": "2026-09-26 10:47:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "They deliver 13 Ecomobiles in Sancti Sp\u00edritus for four municipalities",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/ecomoviles-sancti-spiritus-cuatro-municipios/",
+        "published_date": "2026-09-26 10:36:10",
         "category": "Local Events"
     }
 ]
