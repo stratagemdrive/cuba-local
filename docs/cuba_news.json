@@ -1,5 +1,19 @@
 [
     {
+        "title": "With blocking, it costs more",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
+        "published_date": "2026-09-28 01:08:19",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "China demands at the UN the immediate end of the US blockade and sanctions against Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-exige-en-la-onu-el-fin-inmediato-del-bloqueo-y-las-sanciones-de-ee-uu-contra-cuba/",
+        "published_date": "2026-09-27 15:39:36",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Lavrov calls for releasing Maduro and lifting US sanctions against Cuba",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/internacional/lavrov-pide-liberar-maduro-levantar_1_1131243.html",
@@ -126,20 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\"We can work with members of the Cuban regime, but not with those who have blood on their hands\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/trabajar-miembros-regimen-cubano-no_1_1131142.html",
-        "published_date": "2026-09-24 11:16:27",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Powers of attorney, marriages and divorces: these will be the new prices at the Cuban consulates",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/poderes-matrimonios-divorcios-precios-consulados-cubanos/",
-        "published_date": "2026-09-24 00:32:26",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Trump cools the CBS alarm: he believes that an agreement will be reached and a military operation will not be necessary",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/trump-enfria-alarma-cbs-cree_1_1131239.html",
@@ -252,6 +252,27 @@
         "category": "Military"
     },
     {
+        "title": "Crimes in Cuba: they review theft of cables and fuel",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/delitos-cuba-sustraccion-cables-combustible/",
+        "published_date": "2026-09-27 19:15:08",
+        "category": "Energy"
+    },
+    {
+        "title": "The campsites of Jibacoa, between scarcity and abandonment",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/campismos-jibacoa-escasez-abandono_1_1131259.html",
+        "published_date": "2026-09-27 17:54:55",
+        "category": "Energy"
+    },
+    {
+        "title": "Silvio in Seville in the eyes of an Andalusian",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/silvio-en-sevilla-en-la-mirada-de-un-andaluz/",
+        "published_date": "2026-09-27 15:49:00",
+        "category": "Energy"
+    },
+    {
         "title": "Trial for theft of dielectric oil in Baragu\u00e1: 12 homes were left without electricity",
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/camaguey/robo-aceite-dielectrico-baragua-juicio/",
@@ -336,11 +357,11 @@
         "category": "Energy"
     },
     {
-        "title": "The new subject for Cuban children: finding where to charge the fan",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/nueva-asignatura-ninos-cubanos-encontrar_1_1130990.html",
-        "published_date": "2026-09-19 16:03:49",
-        "category": "Energy"
+        "title": "Economic and social transformations: Necessary resizing (Separata Econom\u00eda)",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260927/transformaciones-economicas-y-sociales-redimension-necesaria-separata-economia/",
+        "published_date": "2026-09-28 00:24:28",
+        "category": "Economy"
     },
     {
         "title": "Unbearable: The dollar rises again in Cuba.This is how exchange rates are today",
@@ -413,143 +434,143 @@
         "category": "Economy"
     },
     {
-        "title": "Public Health admits a deterioration of the epidemiological situation in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/salud-publica-admite-deterioro-situacion_1_1131251.html",
-        "published_date": "2026-09-27 15:30:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Relatives of the 43 students who disappeared in Ayotzinapa, Mexico march after 12 years of the event",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/familiares-de-los-43-estudiantes-desaparecidos-en-ayotzinapa-mexico-marchan-tras-12-anos-del-suceso/",
-        "published_date": "2026-09-27 15:17:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "It's Not Las Terrazas, It's My Fears",
+        "title": "The teaching of a dancer",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260927/its-not-las-terrazas-its-my-fears/",
-        "published_date": "2026-09-27 15:16:12",
+        "url": "https://www.trabajadores.cu/20260927/el-magisterio-de-una-bailarina/",
+        "published_date": "2026-09-27 23:41:45",
         "category": "Local Events"
     },
     {
-        "title": "Fake appointments in Miami-Dade: how to check if your appointment is valid?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/miami/citas-falsas-miami-dade/",
-        "published_date": "2026-09-27 15:14:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain against eviction with leadership in Puerta del Sol",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/espana-contra-desahucio-con-liderazgo-en-puerta-del-sol/",
-        "published_date": "2026-09-27 15:13:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Building the Plans with Workers",
+        "title": "Cuban volleyball: After the happy hangover",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260927/building-the-plans-with-workers/",
-        "published_date": "2026-09-27 14:59:10",
+        "url": "https://www.trabajadores.cu/20260927/voleibol-cubano-despues-de-la-feliz-resaca/",
+        "published_date": "2026-09-27 23:40:10",
         "category": "Local Events"
     },
     {
-        "title": "Cuba expands the management of SAF gastronomic establishments",
+        "title": "Failure affects manufactured gas in seven municipalities of Havana",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/economia/gestion-establecimientos-gastronomicos-saf/",
-        "published_date": "2026-09-27 14:39:08",
+        "url": "https://www.directoriocubano.info/la-habana/averia-gas-manufacturado-habana-siete-municipios/",
+        "published_date": "2026-09-27 23:30:06",
         "category": "Local Events"
     },
     {
-        "title": "They distinguish the work of prominent CDR members in Camag\u00fcey",
+        "title": "Social Security offices will close on October 12: how to process?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/tramites-usa/oficinas-seguro-social-cierre-12-octubre-2026/",
+        "published_date": "2026-09-27 23:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Berklee Black Lives Matter \u2013 Song of the Day",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/todays-song/berklee-black-lives-matter-song-of-the-day/",
+        "published_date": "2026-09-27 23:05:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Recycle as a family",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260927/distinguen-labor-de-cederistas-destacados-en-camaguey/",
-        "published_date": "2026-09-27 14:34:59",
+        "url": "https://www.trabajadores.cu/20260927/reciclar-en-familia/",
+        "published_date": "2026-09-27 22:56:54",
         "category": "Local Events"
     },
     {
-        "title": "Leo XIV offers Sunday mass in the French department of Lourdes",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/leon-xiv-ofrece-misa-dominical-en-departamento-frances-de-lourdes/",
-        "published_date": "2026-09-27 14:15:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lavrov asks the UN to lift sanctions against Cuba",
+        "title": "Payment of pensions in Guant\u00e1namo: 18,344 retirees collect through economic actors",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/politica/lavrov-sanciones-cuba-onu/",
-        "published_date": "2026-09-27 14:07:08",
+        "url": "https://www.directoriocubano.info/noticias/economia/pago-pensiones-guantanamo-actores-economicos/",
+        "published_date": "2026-09-27 22:46:00",
         "category": "Local Events"
     },
     {
-        "title": "Marrero Cruz: Economic transformations favor integration and autonomy of the Cuban business system (+ Video)",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/marrero-cruz-transformaciones-economicas-favorecen-integracion-y-autonomia-del-sistema-empresarial-cubano-video/",
-        "published_date": "2026-09-27 13:38:24",
+        "title": "Is a Peaceful Transition in Cuba Possible?",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/is-a-peaceful-transition-in-cuba-possible/",
+        "published_date": "2026-09-27 22:19:30",
         "category": "Local Events"
     },
     {
-        "title": "Police operation in Guant\u00e1namo: they seize alleged marijuana, money and utensils",
+        "title": "Are you interested in having Medicare in 2027?you have to do this",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/operativo-policial-guantanamo-presunta-marihuana-dinero/",
-        "published_date": "2026-09-27 13:33:27",
+        "url": "https://www.directoriocubano.info/tramites-usa/inscripcion-abierta-medicare-2027-fechas-costos/",
+        "published_date": "2026-09-27 22:16:00",
         "category": "Local Events"
     },
     {
-        "title": "China presents itself at the UN as a \"stabilizing force\" and calls for an AI \"oriented to good\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/china-presenta-onu-fuerza-estabilizadora_1_1131249.html",
-        "published_date": "2026-09-27 13:27:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba maintains vigilance against the seasonal rise in communicable diseases",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cuba-mantiene-vigilancia-ante-el-alza-estacional-de-las-enfermedades-transmisibles/",
-        "published_date": "2026-09-27 13:12:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "There is no impunity, but prevention requires more",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/no-hay-impunidad-pero-la-prevencion-exige-mas/",
-        "published_date": "2026-09-27 13:04:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spain debuts its two stars with a comeback against England",
+        "title": "A neighborhood market opens in Boyeros with food and toiletries",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/espana-estrena-sus-dos-estrellas-con-una-remontada-ante-inglaterra/",
-        "published_date": "2026-09-27 13:01:08",
+        "url": "https://www.directoriocubano.info/la-habana/mercado-barrio-boyeros/",
+        "published_date": "2026-09-27 21:16:07",
         "category": "Local Events"
     },
     {
-        "title": "Blackouts in Cuba: 1840 MW expected to be affected this September 27",
+        "title": "The Guiteras thermoelectric plant returns to the SEN and contributes 150 megawatts",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-27-septiembre-2026-actualizacion-20260927/",
-        "published_date": "2026-09-27 12:30:04",
+        "url": "https://www.directoriocubano.info/noticias/termoelectrica-guiteras-vuelve-sen-150-megavatios/",
+        "published_date": "2026-09-27 21:10:06",
         "category": "Local Events"
     },
     {
-        "title": "The Ministry of the Interior remains silent about a new flight of deportees from the US",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/ministerio-interior-guarda-silencio-nuevo_1_1131247.html",
-        "published_date": "2026-09-27 12:18:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heavy rains and thunderstorms will affect Cuba during the next three days",
+        "title": "Turkish Airlines postpones its direct flights to Havana until March 2027",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/lluvias-fuertes-y-tormentas-electricas-afectaran-a-cuba-durante-los-proximos-tres-dias/",
-        "published_date": "2026-09-27 12:15:48",
+        "url": "https://www.directoriocubano.info/aerolineas/turkish-airlines-vuelos-habana-marzo-2027/",
+        "published_date": "2026-09-27 21:07:00",
         "category": "Local Events"
     },
     {
-        "title": "Chavistas protest in Caracas against the \"tutelage\" of the United States over Venezuela",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/chavistas-protestan-caracas-tutelaje-ee_1_1131245.html",
-        "published_date": "2026-09-27 12:02:12",
+        "title": "Entrepreneurs",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260927/emprendedores/",
+        "published_date": "2026-09-27 20:58:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dengue in Santiago de Cuba: active transmission in three municipalities",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/santiago-de-cuba/dengue-santiago-cuba-municipios/",
+        "published_date": "2026-09-27 20:24:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pedrito Calvo's health: he is discharged in Panama after a mishap during a trip",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/salud-pedrito-calvo-alta-panama/",
+        "published_date": "2026-09-27 20:04:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Showman and Racism in Cuba",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/diaries/erick-hernandez/the-showman-and-racism-in-cuba/",
+        "published_date": "2026-09-27 19:57:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marrero talks about 194 measures and asks to motivate the population in the face of economic reforms in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/marrero-reformas-economicas-cuba/",
+        "published_date": "2026-09-27 19:52:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "With neighborhood soul",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260927/con-alma-de-barrio/",
+        "published_date": "2026-09-27 19:28:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Italian solidarity boosts Cuban culture",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260927/solidaridad-italiana-impulsa-la-cultura-cubana/",
+        "published_date": "2026-09-27 18:53:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United Kingdom advises against non-essential travel to Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/turismo/reino-unido-viajes-no-esenciales-cuba/",
+        "published_date": "2026-09-27 18:41:08",
         "category": "Local Events"
     }
 ]
