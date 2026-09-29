@@ -1,5 +1,26 @@
 [
     {
+        "title": "Cuban Foreign Minister intervenes at the UN meeting for the anniversary of Durban",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/intervino-canciller-cubano-en-reunion-de-la-onu-por-aniversario-de-durban/",
+        "published_date": "2026-09-29 14:02:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Fern\u00e1ndez de Coss\u00edo: \u201cIf the United States reduces pressure, the transformations in Cuba can go very far\u201d",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33191-fernandez-de-cossio-si-estados-unidos-reduce-la-presion-las-transformaciones-en-cuba-pueden-llegar-muy-lejos",
+        "published_date": "2026-09-29 11:22:18",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Cuban Foreign Minister regrets that UN aid cannot reach the Island due to \"pressure\" from the United States",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/canciller-cubano-lamenta-ayuda-onu_1_1131324.html",
+        "published_date": "2026-09-29 10:22:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "China underlines firm support for Cuba on the 66th anniversary of relations",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/subraya-china-apoyo-firme-a-cuba-en-aniversario-66-de-relaciones/",
@@ -119,25 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "From cobblestones to moving images: Norway in Camag\u00fcey",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/cultura/33180-de-los-adoquines-a-las-imagenes-en-movimiento-noruega-en-camaguey",
-        "published_date": "2026-09-25 10:00:17",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Uruguay will pay Cuban doctors directly, affirms Foreign Minister Mario Lubetkin",
+        "title": "Eddy Ceballos' mother denounces the \"manipulation\" of her son's statements to accuse him of \"espionage\"",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/uruguay-pagara-directamente-medicos-cubanos_1_1131155.html",
-        "published_date": "2026-09-24 17:24:52",
-        "category": "Diplomacy"
+        "url": "https://www.14ymedio.com/cuba/madre-eddy-ceballos-denuncia-manipulacion_1_1131334.html",
+        "published_date": "2026-09-29 12:05:08",
+        "category": "Military"
     },
     {
-        "title": "New costs for Cuban certificates from abroad: how much could the process end up costing?",
+        "title": "Rubio accuses the Cuban leadership of profiting at the expense of the people and issues a warning",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/certificados-cubanos-nacimiento-matrimonio-antecedentes-precios-octubre-2/",
-        "published_date": "2026-09-24 14:21:34",
-        "category": "Diplomacy"
+        "url": "https://www.directoriocubano.info/cuba/rubio-acusa-cupula-cubana-lucrar-costa-pueblo-advertencia/",
+        "published_date": "2026-09-29 11:30:20",
+        "category": "Military"
     },
     {
         "title": "Cuba and lost illusions",
@@ -266,6 +280,20 @@
         "category": "Military"
     },
     {
+        "title": "Cuba and Russia sign bilateral protocol to strengthen cultural and sports cooperation",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33194-firman-cuba-y-rusia-protocolo-bilateral-para-fortalecer-cooperacion-cultural-y-deportiva",
+        "published_date": "2026-09-29 11:58:55",
+        "category": "Energy"
+    },
+    {
+        "title": "The women's protests in Mayari were successful: the power returned and they were given 14 pounds of rice per person",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/protestas-mujeres-mayari-tuvieron-exito_1_1131314.html",
+        "published_date": "2026-09-28 20:01:03",
+        "category": "Energy"
+    },
+    {
         "title": "Instead of oil, Cubans will have a $9 million mosque financed by Saudi Arabia",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
@@ -371,6 +399,20 @@
         "category": "Energy"
     },
     {
+        "title": "Central Bank reaffirms declaration of principles",
+        "source": "Adelante",
+        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33190-reafirma-banco-central-declaracion-de-principios",
+        "published_date": "2026-09-29 11:19:42",
+        "category": "Economy"
+    },
+    {
+        "title": "Official Note of the Central Bank of Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/nota-oficial-banco-central-cuba-investigacion-santiago-efectivo/",
+        "published_date": "2026-09-29 11:11:09",
+        "category": "Economy"
+    },
+    {
         "title": "A Neighborhood Market with MSME prices",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/mercado-barrio-precios-mipyme_1_1131291.html",
@@ -462,143 +504,143 @@
         "category": "Economy"
     },
     {
-        "title": "CDR: The unit is built in the neighborhood",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260928/cdr-la-unidad-se-construye-en-el-barrio/",
-        "published_date": "2026-09-29 01:04:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Starship reaches Earth orbit on its fourteenth flight",
+        "title": "Social Security at age 60: they will be able to collect it in full in certain jobs",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/ciencia-tecnologia/starship-orbita-terrestre-vuelo-14/",
-        "published_date": "2026-09-29 00:30:12",
+        "url": "https://www.directoriocubano.info/estados-unidos/seguro-social-60-anos-oficios-fisicos/",
+        "published_date": "2026-09-29 16:54:12",
         "category": "Local Events"
     },
     {
-        "title": "A Spanish miniseries dethrones Monstruo and leads the most popular Netflix series",
+        "title": "Last notice from the ONAT: the deadline to pay the vehicle tax in Cuba expires",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/una-miniserie-espanola-destrona-a-monstruo-y-lidera-las-series-mas-populares-de-netflix/",
-        "published_date": "2026-09-29 00:01:12",
+        "url": "https://www.directoriocubano.info/actualidad/onat-impuestos-vehiculos-embarcaciones-septiembre/",
+        "published_date": "2026-09-29 16:01:35",
         "category": "Local Events"
     },
     {
-        "title": "ETECSA generator sets work more than 20 hours during blackouts in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/grupos-electrogenos-etecsa-apagones/",
-        "published_date": "2026-09-28 23:09:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "10 migrants intercepted off Fort Lauderdale are transferred to the Bahamas",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/inmigracion/migrantes-fort-lauderdale-bahamas/",
-        "published_date": "2026-09-28 22:40:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is there help in Spain to get a driving license?These are the places where you can receive money",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/hay-ayudas-en-espana-para-sacarse-el-carne-de-conducir-estos-son-los-lugares-donde-puedes-recibir-dinero/",
-        "published_date": "2026-09-28 22:05:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00c1ngel Santiesteban is elected new Sovereign Grand Commander of Cuban Freemasonry",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/angel-santiesteban-elegido-nuevo-soberano_1_1131318.html",
-        "published_date": "2026-09-28 21:22:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pay less rent in New York: where to look and what fees to avoid?",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/new-york/pagar-menos-renta-nueva-york/",
-        "published_date": "2026-09-28 21:11:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The US deports a Cuban who missed his immigration appointment because he was in an induced coma",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/migracion/ee-uu-deporta-cubano-perdio_1_1131317.html",
-        "published_date": "2026-09-28 21:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Matanzas hosts the national event for the 66th anniversary of the CDR.(+Photos)",
+        "title": "FIT Latin America 2026 comes to an end after celebrating 30 years of life",
         "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/matanzas-acoge-el-acto-nacional-por-el-66-aniversario-de-los-cdr-fotos/",
-        "published_date": "2026-09-28 20:54:37",
+        "url": "https://www.5septiembre.cu/fit-america-latina-2026-llega-a-su-fin-tras-festejar-30-anos-de-vida/",
+        "published_date": "2026-09-29 15:45:10",
         "category": "Local Events"
     },
     {
-        "title": "Immigration detention in the United States: families and children in custody in Texas",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/detencion-migratoria-estados-unidos-familias-texas/",
-        "published_date": "2026-09-28 20:42:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Night of Rain and Colors, Bogota, Colombia \u2013 Photo of the Day",
+        "title": "The Scourge of Addiction Right Out My Havana Front Door",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/a-night-of-rain-and-colors-bogota-colombia-photo-of-the-day/",
-        "published_date": "2026-09-28 20:36:33",
+        "url": "https://havanatimes.org/diaries/ernesto-gonzalez/the-scourge-of-addiction-right-out-my-havana-front-door/",
+        "published_date": "2026-09-29 15:43:34",
         "category": "Local Events"
     },
     {
-        "title": "Confusion over the new passport price causes chaos in Guanabacoa",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/confusion-nuevo-precio-pasaporte-provoca_1_1131310.html",
-        "published_date": "2026-09-28 20:13:48",
+        "title": "China exceeds 700 million generative AI users",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/china-supera-los-700-millones-de-usuarios-de-ia-generativa/",
+        "published_date": "2026-09-29 15:42:01",
         "category": "Local Events"
     },
     {
-        "title": "Miami maintains 287(g) agreement with ICE after new claim to cancel it",
+        "title": "State company seeks support from private parties to produce more beer and soft drinks in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/miami/miami-acuerdo-287g-ice-reclamo/",
-        "published_date": "2026-09-28 20:06:01",
+        "url": "https://www.directoriocubano.info/actualidad/bebidas-refrescos-granma-mipymes-produccion/",
+        "published_date": "2026-09-29 15:33:30",
         "category": "Local Events"
     },
     {
-        "title": "Gasoline in Florida: a gallon rises to $4.34 and it costs more to fill the tank",
+        "title": "International News Briefs for Tuesday, September 29, 2026",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-september-29-2026/",
+        "published_date": "2026-09-29 15:22:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you have Galician roots and live in Cuba?This call from the Xunta may interest you",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/florida/gasolina-florida-precio-septiembre-2026/",
-        "published_date": "2026-09-28 19:38:01",
+        "url": "https://www.directoriocubano.info/actualidad/xuventude-crea-2026-cubanos-origen-gallego/",
+        "published_date": "2026-09-29 15:09:14",
         "category": "Local Events"
     },
     {
-        "title": "Four arrested in Cajobabo during a night operation",
+        "title": "Havanatur launches an offer in Varadero for $80: what it includes and how to book",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/detenidos-cajobabo-operativo-nocturno/",
-        "published_date": "2026-09-28 19:26:07",
+        "url": "https://www.directoriocubano.info/actualidad/day-pass-hotel-bella-costa-havanatur/",
+        "published_date": "2026-09-29 14:39:11",
         "category": "Local Events"
     },
     {
-        "title": "ETECSA recognizes that it takes up to two months to attend to breakdowns and repairs",
+        "title": "Spain approves two housing decrees: what they propose for rents and evictions",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/apagones-combustible-reparaciones-etecsa/",
-        "published_date": "2026-09-28 19:04:01",
+        "url": "https://www.directoriocubano.info/panorama/espana-aprueba-dos-decretos-de-vivienda-que-proponen-para-los-alquileres-y-los-desahucios/",
+        "published_date": "2026-09-29 14:18:11",
         "category": "Local Events"
     },
     {
-        "title": "Messi scores a great goal from an impossible free kick, but Inter Miami loses in the last breath",
+        "title": "More than 51 thousand electoral complaints are registered in Brazil",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/registran-en-brasil-mas-de-51-mil-denuncias-electorales/",
+        "published_date": "2026-09-29 14:16:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rome hosts Euro-Mediterranean Water Forum to promote cooperation",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/roma-acoge-foro-euromediterraneo-del-agua-para-impulsar-cooperacion/",
+        "published_date": "2026-09-29 14:13:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "More options are added to the charter flight plan between the United States and Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/messi-marca-un-golazo-de-falta-imposible-pero-inter-miami-pierde-en-el-ultimo-suspiro/",
-        "published_date": "2026-09-28 18:35:56",
+        "url": "https://www.directoriocubano.info/estados-unidos/vuelos-charter-houston-cuba-invicta-actualizacion-20260928/",
+        "published_date": "2026-09-29 14:08:51",
         "category": "Local Events"
     },
     {
-        "title": "The Guiteras breaks again: eight days of repairs for only 16 hours of service",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/guiteras-vuelve-romperse-ocho-dias_1_1131309.html",
-        "published_date": "2026-09-28 18:28:27",
+        "title": "Pioneering elections today in Cuba in tribute to Paquito Gonz\u00e1lez",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/elecciones-pioneriles-hoy-en-cuba-en-homenaje-a-paquito-gonzalez/",
+        "published_date": "2026-09-29 13:58:04",
         "category": "Local Events"
     },
     {
-        "title": "Packages to Margarita Island from Havana: prices and services included",
+        "title": "Tropical Storm Hanna does not pose any danger to Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/tormenta-tropical-hanna-no-ofrece-peligro-para-cuba/",
+        "published_date": "2026-09-29 13:42:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Studies on hereditary ataxias are being developed in Cuba",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/desarrollan-en-cuba-estudios-sobre-las-ataxias-hereditarias/",
+        "published_date": "2026-09-29 13:37:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "USCIS sends new letters to immigrants: what they mean and when you should act",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/paquetes-isla-margarita-la-habana-precios/",
-        "published_date": "2026-09-28 18:09:20",
+        "url": "https://www.directoriocubano.info/cuba/uscis-nuevas-cartas-inmigrantes-biometricos-fbi-que-significan/",
+        "published_date": "2026-09-29 13:34:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuban Raidel Mart\u00ednez reaches 42 saves in Japan",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cubano-raidel-martinez-alcanza-los-42-salvamentos-en-japon/",
+        "published_date": "2026-09-29 13:29:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Powerball September 28, 2026: A published combination contains an error",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/powerball-28-septiembre-2026-combinacion-erronea/",
+        "published_date": "2026-09-29 13:15:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "New banking changes are being prepared in Cuba",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/cambios-bancarios-cuba-creditos-ahorro/",
+        "published_date": "2026-09-29 13:01:12",
         "category": "Local Events"
     }
 ]
