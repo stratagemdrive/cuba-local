@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuba, 43 times against the blockade on the UN podium",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-43-veces-contra-el-bloqueo-en-podio-de-la-onu/",
+        "published_date": "2026-09-29 19:18:35",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban Foreign Minister denounces new lies from the United States",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/canciller-cubano-denuncia-nuevas-mentiras-de-estados-unidos/",
+        "published_date": "2026-09-29 19:03:22",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cuban Foreign Minister intervenes at the UN meeting for the anniversary of Durban",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/intervino-canciller-cubano-en-reunion-de-la-onu-por-aniversario-de-durban/",
@@ -126,18 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Italy brings solidarity and solar energy to Cuba in difficult times",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/italia-trae-a-cuba-solidaridad-y-energia-solar-en-tiempos-dificiles/",
-        "published_date": "2026-09-25 16:57:45",
-        "category": "Diplomacy"
+        "title": "The community dimension of the Matanzas military hospital",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260929/la-dimension-comunitaria-del-hospital-militar-de-matanzas/",
+        "published_date": "2026-09-29 18:59:32",
+        "category": "Military"
     },
     {
-        "title": "Torricelli Law: three decades of suffocation against Cuba",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/coberturas/118-bloqueo-a-cuba/33185-ley-torricelli-tres-decadas-de-asfixia-contra-cuba",
-        "published_date": "2026-09-25 12:42:23",
-        "category": "Diplomacy"
+        "title": "At least six of the 89 killed in military service since 2017 were minors",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/seis-89-muertos-servicio_1_1131335.html",
+        "published_date": "2026-09-29 16:52:51",
+        "category": "Military"
     },
     {
         "title": "Eddy Ceballos' mother denounces the \"manipulation\" of her son's statements to accuse him of \"espionage\"",
@@ -266,20 +280,6 @@
         "category": "Military"
     },
     {
-        "title": "Letter from Che to doctor Daniel Gispert Garc\u00eda",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260922/carta-del-che-al-medico-daniel-gispert-garcia/",
-        "published_date": "2026-09-22 05:57:39",
-        "category": "Military"
-    },
-    {
-        "title": "An 18-year-old young man is shot to death during Military Service in Manzanillo",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/muere-disparo-joven-18-anos_1_1131050.html",
-        "published_date": "2026-09-21 18:24:49",
-        "category": "Military"
-    },
-    {
         "title": "Cuba and Russia sign bilateral protocol to strengthen cultural and sports cooperation",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33194-firman-cuba-y-rusia-protocolo-bilateral-para-fortalecer-cooperacion-cultural-y-deportiva",
@@ -399,6 +399,34 @@
         "category": "Energy"
     },
     {
+        "title": "They freeze the accounts of Cuban MSMEs in US banks",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
+        "published_date": "2026-09-29 21:48:05",
+        "category": "Economy"
+    },
+    {
+        "title": "New US sanctions on Cuba: changes for banks and travelers from September 30",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/sanciones-estados-unidos-cuba-bancos-viajes/",
+        "published_date": "2026-09-29 20:26:06",
+        "category": "Economy"
+    },
+    {
+        "title": "The Minister of Economy denies contacts of Trump companies with the Cuban Government",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/ministro-economia-niega-contactos-empresas_1_1131338.html",
+        "published_date": "2026-09-29 17:40:59",
+        "category": "Economy"
+    },
+    {
+        "title": "New job opportunity with AICS Havana",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260929/nueva-oportunidad-laboral-con-aics-la-habana/",
+        "published_date": "2026-09-29 15:51:11",
+        "category": "Economy"
+    },
+    {
         "title": "Central Bank reaffirms declaration of principles",
         "source": "Adelante",
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33190-reafirma-banco-central-declaracion-de-principios",
@@ -504,143 +532,143 @@
         "category": "Economy"
     },
     {
-        "title": "Social Security at age 60: they will be able to collect it in full in certain jobs",
+        "title": "These are the prices in the so-called neighborhood markets in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/seguro-social-60-anos-oficios-fisicos/",
-        "published_date": "2026-09-29 16:54:12",
+        "url": "https://www.directoriocubano.info/tiendas-en-cuba/mercado-barrio-contramaestre-precios/",
+        "published_date": "2026-09-30 00:33:12",
         "category": "Local Events"
     },
     {
-        "title": "Last notice from the ONAT: the deadline to pay the vehicle tax in Cuba expires",
+        "title": "ICE's 90-second rule: what it means for immigrants",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/onat-impuestos-vehiculos-embarcaciones-septiembre/",
-        "published_date": "2026-09-29 16:01:35",
+        "url": "https://www.directoriocubano.info/emigracion/regla-90-segundos-ice-arrestos/",
+        "published_date": "2026-09-30 00:06:12",
         "category": "Local Events"
     },
     {
-        "title": "FIT Latin America 2026 comes to an end after celebrating 30 years of life",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/fit-america-latina-2026-llega-a-su-fin-tras-festejar-30-anos-de-vida/",
-        "published_date": "2026-09-29 15:45:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Scourge of Addiction Right Out My Havana Front Door",
+        "title": "Interview With Author Zilla Jones about \u201cThe World So Wide\u201d",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/ernesto-gonzalez/the-scourge-of-addiction-right-out-my-havana-front-door/",
-        "published_date": "2026-09-29 15:43:34",
+        "url": "https://havanatimes.org/book-reviews-interviews/interview-with-author-zilla-jones-about-the-world-so-wide/",
+        "published_date": "2026-09-29 23:57:34",
         "category": "Local Events"
     },
     {
-        "title": "China exceeds 700 million generative AI users",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/china-supera-los-700-millones-de-usuarios-de-ia-generativa/",
-        "published_date": "2026-09-29 15:42:01",
+        "title": "For the balance of the world, return to Havana",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260929/por-el-equilibrio-del-mundo-regresa-a-la-habana/",
+        "published_date": "2026-09-29 23:47:17",
         "category": "Local Events"
     },
     {
-        "title": "State company seeks support from private parties to produce more beer and soft drinks in Cuba",
+        "title": "You won't believe how much the dollar and the euro are: sharp increase in exchange rates in Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/bebidas-refrescos-granma-mipymes-produccion/",
-        "published_date": "2026-09-29 15:33:30",
+        "url": "https://www.directoriocubano.info/cuba/dolar-euro-cuba-fuerte-aumento-divisas-29-septiembre-2026/",
+        "published_date": "2026-09-29 23:45:08",
         "category": "Local Events"
     },
     {
-        "title": "International News Briefs for Tuesday, September 29, 2026",
+        "title": "Who will be able to receive the $500 dollars in the United States?October 2026 payments in the United States",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/pagos-octubre-2026-reembolso-500-ssi/",
+        "published_date": "2026-09-29 23:02:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deportations to El Salvador: court reviews investigation for contempt",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/inmigracion/deportaciones-el-salvador-desacato/",
+        "published_date": "2026-09-29 22:59:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "They predict record prices for air tickets for the next 12 weeks",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/vuelos-thanksgiving-navidad-2026-precios/",
+        "published_date": "2026-09-29 22:33:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 17 migrants who arrived on the shores of Santiago de Cuba return to Haiti",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/regresan-haiti-17-migrantes-playa-siboney-santiago-cuba/",
+        "published_date": "2026-09-29 22:12:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tom Homan warns of deportations to migrant caravan advancing through Mexico",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/emigracion/homan-caravana-migrante-mexico/",
+        "published_date": "2026-09-29 22:05:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holguin CTC prioritizes attention to workers with disabilities",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260929/ctc-holguinera-prioriza-atencion-a-trabajadores-con-discapacidad/",
+        "published_date": "2026-09-29 22:04:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Multiple accident on V\u00eda Blanca leaves several vehicles damaged in Havana",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/la-habana/accidente-multiple-via-blanca-la-habana/",
+        "published_date": "2026-09-29 21:24:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Price of the Cuban passport in Cuba: MININT clarifies the fee",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/tramites/precio-pasaporte-cubano-cuba/",
+        "published_date": "2026-09-29 21:16:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela: Protest over Wages, Elections & Machado\u2019s Return",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-september-29-2026/",
-        "published_date": "2026-09-29 15:22:08",
+        "url": "https://havanatimes.org/news/venezuela-protest-over-wages-elections-machados-return/",
+        "published_date": "2026-09-29 20:46:09",
         "category": "Local Events"
     },
     {
-        "title": "Do you have Galician roots and live in Cuba?This call from the Xunta may interest you",
+        "title": "Breaking news: The United States limits travel to Cuba and eliminates important authorizations",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/xuventude-crea-2026-cubanos-origen-gallego/",
-        "published_date": "2026-09-29 15:09:14",
+        "url": "https://www.directoriocubano.info/estados-unidos/estados-unidos-endurece-viajes-cuba-elimina-autorizaciones-septiembre-2026/",
+        "published_date": "2026-09-29 20:43:29",
         "category": "Local Events"
     },
     {
-        "title": "Havanatur launches an offer in Varadero for $80: what it includes and how to book",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/day-pass-hotel-bella-costa-havanatur/",
-        "published_date": "2026-09-29 14:39:11",
+        "title": "Cuba is left without medals after the defeat against Germany in the U-15 World Cup",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/cuba-queda-medallas-derrota-alemania_1_1131350.html",
+        "published_date": "2026-09-29 20:22:23",
         "category": "Local Events"
     },
     {
-        "title": "Spain approves two housing decrees: what they propose for rents and evictions",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/espana-aprueba-dos-decretos-de-vivienda-que-proponen-para-los-alquileres-y-los-desahucios/",
-        "published_date": "2026-09-29 14:18:11",
+        "title": "Fernando Guardado, host of the program 'Palmas y Canas' for 39 years, dies",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/muere-fernando-guardado-conductor-programa_1_1131348.html",
+        "published_date": "2026-09-29 20:21:44",
         "category": "Local Events"
     },
     {
-        "title": "More than 51 thousand electoral complaints are registered in Brazil",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/registran-en-brasil-mas-de-51-mil-denuncias-electorales/",
-        "published_date": "2026-09-29 14:16:18",
+        "title": "Living off garbage: the poorest collect waste in the neighborhoods of Havana",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/vivir-basura-pobres-recolectan-desechos_1_1131345.html",
+        "published_date": "2026-09-29 20:08:03",
         "category": "Local Events"
     },
     {
-        "title": "Rome hosts Euro-Mediterranean Water Forum to promote cooperation",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/roma-acoge-foro-euromediterraneo-del-agua-para-impulsar-cooperacion/",
-        "published_date": "2026-09-29 14:13:35",
+        "title": "The authorities minimize the epidemiological crisis in Cuba despite worrying signs",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/autoridades-minimizan-crisis-epidemiologica-cuba_1_1131341.html",
+        "published_date": "2026-09-29 19:59:24",
         "category": "Local Events"
     },
     {
-        "title": "More options are added to the charter flight plan between the United States and Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/vuelos-charter-houston-cuba-invicta-actualizacion-20260928/",
-        "published_date": "2026-09-29 14:08:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pioneering elections today in Cuba in tribute to Paquito Gonz\u00e1lez",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/elecciones-pioneriles-hoy-en-cuba-en-homenaje-a-paquito-gonzalez/",
-        "published_date": "2026-09-29 13:58:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tropical Storm Hanna does not pose any danger to Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/tormenta-tropical-hanna-no-ofrece-peligro-para-cuba/",
-        "published_date": "2026-09-29 13:42:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Studies on hereditary ataxias are being developed in Cuba",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/desarrollan-en-cuba-estudios-sobre-las-ataxias-hereditarias/",
-        "published_date": "2026-09-29 13:37:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "USCIS sends new letters to immigrants: what they mean and when you should act",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/uscis-nuevas-cartas-inmigrantes-biometricos-fbi-que-significan/",
-        "published_date": "2026-09-29 13:34:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban Raidel Mart\u00ednez reaches 42 saves in Japan",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/cubano-raidel-martinez-alcanza-los-42-salvamentos-en-japon/",
-        "published_date": "2026-09-29 13:29:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Powerball September 28, 2026: A published combination contains an error",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/powerball-28-septiembre-2026-combinacion-erronea/",
-        "published_date": "2026-09-29 13:15:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "New banking changes are being prepared in Cuba",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/cuba/cambios-bancarios-cuba-creditos-ahorro/",
-        "published_date": "2026-09-29 13:01:12",
+        "title": "Lula or Bolsonaro?Brazil Votes to Elect a President on Oct. 4th",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/lula-or-bolsonaro-brazil-votes-to-elect-a-president-on-oct-4th/",
+        "published_date": "2026-09-29 19:41:17",
         "category": "Local Events"
     }
 ]
