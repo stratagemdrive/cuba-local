@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cuban Foreign Minister calls US deportations xenophobic",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/canciller-cubano-tilda-de-xenofobas-deportaciones-de-eeuu/",
+        "published_date": "2026-09-30 21:17:55",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Cuban ambassador to the Holy See highlights links between culture, religion and diplomacy",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20260930/embajador-cubano-ante-la-santa-sede-destaca-los-vinculos-entre-cultura-religion-y-diplomacia/",
+        "published_date": "2026-09-30 17:30:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The Chinese ambassador in Havana gives a market economy class to 'Cubadebate'",
         "source": "14ymedio",
         "url": "https://www.14ymedio.com/cuba/embajador-chino-habana-da-clase_1_1131372.html",
@@ -123,20 +137,6 @@
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20260926/si-luchamos-con-determinacion-un-mundo-mejor-sera-posible/",
         "published_date": "2026-09-26 17:08:26",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Cuban regime complains that US sanctions slow down economic reforms on the island",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/regimen-cubano-queja-sanciones-ee_1_1131213.html",
-        "published_date": "2026-09-26 13:09:06",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The US studies more restrictions on Cuban officials at the UN and maintains a military threat",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/ee-uu-estudia-mas-restricciones-a-funcionarios-de-cuba-en-la-onu-y-mantiene-amenaza-militar/",
-        "published_date": "2026-09-26 10:42:58",
         "category": "Diplomacy"
     },
     {
@@ -266,11 +266,18 @@
         "category": "Military"
     },
     {
-        "title": "The United States, Denmark and Greenland sign the security agreement at the UN",
+        "title": "Without fuel or energy: Cuban radio barely transmits a few hours a day",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/radio-victoria-las-tunas-transmisiones-beisbol/",
+        "published_date": "2026-09-30 22:15:06",
+        "category": "Energy"
+    },
+    {
+        "title": "US fuel sales to Cuba already exceed Venezuelan deliveries during Ch\u00e1vez's time",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/estados-unidos-dinamarca-groenlandia-firman_1_1131092.html",
-        "published_date": "2026-09-22 17:08:30",
-        "category": "Military"
+        "url": "https://www.14ymedio.com/cuba/ventas-combustible-ee-uu-cuba_1_1131385.html",
+        "published_date": "2026-09-30 20:16:33",
+        "category": "Energy"
     },
     {
         "title": "Cuba and Russia sign bilateral protocol to strengthen cultural and sports cooperation",
@@ -383,6 +390,13 @@
         "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33172-diaz-canel-en-criterio-compartido-producir-mas-enfrentar-la-crisis-energetica-y-transformar-sin-abandonar-el-socialismo",
         "published_date": "2026-09-23 10:59:44",
         "category": "Energy"
+    },
+    {
+        "title": "Cuban cooperative seeks to become a MSME to reactivate its production",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/cooperativa-cienfuegos-mipyme-produccion/",
+        "published_date": "2026-09-30 19:09:18",
+        "category": "Economy"
     },
     {
         "title": "What will happen to the money of Cuban entrepreneurs in US banks?",
@@ -518,150 +532,143 @@
         "category": "Economy"
     },
     {
-        "title": "According to surveys, fewer and fewer Americans support Trump: economy and war lower his popularity",
+        "title": "New Florida driver's licenses: do you have to change the current one?",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/estados-unidos/menos-estadounidenses-apoyan-trump-economia-guerra-popularidad/",
-        "published_date": "2026-09-22 21:10:21",
-        "category": "Economy"
-    },
-    {
-        "title": "Actors expand their registry",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260930/actores-amplian-su-registro/",
-        "published_date": "2026-09-30 16:33:33",
+        "url": "https://www.directoriocubano.info/florida/nuevas-licencias-conducir-florida/",
+        "published_date": "2026-10-01 01:04:38",
         "category": "Local Events"
     },
     {
-        "title": "Job fair for students",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260930/feria-de-empleo-para-estudiantes/",
-        "published_date": "2026-09-30 16:30:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Casa Italia, a Small Hotel on 5th Avenue in Miramar, Havana",
+        "title": "Partial Collapse Puts 300+ Centro Habana Residents on Alert",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-feature/casa-italia-a-small-hotel-on-5th-avenue-in-miramar-havana/",
-        "published_date": "2026-09-30 16:28:37",
+        "url": "https://havanatimes.org/news/partial-collapse-puts-300-centro-habana-residents-on-alert/",
+        "published_date": "2026-10-01 00:58:02",
         "category": "Local Events"
     },
     {
-        "title": "Cubatur offers for Varadero: accommodation and transfers before November",
+        "title": "Latino vote in the United States: survey points to a Democratic advance",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/ofertas-cubatur-varadero-traslados-alojamiento/",
-        "published_date": "2026-09-30 16:06:12",
+        "url": "https://www.directoriocubano.info/acontecer/voto-latino-encuesta-democratas-2026/",
+        "published_date": "2026-10-01 00:34:38",
         "category": "Local Events"
     },
     {
-        "title": "Worker leaders are trained on the Labor Code",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260930/se-capacitan-dirigentes-obreros-sobre-codigo-de-trabajo/",
-        "published_date": "2026-09-30 15:56:46",
+        "title": "Cyclones in Cuba during October: what does the hurricane history show?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/el-tiempo/ciclones-cuba-octubre-historial/",
+        "published_date": "2026-09-30 23:59:38",
         "category": "Local Events"
     },
     {
-        "title": "A partial collapse puts more than 300 residents of Central Havana on alert",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/derrumbe-parcial-pone-alerta-300_1_1131379.html",
-        "published_date": "2026-09-30 15:29:08",
+        "title": "Florida minimum wage reaches $15 an hour",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/florida/salario-minimo-florida-15-dolares-2026/",
+        "published_date": "2026-09-30 23:31:38",
         "category": "Local Events"
     },
     {
-        "title": "Three Big Lies Cuba\u2019s Deputy FM told PBS News Hour",
+        "title": "Havana Weather for October 1-7",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/features/three-big-lies-cubas-deputy-fm-told-pbs-news-hour/",
-        "published_date": "2026-09-30 15:11:13",
+        "url": "https://havanatimes.org/weather/havana-weather-for-october-1-7-2/",
+        "published_date": "2026-09-30 23:25:44",
         "category": "Local Events"
     },
     {
-        "title": "Water supply in Pinar del R\u00edo: 159,171 inhabitants affected",
+        "title": "Trump asks to be attentive to what Marco Rubio will do with Cuba",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/pinar-del-rio/abasto-agua-pinar-del-rio-afectados/",
-        "published_date": "2026-09-30 15:11:13",
+        "url": "https://www.directoriocubano.info/noticias/politica/trump-marco-rubio-cuba/",
+        "published_date": "2026-09-30 23:21:09",
         "category": "Local Events"
     },
     {
-        "title": "DHS denies suspension of ICE arrests for immigrants without criminal records",
+        "title": "United States Coast Guard confirms shipwreck of boat with about 60 migrants",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/inmigracion/dhs-arrestos-ice-inmigrantes-sin-antecedentes/",
-        "published_date": "2026-09-30 15:11:04",
+        "url": "https://www.directoriocubano.info/emigracion/guardia-costera-estados-unidos-naufragio-lancha-60-migrantes/",
+        "published_date": "2026-09-30 23:06:21",
         "category": "Local Events"
     },
     {
-        "title": "Inflation is also measured in the empty space of the stock market",
+        "title": "New Costco stores: US cities with planned openings",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/acontecer/nuevas-tiendas-costco-estados-unidos/",
+        "published_date": "2026-09-30 22:46:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gazette of the new Cuban consular fee: charges and exemptions since October",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/embajadas/arancel-consular-cubano-octubre-2026/",
+        "published_date": "2026-09-30 22:44:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another feminicide in Cuba leaves four girls without a mother",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/blogs/generacion-y/inflacion-mide-espacio-vacio-bolsa_132_1131376.html",
-        "published_date": "2026-09-30 15:02:55",
+        "url": "https://www.14ymedio.com/cuba/feminicidio-cuba-deja-cuatro-ninas_1_1131400.html",
+        "published_date": "2026-09-30 22:07:00",
         "category": "Local Events"
     },
     {
-        "title": "Unions denounce \u201cabusive\u201d minimum services in the educational strike",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260930/sindicatos-denuncian-servicios-minimos-abusivos-en-la-huelga-educativa/",
-        "published_date": "2026-09-30 14:59:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mega Millions results for September 29: winning numbers",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/entretenimiento/resultados-mega-millions-29-septiembre-2026/",
-        "published_date": "2026-09-30 14:50:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blackouts in Cuba: an impact of 1980 MW is expected for the night",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-30-septiembre-2026-actualizacion-20260930/",
-        "published_date": "2026-09-30 14:42:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "International News Briefs for Wednesday, September 30, 2026",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-september-30-2026/",
-        "published_date": "2026-09-30 14:37:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new measures in Spain that will allow Cubans who live in rent to save",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/panorama/las-nuevas-medidas-en-espana-que-permitiran-ahorrar-a-los-cubanos-que-viven-de-alquiler/",
-        "published_date": "2026-09-30 14:15:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Buses resume in Cienfuegos: routes, schedules and prices",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/omnibus-cienfuegos-rutas-horarios-precios/",
-        "published_date": "2026-09-30 14:04:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Impulsa S.U.R.L is looking for Sales Representative",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260930/impulsa-s-u-r-l-busca-comercial-de-ventas/",
-        "published_date": "2026-09-30 14:00:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The UN denounces a regime of terror in occupied areas of the DRC",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/denuncian-en-onu-regimen-de-terror-en-zonas-ocupadas-de-rdc/",
-        "published_date": "2026-09-30 13:49:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "US Supreme Court authorizes Trump to resume deportation of migrants to third countries",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/corte-suprema-de-eeuu-autoriza-a-trump-a-reanudar-deportacion-de-migrantes-a-terceros-paises/",
-        "published_date": "2026-09-30 13:44:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Great retrospective 'Felix Gonzalez-Torres: The Spaces Between'",
+        "title": "A Russian network made up of Cubans and Venezuelans planned to assassinate the opponent Garry Kasparov in the United States",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/gran-retrospectiva-felix-gonzalez-torres_1_1131374.html",
-        "published_date": "2026-09-30 13:42:51",
+        "url": "https://www.14ymedio.com/internacional/red-rusa-integrada-cubanos-venezolanos_1_1131382.html",
+        "published_date": "2026-09-30 21:53:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Working families turn to food pantries in South Florida",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/usa/ayuda-economica/despensas-alimentos-sur-florida-familias/",
+        "published_date": "2026-09-30 21:42:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Starting today new Florida driver's license: what changes and when it will be available",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/nueva-licencia-conducir-florida/",
+        "published_date": "2026-09-30 21:03:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vima, Gaesa's Spanish partner, begins its withdrawal from Cuba to avoid US sanctions",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/vima-socia-espanola-gaesa-empieza_1_1131390.html",
+        "published_date": "2026-09-30 21:03:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Possible remains of the Cuban doctor who disappeared in Torrej\u00f3n are found in a landfill in Madrid",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/migracion/hallan-vertedero-madrid-posibles-restos_1_1131393.html",
+        "published_date": "2026-09-30 20:31:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Travel reservations: waiting for a discount was expensive for Florida travelers",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/aerolineas/reservas-viajes-florida-esperar-pagar-mas/",
+        "published_date": "2026-09-30 20:30:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Central American field hockey medalists receive $154 in \"stimulus\"",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/deportes/medallistas-hockey-cesped-centroamericanos-reciben_1_1131384.html",
+        "published_date": "2026-09-30 20:11:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Havana flight schedule in October: routes and frequencies",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/actualidad/calendario-vuelos-habana-octubre/",
+        "published_date": "2026-09-30 20:09:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Taxes on Social Security benefits: when can they be applied?",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/impuestos-beneficios-seguro-social/",
+        "published_date": "2026-09-30 19:36:06",
         "category": "Local Events"
     }
 ]
