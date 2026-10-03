@@ -1,5 +1,12 @@
 [
     {
+        "title": "Fern\u00e1ndez de Coss\u00edo: US blockade causes damage to the Cuban people",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/fernandez-de-cossio-bloqueo-de-eeuu-causa-danos-al-pueblo-cubano/",
+        "published_date": "2026-10-03 13:06:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Sentences of up to 20 years for sabotage of the electrical system at L\u00e1cteo de La Habana ratified",
         "source": "Trabajadores",
         "url": "https://www.trabajadores.cu/20261002/ratificada-condenas-de-hasta-20-anos-por-sabotaje-al-sistema-electrico-en-lacteo-de-la-habana/",
@@ -133,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "In Cienfuegos the blockade affects services of the Cuban Telecommunications Company",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/en-cienfuegos-afecta-el-bloqueo-servicios-de-la-empresa-de-telecomunicaciones-de-cuba/",
-        "published_date": "2026-09-26 20:39:52",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Israeli army maintains hostile acts in the West Bank",
         "source": "5 Septiembre",
         "url": "https://www.5septiembre.cu/ejercito-israeli-mantiene-actos-hostiles-en-cisjordania/",
@@ -224,11 +224,11 @@
         "category": "Military"
     },
     {
-        "title": "CDR will honor collectives and workers from Matanzas",
-        "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20260925/cdr-honraran-a-colectivos-y-trabajadores-matanceros/",
-        "published_date": "2026-09-25 14:32:47",
-        "category": "Military"
+        "title": "Havana is rolling again, but it's still in the dark",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/habana-vuelve-rodar-sigue-oscuras_1_1131483.html",
+        "published_date": "2026-10-03 13:55:50",
+        "category": "Energy"
     },
     {
         "title": "G7 agrees to release 100 million barrels to curb fuel prices",
@@ -347,27 +347,6 @@
         "source": "Directorio Cubano",
         "url": "https://www.directoriocubano.info/actualidad/siembra-arroz-guantanamo-534-hectareas/",
         "published_date": "2026-09-25 17:09:33",
-        "category": "Energy"
-    },
-    {
-        "title": "'Hotel Nacional': a film from Cuba, Spain and Brazil where the \"context speaks for itself\"",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cultura/hotel-nacional-filme-cuba-espana_1_1131182.html",
-        "published_date": "2026-09-25 15:01:41",
-        "category": "Energy"
-    },
-    {
-        "title": "Uni\u00f3n El\u00e9ctrica foresees the impact of 1,990 MW during peak hours this Friday",
-        "source": "5 Septiembre",
-        "url": "https://www.5septiembre.cu/union-electrica-preve-afectacion-de-1990-mw-durante-el-horario-pico-de-este-viernes/",
-        "published_date": "2026-09-25 13:55:45",
-        "category": "Energy"
-    },
-    {
-        "title": "Etecsa plans energy transition program with emphasis on photovoltaic solar energy",
-        "source": "Adelante",
-        "url": "https://www.adelante.cu/index.php/es/noticias/noticias-de-cuba/33184-etecsa-planifica-programa-de-transicion-energetica-con-enfasis-en-energia-solar-fotovoltaica",
-        "published_date": "2026-09-25 10:48:34",
         "category": "Energy"
     },
     {
@@ -511,143 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "Deportations in the United States: Homan anticipates more activity in 2027",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/inmigracion/deportaciones-estados-unidos-homan-2027/",
-        "published_date": "2026-10-02 23:56:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuba creates a light gastronomy network with fixed and mobile stalls",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/economia/red-gastronomia-ligera-cuba/",
-        "published_date": "2026-10-02 23:37:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Foreign branches in Cuba will be able to import and sell wholesale",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/economia/sucursales-extranjeras-cuba-importacion-comercio-mayorista/",
-        "published_date": "2026-10-02 23:22:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "D\u00edaz-Canel recognizes a \u201cstrong challenge\u201d in Cuba and sends this message about what is coming",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/politica/diaz-canel-transformaciones-economicas-sociales/",
-        "published_date": "2026-10-02 22:49:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Rule at the Door, the Solution in the Trunk",
+        "title": "The Days Without Customers, the Days of Silence",
         "source": "Havana Times",
-        "url": "https://havanatimes.org/diaries/safie-m-gonzalez/the-rule-at-the-door-the-solution-in-the-trunk/",
-        "published_date": "2026-10-02 22:29:59",
+        "url": "https://havanatimes.org/diaries/erick-hernandez/the-days-without-customers-the-days-of-silence/",
+        "published_date": "2026-10-03 14:59:57",
         "category": "Local Events"
     },
     {
-        "title": "They arrest a Cuban with 997 cigars in La Jonquera, Spain",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/espana/cubano-puros-la-jonquera/",
-        "published_date": "2026-10-02 21:44:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "'IN DEPTH', solo exhibition by Juan Miguel Pozo at El Apartamento",
+        "title": "Cuba continues to have 2.7 million people affected by the lack of water for four months",
         "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/in-depth-muestra-individual-juan_1_1131472.html",
-        "published_date": "2026-10-02 21:41:18",
+        "url": "https://www.14ymedio.com/cuba/cuba-sigue-2-7-millones_1_1131485.html",
+        "published_date": "2026-10-03 14:47:03",
         "category": "Local Events"
     },
     {
-        "title": "'The Dog in the Manger' arrives in Miami in a version by Norge Espinosa and Carlos D\u00edaz",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/perro-hortelano-llega-miami-version_1_1131470.html",
-        "published_date": "2026-10-02 21:18:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States opens a portal to report visa fraud",
+        "title": "Bread in Las Tunas: queues, resellers and limits to pay digitally",
         "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/portal-denunciar-fraudes-visados-estados-unidos/",
-        "published_date": "2026-10-02 21:09:15",
+        "url": "https://www.directoriocubano.info/las-tunas/pan-las-tunas-colas-compra-digital/",
+        "published_date": "2026-10-03 14:46:57",
         "category": "Local Events"
     },
     {
-        "title": "Winter crocuses, Ontario, Canada \u2013 Photo of the Day",
-        "source": "Havana Times",
-        "url": "https://havanatimes.org/photo-of-the-day/winter-crocuses-ontario-canada-photo-of-the-day/",
-        "published_date": "2026-10-02 21:03:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man is arrested after climbing the steps of the Capitol in Havana with a sign asking for freedom",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cuba/hombre-detenido-subir-escalinata-capitolio_1_1131468.html",
-        "published_date": "2026-10-02 20:47:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge overturns ICE arrest policy in immigration courts",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/inmigracion/arrestos-ice-cortes-inmigracion-fallo/",
-        "published_date": "2026-10-02 20:30:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Stolen goods returned to the Villa Clara University of Medical Sciences",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/noticias/bienes-robados-universidad-medica-villa-clara/",
-        "published_date": "2026-10-02 20:09:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lack of water and food in poor condition: a South African student tells of the hardships suffered in Cuba",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/internacional/falta-agua-comida-mal-estudiante_1_1131464.html",
-        "published_date": "2026-10-02 20:01:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Water supply in Holgu\u00edn: electrical failures affect more than 80 thousand people",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/servicios/abasto-agua-holguin-afectaciones-electricas/",
-        "published_date": "2026-10-02 19:54:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reporting an accident in Florida: the damage limit rises to $2,000",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/florida/reportar-accidente-florida-limite-2000/",
-        "published_date": "2026-10-02 19:21:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "New ICE rules prohibit chasing vehicles that do not stop",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/usa/inmigracion/nuevas-reglas-ice-persecuciones-vehiculos/",
-        "published_date": "2026-10-02 18:46:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the best airline in the world in 2026, according to millions of travelers",
-        "source": "Directorio Cubano",
-        "url": "https://www.directoriocubano.info/actualidad/mejor-aerolinea-mundo-2026-singapore-airlines/",
-        "published_date": "2026-10-02 17:31:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presentation of the novel 'The Defamatory Machine'",
-        "source": "14ymedio",
-        "url": "https://www.14ymedio.com/cartelera/presentacion-novela-maquina-difamatoria_1_1131460.html",
-        "published_date": "2026-10-02 16:39:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cuban weightlifters seek to raise new goals",
+        "title": "FSM: United in action and struggle, we demand!",
         "source": "Trabajadores",
-        "url": "https://www.trabajadores.cu/20261002/parapesas-cubanas-buscan-levantar-nuevas-metas/",
-        "published_date": "2026-10-02 16:29:51",
+        "url": "https://www.trabajadores.cu/20261003/fsm-unidos-en-la-accion-y-la-lucha-exigimos/",
+        "published_date": "2026-10-03 14:15:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Las Tunas-Camag\u00fcey train is back: three days a week and a ticket of 600 pesos",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/camaguey/tren-las-tunas-camaguey-horarios-precio/",
+        "published_date": "2026-10-03 14:12:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Putin presents the recipe against the global abyss",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/putin-presenta-la-receta-contra-el-abismo-mundial/",
+        "published_date": "2026-10-03 14:05:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lula will close electoral campaign in Sao Paulo",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/lula-cerrara-campana-electoral-en-sao-paulo/",
+        "published_date": "2026-10-03 14:00:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Week of fury and fire: student protests affect more than 1,000 schools in France",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/semana-de-furia-y-fuego-protestas-estudiantiles-afectan-mas-de-1000-escuelas-en-francia/",
+        "published_date": "2026-10-03 13:55:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "They debate in Cienfuegos on electrical service and water supply",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/debaten-en-cienfuegos-sobre-servicio-electrico-y-de-abasto-de-agua/",
+        "published_date": "2026-10-03 13:46:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Government releases contracting for foreign businesses",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/gobierno-libera-contratacion-negocios-extranjeros_1_1131482.html",
+        "published_date": "2026-10-03 13:46:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medicare plans for 2027: you can now compare before enrollment",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/planes-medicare-2027-comparar-inscripcion/",
+        "published_date": "2026-10-03 13:44:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blackouts in Cuba: UNE predicts an impact of 2,030 MW during peak hours",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/noticias/apagones-cuba-3-octubre-2026/",
+        "published_date": "2026-10-03 13:21:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "D\u00edaz-Balart assures that the Cuban regime will fall before Trump leaves",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/diaz-balart-fin-gobierno-cubano-trump/",
+        "published_date": "2026-10-03 13:16:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba is advancing in the creation of a light gastronomy network: What does the new resolution establish?",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-avanza-en-la-creacion-de-una-red-de-gastronomia-ligera-que-establece-la-nueva-resolucion/",
+        "published_date": "2026-10-03 13:04:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The man who protested with a banner at the Havana Capitol is transferred to Villa Marista",
+        "source": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/trasladan-villa-marista-hombre-protesto_1_1131478.html",
+        "published_date": "2026-10-03 13:02:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cuba will open the 65th National Baseball Series next Sunday",
+        "source": "5 Septiembre",
+        "url": "https://www.5septiembre.cu/cuba-abrira-el-proximo-domingo-la-65-serie-nacional-de-beisbol/",
+        "published_date": "2026-10-03 13:00:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Taxes in the United States: October 15 is the deadline to file with the IRS",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/prorroga-impuestos-irs-octubre-2026/",
+        "published_date": "2026-10-03 12:47:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "From block, sand, commitment\u2026 to National Featured",
+        "source": "Trabajadores",
+        "url": "https://www.trabajadores.cu/20261003/de-bloque-arena-empeno-a-destacado-nacional/",
+        "published_date": "2026-10-03 11:58:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Food prices in Cuba: a bag of rice for 950 pesos and meat for more than 3,000",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/cuba/precios-alimentos-cuba-arroz-carne/",
+        "published_date": "2026-10-03 11:42:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "23 years in the United States and is detained by ICE again after achieving his release before a judge",
+        "source": "Directorio Cubano",
+        "url": "https://www.directoriocubano.info/estados-unidos/cubano-detenido-ice-liberacion-judicial/",
+        "published_date": "2026-10-03 11:14:57",
         "category": "Local Events"
     }
 ]
